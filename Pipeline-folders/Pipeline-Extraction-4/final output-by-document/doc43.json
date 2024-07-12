@@ -1,0 +1,288 @@
+{
+    "Bertram": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Bertram",
+            "start_char": 147,
+            "end_char": 162,
+            "label": "Charles Bertram",
+            "description": null,
+            "wikidata_id": "Q5075584",
+            "occupation": "writer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Bertram",
+            "also_known_as": [
+                "Charles Julius Bertram"
+            ]
+        }
+    },
+    "William Stukeley": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": true
+            },
+            {
+                "feature": "historical context",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Richard of Cirencester"
+        ],
+        "opinion_document_date": [
+            "late 14th century"
+        ],
+        "opinion_document_location": [
+            "Westminster Abbey"
+        ],
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "William Stukeley",
+            "start_char": 626,
+            "end_char": 642,
+            "label": "William Stukeley",
+            "description": "English antiquarian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Stukeley",
+            "wikidata_id": "Q1381018",
+            "also_known_as": [
+                "Rev. William Stukeley"
+            ],
+            "occupation": "anthropologist, archaeologist, prehistorian, physician",
+            "country of citizenship": "Kingdom of Great Britain, Kingdom of England",
+            "date of birth": "+1687-11-07T00:00:00Z",
+            "date of death": "+1765-03-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Hodgson": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "John Hodgson",
+            "start_char": 1010,
+            "end_char": 1022,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Karl Wex": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Karl Wex",
+            "start_char": 1024,
+            "end_char": 1032,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "B. B. Woodward": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "B. B. Woodward",
+            "start_char": 1034,
+            "end_char": 1048,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "J.E.B. Mayor": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Charles Bertram"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "J.E.B. Mayor",
+            "start_char": 5848,
+            "end_char": 5860,
+            "label": "John E. B. Mayor",
+            "description": "British classical scholar (1825-1910)",
+            "wikidata_id": "Q55982",
+            "occupation": "classical scholar",
+            "instance_of": "human",
+            "date of birth": "+1825-01-28T00:00:00Z",
+            "date of death": "+1910-12-01T00:00:00Z",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J.E.B. Mayor"
+        }
+    },
+    "Major-General William Roy": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Major-General William Roy",
+            "start_char": 2899,
+            "end_char": 2924,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "William Forbes Skene": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "William Forbes Skene",
+            "start_char": 3361,
+            "end_char": 3381,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Barry Cunliffe": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Barry Cunliffe",
+            "start_char": 3846,
+            "end_char": 3860,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Friedrich Carl Wex": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Friedrich Carl Wex",
+            "start_char": 4421,
+            "end_char": 4439,
+            "label": "Friedrich Karl Wex",
+            "description": "German classical philologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Friedrich Carl Wex",
+            "wikidata_id": "Q1347567",
+            "occupation": "classical philologist",
+            "country of citizenship": "Germany",
+            "date of birth": "+1801-08-27T00:00:00Z",
+            "date of death": "+1865-08-08T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Wex"
+        }
+    }
+}

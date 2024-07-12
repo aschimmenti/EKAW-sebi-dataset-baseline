@@ -1,0 +1,295 @@
+{
+    "Daniel Pipes": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Daniel Pipes",
+            "start_char": 3060,
+            "end_char": 3072,
+            "label": "Daniel Pipes",
+            "description": "American historian, writer, journalist and political scientist (born 1949)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Daniel Pipes",
+            "wikidata_id": "Q369283",
+            "occupation": "journalist, writer, historian, university teacher, political scientist",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1949-09-09T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Pipes"
+        }
+    },
+    "Umberto Eco": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Umberto Eco",
+            "start_char": 3907,
+            "end_char": 3918,
+            "label": "Umberto Eco",
+            "description": "Italian semiotician, essayist, philosopher, literary critic, and novelist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Umberto Eco",
+            "wikidata_id": "Q12807",
+            "also_known_as": [
+                "Umberto Ecco",
+                "Umberto Eccounstino",
+                "Humberto Eco",
+                "Dedalus",
+                "Umberto Eko",
+                "Oumperto Eko",
+                "Eco Umberto",
+                "U. Eco"
+            ],
+            "occupation": "philosopher, novelist, essayist, pedagogue, screenwriter, translator, university teacher, semiotician, writer, literary critic, medievalist, literary scholar, historian",
+            "country of citizenship": "Italy, Kingdom of Italy",
+            "date of birth": "+1932-01-05T00:00:00Z",
+            "date of death": "+2016-02-19T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Philip Graves": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Philip Graves",
+            "start_char": 4859,
+            "end_char": 4872,
+            "label": "Philip Graves",
+            "description": "Irish journalist (1876-1953)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Philip Graves",
+            "wikidata_id": "Q2086191",
+            "also_known_as": [
+                "Philip Perceval Graves",
+                "Philip Percival Graves"
+            ],
+            "occupation": "journalist, entomologist, lepidopterist",
+            "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland, Republic of Ireland",
+            "date of birth": "+1876-02-25T00:00:00Z",
+            "date of death": "+1953-06-03T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Graves"
+        }
+    },
+    "Peter Grose": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Peter Grose",
+            "start_char": 4960,
+            "end_char": 4971,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Allen Dulles": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Allen Dulles",
+            "start_char": 4973,
+            "end_char": 4985,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Vladimir Burtsev": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Vladimir Burtsev",
+            "start_char": 6337,
+            "end_char": 6353,
+            "label": "Vladimir Burtsev",
+            "description": "Russian revolutionary activist (1862-1942)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Vladimir Burtsev",
+            "wikidata_id": "Q1888703",
+            "also_known_as": [
+                "Vladimir Lvovich Burtsev"
+            ],
+            "occupation": "journalist, writer, politician, opinion journalist, publisher, revolutionary",
+            "country of citizenship": "Russian Empire",
+            "date of birth": "+1862-11-17T00:00:00Z",
+            "date of death": "+1942-08-21T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Nora Levin": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Nora Levin",
+            "start_char": 8841,
+            "end_char": 8851,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Giovanni Preziosi": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Giovanni Preziosi",
+            "start_char": 9436,
+            "end_char": 9453,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Julius Evola": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Julius Evola",
+            "start_char": 9769,
+            "end_char": 9781,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Ali Gomaa": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Ali Gomaa",
+            "start_char": 11431,
+            "end_char": 11440,
+            "label": "Ali Gomaa",
+            "description": "Egyptian imam",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ali Gomaa",
+            "wikidata_id": "Q957704",
+            "occupation": "writer, mufti",
+            "country of citizenship": "Egypt",
+            "date of birth": "+1952-03-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

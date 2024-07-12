@@ -1,0 +1,355 @@
+{
+    "Georg Zappert": {
+        "Georg Zappert": [
+            {
+                "claim": "The discovery of an Old High German lullaby (Althochdeutsches Schlummerlied) was announced in 1859 by Georg Zappert (1806–1859) of Vienna, a private scholar and collector of medieval literature.",
+                "bibliography": []
+            },
+            {
+                "claim": "Johann Kelle (1860) had scathing criticism for Zappert's analysis, disagreeing with literally every one of Zappert's conclusions and emendations, but did not question the authenticity of the document.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "Jacob Grimm in Berliner Sitzungsberichte, 1859, 254—58 refers to Zappert's publication as an independent attestation of the name Zanfana, apparently without doubting its authenticity.",
+                "bibliography": []
+            },
+            {
+                "claim": "Since Zappert had died in 1859, he could not defend his position.",
+                "bibliography": []
+            },
+            {
+                "claim": "Howard (1976, p. 34) argues that the text presupposes some linguistic knowledge which could not have been available to Zappert at the time.",
+                "bibliography": [
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "According to Fichtenau (1970), Zappert is suspected of having produced other forgeries, too.",
+                "bibliography": [
+                    "[10]"
+                ]
+            },
+            {
+                "claim": "The text of one of them, an old map of Vienna, shows some striking paleographical similarities to the Old High German lullaby (Edwards 2002, p. 156).",
+                "bibliography": [
+                    "[11]"
+                ]
+            },
+            {
+                "claim": "According to Edwards (p. 160f.), F. Mairinger has investigated the ink of the lullaby and the Hebrew line and concluded that unlike the remaining Hebrew words, they were not executed 'in the typical medieval \"Eisengallentinte\" with soot admixture'.",
+                "bibliography": [
+                    "[12]"
+                ]
+            },
+            {
+                "claim": "It is known that the unusual link between Germanic and Hebrew culture manifested by the writing on this piece of parchment was a topic 'dear to Zappert's heart' (Edwards 2002, p. 160), being of Jewish origin himself, and this could have provided a motive for a forgery.",
+                "bibliography": [
+                    "[13]"
+                ]
+            },
+            {
+                "claim": "The information given about heathen gods in the lullaby curiously matches some passages in J. Grimm's book Deutsche Mythologie (first published in 1835), where Grimm lamented a lack of sources.",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Georg Zappert",
+            "start_char": 102,
+            "end_char": 115,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Johann Kelle": {
+        "Johann Kelle": [
+            {
+                "claim": "Johann Kelle (1860) had scathing criticism for Zappert's analysis, disagreeing with literally every one of Zappert's conclusions and emendations, but did not question the authenticity of the document.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Johann Kelle",
+            "start_char": 555,
+            "end_char": 567,
+            "label": "Johann von Kellerer",
+            "description": "German philologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Johann Kelle",
+            "wikidata_id": "Q6216334",
+            "also_known_as": [
+                "Johann Nepomuk Kelle"
+            ],
+            "occupation": "botanist",
+            "country of citizenship": "Germany",
+            "date of birth": "+1828-03-15T00:00:00Z",
+            "date of death": "+1909-01-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Jacob Grimm": {
+        "Jacob Grimm": [
+            {
+                "claim": "Jacob Grimm in Berliner Sitzungsberichte, 1859, 254—58 refers to Zappert's publication as an independent attestation of the name Zanfana, apparently without doubting its authenticity.",
+                "bibliography": []
+            },
+            {
+                "claim": "Edwards (2002, p. 150) [2] claims that J. Grimm intended to publish a defence of the lullaby, and “stood out from the beginning because of his enthusiastic advocacy of the lullaby”.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "The information given about heathen gods in the lullaby curiously matches some passages in J. Grimm's book Deutsche Mythologie (first published in 1835), where Grimm lamented a lack of sources. This suggests that “Zappert looked for holes in Grimm's Deutsche Mythologie, and sought to plug them.” (Edwards 2002, p. 157) [14].",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Jacob Grimm",
+            "start_char": 760,
+            "end_char": 771,
+            "label": "Jacob Grimm",
+            "description": "German philologist, linguist, jurist and mythologist (1785-1863)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Jacob Grimm",
+            "wikidata_id": "Q6701",
+            "also_known_as": [
+                "Jacob Ludwig Karl Grimm",
+                "Giacomo Grimm",
+                "Jakob Ludwig Karl Grimm",
+                "Jacob, Freiherr von Grimm",
+                "Jacob Ludwig Carl Grimm",
+                "Jacob Ludwig Grimm"
+            ],
+            "occupation": "jurist, lexicographer, anthropologist, linguist, philologist, mythologist, librarian, translator, law librarian, children's writer, university teacher, literary scholar, legal historian, secretary of legation, poet lawyer, mythographer, writer, politician, collector of fairy tales, historian",
+            "country of citizenship": "Electorate of Hesse, Kingdom of Prussia",
+            "date of birth": "+1785-01-04T00:00:00Z",
+            "date of death": "+1863-09-20T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "J. Grimm"
+        }
+    },
+    "Edwards": {
+        "Cyril Edwards": [
+            {
+                "claim": "In fact, Edwards (2002, p. 150) claims that J. Grimm intended to publish a defence of the lullaby, and 'stood out from the beginning because of his enthusiastic advocacy of the lullaby'.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Edwards (2002, p. 158) states that from six essays which appeared on the topic of the lullaby during the 20th century, three consider it a forgery, while three declare it as genuine.",
+                "bibliography": [
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "Edwards himself (p. 161) concludes that the evidence adduced in his essay against the authenticity of the lullaby 'points more than one finger of suspicion, but falls short of certainty'.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "According to Edwards (p. 160f.), F. Mairinger has investigated the ink of the lullaby and the Hebrew line and concluded that unlike the remaining Hebrew words, they were not executed 'in the typical medieval 'Eisengallentinte' with soot admixture'. This points to a forgery.",
+                "bibliography": [
+                    "[12]"
+                ]
+            },
+            {
+                "claim": "The text of one of them, an old map of Vienna, shows some striking paleographical similarities to the Old High German lullaby (Edwards 2002, p. 156).",
+                "bibliography": [
+                    "[11]"
+                ]
+            },
+            {
+                "claim": "It is known that the unusual link between Germanic and Hebrew culture manifested by the writing on this piece of parchment was a topic 'dear to Zappert's heart' (Edwards 2002, p. 160), being of Jewish origin himself, and this could have provided a motive for a forgery.",
+                "bibliography": [
+                    "[13]"
+                ]
+            },
+            {
+                "claim": "This suggests that 'Zappert looked for holes in Grimm's Deutsche Mythologie, and sought to plug them.' (Edwards 2002, p. 157).",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Edwards",
+            "start_char": 953,
+            "end_char": 960,
+            "label": "Cyril Edwards",
+            "description": "British medievalist and translator (1947-2019)",
+            "wikidata_id": "Q6701",
+            "also_known_as": [
+                "Cyril W. Edwards",
+                "Cyril Edwards"
+            ],
+            "occupation": "Germanist",
+            "country of citizenship": "Electorate of Hesse, Kingdom of Prussia",
+            "date of birth": "+1785-01-04T00:00:00Z",
+            "date of death": "+1863-09-20T00:00:00Z",
+            "instance_of": "human",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Edwards"
+        }
+    },
+    "Grohmann": {
+        "Grohmann": [
+            {
+                "claim": "But Grohmann (1861) in a 46-page essay examines the poem in detail and concludes that it is clearly a falsification.",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Kletke (1867) still considers the text genuine, but the mainstream opinion in the late 19th century and until today remains Grohmann's.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Grohmann",
+            "start_char": 1141,
+            "end_char": 1149,
+            "label": "Josef Virgil Grohmann",
+            "description": "Czech member of Czech council, educator and writer (1831-1919)",
+            "wikidata_id": "Q14923863",
+            "occupation": "pedagogue, writer, politician",
+            "date of birth": "+1831-12-12T00:00:00Z",
+            "date of death": "+1919-10-12T00:00:00Z",
+            "instance_of": "human",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Grohmann"
+        }
+    },
+    "Kletke": {
+        "Kletke": [
+            {
+                "claim": "Kletke (1867) still considers the text genuine, but the mainstream opinion in the late 19th century and until today remains Grohmann's.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Kletke",
+            "start_char": 1326,
+            "end_char": 1332,
+            "label": "Cäsar Albano Kletke",
+            "description": "German educationist",
+            "wikidata_id": "Q1149994",
+            "occupation": "pedagogue, high school teacher",
+            "date of birth": "+1805-11-28T00:00:00Z",
+            "date of death": "+1893-04-05T00:00:00Z",
+            "instance_of": "human",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kletke"
+        }
+    },
+    "Fichtenau": {
+        "Fichtenau": [
+            {
+                "claim": "Fichtenau (1970) again concludes that without a doubt, the poem is a falsification.",
+                "bibliography": []
+            },
+            {
+                "claim": "According to Fichtenau (1970), Zappert is suspected of having produced other forgeries, too.",
+                "bibliography": [
+                    "[10]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Fichtenau",
+            "start_char": 1601,
+            "end_char": 1610,
+            "label": "Heinrich Fichtenau",
+            "description": "German educationist",
+            "wikidata_id": "Q86883",
+            "also_known_as": [
+                "Heinrich Ritter von Fichtenau",
+                "Heinrich von Fichtenau"
+            ],
+            "occupation": "medievalist, historian, university teacher",
+            "date of birth": "+1912-12-10T00:00:00Z",
+            "date of death": "+2000-06-12T00:00:00Z",
+            "instance_of": "human",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Fichtenau"
+        }
+    },
+    "Howard": {
+        "Howard": [
+            {
+                "claim": "Howard (1976, p. 34) argues that the text presupposes some linguistic knowledge which could not have been available to Zappert at the time.",
+                "bibliography": [
+                    "[6]",
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "He specifically mentions the spelling of the sound e in uuerit with the Hebrew Zeire, which represents a closed /e/-sound.",
+                "bibliography": [
+                    "[6]",
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "According to Howard, scholars at the time regarded the /e/-sound from i-mutation as open, and a forger would therefore have chosen the Hebrew Segol instead of Zeire.",
+                "bibliography": [
+                    "[6]",
+                    "[9]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Howard",
+            "start_char": 2108,
+            "end_char": 2114,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "F. Mairinger": {
+        "F. Mairinger": [
+            {
+                "claim": "F. Mairinger has investigated the ink of the lullaby and the Hebrew line and concluded that unlike the remaining Hebrew words, they were not executed 'in the typical medieval 'Eisengallentinte' with soot admixture'.",
+                "bibliography": [
+                    "[12]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "F. Mairinger",
+            "start_char": 2872,
+            "end_char": 2884,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "F. Mairinger"
+        }
+    }
+}

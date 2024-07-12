@@ -1,0 +1,67 @@
+{
+    "Amado Crowley": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            },
+            {
+                "feature": "document provenance",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Amado Crowley",
+            "start_char": 0,
+            "end_char": 13,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gerald Suster": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "completeness": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Gerald Suster",
+            "start_char": 1468,
+            "end_char": 1481,
+            "label": "Gerald Suster",
+            "description": "British writer (1951-2001)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Gerald Suster",
+            "wikidata_id": "Q5549612",
+            "occupation": "historian",
+            "date of birth": "+1951-08-02T00:00:00Z",
+            "date of death": "+2001-02-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

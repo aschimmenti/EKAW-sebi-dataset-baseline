@@ -1,0 +1,86 @@
+{
+    "Artūras Dubonis": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "authorship",
+                "reliability": false,
+                "consistency": false
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false,
+                "consistency": false
+            },
+            {
+                "feature": "chronology and dating",
+                "consistency": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "between 1833 and 1842"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ]
+    },
+    "Johann Rivius": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Augustinus Rotundus": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Johann Friedrich von Recke": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Karl Eduard von Napiersky": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Friedrich Konrad Gadebusch": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "Lorenzo Valla": {
+        "Lorenzo Valla": [
+            {
+                "claim": "Scholars such as Lorenzo Valla found that the writing style matched neither Seneca nor Paul, and the letters were denounced by Erasmus.",
+                "bibliography": [
+                    "[20]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Lorenzo Valla",
+            "start_char": 855,
+            "end_char": 868,
+            "label": "Lorenzo Valla",
+            "description": "Italian Renaissance humanist (c. 1407–1457)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Lorenzo Valla",
+            "wikidata_id": "Q214115",
+            "also_known_as": [
+                "Laurence Valla"
+            ],
+            "occupation": "writer, philologist, university teacher, philosopher, Latin Catholic priest",
+            "date of birth": "+1407-01-01T00:00:00Z",
+            "date of death": "+1457-08-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "J. B. Lightfoot": {
+        "J. B. Lightfoot": [
+            {
+                "claim": "J. B. Lightfoot wrote that it was likely \"either to recommend Seneca to Christian readers or to recommend Christianity to students of Seneca,\"",
+                "bibliography": [
+                    "[5]",
+                    "[14]"
+                ]
+            },
+            {
+                "claim": "J. B. Lightfoot was caustic about the overall worth of the correspondence, criticizing \"the poverty of thought and style, the errors in chronology and history, and the whole conception of the relative positions of the Stoic philosopher and the Christian Apostle\" which \"betray clearly the hand of a forger.\"",
+                "bibliography": [
+                    "[24]"
+                ]
+            },
+            {
+                "claim": "Thus, independently of the unbroken silence of three centuries and a half about this correspondence, internal evidence alone is sufficient to condemn them hopelessly.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "As they are now universally allowed to be spurious, it will be unnecessary to state at length the grounds of their condemnation. It is sufficient to say that the letters are inane and unworthy throughout; that the style of either correspondent is unlike his genuine writings; that the relations between the two, as there represented, are highly improbable; and lastly, that the chronological notices (which however are absent in some important [manuscripts]) are wrong in almost every instance.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "J. B. Lightfoot",
+            "start_char": 2410,
+            "end_char": 2425,
+            "label": "J. B. Lightfoot",
+            "description": "British bishop and scholar of early Christianity",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J. B. Lightfoot",
+            "wikidata_id": "Q1706574",
+            "also_known_as": [
+                "Joseph Barber Lightfoot",
+                "Joseph Lightfoot"
+            ],
+            "occupation": "priest, theologian, university teacher, translator",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1828-04-13T00:00:00Z",
+            "date of death": "+1889-12-21T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Adolf von Harnack": {
+        "Adolf von Harnack": [
+            {
+                "claim": "J. B. Lightfoot wrote that it was likely 'either to recommend Seneca to Christian readers or to recommend Christianity to students of Seneca,' a position that Adolf von Harnack agreed with.",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Adolf von Harnack",
+            "start_char": 2572,
+            "end_char": 2589,
+            "label": "Adolf von Harnack",
+            "description": "Baltic German theologian and prominent church historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Adolf von Harnack",
+            "wikidata_id": "Q164699",
+            "also_known_as": [
+                "Karl Gustav Adolf Harnack",
+                "Adolf Harnack"
+            ],
+            "occupation": "theologian, librarian, church historian, university teacher, writer, historian of religion",
+            "country of citizenship": "Germany",
+            "date of birth": "+1851-05-07T00:00:00Z",
+            "date of death": "+1930-06-10T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Claude Barlow": {
+        "Claude Barlow": [
+            {
+                "claim": "Claude Barlow thought that the writings might have been a rhetorical exercise; essentially, a fictional essay by a novice writer practicing their craft that escaped to readers who did not realize its origins.",
+                "bibliography": [
+                    "[22]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Claude Barlow",
+            "start_char": 2607,
+            "end_char": 2620,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "J. K. Elliott": {
+        "J. K. Elliott": [
+            {
+                "claim": "J. K. Elliott wrote that it was \"to show the superiority of Christianity over pagan philosophy.\"",
+                "bibliography": [
+                    "[10]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "J. K. Elliott",
+            "start_char": 2820,
+            "end_char": 2833,
+            "label": "Keith Elliott",
+            "description": "English scholar of the New Testament and early Christian apocrypha",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J. K. Elliott",
+            "wikidata_id": "Q88771133",
+            "also_known_as": [
+                "Elliott, James Keith",
+                "Elliott, Keith",
+                "J. K. Elliott",
+                "James Keith Elliott"
+            ],
+            "occupation": "theologian, university teacher",
+            "date of birth": "+1943-03-19T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Bart Ehrman": {
+        "Bart Ehrman": [
+            {
+                "claim": "Bart Ehrman suggests that the creation of the letters may have been part of early Christian apologia.",
+                "bibliography": []
+            },
+            {
+                "claim": "In this theory, a Roman pagan polemic against Christianity was the claim that Paul was not particularly significant in his era.",
+                "bibliography": []
+            },
+            {
+                "claim": "The forger accepted the somewhat elitist terms of this argument – that only 'great' people deserve to be listened to – and responded by having the greatest philosopher of Paul's day endorse and praise Paul, so mere flattery was enough to serve the purpose of the apologist.",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Bart Ehrman",
+            "start_char": 2923,
+            "end_char": 2934,
+            "label": "Bart D. Ehrman",
+            "description": "American biblical scholar (born 1955)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Bart Ehrman",
+            "wikidata_id": "Q127876",
+            "also_known_as": [
+                "Bart Denton Ehrman",
+                "Bart Ehrman",
+                "Dr. Bart Ehrman"
+            ],
+            "occupation": "philologist, university teacher, writer, theologian",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1955-10-05T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Philip Schaff": {
+        "Philip Schaff": [
+            {
+                "claim": "Philip Schaff in his History of the Christian Church said that \"They are very poor in thought and style, full of errors of chronology and history, and undoubtedly a forgery.\"",
+                "bibliography": [
+                    "[23]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Philip Schaff",
+            "start_char": 3746,
+            "end_char": 3759,
+            "label": "Philip Schaff",
+            "description": "Swiss-born, American theologian and ecclesiastical historian (1819–1893)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Philip Schaff",
+            "wikidata_id": "Q115922",
+            "occupation": "church historian, translator, theologian, university teacher, writer, Bible translator, historian",
+            "country of citizenship": "Switzerland, United States of America",
+            "date of birth": "+1819-01-01T00:00:00Z",
+            "date of death": "+1893-10-20T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Marta Sordi": {
+        "Marta Sordi": [
+            {
+                "claim": "According to the Italian historian Marta Sordi, it is probable that Seneca had a personal knowledge of St Paul, taking into account that: contacts between Paul and the gens Annaea are documented since the first century; when Paul arrived in Rome between 56 and 58, Seneca was the most powerful man after Nero; Paul had friends among the praetorians, including Afranius Burrus, himself a friend of Seneca; Seneca's brother had intervened on Paul's behalf.",
+                "bibliography": [
+                    "[25]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Marta Sordi",
+            "start_char": 5027,
+            "end_char": 5038,
+            "label": "Marta Sordi",
+            "description": "Italian historian of classical antiquity",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Marta Sordi",
+            "wikidata_id": "Q3849965",
+            "occupation": "historian, university teacher",
+            "country of citizenship": "Italy, Kingdom of Italy",
+            "date of birth": "+1925-11-18T00:00:00Z",
+            "date of death": "+2009-04-05T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "Jacob Ilive": {
+        "Jacob Ilive": [
+            {
+                "claim": "The Book of Jasher, also called Pseudo-Jasher, is an eighteenth-century literary forgery by Jacob Ilive.",
+                "bibliography": []
+            },
+            {
+                "claim": "The printer Jacob Ilive was sentenced in 1756 to three years' imprisonment with hard labour in the House of Correction at Clerkenwell, for writing, printing, and publishing the anonymous pamphlet Some Remarks on the excellent Discourses lately published by a very worthy Prelate by a Searcher after Religious Truth (1754).",
+                "bibliography": []
+            },
+            {
+                "claim": "Ilive remained in gaol until 1758, spending time writing.",
+                "bibliography": [
+                    "[3]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Jacob Ilive",
+            "start_char": 92,
+            "end_char": 103,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Monthly Review": {
+        "Monthly Review": [
+            {
+                "claim": "The supposed lost book was declared an obvious hoax by the Monthly Review in the December of the year of publication.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Monthly Review",
+            "start_char": 1392,
+            "end_char": 1406,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Rosicrucians in San Jose,": {
+        "Rosicrucians in San Jose,": [
+            {
+                "claim": "Photographic reproduction of this 1829 edition was published in 1934 by the Rosicrucians in San Jose, California, who declared it an inspired work.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Rosicrucians in San Jose,",
+            "start_char": 2164,
+            "end_char": 2189,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

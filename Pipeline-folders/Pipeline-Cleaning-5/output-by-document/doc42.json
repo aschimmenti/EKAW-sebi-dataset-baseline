@@ -1,0 +1,131 @@
+{
+    "Walter Hooper": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Walter Hooper",
+            "start_char": 324,
+            "end_char": 337,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kathryn Lindskoog": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "metre and style",
+                "consistency": false
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            },
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Walter Hooper"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Kathryn Lindskoog",
+            "start_char": 477,
+            "end_char": 494,
+            "label": "Kathryn Lindskoog",
+            "description": "American literary critic, Christian writer, creator of adapted or abridged children's literature (1934-2003)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kathryn Ann Lindskoog",
+            "wikidata_id": "Q6377083",
+            "also_known_as": [
+                "Kathryn Ann Lindskoog",
+                "Kay Lindskoog",
+                "Kathryn A. Lindskoog",
+                "Kathryn Ann Stillwell"
+            ],
+            "occupation": "writer, literary critic, journalist",
+            "instance_of": "human"
+        }
+    },
+    "Margaret Wheatfield": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Margaret Wheatfield",
+            "start_char": 1933,
+            "end_char": 1952,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Margaret Wheatfield"
+        }
+    },
+    "Alastair Fowler": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Alastair Fowler",
+            "start_char": 2641,
+            "end_char": 2656,
+            "label": "Alastair Fowler",
+            "description": "British literary critic",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Alastair Fowler",
+            "wikidata_id": "Q14948933",
+            "also_known_as": [
+                "Alastair David Shaw Fowler"
+            ],
+            "occupation": "literary critic",
+            "country of citizenship": "",
+            "date of birth": "+1930-00-00T00:00:00Z",
+            "date of death": "+2022-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

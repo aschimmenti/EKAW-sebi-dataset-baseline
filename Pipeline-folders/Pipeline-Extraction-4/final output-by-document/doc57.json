@@ -1,0 +1,1017 @@
+{
+    "Dr. Kelly": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            },
+            {
+                "feature": "chronology and dating",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Dr. Kelly",
+            "start_char": 46,
+            "end_char": 55,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "McCormick": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "completeness": false,
+                "consistency": false
+            },
+            {
+                "feature": "historical context",
+                "consistency": false
+            },
+            {
+                "feature": "document provenance",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "McCormick",
+            "start_char": 275,
+            "end_char": 284,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "P. S. O'Hegarty": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "P. S. O'Hegarty",
+            "start_char": 7048,
+            "end_char": 7063,
+            "label": "P. S. O'Hegarty",
+            "description": "Irish writer, historian and activist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "P. S. O'Hegarty",
+            "wikidata_id": "Q7117511",
+            "also_known_as": [
+                "Patrick Sarsfield O'Hegarty",
+                "Pádraig Sáirséal Ó hÉigeartaigh"
+            ],
+            "occupation": "historian, writer, civil servant",
+            "country of citizenship": "Republic of Ireland",
+            "date of birth": "+1879-12-29T00:00:00Z",
+            "date of death": "+1955-12-17T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Curtis": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            },
+            {
+                "feature": "original document",
+                "presence": false
+            },
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Curtis",
+            "start_char": 2159,
+            "end_char": 2165,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Cardinal Gasquet": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "document provenance",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "1170"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis",
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Cardinal Gasquet",
+            "start_char": 2177,
+            "end_char": 2193,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Father Burke": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Father Burke",
+            "start_char": 3919,
+            "end_char": 3931,
+            "label": "Father Burke",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Father Burke",
+            "wikidata_id": "Q95896080",
+            "instance_of": "human"
+        }
+    },
+    "Herbert Paul": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Herbert Paul",
+            "start_char": 6560,
+            "end_char": 6572,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "John Lingard": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "John Lingard",
+            "start_char": 6994,
+            "end_char": 7006,
+            "label": "John Lingard",
+            "description": "English historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Lingard",
+            "wikidata_id": "Q5959147",
+            "occupation": "historian",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1771-02-05T00:00:00Z",
+            "date of death": "+1851-07-17T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Lanigan": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "John Lanigan",
+            "start_char": 7008,
+            "end_char": 7020,
+            "label": "John Lanigan",
+            "description": "Irish historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Lanigan",
+            "wikidata_id": "Q1587220",
+            "occupation": "historian",
+            "country of citizenship": "Republic of Ireland",
+            "date of birth": "+1758-01-01T00:00:00Z",
+            "date of death": "+1825-07-08T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Stephen J. McCormick": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": true,
+                "consistency": true
+            },
+            {
+                "feature": "historical context",
+                "consistency": true
+            },
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Stephen J. McCormick",
+            "start_char": 7022,
+            "end_char": 7042,
+            "label": "S. J. McCormick",
+            "description": "American publisher, politician",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Stephen J. McCormick",
+            "wikidata_id": "Q7387544",
+            "also_known_as": [
+                "Stephen J. McCormick",
+                "Stephen James McCormick"
+            ],
+            "occupation": "politician, printer, publisher, journalist, editor",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1829-12-26T00:00:00Z",
+            "date of death": "+1891-08-12T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "McCormick"
+        }
+    },
+    "Michael Richter": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Michael Richter",
+            "start_char": 7422,
+            "end_char": 7437,
+            "label": "Michael Richter",
+            "description": "researcher (ORCID 0000-0003-1868-9005)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Michael Richter",
+            "wikidata_id": "Q79561480",
+            "occupation": "researcher",
+            "instance_of": "human"
+        }
+    },
+    "Arthur Ua Clerigh": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": true
+            },
+            {
+                "feature": "content",
+                "veridicality": true
+            },
+            {
+                "feature": "original document",
+                "presence": true
+            },
+            {
+                "feature": "language",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Aedh McCrimthainn"
+        ],
+        "opinion_document_date": [
+            "1156",
+            "during the lifetime of Diarmaid MacMurchada"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Arthur Ua Clerigh",
+            "start_char": 13,
+            "end_char": 30,
+            "label": "Arthur Ua Clerigh",
+            "description": "Irish barrister and historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Arthur Ua Clerigh",
+            "wikidata_id": "Q16943898",
+            "also_known_as": [
+                "Arthur Patrick O'Clery",
+                "Art Ua Cléirigh"
+            ],
+            "occupation": "barrister, historian",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1841-00-00T00:00:00Z",
+            "date of death": "+1915-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "J. R. S. Phillips": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            },
+            {
+                "feature": "historical context",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "J. R. S. Phillips",
+            "start_char": 8647,
+            "end_char": 8664,
+            "label": "J. R. S. Phillips",
+            "description": "British historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J. R. S. Phillips",
+            "wikidata_id": "Q6106875",
+            "also_known_as": [
+                "John Roland Seymour Phillips"
+            ],
+            "occupation": "historian",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1940-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Goddard Henry Orpen": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Goddard Henry Orpen",
+            "start_char": 8980,
+            "end_char": 8999,
+            "label": "Goddard Henry Orpen",
+            "description": "Irish historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Goddard Henry Orpen",
+            "wikidata_id": "Q3427366",
+            "also_known_as": [
+                "Goddard H. Orpen",
+                "G. H. Orpen",
+                "Goddard Orpen"
+            ],
+            "occupation": "medieval historian, castellologist, barrister",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland, Irish Free State",
+            "date of birth": "+1852-05-08T00:00:00Z",
+            "date of death": "+1932-05-15T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Lynch": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "John Lynch",
+            "start_char": 9104,
+            "end_char": 9114,
+            "label": "John Lynch",
+            "description": "Irish Roman Catholic priest and historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Lynch",
+            "wikidata_id": "Q6245602",
+            "occupation": "author, poet",
+            "country of citizenship": "United Kingdom, Republic of Ireland",
+            "date of birth": "+1961-12-26T00:00:00Z",
+            "also_known_as": [
+                "Gratianus Lucius"
+            ],
+            "instance_of": "human"
+        }
+    },
+    "Abbé Mac Geoghegan": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Abbé Mac Geoghegan",
+            "start_char": 9142,
+            "end_char": 9160,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Francis Aidan Gasquet": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            },
+            {
+                "feature": "historical context",
+                "reliability": false
+            },
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Francis Aidan Gasquet",
+            "start_char": 9162,
+            "end_char": 9183,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Burke": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "historical context",
+                "consistency": false
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "1159",
+            "1166"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Burke",
+            "start_char": 9484,
+            "end_char": 9504,
+            "label": "Thomas Nicholas Burke",
+            "description": "Irish Dominican",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Thomas N. Burke",
+            "wikidata_id": "Q7792734",
+            "also_known_as": [
+                "Thomas N. Burke"
+            ],
+            "occupation": "Catholic priest",
+            "date of birth": "+1830-09-08T00:00:00Z",
+            "date of death": "+1882-07-02T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Thomas N. Burke"
+        }
+    },
+    "Patrick Francis Moran": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false,
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Patrick Francis Moran",
+            "start_char": 1960,
+            "end_char": 1976,
+            "label": "Patrick Francis Moran",
+            "description": "Catholic cardinal",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Patrick Francis Moran",
+            "wikidata_id": "Q2588733",
+            "occupation": "Catholic priest, Catholic bishop",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1830-12-16T00:00:00Z",
+            "date of death": "+1911-08-16T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Patrick F. Moran"
+        }
+    },
+    "Professor Anne Duggan": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "original document",
+                "presence": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Professor Anne Duggan",
+            "start_char": 10023,
+            "end_char": 10044,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Paul Scheffer-Boichorst": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Paul Scheffer-Boichorst",
+            "start_char": 185,
+            "end_char": 208,
+            "label": "Paul Scheffer-Boichorst",
+            "description": "German medievalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Paul Scheffer-Boichorst",
+            "wikidata_id": "Q97545",
+            "occupation": "medievalist, university teacher",
+            "country of citizenship": "Kingdom of Prussia",
+            "date of birth": "+1843-05-25T00:00:00Z",
+            "date of death": "+1902-01-17T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Felix": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Felix",
+            "start_char": 302,
+            "end_char": 307,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Anne Duggan": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": true,
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": [
+            "political gain"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Anne Duggan",
+            "start_char": 476,
+            "end_char": 487,
+            "label": "Anne Duggan",
+            "description": "Peerage person ID=412054",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Anne Duggan",
+            "wikidata_id": "Q75933422",
+            "instance_of": "human"
+        }
+    },
+    "Ginnell": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "around 1180"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Ginnell",
+            "start_char": 1087,
+            "end_char": 1094,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Caesar Baronius": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Caesar Baronius",
+            "start_char": 1723,
+            "end_char": 1738,
+            "label": "Caesar Baronius",
+            "description": "Italian cardinal and ecclesiastical historian (1538–1607)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Caesar Baronius",
+            "wikidata_id": "Q317900",
+            "also_known_as": [
+                "Cesare Baronio",
+                "Cardinal Cesare Baronio",
+                "Cesare, Cardinal Baronio"
+            ],
+            "occupation": "librarian, church historian, historian, writer, Catholic priest, Catholic deacon, Catholic bishop",
+            "date of birth": "+1538-01-01T00:00:00Z",
+            "date of death": "+1607-06-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Mackie": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Mackie",
+            "start_char": 2381,
+            "end_char": 2387,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gerald of Wales": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "original document",
+                "presence": true
+            },
+            {
+                "feature": "language",
+                "reliability": true
+            },
+            {
+                "feature": "historical context",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Gerald of Wales",
+            "start_char": 2543,
+            "end_char": 2558,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Domnall mac Brian Ó Néill": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "completeness": true,
+                "consistency": true
+            },
+            {
+                "feature": "content",
+                "consistency": true,
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Domnall mac Brian Ó Néill",
+            "start_char": 7173,
+            "end_char": 7198,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Tír Eógain": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false,
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Tír Eógain",
+            "start_char": 7203,
+            "end_char": 7213,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Henry VIII of England": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Henry VIII of England",
+            "start_char": 8753,
+            "end_char": 8774,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Pope Paul III": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Pope Paul III",
+            "start_char": 8797,
+            "end_char": 8810,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Pope Paul IV": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Pope Paul IV",
+            "start_char": 9234,
+            "end_char": 9246,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

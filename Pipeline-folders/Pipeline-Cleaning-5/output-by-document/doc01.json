@@ -1,0 +1,245 @@
+{
+    "Franciscus Quaresmius": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Franciscus Quaresmius",
+            "start_char": 621,
+            "end_char": 642,
+            "label": "Franciscus Quaresmius",
+            "description": "Italian orientalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Franciscus Quaresmius",
+            "wikidata_id": "Q351779",
+            "also_known_as": [
+                "Francesco Quaresmio"
+            ],
+            "occupation": "religious figure",
+            "date of birth": "+1583-04-04T00:00:00Z",
+            "date of death": "+1650-10-25T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Balthasar de Monconys": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Balthasar de Monconys",
+            "start_char": 644,
+            "end_char": 665,
+            "label": "Balthasar de Monconys",
+            "description": "French diplomat",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Balthasar de Monconys",
+            "wikidata_id": "Q2262911",
+            "occupation": "diplomat",
+            "country of citizenship": "France",
+            "date of birth": "+1611-01-01T00:00:00Z",
+            "date of death": "+1665-04-28T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Kara Mustafa Pasha": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Kara Mustafa Pasha",
+            "start_char": 671,
+            "end_char": 683,
+            "label": "Kara Mustafa Pasha",
+            "description": "Ottoman military leader and grand vizier (1634-1683)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kara Mustafa Pasha",
+            "wikidata_id": "Q334140",
+            "also_known_as": [
+                "Merzifonlu Kara Mustafa Paşa",
+                "Paşa Kara Mustafa"
+            ],
+            "occupation": "military personnel, politician, military leader",
+            "country of citizenship": "Ottoman Empire",
+            "date of birth": "+1634-01-01T00:00:00Z",
+            "date of death": "+1683-12-25T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Andrew Morrow": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            },
+            {
+                "feature": "document provenance",
+                "reliability": true,
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "John Andrew Morrow",
+            "start_char": 697,
+            "end_char": 715,
+            "label": "John Andrew Morrow",
+            "description": "Canadian Islamic studies scholar",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Andrew Morrow",
+            "wikidata_id": "Q113669159",
+            "also_known_as": [
+                "Morrow, J. A"
+            ],
+            "occupation": "Islamicist",
+            "country of citizenship": "Canada",
+            "date of birth": "+1971-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Bernhard Moritz": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "veridicality": false
+            },
+            {
+                "feature": "metre and style",
+                "veridicality": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Bernhard Moritz",
+            "start_char": 1382,
+            "end_char": 1397,
+            "label": "Bernhard Moritz",
+            "description": "German librarian (1859-1939)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Bernhard Moritz",
+            "wikidata_id": "Q106300",
+            "occupation": "librarian, university teacher, orientalist, arabist",
+            "country of citizenship": "German Reich, Germany",
+            "date of birth": "+1859-09-13T00:00:00Z",
+            "date of death": "+1939-09-22T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Amidu Sanni": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "completeness": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Amidu Sanni",
+            "start_char": 1579,
+            "end_char": 1590,
+            "label": "Amidu Olalekan Sanni",
+            "description": "Nigerian academic",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Amidu Sanni",
+            "wikidata_id": "Q105794029",
+            "also_known_as": [
+                "Amidu Sanni"
+            ],
+            "occupation": "academic, vice chancellor",
+            "country of citizenship": "Nigeria",
+            "instance_of": "human"
+        }
+    },
+    "Mubasher Hussain": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "sigillum or seal",
+                "veridicality": false
+            },
+            {
+                "feature": "language",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Mubasher Hussain",
+            "start_char": 1700,
+            "end_char": 1719,
+            "label": "Mubasher Hussain",
+            "description": "researcher (ORCID 0000-0003-0833-7399)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Mubasher Hussain",
+            "wikidata_id": "Q51144965",
+            "also_known_as": [
+                "Hussain, Mubasher"
+            ],
+            "occupation": "assistant professor",
+            "instance_of": "human"
+        }
+    }
+}

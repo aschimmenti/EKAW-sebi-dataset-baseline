@@ -1,0 +1,124 @@
+{
+    "Nicolò Zeno the Younger": {
+        "Nicolò Zeno the Younger": [
+            {
+                "claim": "They came to prominence in 1558, when their descendant, Nicolò Zeno the Younger, published a map and a series of letters purporting to describe an exploration made by the brothers of the north Atlantic and Arctic waters in the 1390s.",
+                "bibliography": []
+            },
+            {
+                "claim": "The younger Nicolò claimed the documents were discovered in a storeroom of his family home.",
+                "bibliography": []
+            },
+            {
+                "claim": "Modern historians and geographers have disputed the veracity of the map and the described voyages, with some accusing the younger Zeno of forgery.",
+                "bibliography": []
+            },
+            {
+                "claim": "According to the younger Zeno, the map and letters date from around the year 1400 and describe a long voyage made by the Zeno brothers in the 1390s under the direction of a prince named Zichmni.",
+                "bibliography": []
+            },
+            {
+                "claim": "The account of the voyages given by the younger Nicolò continues to attract debate.",
+                "bibliography": []
+            },
+            {
+                "claim": "Di Robilant disagrees, stating that the younger Nicolò was 'a first-class muddler, not a fablemonger', whose inaccuracy was the result of second-hand retelling that still contains much of the truth of his forebears' voyages.",
+                "bibliography": []
+            },
+            {
+                "claim": "Most historians regard the map and accompanying narrative as a hoax, perpetrated by the younger Zeno to make a retroactive claim for Venice as having discovered the New World before Christopher Columbus.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Nicolò Zeno the Younger",
+            "start_char": 215,
+            "end_char": 238,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gerardus Mercator": {
+        "Gerardus Mercator": [
+            {
+                "claim": "Widely accepted at the time of publication, the map was incorporated into the works of leading cartographers, including Gerardus Mercator.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Gerardus Mercator",
+            "start_char": 607,
+            "end_char": 624,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Andrea di Robilant": {
+        "Andrea di Robilant": [
+            {
+                "claim": "Andrea di Robilant suggests this interpretation is in error.",
+                "bibliography": []
+            },
+            {
+                "claim": "Di Robilant disagrees, stating that the younger Nicolò was 'a first-class muddler, not a fablemonger', whose inaccuracy was the result of second-hand retelling that still contains much of the truth of his forebears' voyages.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Andrea di Robilant",
+            "start_char": 2329,
+            "end_char": 2347,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "The Dictionary of Canadian Biography Online": {
+        "The Dictionary of Canadian Biography Online": [
+            {
+                "claim": "According to The Dictionary of Canadian Biography Online, 'the Zeno affair remains one of the most preposterous and at the same time one of the most successful fabrications in the history of exploration.'",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "The Dictionary of Canadian Biography Online",
+            "start_char": 2405,
+            "end_char": 2448,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Herbert Wrigley Wilson": {
+        "Herbert Wrigley Wilson": [
+            {
+                "claim": "Herbert Wrigley Wilson described and analysed the story at length in The Royal Navy, a History from the Earliest Times to the Present, and was sceptical about its veracity, noting 'At the date when the work was published Venice was extremely eager to claim for herself some share in the credit of Columbus's discoveries as against her old rival Genoa, from whom Columbus had sprung.'",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Herbert Wrigley Wilson",
+            "start_char": 2598,
+            "end_char": 2620,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Di Robilant": {
+        "Di Robilant": [
+            {
+                "claim": "Andrea di Robilant suggests this interpretation is in error.",
+                "bibliography": []
+            },
+            {
+                "claim": "Di Robilant disagrees, stating that the younger Nicolò was 'a first-class muddler, not a fablemonger', whose inaccuracy was the result of second-hand retelling that still contains much of the truth of his forebears' voyages.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Di Robilant",
+            "start_char": 2983,
+            "end_char": 2994,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

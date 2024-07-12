@@ -1,0 +1,506 @@
+{
+    "Hermann Dessau": {
+        "Hermann Dessau": [
+            {
+                "claim": "The true authorship of the work, its actual date, its reliability and its purpose have long been matters for controversy by historians and scholars ever since Hermann Dessau, in 1889, rejected both the date and the authorship as stated within the manuscript.",
+                "bibliography": []
+            },
+            {
+                "claim": "Then, in 1889, Hermann Dessau, who had become increasingly concerned by the large number of anachronistic terms, Vulgar Latin vocabulary, and especially the host of obviously false proper names in the work, proposed that the six authors were all fictitious personae, and that the work was in fact composed by a single author in the late 4th century, probably in the reign of Theodosius I.",
+                "bibliography": []
+            },
+            {
+                "claim": "In the 1960s and 1970s, Dessau's original arguments received powerful restatement and expansion from Sir Ronald Syme, who devoted three books to the subject and was prepared to date the writing of the work closely in the region of AD 395.",
+                "bibliography": []
+            },
+            {
+                "claim": "Not all scholars have accepted the theory of a forger working around the last decades of the 4th century or the beginning of the 5th. Arnaldo Momigliano and A. H. M. Jones were the most prominent 20th century critics of the Dessau-Syme theory amongst English-speaking scholars.",
+                "bibliography": []
+            },
+            {
+                "claim": "The theory that there was a single author, as initially postulated by Hermann Dessau, is based on the difficulties inherent in having a single work comprising a number of individuals but without any textual evidence of an editor who brought the material together.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Hermann Dessau",
+            "start_char": 940,
+            "end_char": 954,
+            "label": "Hermann Dessau",
+            "description": "German ancient historian and epigrapher (1856–1931)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Hermann Dessau",
+            "wikidata_id": "Q65239",
+            "occupation": "historian, epigrapher, archaeologist, anthropologist, university teacher, classical philologist",
+            "country of citizenship": "Germany",
+            "date of birth": "+1856-04-06T00:00:00Z",
+            "date of death": "+1931-04-12T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Theodor Mommsen": {
+        "Theodor Mommsen": [
+            {
+                "claim": "As early as 1890, Theodor Mommsen postulated a Theodosian 'editor' of the Scriptores' work, an idea that has resurfaced many times since.",
+                "bibliography": []
+            },
+            {
+                "claim": "The presence of a post-Constantinian editor, as originally postulated by Theodor Mommsen, still has notable support, most recently articulated by Daniel Den Hengst, who suggests that the editor was the author of the second half of the History, operating under the pseudonyms of Pollio and Vopiscus.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Theodor Mommsen",
+            "start_char": 3435,
+            "end_char": 3450,
+            "label": "Theodor Mommsen",
+            "description": "German classical scholar and historian (1817–1903)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Theodor Mommsen",
+            "wikidata_id": "Q25351",
+            "also_known_as": [
+                "Christian Matthias Theodor Mommsen",
+                "Christian Mommsen",
+                "T. Mommsen",
+                "Theodore Mommsen"
+            ],
+            "occupation": "historian of classical antiquity, numismatist, jurist, journalist, legal historian, writer, university teacher, politician, epigrapher, classical scholar, classical archaeologist, historian, Germanist",
+            "country of citizenship": "Kingdom of Prussia, Duchy of Schleswig",
+            "date of birth": "+1817-11-30T00:00:00Z",
+            "date of death": "+1903-11-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Hermann Peter": {
+        "Hermann Peter": [
+            {
+                "claim": "Hermann Peter, editor of the Historia Augusta and of the Historicorum Romanorum reliquiae, proposed a date of 330 for when the work was written, based upon an analysis of style and language.",
+                "bibliography": [
+                    "[25]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Hermann Peter",
+            "start_char": 3559,
+            "end_char": 3572,
+            "label": "Hermann Peter",
+            "description": "German classical philologist and teacher",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Hermann Peter",
+            "wikidata_id": "Q15453178",
+            "also_known_as": [
+                "Hermann Wilhelm Gottlob Peter"
+            ],
+            "occupation": "teacher, classical philologist",
+            "country of citizenship": "Germany, Kingdom of Saxony",
+            "date of birth": "+1837-09-07T00:00:00Z",
+            "date of death": "+1914-02-16T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Norman H. Baynes": {
+        "Norman H. Baynes": [
+            {
+                "claim": "Others, such as Norman H. Baynes, abandoned the early 4th-century date but only advanced it as far as the reign of Julian the Apostate, useful for arguing the work was intended as pagan propaganda.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Norman H. Baynes",
+            "start_char": 3770,
+            "end_char": 3786,
+            "label": "Norman H. Baynes",
+            "description": "British historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Norman H. Baynes",
+            "wikidata_id": "Q7052305",
+            "also_known_as": [
+                "Norman Hepburn Baynes"
+            ],
+            "occupation": "historian, university teacher",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1877-05-29T00:00:00Z",
+            "date of death": "+1961-02-12T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Ronald Syme": {
+        "Ronald Syme": [
+            {
+                "claim": "In the 1960s and 1970s, Dessau's original arguments received powerful restatement and expansion from Sir Ronald Syme, who devoted three books to the subject and was prepared to date the writing of the work closely in the region of AD 395.",
+                "bibliography": []
+            },
+            {
+                "claim": "Other recent studies also show much consistency of style, and most scholars now accept the theory of a single author of unknown identity, writing after 395.",
+                "bibliography": [
+                    "[27]",
+                    "[28]"
+                ]
+            },
+            {
+                "claim": "Momigliano reviewed every book published on the topic by Sir Ronald Syme, and provided counter arguments to most if not all of Syme's arguments.",
+                "bibliography": [
+                    "[32]",
+                    "[33]"
+                ]
+            },
+            {
+                "claim": "Anthony Birley, for instance, has argued that the lives up to Septimius Severus are based on the now-lost biographies of Marius Maximus, which were written as a sequel to Suetonius' Lives of the Twelve Caesars.",
+                "bibliography": [
+                    "[135]"
+                ]
+            },
+            {
+                "claim": "His view (part of a tradition that goes back to J. J. Müller, who advanced Marius' claims as early as 1870, and supported by modern scholars such as André Chastagnol) was vigorously contested by Ronald Syme, who theorized that virtually all the identifiable citations from Marius Maximus are essentially frivolous interpolations into the main narrative source, which he postulated was a different Latin author whom he styled 'Ignotus (\"the unknown one\"), the good biographer'.",
+                "bibliography": [
+                    "[136]",
+                    "[137]"
+                ]
+            },
+            {
+                "claim": "A similar theory to Syme's has been put forward by François Paschoud, who claimed that Maximus was probably a satirical poet, in the same vein as Juvenal and not an imperial biographer at all.",
+                "bibliography": [
+                    "[143]"
+                ]
+            },
+            {
+                "claim": "The Historia Augusta has been described by Ronald Syme as 'the most enigmatic work that Antiquity has transmitted.'",
+                "bibliography": [
+                    "[74]"
+                ]
+            },
+            {
+                "claim": "Although much of the focus of study throughout the centuries has been on the historical content, since the 20th century there has also been an assessment of the literary value of the work.",
+                "bibliography": [
+                    "[74]"
+                ]
+            },
+            {
+                "claim": "Although these criticisms still form the prevailing view on the History's literary worth, modern scholars such as Rohrbacher have begun to argue that, while it is poorly written and not a stylistic or polished work, its use of allusion as a vehicle for parodying popular late 4th century biographical and historiographical works means that the very features which were once a cause for intense criticism are actually an intentional and integral part of the work, making it one of the most unusual pieces of literature to emerge from the ancient world.",
+                "bibliography": [
+                    "[150]",
+                    "[151]",
+                    "[152]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Ronald Syme",
+            "start_char": 4803,
+            "end_char": 4814,
+            "label": "Ronald Syme",
+            "description": "New Zealand born British historian and classicist (1903-1989)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ronald Syme",
+            "wikidata_id": "Q707856",
+            "also_known_as": [
+                "Sir Ronald Syme",
+                "Ronald Saym"
+            ],
+            "occupation": "historian, university teacher, classical scholar, translator",
+            "country of citizenship": "United Kingdom, New Zealand",
+            "date of birth": "+1903-03-11T00:00:00Z",
+            "date of death": "+1989-09-04T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Syme"
+        }
+    },
+    "Arnaldo": {
+        "Arnaldo Momigliano": [
+            {
+                "claim": "Not all scholars have accepted the theory of a forger working around the last decades of the 4th century or the beginning of the 5th.",
+                "bibliography": []
+            },
+            {
+                "claim": "Arnaldo Momigliano and A. H. M. Jones were the most prominent 20th century critics of the Dessau-Syme theory amongst English-speaking scholars.",
+                "bibliography": []
+            },
+            {
+                "claim": "Momigliano, summarizing the literature from Dessau down to 1954, defined the question as 'res iudicanda' (i.e. 'a matter to be decided') and not as 'res iudicata' ('a matter that has been decided').",
+                "bibliography": []
+            },
+            {
+                "claim": "Momigliano reviewed every book published on the topic by Sir Ronald Syme, and provided counter arguments to most if not all of Syme's arguments.",
+                "bibliography": []
+            },
+            {
+                "claim": "For instance, the reference in the Life of Probus about the emperor's descendants which has been taken to refer to Sextus Claudius Petronius Probus (consul in 371) and his family may, in the opinion of Momigliano, equally refer to the earlier members of the family, which was prominent throughout the 4th century, such as Petronius Probinus (consul in 341) and Petronius Probianus (consul in 322).",
+                "bibliography": []
+            },
+            {
+                "claim": "Momigliano's opinion was that there was insufficient evidence to dismiss a composition date of the early 4th century, and that any post-Constantinian anachronisms could be explained by an editor working on the material at a later date, perhaps during the reigns of Constantius II or Julian.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Arnaldo",
+            "start_char": 4811,
+            "end_char": 4818,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "A. H. M.": {
+        "A. H. M.": [
+            {
+                "claim": "A. H. M. Jones were the most prominent 20th century critics of the Dessau-Syme theory amongst English-speaking scholars.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "A. H. M.",
+            "start_char": 4846,
+            "end_char": 4854,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "H Stern": {
+        "H Stern": [
+            {
+                "claim": "Other opinions included H Stern's, who postulated that the History was composed by a team of writers during the reign of Constantius II after the defeat of Magnentius on behalf of the senatorial aristocracy who had supported the usurper.",
+                "bibliography": [
+                    "[37]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "H Stern",
+            "start_char": 6046,
+            "end_char": 6053,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Alan Cameron": {
+        "Alan Cameron": [
+            {
+                "claim": "In the 21st century, Alan Cameron rebutted a number of Syme's and Barnes' arguments for a composition date c. 395–400, suggesting a composition date between 361 and the 380s.",
+                "bibliography": [
+                    "[38]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Alan Cameron",
+            "start_char": 6285,
+            "end_char": 6297,
+            "label": "Alan Cameron",
+            "description": "British classical scholar (1938–2017)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Alan Cameron",
+            "wikidata_id": "Q2623113",
+            "also_known_as": [
+                "Alan Douglas Edward Cameron",
+                "Alan D. E. Cameron"
+            ],
+            "occupation": "historian, classical philologist, mythographer, classical scholar, historian of classical antiquity, university teacher",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1938-03-13T00:00:00Z",
+            "date of death": "+2017-07-31T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Daniel Den Hengst": {
+        "Daniel Den Hengst": [
+            {
+                "claim": "The presence of a post-Constantinian editor, as originally postulated by Theodor Mommsen, still has notable support, most recently articulated by Daniel Den Hengst, who suggests that the editor was the author of the second half of the History, operating under the pseudonyms of Pollio and Vopiscus.",
+                "bibliography": []
+            },
+            {
+                "claim": "Further, that this editor not only wrote the secondary lives in the first half, but he was responsible for the insertions into the primary lives in that series.",
+                "bibliography": []
+            },
+            {
+                "claim": "Daniel Den Hengst takes the view that the vast stylistic differences between the two halves of the History means they cannot have been written by the same author.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Daniel Den Hengst",
+            "start_char": 9583,
+            "end_char": 9600,
+            "label": "Daniël den Hengst",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Daniel Den Hengst",
+            "wikidata_id": "Q41267221",
+            "also_known_as": [
+                "Daan den Hengst"
+            ],
+            "occupation": "painter, drawer, pastellist",
+            "country of citizenship": "Kingdom of the Netherlands",
+            "date of birth": "+1909-04-15T00:00:00Z",
+            "date of death": "+1992-07-15T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Edward Gibbon": {
+        "Edward Gibbon": [
+            {
+                "claim": "In 1776, Gibbon observed that there was something wrong with the numbers and names of the imperial biographers, and that this had already been recognised by older historians who had written on that subject.",
+                "bibliography": [
+                    "[note1][18][19]"
+                ]
+            },
+            {
+                "claim": "For instance, in Gibbon's account of the reign of Gallienus, he uncritically reproduces the Historia Augusta's biased and largely fictional account of that reign.",
+                "bibliography": [
+                    "[75]"
+                ]
+            },
+            {
+                "claim": "So when Gibbon states 'The repeated intelligence of invasions, defeats, and rebellions, he received with a careless smile; and singling out, with affected contempt, some particular production of the lost province, he carelessly asked, whether Rome must be ruined, unless it was supplied with linen from Egypt, and arras cloth from Gaul', he is reworking the passage in The Two Gallieni.",
+                "bibliography": [
+                    "[76]"
+                ]
+            },
+            {
+                "claim": "Gibbon then noted after this passage: 'This singular character has, I believe, been fairly transmitted to us. The reign of his immediate successor was short and busy; and the historians who wrote before the elevation of the family of Constantine could not have the most remote interest to misrepresent the character of Gallienus.'",
+                "bibliography": [
+                    "[78]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Edward Gibbon",
+            "start_char": 16686,
+            "end_char": 16699,
+            "label": "Edward Gibbon",
+            "description": "English historian and politician (1737–1794)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Edward Gibbon",
+            "wikidata_id": "Q161841",
+            "occupation": "historian, politician, classical scholar, writer",
+            "country of citizenship": "Kingdom of Great Britain",
+            "date of birth": "+1737-04-27T00:00:00Z",
+            "date of death": "+1794-01-16T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Gibbon"
+        }
+    },
+    "Anthony Birley": {
+        "Anthony Birley": [
+            {
+                "claim": "Anthony Birley, for instance, has argued that the lives up to Septimius Severus are based on the now-lost biographies of Marius Maximus, which were written as a sequel to Suetonius' Lives of the Twelve Caesars.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Anthony Birley",
+            "start_char": 4124,
+            "end_char": 4138,
+            "label": "Anthony Birley",
+            "description": "British archaeologist (1937–2020)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Anthony Birley",
+            "wikidata_id": "Q573849",
+            "also_known_as": [
+                "Anthony Richard Birley",
+                "Anthony R. Birley"
+            ],
+            "occupation": "anthropologist, classical archaeologist, university teacher",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1937-10-08T00:00:00Z",
+            "date of death": "+2020-12-19T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "François Paschoud": {
+        "François Paschoud": [
+            {
+                "claim": "A similar theory to Syme's has been put forward by François Paschoud, who claimed that Maximus was probably a satirical poet, in the same vein as Juvenal and not an imperial biographer at all.",
+                "bibliography": []
+            },
+            {
+                "claim": "His argument rests on the point that, outside of the mentions in the History, the only extant referencing of Marius' work is always in the context of Juvenal, and that the History's description of him as a historian cannot be taken at face value, given how it invents or distorts so many other citations.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "François Paschoud",
+            "start_char": 6088,
+            "end_char": 6105,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "David Magie": {
+        "David Magie": [
+            {
+                "claim": "The Historia Augusta has been described by Ronald Syme as 'the most enigmatic work that Antiquity has transmitted'. Although much of the focus of study throughout the centuries has been on the historical content, since the 20th century there has also been an assessment of the literary value of the work. For much of that time the assessment has been critical, as demonstrated by the analysis put forward by David Magie: The literary, as well as the historical, value of the Historia Augusta has suffered greatly as a result of the method of its composition.",
+                "bibliography": []
+            },
+            {
+                "claim": "Finally, the later addition of lengthy passages and brief notes, frequently in paragraphs with the general content of which they have no connexion, has put the crowning touch to the awkwardness and incoherence of the whole, with the result that the oft-repeated charge seems almost justified, that these biographies are little more than literary monstrosities.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "David Magie",
+            "start_char": 7065,
+            "end_char": 7076,
+            "label": "David Magie",
+            "description": "American ancient historian (1877-1960)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "David Magie",
+            "wikidata_id": "Q21524527",
+            "occupation": "classical scholar, university teacher, historian, translator",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1877-01-20T00:00:00Z",
+            "date of death": "+1960-04-22T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "M. L. W. Laistner": {
+        "M. L. W. Laistner": [
+            {
+                "claim": "\"M. L. W. Laistner was of the opinion that 'even if the Historia Augusta was propaganda disguised as biography, it is still a wretched piece of literature',\"",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "M. L. W. Laistner",
+            "start_char": 8158,
+            "end_char": 8175,
+            "label": "Max L. W. Laistner",
+            "description": "British medievalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "M. L. W. Laistner",
+            "wikidata_id": "Q1912918",
+            "also_known_as": [
+                "Max Laistner",
+                "Max Ludwig Wolfram Laistner",
+                "M. L. W. Laistner"
+            ],
+            "occupation": "medievalist, university teacher, historian of classical antiquity",
+            "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1890-10-10T00:00:00Z",
+            "date of death": "+1959-12-10T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

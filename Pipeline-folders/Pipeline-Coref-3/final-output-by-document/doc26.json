@@ -1,0 +1,17 @@
+{
+    "Ernst Edler von der Planitz": {
+        "Ernst Edler von der Planitz": [
+            {
+                "claim": "The Letter of Benan was a literary forgery issued by Ernst Edler von der Planitz in 1910, allegedly a translation from a fifth-century Coptic papyrus containing a translation of an original composed in Greek in 83 CE.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Ernst Edler von der Planitz",
+            "start_char": 53,
+            "end_char": 80,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

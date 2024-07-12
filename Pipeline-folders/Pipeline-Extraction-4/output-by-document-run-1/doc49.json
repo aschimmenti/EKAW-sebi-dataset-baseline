@@ -1,0 +1,99 @@
+{
+    "Norman Cohn": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "archive",
+                "reliability": false
+            },
+            {
+                "feature": "paleographic skills",
+                "reliability": false
+            },
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "anachronisms",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Étienne-Léon de Lamothe-Langon"
+        ],
+        "opinion_document_date": [
+            "early 1970s"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis",
+            "Paleographic analysis"
+        ],
+        "entity_info": {
+            "text": "Norman Cohn",
+            "start_char": 1028,
+            "end_char": 1039,
+            "label": "Norman Cohn",
+            "description": "British historian (1915–2007)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Norman Cohn",
+            "wikidata_id": "Q1405916",
+            "also_known_as": [
+                "Norman Rufus Colin Cohn"
+            ],
+            "occupation": "historian, screenwriter, anthropologist, sociologist",
+            "instance_of": "human"
+        }
+    },
+    "Richard Kieckhefer": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false
+            },
+            {
+                "feature": "paleographic skills",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Richard Kieckhefer",
+            "start_char": 1044,
+            "end_char": 1062,
+            "label": "Richard Kieckhefer",
+            "description": "American writer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Richard Kieckhefer",
+            "wikidata_id": "Q19864435",
+            "also_known_as": [
+                "Richard Alan Kieckhefer"
+            ],
+            "occupation": "writer, historian of religion, university teacher",
+            "instance_of": "human"
+        }
+    }
+}

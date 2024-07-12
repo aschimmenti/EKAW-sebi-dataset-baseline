@@ -1,0 +1,117 @@
+{
+    "Robert S. Nelson": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "illustration or other graphical device",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Robert S. Nelson",
+            "start_char": 1131,
+            "end_char": 1147,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Robert P. Casey": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": null,
+                "completeness": null,
+                "consistency": null,
+                "presence": null,
+                "veridicality": null
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Robert P. Casey",
+            "start_char": 1256,
+            "end_char": 1271,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Mary V. Orna": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "illustration or other graphical device",
+                "reliability": false
+            },
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Mary V. Orna",
+            "start_char": 1315,
+            "end_char": 1327,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Mary V. Orna"
+        }
+    },
+    "Stephen Carlson": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Stephen Carlson",
+            "start_char": 1777,
+            "end_char": 1792,
+            "label": "Stephen Carlson",
+            "description": "associate professor at Australian Catholic University",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Stephen Carlson",
+            "wikidata_id": "Q125913421",
+            "occupation": "teacher",
+            "country of citizenship": "",
+            "date of birth": "",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,353 @@
+{
+    "Kenneth W. Rendell": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "ink",
+                "reliability": true,
+                "consistency": true
+            },
+            {
+                "feature": "paper",
+                "reliability": true,
+                "consistency": true
+            },
+            {
+                "feature": "postmark",
+                "reliability": true,
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Kenneth W. Rendell",
+            "start_char": 694,
+            "end_char": 712,
+            "label": "Kenneth W. Rendell",
+            "description": "American businessman",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kenneth W. Rendell",
+            "wikidata_id": "Q6390785",
+            "occupation": "businessperson",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1943-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Jerald Tanner": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Mark Hofmann"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Jerald Tanner",
+            "start_char": 1917,
+            "end_char": 1930,
+            "label": "Jerald Tanner",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Jerald Tanner",
+            "wikidata_id": "Q40739905",
+            "also_known_as": [
+                "Jerald Dee Tanner"
+            ],
+            "country of citizenship": "United States of America",
+            "date of birth": "+1938-06-01T00:00:00Z",
+            "date of death": "+2006-10-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Jerald"
+        }
+    },
+    "John Tvedtnes": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": [
+            "business activity"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "John Tvedtnes",
+            "start_char": 2591,
+            "end_char": 2604,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "George Throckmorton": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "material support",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Mark Hofmann"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "George Throckmorton",
+            "start_char": 4313,
+            "end_char": 4332,
+            "label": "George Throckmorton",
+            "description": "English politician; (1489-1552)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Throckmorton",
+            "wikidata_id": "Q5545218",
+            "occupation": "politician",
+            "country of citizenship": "Kingdom of England",
+            "date of birth": "+1489-00-00T00:00:00Z",
+            "date of death": "+1552-08-06T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "William Flynn": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Mark Hofmann"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "William Flynn",
+            "start_char": 4363,
+            "end_char": 4376,
+            "label": "William F Flynn",
+            "description": "researcher",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Flynn",
+            "wikidata_id": "Q85544831",
+            "also_known_as": [
+                "William Flynn"
+            ],
+            "occupation": "researcher",
+            "instance_of": "human"
+        }
+    },
+    "Frances Magee": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Frances Magee",
+            "start_char": 4741,
+            "end_char": 4754,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gordon B. Hinckley": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Mark Hofmann"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Gordon B. Hinckley",
+            "start_char": 5142,
+            "end_char": 5160,
+            "label": "Gordon B. Hinckley",
+            "description": "President of The Church of Jesus Christ of Latter-day Saints (1910–2008)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Gordon B. Hinckley",
+            "wikidata_id": "Q553147",
+            "also_known_as": [
+                "Gordon Bitner Hinckley",
+                "Gordon Hinckley"
+            ],
+            "occupation": "hymnwriter, prophet",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1910-06-23T00:00:00Z",
+            "date of death": "+2008-01-27T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Dallin H. Oaks": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": [
+            "faith destruction claims",
+            "assertions and innuendo",
+            "alleged suppression of documents"
+        ],
+        "opinion_document_author": [
+            "Mark Hofmann"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Dallin H. Oaks",
+            "start_char": 5868,
+            "end_char": 5882,
+            "label": "Dallin H. Oaks",
+            "description": "Apostle of The Church of Jesus Christ of Latter-day Saints",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Dallin H. Oaks",
+            "wikidata_id": "Q3012489",
+            "also_known_as": [
+                "Dallin Harris Oaks"
+            ],
+            "occupation": "lawyer, university teacher, writer, judge, religious leader",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1932-08-12T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Grant H. Palmer": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Grant H. Palmer",
+            "start_char": 8315,
+            "end_char": 8330,
+            "label": "Grant H. Palmer",
+            "description": "American mormon leader",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Grant H. Palmer",
+            "wikidata_id": "Q5596239",
+            "also_known_as": [
+                "Grant Hart Palmer"
+            ],
+            "date of birth": "+1940-08-17T00:00:00Z",
+            "date of death": "+2017-09-25T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Palmer"
+        }
+    },
+    "Sandra Tanner": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Sandra Tanner",
+            "start_char": 8990,
+            "end_char": 9003,
+            "label": "Sandra Tanner",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Sandra Tanner",
+            "wikidata_id": "Q40739939",
+            "also_known_as": [
+                "Sandra McGee Tanner"
+            ],
+            "country of citizenship": "United States of America",
+            "date of birth": "+1941-01-14T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

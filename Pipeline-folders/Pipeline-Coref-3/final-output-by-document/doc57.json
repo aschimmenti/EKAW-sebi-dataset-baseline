@@ -1,0 +1,1044 @@
+{
+    "Dr. Kelly": {
+        "Dr. Kelly": [
+            {
+                "claim": "Even the learned editor of Cambrensis Eversus Dr. Kelly, while asserting the genuineness of Adrian's Bull, admits 'there is not any, even the slightest authority, for asserting that its existence was known in Ireland before the year 1172, or for three years later'.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Dr. Kelly",
+            "start_char": 46,
+            "end_char": 55,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "McCormick": {
+        "McCormick": [
+            {
+                "claim": "According to Stephen J. McCormick, the date that Metalogicus was written is fixed according to the author himself, pointing to the fact that John of Salisbury immediately before he tells us that the news of Pope Adrian's death had reached him his own patron, Theobald of Bec, Archbishop of Canterbury, though still living, was 'weighed down by many infirmities.'",
+                "bibliography": []
+            },
+            {
+                "claim": "If Adrian granted this Bull to Henry at the solicitation of John of Salisbury in 1155 there is but one explanation for the silence in Polycraticus, according to McCormick and that this secrecy was required by the English monarch.",
+                "bibliography": []
+            },
+            {
+                "claim": "For twenty years, according to McCormick, that is from 1155 to 1175, there was no mention of the gift of Adrian.",
+                "bibliography": []
+            },
+            {
+                "claim": "Henry did not refer to it when authorising his vassals to join Dermot MacMurrough in 1167, or when he himself set out for Ireland to receive the homage of the Irish princes and not even after he assumed his new title and accomplished the purpose of his expedition.",
+                "bibliography": []
+            },
+            {
+                "claim": "The Synod of Cashel in 1172, McCormick notes was the first Episcopal assembly after Henry's arrival in Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "The Papal Legate was present and had Adrian's Bull existed it should necessarily have engaged the attention of the assembled Fathers.",
+                "bibliography": []
+            },
+            {
+                "claim": "However, 'not a whisper' as to Adrian's grant he says was to be heard at that Council.",
+                "bibliography": []
+            },
+            {
+                "claim": "McCormick says that it is extremely difficult, in any hypothesis, to explain in a satisfactory way this silence, nor is it easy to understand how a fact so important to the interests of Ireland could remain so many years concealed, including from those in the Irish Church.",
+                "bibliography": []
+            },
+            {
+                "claim": "Throughout this period he says, Ireland numbered among its Bishops one who held the important office of Legate of the Holy See, and that the Church had had constant intercourse with England and the continent through St Laurence O'Toole and a hundred other distinguished Prelates, who enjoyed in the fullest manner the confidence of Rome.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "McCormick",
+            "start_char": 275,
+            "end_char": 284,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "P. S. O'Hegarty": {
+        "P. S. O'Hegarty": [
+            {
+                "claim": "That an actual bull was sent is not doubted by many and its authenticity has been questioned without success according to P. S. O'Hegarty who suggests that the question now is purely an academic one.",
+                "bibliography": []
+            },
+            {
+                "claim": "John Lingard, John Lanigan, Stephen J. McCormick, and P. S. O'Hegarty have defended the authenticity of the Laudabiliter, and English writers generally have accepted it as genuine.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "P. S. O'Hegarty",
+            "start_char": 7048,
+            "end_char": 7063,
+            "label": "P. S. O'Hegarty",
+            "description": "Irish writer, historian and activist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "P. S. O'Hegarty",
+            "wikidata_id": "Q7117511",
+            "also_known_as": [
+                "Patrick Sarsfield O'Hegarty",
+                "Pádraig Sáirséal Ó hÉigeartaigh"
+            ],
+            "occupation": "historian, writer, civil servant",
+            "country of citizenship": "Republic of Ireland",
+            "date of birth": "+1879-12-29T00:00:00Z",
+            "date of death": "+1955-12-17T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Curtis": {
+        "Curtis": [
+            {
+                "claim": "According to Curtis for the text of the Laudabiliter we only have Giraldus Cambrensis' Conquest of Ireland written around 1188, though in it his dating is not accurate, he says he must have had some such 'genuine document before him'.",
+                "bibliography": [
+                    "[1]",
+                    "[page needed]"
+                ]
+            },
+            {
+                "claim": "He suggests that better evidence for the grant of Ireland can be found in John of Salisbury's Metalogicus, written about 1159.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "According to Burke, in the year 1174 King Henry II produced Laudabiliter which he said he got from Pope Adrian IV, permitting him to go to Ireland. Curtis, however, while accepting that it is true that the Laudabiliter was not published by Henry when in Ireland, that can be explained by his being alienated from Rome over the murder of Thomas Becket, in addition to the Empress Matilda's having protested against this invasion of Ireland.",
+                "bibliography": [
+                    "[5]",
+                    "[37]"
+                ]
+            },
+            {
+                "claim": "On the conclusion of the Synod of Cashel according to Edmund Curtis, Henry sent envoys to Pope Alexander III asking for a papal privilege for Ireland.",
+                "bibliography": [
+                    "[41]"
+                ]
+            },
+            {
+                "claim": "According to Curtis, the Pope sent another privilege which was published by papal envoys after the Synod of Waterford, which he said conferred on Henry the dominion over the Irish people.",
+                "bibliography": [
+                    "[41]"
+                ]
+            },
+            {
+                "claim": "Whatever we may think of the so-called Bull of Adrian, says Curtis, there can be no doubt that the letters and privilege of Alexander conferred the lordship of Ireland upon Henry II.",
+                "bibliography": [
+                    "[41]"
+                ]
+            },
+            {
+                "claim": "However, Curtis in his History of Ireland suggests that Henry was at this time in May 1172 reconciled with the Papacy.",
+                "bibliography": [
+                    "[41]"
+                ]
+            },
+            {
+                "claim": "Curtis in his A History of Ireland from Earliest Times to 1922 states that there is no original or copy of Laudabiliter in the papal archives.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "According to Curtis, the Pope sent another privilege which was published by papal envoys after the Synod of Waterford, which he said conferred on Henry the dominion over the Irish people. Whatever we may think of the so-called Bull of Adrian, says Curtis, there can be no doubt that the letters and privilege of Alexander conferred the lordship of Ireland upon Henry II.",
+                "bibliography": [
+                    "[41]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Curtis",
+            "start_char": 2159,
+            "end_char": 2165,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Cardinal Gasquet": {
+        "Cardinal Gasquet": [
+            {
+                "claim": "Gasquet suggests that there is almost conclusively evidence, that while a request of the nature described by Salisbury was made about this time to the Pope, Salisbury was not the envoy sent to make it.",
+                "bibliography": []
+            },
+            {
+                "claim": "Giraldus first published Expugnatio Hibernica around the year 1188. According to Gasquet every subsequent English chronicler who mentions Laudabiliter has simply accepted it on Giraldus's authority.",
+                "bibliography": []
+            },
+            {
+                "claim": "On the letters of Alexander III, Cardinal Gasquet cites the editor of the Analecta who notes that they completely ignore the existence of Laudabiliter.",
+                "bibliography": []
+            },
+            {
+                "claim": "He suggested that they are attributed to the year 1170.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Cardinal Gasquet",
+            "start_char": 2177,
+            "end_char": 2193,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Father Burke": {
+        "Father Burke": [
+            {
+                "claim": "According to Burke, in the year 1174 King Henry II produced Laudabiliter which he said he got from Pope Adrian IV, permitting him to go to Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "The date, Burke writes, that was on Laudabiliter was 1154, therefore it was consequently twenty years old.",
+                "bibliography": []
+            },
+            {
+                "claim": "Citing Matthew of Westminster, Father Burke notes that \"Henry obliged every man in England, from the boy of twelve years up to the old man, to renounce their allegiance to the true Pope, and go over to an anti-Pope\"; and asks whether it was likely that Alexander would give Henry a letter to settle ecclesiastical matters in Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke, citing Alexander who wrote to Henry, notes that instead of referring to a document giving him permission to settle Church matters in Ireland Alexander said: Instead of remedying the disorders caused by your predecessors, you have oppressed the Church, and you have endeavored to destroy the canons of apostolic men.",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke notes that Alexander's letter carried the date 1172 and asked was is it likely that the Pope would have given a letter to Henry, asking him to take care of the Church and put everything in order?",
+                "bibliography": []
+            },
+            {
+                "claim": "Responding again to Froude, who then said that \"the Irish never loved the Pope till the Normans taught them,\" Father Burke notes that until \"the accursed Normans came to Ireland\", the Papal Legate could always come and go as he pleased and that no Irish king obstructed him and that no Irishman's hand was ever raised against a bishop, \"much less against the Papal Legate\".",
+                "bibliography": []
+            },
+            {
+                "claim": "However, of the very first Legate that came to Ireland after the Norman Invasion, Father Burke writes, in passing through England, Henry \"took him by the throat, and imposed upon him an oath that, when he went to Ireland, he would not do anything that would be against the interest of the King\".",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke says, until the Anglo-Normans brought with them \"their accursed feudal system, and concentration of power in the hands of the king\".",
+                "bibliography": []
+            },
+            {
+                "claim": "However, Father Burke said that he preferred to believe that it was a forgery.",
+                "bibliography": []
+            },
+            {
+                "claim": "Burke questions the date on Laudabiliter, in addition to the terms contained in it and how it was obtained, questioning also the date in which it was first produced by Henry and why.",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke then asks, \"is this the man that Alexander would send to Ireland to settle affairs, and make the Irish good children of the Pope?\"",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Father Burke",
+            "start_char": 3919,
+            "end_char": 3931,
+            "label": "Father Burke",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Father Burke",
+            "wikidata_id": "Q95896080",
+            "instance_of": "human"
+        }
+    },
+    "Herbert Paul": {
+        "Herbert Paul": [
+            {
+                "claim": "Herbert Paul says that James Anthony Froude also maintained that the existence of Laudabiliter was proved by this later letter.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Herbert Paul",
+            "start_char": 6560,
+            "end_char": 6572,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "John Lingard": {
+        "John Lingard": [
+            {
+                "claim": "John Lingard, John Lanigan, Stephen J. McCormick, and P. S. O'Hegarty have defended the authenticity of the Laudabiliter, and English writers generally have accepted it as genuine.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "John Lingard",
+            "start_char": 6994,
+            "end_char": 7006,
+            "label": "John Lingard",
+            "description": "English historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Lingard",
+            "wikidata_id": "Q5959147",
+            "occupation": "historian",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1771-02-05T00:00:00Z",
+            "date of death": "+1851-07-17T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Lanigan": {
+        "John Lanigan": [
+            {
+                "claim": "John Lanigan, Stephen J. McCormick, and P. S. O'Hegarty have defended the authenticity of the Laudabiliter, and English writers generally have accepted it as genuine.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "John Lanigan",
+            "start_char": 7008,
+            "end_char": 7020,
+            "label": "John Lanigan",
+            "description": "Irish historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Lanigan",
+            "wikidata_id": "Q1587220",
+            "occupation": "historian",
+            "country of citizenship": "Republic of Ireland",
+            "date of birth": "+1758-01-01T00:00:00Z",
+            "date of death": "+1825-07-08T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Stephen J. McCormick": {
+        "Stephen J. McCormick": [
+            {
+                "claim": "According to Stephen J. McCormick, the date that Metalogicus was written is fixed according to the author himself, pointing to the fact that John of Salisbury immediately before he tells us that the news of Pope Adrian's death had reached him his own patron, Theobald of Bec, Archbishop of Canterbury, though still living, was 'weighed down by many infirmities.'",
+                "bibliography": []
+            },
+            {
+                "claim": "If Adrian granted this Bull to Henry at the solicitation of John of Salisbury in 1155 there is but one explanation for the silence in Polycraticus, according to McCormick and that this secrecy was required by the English monarch.",
+                "bibliography": []
+            },
+            {
+                "claim": "For twenty years, according to McCormick, that is from 1155 to 1175, there was no mention of the gift of Adrian.",
+                "bibliography": []
+            },
+            {
+                "claim": "The Synod of Cashel in 1172, McCormick notes was the first Episcopal assembly after Henry's arrival in Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "McCormick says that it is extremely difficult, in any hypothesis, to explain in a satisfactory way this silence, nor is it easy to understand how a fact so important to the interests of Ireland could remain so many years concealed, including from those in the Irish Church.",
+                "bibliography": []
+            },
+            {
+                "claim": "Throughout this period he says, Ireland numbered among its Bishops one who held the important office of Legate of the Holy See, and that the Church had had constant intercourse with England and the continent through St Laurence O'Toole and a hundred other distinguished Prelates, who enjoyed in the fullest manner the confidence of Rome.",
+                "bibliography": []
+            },
+            {
+                "claim": "John Lingard, John Lanigan, Stephen J. McCormick, and P. S. O'Hegarty have defended the authenticity of the Laudabiliter, and English writers generally have accepted it as genuine.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Stephen J. McCormick",
+            "start_char": 7022,
+            "end_char": 7042,
+            "label": "S. J. McCormick",
+            "description": "American publisher, politician",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Stephen J. McCormick",
+            "wikidata_id": "Q7387544",
+            "also_known_as": [
+                "Stephen J. McCormick",
+                "Stephen James McCormick"
+            ],
+            "occupation": "politician, printer, publisher, journalist, editor",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1829-12-26T00:00:00Z",
+            "date of death": "+1891-08-12T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "McCormick"
+        }
+    },
+    "Michael Richter": {
+        "Michael Richter": [
+            {
+                "claim": "Michael Richter says that as no copy of the text survives, the issue becomes the credibility of those authors who recorded it on their works.",
+                "bibliography": [
+                    "[32]"
+                ]
+            },
+            {
+                "claim": "Michael Richter concludes the bull is authentic.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Michael Richter",
+            "start_char": 7422,
+            "end_char": 7437,
+            "label": "Michael Richter",
+            "description": "researcher (ORCID 0000-0003-1868-9005)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Michael Richter",
+            "wikidata_id": "Q79561480",
+            "occupation": "researcher",
+            "instance_of": "human"
+        }
+    },
+    "Arthur Ua Clerigh": {
+        "Arthur Ua Clerigh": [
+            {
+                "claim": "Ua Clerigh believes Laudabiliter was probably prepared in 1156, but not forwarded at that time because the offer of Adrian was not then acted on, though the investiture was accepted.",
+                "bibliography": [
+                    "[10]"
+                ]
+            },
+            {
+                "claim": "According to Arthur Ua Clerigh, the letter referred to was not Laudabiliter, but a formal letter of investiture, such as was used in the case of Robert Guiscard in Italy.",
+                "bibliography": [
+                    "[10]"
+                ]
+            },
+            {
+                "claim": "Arthur Ua Clerigh argues in favor of the bull based upon a text of Laudabiliter in the Book of Leinster.",
+                "bibliography": []
+            },
+            {
+                "claim": "According to Arthur Ua Clerigh, a text of Laudabiliter in the Book of Leinster has a prefix that reads: 'Ah! men of the faith of the world, how beautiful [so far Gaelic] when over the cold sea in ships Zephyrus wafts glad tidings' [Latin] a Bull granted to the King of the English on the collation, i.e. grant, of Hibernia, in which nothing is derogated from the rights of the Irish, as appears by the words of the text.",
+                "bibliography": []
+            },
+            {
+                "claim": "Ua Clerigh holds this was almost certainly written, and probably by his old tutor Aedh McCrimthainn, during the lifetime of Diarmaid MacMurchada, who was banished in 1157, and died in 1171.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Arthur Ua Clerigh",
+            "start_char": 13,
+            "end_char": 30,
+            "label": "Arthur Ua Clerigh",
+            "description": "Irish barrister and historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Arthur Ua Clerigh",
+            "wikidata_id": "Q16943898",
+            "also_known_as": [
+                "Arthur Patrick O'Clery",
+                "Art Ua Cléirigh"
+            ],
+            "occupation": "barrister, historian",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1841-00-00T00:00:00Z",
+            "date of death": "+1915-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "J. R. S. Phillips": {
+        "J. R. S. Phillips": [
+            {
+                "claim": "Writing about the 1317 Remonstrance (see below), the historian J. R. S. Phillips has said that \"it demonstrates that in the early fourteenth century Pope Adrian IV’s bull Laudabiliter, in which he had urged Henry II of England to conquer Ireland, was regarded even by enemies of the English as a key element in the English monarchy’s claims to the lordship of Ireland\".",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "J. R. S. Phillips",
+            "start_char": 8647,
+            "end_char": 8664,
+            "label": "J. R. S. Phillips",
+            "description": "British historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J. R. S. Phillips",
+            "wikidata_id": "Q6106875",
+            "also_known_as": [
+                "John Roland Seymour Phillips"
+            ],
+            "occupation": "historian",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1940-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Goddard Henry Orpen": {
+        "Goddard Henry Orpen": [
+            {
+                "claim": "Goddard Henry Orpen notes that as early as 1615 Laudabiliter was denounced as a forgery by Stephen White, to be followed by John Lynch in 1662 and later still by Abbé Mac Geoghegan.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Goddard Henry Orpen",
+            "start_char": 8980,
+            "end_char": 8999,
+            "label": "Goddard Henry Orpen",
+            "description": "Irish historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Goddard Henry Orpen",
+            "wikidata_id": "Q3427366",
+            "also_known_as": [
+                "Goddard H. Orpen",
+                "G. H. Orpen",
+                "Goddard Orpen"
+            ],
+            "occupation": "medieval historian, castellologist, barrister",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland, Irish Free State",
+            "date of birth": "+1852-05-08T00:00:00Z",
+            "date of death": "+1932-05-15T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Stephen White": {
+        "Stephen White": [],
+        "entity_info": {
+            "text": "Stephen White",
+            "start_char": 9071,
+            "end_char": 9084,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Stephen White",
+            "instance_of": "human"
+        }
+    },
+    "John Lynch": {
+        "John Lynch": [
+            {
+                "claim": "Goddard Henry Orpen notes that as early as 1615 Laudabiliter was denounced as a forgery by Stephen White, to be followed by John Lynch in 1662 and later still by Abbé Mac Geoghegan.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "John Lynch",
+            "start_char": 9104,
+            "end_char": 9114,
+            "label": "John Lynch",
+            "description": "Irish Roman Catholic priest and historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Lynch",
+            "wikidata_id": "Q6245602",
+            "occupation": "author, poet",
+            "country of citizenship": "United Kingdom, Republic of Ireland",
+            "date of birth": "+1961-12-26T00:00:00Z",
+            "also_known_as": [
+                "Gratianus Lucius"
+            ],
+            "instance_of": "human"
+        }
+    },
+    "Abbé Mac Geoghegan": {
+        "Abbé Mac Geoghegan": [
+            {
+                "claim": "Goddard Henry Orpen notes that as early as 1615 Laudabiliter was denounced as a forgery by Stephen White, to be followed by John Lynch in 1662 and later still by Abbé Mac Geoghegan.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Abbé Mac Geoghegan",
+            "start_char": 9142,
+            "end_char": 9160,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Francis Aidan Gasquet": {
+        "Francis Aidan Gasquet": [
+            {
+                "claim": "Gasquet suggests that there is almost conclusively evidence, that while a request of the nature described by Salisbury was made about this time to the Pope, Salisbury was not the envoy sent to make it.",
+                "bibliography": [
+                    "[24]"
+                ]
+            },
+            {
+                "claim": "According to Curtis, while accepting that it is true that the Laudabiliter was not published by Henry when in Ireland, that can be explained by his being alienated from Rome over the murder of Thomas Becket, in addition to the Empress Matilda's having protested against this invasion of Ireland.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "Salisbury finished his work called Polycraticus, written before Metalogicus he dedicated it to Thomas Becket, then Chancellor of England and later a saint, who at this time was with Henry at the siege of Toulouse.",
+                "bibliography": [
+                    "[25]"
+                ]
+            },
+            {
+                "claim": "However, John D. Hosler thinks 'It is clear that John of Salibury did indeed travel to Rome as part of Henry's first embassy to Pope Adrian.",
+                "bibliography": [
+                    "[21]"
+                ]
+            },
+            {
+                "claim": "John of Salisbury, he notes, claims in Metalogicus to have been the ambassador for Henry II and obtained Laudabiliter for him and gives the year 1155 as the date when it was granted.",
+                "bibliography": [
+                    "[7]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Francis Aidan Gasquet",
+            "start_char": 9162,
+            "end_char": 9183,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Burke": {
+        "Burke": [
+            {
+                "claim": "According to Burke, in the year 1174 King Henry II produced Laudabiliter which he said he got from Pope Adrian IV, permitting him to go to Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "The date, Burke writes, that was on Laudabiliter was 1154, therefore it was consequently twenty years old.",
+                "bibliography": []
+            },
+            {
+                "claim": "Citing Matthew of Westminster, Father Burke notes that 'Henry obliged every man in England, from the boy of twelve years up to the old man, to renounce their allegiance to the true Pope, and go over to an anti-Pope'; and asks whether it was likely that Alexander would give Henry a letter to settle ecclesiastical matters in Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke, citing Alexander who wrote to Henry, notes that instead of referring to a document giving him permission to settle Church matters in Ireland Alexander said: Instead of remedying the disorders caused by your predecessors, you have oppressed the Church, and you have endeavored to destroy the canons of apostolic men.",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke notes that Alexander's letter carried the date 1172 and asked was is it likely that the Pope would have given a letter to Henry, asking him to take care of the Church and put everything in order?",
+                "bibliography": []
+            },
+            {
+                "claim": "Burke points out that Adrian did not know Henry, but Alexander knew him well.",
+                "bibliography": []
+            },
+            {
+                "claim": "Burke says, Henry, he says, in 1159 supported the anti-Pope, Octavianus, against Alexander and opposed him again in 1166, this time supporting the anti-Pope Guido.",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke then asks, 'is this the man that Alexander would send to Ireland to settle affairs, and make the Irish good children of the Pope?'",
+                "bibliography": []
+            },
+            {
+                "claim": "Responding again to Froude, who then said that 'the Irish never loved the Pope till the Normans taught them,' Father Burke notes that until 'the accursed Normans came to Ireland', the Papal Legate could always come and go as he pleased and that no Irish king obstructed him and that no Irishman's hand was ever raised against a bishop, 'much less against the Papal Legate'.",
+                "bibliography": []
+            },
+            {
+                "claim": "However, of the very first Legate that came to Ireland after the Norman Invasion, Father Burke writes, in passing through England, Henry 'took him by the throat, and imposed upon him an oath that, when he went to Ireland, he would not do anything that would be against the interest of the King'.",
+                "bibliography": []
+            },
+            {
+                "claim": "It was unheard of that a bishop, archbishop, or cardinal should be persecuted, Burke says, until the Anglo-Normans brought with them 'their accursed feudal system, and concentration of power in the hands of the king'.",
+                "bibliography": []
+            },
+            {
+                "claim": "Father Burke said that he preferred to believe that it was a forgery.",
+                "bibliography": []
+            },
+            {
+                "claim": "Thomas N. Burke O.P., in his English Misrule in Ireland: A Course of Lectures in Reply to J. A Froude, puts forward a number of arguments against both the Bull of Adrian and the letters of his successor, Pope Alexander III.",
+                "bibliography": []
+            },
+            {
+                "claim": "Burke questions the date on Laudabiliter, in addition to the terms contained in it and how it was obtained, questioning also the date in which it was first produced by Henry and why.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Burke",
+            "start_char": 9484,
+            "end_char": 9504,
+            "label": "Thomas Nicholas Burke",
+            "description": "Irish Dominican",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Thomas N. Burke",
+            "wikidata_id": "Q7792734",
+            "also_known_as": [
+                "Thomas N. Burke"
+            ],
+            "occupation": "Catholic priest",
+            "date of birth": "+1830-09-08T00:00:00Z",
+            "date of death": "+1882-07-02T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Thomas N. Burke"
+        }
+    },
+    "Patrick Francis Moran": {
+        "Patrick Francis Moran": [
+            {
+                "claim": "Patrick Francis Moran also disputed the bull's authenticity in a November 1872 article in the Irish Ecclesiastical Record.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Patrick Francis Moran",
+            "start_char": 1960,
+            "end_char": 1976,
+            "label": "Patrick Francis Moran",
+            "description": "Catholic cardinal",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Patrick Francis Moran",
+            "wikidata_id": "Q2588733",
+            "occupation": "Catholic priest, Catholic bishop",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1830-12-16T00:00:00Z",
+            "date of death": "+1911-08-16T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Patrick F. Moran"
+        }
+    },
+    "Professor Anne Duggan": {
+        "Professor Anne Duggan": [
+            {
+                "claim": "Professor Anne Duggan's research indicates that Laudabiliter is a falsification of an existing letter and that was not in fact Adrian's intention to grant Henry the rights he claimed.",
+                "bibliography": []
+            },
+            {
+                "claim": "Textual scholar Anne Duggan of King's College, London, is of the opinion that Laudabiliter is a falsification of a genuine letter, now lost.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Professor Anne Duggan",
+            "start_char": 10023,
+            "end_char": 10044,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Paul Scheffer-Boichorst": {
+        "Paul Scheffer-Boichorst": [
+            {
+                "claim": "Historian Paul Scheffer-Boichorst regards the donation as indisputable, while rejecting Laudabiliter as a forgery.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Paul Scheffer-Boichorst",
+            "start_char": 185,
+            "end_char": 208,
+            "label": "Paul Scheffer-Boichorst",
+            "description": "German medievalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Paul Scheffer-Boichorst",
+            "wikidata_id": "Q97545",
+            "occupation": "medievalist, university teacher",
+            "country of citizenship": "Kingdom of Prussia",
+            "date of birth": "+1843-05-25T00:00:00Z",
+            "date of death": "+1902-01-17T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Felix": {
+        "Felix": [
+            {
+                "claim": "According to Arthur Ua Clerigh, the letter referred to was not Laudabiliter, but a formal letter of investiture, such as was used in the case of Robert Guiscard in Italy.",
+                "bibliography": [
+                    "[10]"
+                ]
+            },
+            {
+                "claim": "Historian Paul Scheffer-Boichorst regards the donation as indisputable, while rejecting Laudabiliter as a forgery, as does Felix Liebermann.",
+                "bibliography": [
+                    "[56]"
+                ]
+            },
+            {
+                "claim": "However, of the very first Legate that came to Ireland after the Norman Invasion, Father Burke writes, in passing through England, Henry 'took him by the throat, and imposed upon him an oath that, when he went to Ireland, he would not do anything that would be against the interest of the King'.",
+                "bibliography": []
+            },
+            {
+                "claim": "Another argument, again assuming the authenticity of Laudabiliter, is that it would be tantamount to the Pope having made a shockingly bad choice of an instrument in Henry II for reducing Ireland to law and order.",
+                "bibliography": [
+                    "[58]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Felix",
+            "start_char": 302,
+            "end_char": 307,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Anne Duggan": {
+        "Anne Duggan": [
+            {
+                "claim": "Professor Anne Duggan's research indicates that Laudabiliter is a falsification of an existing letter and that was not in fact Adrian's intention to grant Henry the rights he claimed.",
+                "bibliography": []
+            },
+            {
+                "claim": "Textual scholar Anne Duggan of King's College, London, is of the opinion that Laudabiliter is a falsification of a genuine letter, now lost.",
+                "bibliography": []
+            },
+            {
+                "claim": "Professor Duggan demonstrated that arranging the paragraphs in a more conventional manner, reveals a more cautious statement that 'fits very closely with a known letter of Adrian IV, advising the kings of France and England not to go forward with a planned crusade to Spain unless they consulted the ‘princes, churches and people of the region’'.",
+                "bibliography": []
+            },
+            {
+                "claim": "Duggan suggests that Adrian IV did not wish to alienate the most powerful prince in Europe, but insisted on the consent of the Irish.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Anne Duggan",
+            "start_char": 476,
+            "end_char": 487,
+            "label": "Anne Duggan",
+            "description": "Peerage person ID=412054",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Anne Duggan",
+            "wikidata_id": "Q75933422",
+            "instance_of": "human"
+        }
+    },
+    "Ginnell": {
+        "Ginnell": [
+            {
+                "claim": "On the question of the date when Laudabiliter was first publicized, most of those who deny its authenticity believe that it was first made known about 1180 according to Ginnell.",
+                "bibliography": [
+                    "[36]"
+                ]
+            },
+            {
+                "claim": "According to Ginnell, Sylvester Malone, D.D., Vicar General of Killaloe, was the most strenuous upholder of both letters.",
+                "bibliography": []
+            },
+            {
+                "claim": "Ginnell notes the entire absence of any mention in Scottish Gaelic writings.",
+                "bibliography": []
+            },
+            {
+                "claim": "Ginnell has written that those who accept Laudabiliter as authentic can be equally divided on its significance.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Ginnell",
+            "start_char": 1087,
+            "end_char": 1094,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Caesar Baronius": {
+        "Caesar Baronius": [
+            {
+                "claim": "Caesar Baronius, in his work, the Annales Ecclesiastici, groups the Laudabiliter in an appendix of doubtful documents.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Caesar Baronius",
+            "start_char": 1723,
+            "end_char": 1738,
+            "label": "Caesar Baronius",
+            "description": "Italian cardinal and ecclesiastical historian (1538–1607)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Caesar Baronius",
+            "wikidata_id": "Q317900",
+            "also_known_as": [
+                "Cesare Baronio",
+                "Cardinal Cesare Baronio",
+                "Cesare, Cardinal Baronio"
+            ],
+            "occupation": "librarian, church historian, historian, writer, Catholic priest, Catholic deacon, Catholic bishop",
+            "date of birth": "+1538-01-01T00:00:00Z",
+            "date of death": "+1607-06-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Mackie": {
+        "Mackie": [
+            {
+                "claim": "J. Duncan Mackie writes that those who desire to do away altogether with Laudabiliter, find in the last chapter of the sixth book of the Metalogicus, an account of the transaction between John and Pope Adrian and in this passage is an almost insurmountable difficulty.",
+                "bibliography": []
+            },
+            {
+                "claim": "Mackie suggests that this proves nothing, for there is at Rome no document dealing with the affairs of Ireland before the year 1215.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Mackie",
+            "start_char": 2381,
+            "end_char": 2387,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gerald of Wales": {
+        "Gerald of Wales": [
+            {
+                "claim": "According to Curtis for the text of the Laudabiliter we only have Giraldus Cambrensis' Conquest of Ireland written around 1188, though in it his dating is not accurate, he says he must have had some such 'genuine document before him'.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "John of Salisbury, speaking of the existence of Laudabiliter in the last chapter of the Metalogicus does not give its text and it was at least thirty years after Adrian's death that the Laudabiliter itself first appeared in the Expugnatio Hibernica of Giraldus Cambrensis.",
+                "bibliography": [
+                    "[30]"
+                ]
+            },
+            {
+                "claim": "Giraldus first published Expugnatio Hibernica around the year 1188.",
+                "bibliography": []
+            },
+            {
+                "claim": "According to Gasquet every subsequent English chronicler who mentions Laudabiliter has simply accepted it on Giraldus's authority.",
+                "bibliography": [
+                    "[33]"
+                ]
+            },
+            {
+                "claim": "James F. Dimock notes that some late Irish writers seemed to him to put more faith in Giraldus's history than it really deserves.",
+                "bibliography": [
+                    "[34]"
+                ]
+            },
+            {
+                "claim": "Dimock, who edited Giraldi Cambrensis Opera, says that De Expugnatione Hiberniae is, in great measure, rather 'a poetical fiction than a prosaic truthful history.'",
+                "bibliography": [
+                    "[35]"
+                ]
+            },
+            {
+                "claim": "Gerald of Wales asserts the Bulls of Adrian and Alexander were read at a meeting of Bishops in Waterford in 1175, during which Laudabiliter was used by the Papacy as evidence showing the clergy of England and Ireland were solely under papal supremacy.",
+                "bibliography": [
+                    "[61]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Gerald of Wales",
+            "start_char": 2543,
+            "end_char": 2558,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Domnall mac Brian Ó Néill": {
+        "Domnall mac Brian Ó Néill": [
+            {
+                "claim": "After the excommunicated Robert the Bruce defeated King Edward II of England at Bannockburn, his younger brother Edward launched an invasion of Ireland, in 1316. Edward's Gaelic allies, before their defeat and the death of the Bruce, at the Battle of Faughart in 1318, enclosed a copy of Laudabiliter on a Remonstrance sent to Pope John XXII, requesting the bull be revoked and the papacy recognise Edward Bruce as King of Ireland. Led by Domnall mac Brian Ó Néill and Tír Eógain, their petition was refused:",
+                "bibliography": []
+            },
+            {
+                "claim": "One could interpret this to mean that the kings believed that Laudabiliter was the ultimate legal basis for their continuing problems at that time. In the meantime they had misremembered the year of Becket's death (1170, not 1155), but painfully recalled the date of Laudabiliter. In its date, style and contents the Remonstrance argues against the attempts to negate the bull centuries later.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Domnall mac Brian Ó Néill",
+            "start_char": 7173,
+            "end_char": 7198,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Tír Eógain": {
+        "Tír Eógain": [
+            {
+                "claim": "Edward's Gaelic allies, before their defeat and the death of the Bruce, at the Battle of Faughart in 1318, enclosed a copy of Laudabiliter on a Remonstrance sent to Pope John XXII, requesting the bull be revoked and the papacy recognise Edward Bruce as King of Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "Led by Domnall mac Brian Ó Néill and Tír Eógain, their petition was refused:",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Tír Eógain",
+            "start_char": 7203,
+            "end_char": 7213,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Henry VIII of England": {
+        "Henry VIII of England": [
+            {
+                "claim": "After almost four centuries of the Lordship, the declaration of the independence of the Church of England from papal supremacy and the rejection of the authority of the Holy See required the creation of a new basis to legitimise the continued rule of the English monarch in Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "In 1542, the Crown of Ireland Act was passed by both the English and Irish parliaments. The Act established a sovereign Kingdom of Ireland with Henry as King of Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "Laudabiliter had a continuing political relevance into the 16th century. Henry VIII of England was excommunicated by Pope Paul III on 17 December 1538, causing his opponents to question his continuing claim to be Lord of Ireland, which was based ultimately on Laudabiliter.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Henry VIII of England",
+            "start_char": 8753,
+            "end_char": 8774,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Pope Paul III": {
+        "Pope Paul III": [
+            {
+                "claim": "Henry VIII of England was excommunicated by Pope Paul III on 17 December 1538, causing his opponents to question his continuing claim to be Lord of Ireland, which was based ultimately on Laudabiliter.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Pope Paul III",
+            "start_char": 8797,
+            "end_char": 8810,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Pope Paul IV": {
+        "Pope Paul IV": [
+            {
+                "claim": "A competing, Catholic claim to sovereignty in Ireland was issued in 1555, through Pope Paul IV's bull 'Ilius, per quem Reges regnant', which bestowed the crown of the Kingdom on Philip II of Spain and Mary I of England.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Therefore, in 1555 a further papal bull Ilius, per quem Reges regnant was issued by Pope Paul IV naming Queen Mary and her husband Philip (later Philip II of Spain) as monarchs of Ireland.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Pope Paul IV",
+            "start_char": 9234,
+            "end_char": 9246,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

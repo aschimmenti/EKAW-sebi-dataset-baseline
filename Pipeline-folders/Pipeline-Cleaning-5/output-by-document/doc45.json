@@ -1,0 +1,140 @@
+{
+    "Philip Yorke": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Philip Yorke",
+            "Dr Thomas Birch",
+            "Charles Yorke"
+        ],
+        "opinion_document_date": [
+            "18th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Philip Yorke",
+            "start_char": 226,
+            "end_char": 238,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Dr Thomas Birch": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Dr Thomas Birch",
+            "start_char": 570,
+            "end_char": 585,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "George Chalmers": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": [
+            "gratify our national pride"
+        ],
+        "opinion_document_author": [
+            "Elizabeth",
+            "Burleigh"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "George Chalmers",
+            "start_char": 941,
+            "end_char": 956,
+            "label": "George Chalmers",
+            "description": "British antiquarian; (1742-1825)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Chalmers",
+            "wikidata_id": "Q320810",
+            "occupation": "economist, statistician, writer, biographer, historian, lawyer",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1742-01-01T00:00:00Z",
+            "date of death": "+1825-05-31T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Thomas Watts": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "consistency": false
+            },
+            {
+                "feature": "orthography",
+                "consistency": false
+            },
+            {
+                "feature": "ink",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Philip Yorke"
+        ],
+        "opinion_document_date": [
+            "18th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Thomas Watts",
+            "start_char": 1617,
+            "end_char": 1629,
+            "label": "Thomas H. Watts",
+            "description": "American politician (1819-1892)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Thomas Watts",
+            "wikidata_id": "Q879281",
+            "also_known_as": [
+                "Thomas Hill Watts, Sr.",
+                "Thomas Hill Watts",
+                "Thomas Watts"
+            ],
+            "occupation": "politician, lawyer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1819-01-03T00:00:00Z",
+            "date of death": "+1892-08-16T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Watts"
+        }
+    }
+}

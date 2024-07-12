@@ -1,0 +1,170 @@
+[
+  {
+    "text": "The controversy was reignited in 2014 with the publication of the book 'I filologi e gli angeli. È di Eugenio Montale il Diario postumo?' by Federico Condello, which thoroughly analyzes the editorial history of the Diario, highlighting various inconsistencies. 'Montale e pseudo Montale. Autopsia del 'Diario postumo'. This volume includes numerous linguistic, metrical, and stylistic analyses, as well as some documentary investigations that, referring to the materials used (primarily facsimiles of the autographed manuscripts of the Diario) or to letters and notes preserved in the Scheiwiller Archive (now at the Apice Center of the University of Milan), allow for the reconstruction of certain periods of Annalisa Cima's activity, especially between 1981 and 1986. From these documents, no elements emerge in favor of the thesis of authenticity, while some data conflict with all the reconstructions proposed in the various statements of the Diario's dedicatee.",
+    "spans": [
+      {
+        "text": "Federico Condello",
+        "is_entity": true,
+        "label": "COMMENTATOR",
+        "reason": "A person, being the author of the book"
+      },
+      {
+        "text": "Diario postumo",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "A series of poems attributed to Eugenio Montale"
+      },
+      {
+        "text": "Eugenio Montale",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "An Italian poet"
+      },
+      {
+        "text": "Scheiwiller Archive",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "A location where letters and notes are preserved"
+      },
+      {
+        "text": "Apice Center of the University of Milan",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "A location where the Scheiwiller Archive is currently stored"
+      },
+      {
+        "text": "Annalisa Cima",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The person whose activity periods are reconstructed"
+      },
+      {
+        "text": "1981 and 1986",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The period of Annalisa Cima's activity"
+      }
+    ]
+  },
+  {
+    "text": "The papyrus text was subjected to analysis in April 2006 by enthusiasts and scholars: through an Italian online community (egittologia.net), the 'case' began to be studied starting from a new translation of the text, derived from the image published by De Rachewiltz. During the translation, Franco Brussino, an expert in Egyptology, noticed a few inconsistencies: first, the similarity between some passages of the papyrus and phrases from known texts. The text also lacked any official marking that would be required from the bureaucratic source. Also, through simple radiocarbon dating, the papyrus could not have been written before 1880, and the ink used was probably industrially produced. Then, by looking at the sources regarding the papyrus's finding, he noticed a lot of incoherencies in the archaeological report. Bibliographic research led to the discovery of the same phrases from the incriminated papyrus in a fundamental text on the Egyptian language, Sir Alan H. Gardiner's Egyptian Grammar, published in 1927 and therefore preceding the discovery of the papyrus.",
+    "spans": [
+      {
+        "text": "Franco Brussino",
+        "is_entity": true,
+        "label": "COMMENTATOR",
+        "reason": "An expert in Egyptology who 'noticed a few inconsistencies'"
+      },
+      {
+        "text": "egittologia.net",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "An Italian online community"
+      },
+      {
+        "text": "De Rachewiltz",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The person who published the image of the papyrus"
+      },
+      {
+        "text": "Sir Alan H. Gardiner",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "Author of the Egyptian Grammar"
+      },
+      {
+        "text": "Egyptian Grammar",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "A fundamental text on the Egyptian language"
+      },
+      {
+        "text": "1880",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The earliest possible date the papyrus could have been written"
+      }
+    ]
+  },
+  {
+    "text": "In her 2020 paper 'The Forgery of the Magna Carta Redux,' Dr. Emily Richards presents a detailed critique of the document's authenticity. Richards points to several discrepancies in the handwriting, composition, and legal formulas used. No illumination or mark was to be found in the manuscript, which would be rare for such an important document. She highlights that the handwriting does not match any known samples from the 13th century, and the ink contains chemical compounds that were not available until the 19th century. The manuscript was also exceptionally well-preserved for the time of its finding. Additionally, no other document from that period ever mentioned or reported any of the laws stated in the Redux charter. Richards concludes that the manuscript was probably an attempt by some members of Parliament to reignite the debate around the hereditary privileges of England's nobility.",
+    "spans": [
+      {
+        "text": "Dr. Emily Richards",
+        "is_entity": true,
+        "label": "COMMENTATOR",
+        "reason": "Historian and manuscript specialist who presents a detailed critique"
+      },
+      {
+        "text": "2020",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The year Dr. Emily Richards published her paper"
+      },
+      {
+        "text": "Magna Carta Redux",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "A purported medieval charter"
+      },
+      {
+        "text": "members of Parliament",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The alleged authors of the forgery"
+      },
+      {
+        "text": "13th century",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The century in which the handwriting should match known samples"
+      },
+      {
+        "text": "19th century",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The century when the ink compounds were available"
+      }
+    ]
+  },
+  {
+    "text": "After initial doubts, in a local newspaper article, 'The Forgery of the Flower Manuscript,' Roberta Dupa presents a detailed critique of the document's authenticity. Dupa concludes that the manuscript was probably an attempt by local merchants to create a historical artifact that would attract tourists and boost sales in the Krakow market. He also reported some linguistic inconsistencies. Valuable contributions towards this conclusion were given by J. Tokarczuk.",
+    "spans": [
+      {
+        "text": "Roberta Dupa",
+        "is_entity": true,
+        "label": "COMMENTATOR",
+        "reason": "The author of the newspaper article"
+      },
+      {
+        "text": "Flower Manuscript",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "An allegedly medieval Polish manuscript"
+      },
+      {
+        "text": "local merchants",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The suspected creators of the forgery"
+      },
+      {
+        "text": "Krakow market",
+        "is_entity": true,
+        "label": "==NONE==",
+        "reason": "The market mentioned in the context"
+      },
+      {
+        "text": "J. Tokarczuk",
+        "is_entity": true,
+        "label": "COMMENTATOR",
+        "reason": "A philologist who contributed to the analysis"
+      }
+    ]
+  }
+  
+  
+  
+  
+]

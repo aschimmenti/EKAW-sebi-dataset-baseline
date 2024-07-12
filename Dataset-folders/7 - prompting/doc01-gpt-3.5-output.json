@@ -1,0 +1,257 @@
+{
+    "Muhammad": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "imprint representing Muhammad's hand",
+                "attendibility": 0.8,
+                "completeness": 0.7,
+                "consistency": 0.6,
+                "presence": 0.9,
+                "reliability": 0.7,
+                "veridicality": 0.6
+            },
+            {
+                "feature": "language expressions",
+                "attendibility": 0.6,
+                "completeness": 0.5,
+                "consistency": 0.6,
+                "presence": 0.7,
+                "reliability": 0.6,
+                "veridicality": 0.5
+            }
+        ],
+        "opinion_reason": [
+            "Impression of hand showing outer side, inconsistent with typical impressions",
+            "Dissimilarity of language expressions to those of Prophetic expressions in authentic hadith collections"
+        ],
+        "opinion_document_author": [
+            "Unknown"
+        ],
+        "opinion_document_date": [
+            "623 CE"
+        ],
+        "opinion_document_location": [
+            "Saint Catherine's Monastery in the Sinai Peninsula"
+        ],
+        "opinion_specific_perspective": [
+            "Authenticity analysis"
+        ]
+    },
+    "Ali": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Ali"
+        ],
+        "opinion_document_date": [
+            "623 CE"
+        ],
+        "opinion_document_location": [
+            "Saint Catherine's Monastery"
+        ],
+        "opinion_specific_perspective": [
+            "Islamic perspective"
+        ]
+    },
+    "Franciscus Quaresmius": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Ali"
+        ],
+        "opinion_document_date": [
+            "623 CE"
+        ],
+        "opinion_document_location": [
+            "Saint Catherine's Monastery"
+        ],
+        "opinion_specific_perspective": [
+            "Religious perspective"
+        ]
+    },
+    "Balthasar de Monconys": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "modern and ancient scholars acceptance",
+                "attendibility": 0.9,
+                "completeness": 0.8,
+                "consistency": 0.8,
+                "presence": 0.9,
+                "reliability": 0.9,
+                "veridicality": 0.9
+            },
+            {
+                "feature": "associating with Muhammad and Ali",
+                "attendibility": 0.7,
+                "completeness": 0.7,
+                "consistency": 0.8,
+                "presence": 0.9,
+                "reliability": 0.8,
+                "veridicality": 0.7
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Kara Mustafa Pasha": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Ali"
+        ],
+        "opinion_document_date": [
+            "623 CE"
+        ],
+        "opinion_document_location": [
+            "Sinai Peninsula"
+        ],
+        "opinion_specific_perspective": null
+    },
+    "John Andrew Morrow": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "replicated verbatim across numerous Islamic sources",
+                "attendibility": 0.8,
+                "completeness": 0.7,
+                "consistency": 0.9,
+                "presence": 0.9,
+                "reliability": 0.8,
+                "veridicality": 0.9
+            },
+            {
+                "feature": "supported by more than a thousand years of Caliphs and Sultans",
+                "attendibility": 0.7,
+                "completeness": 0.6,
+                "consistency": 0.8,
+                "presence": 0.9,
+                "reliability": 0.7,
+                "veridicality": 0.8
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Muhammad"
+        ],
+        "opinion_document_date": [
+            "623 CE"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Islamic sources analysis"
+        ]
+    },
+    "Bernhard Moritz": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document",
+                "attendibility": 0.7,
+                "completeness": 0.6,
+                "consistency": 0.5,
+                "presence": 0.8,
+                "reliability": 0.6,
+                "veridicality": 0.4
+            },
+            {
+                "feature": "date",
+                "attendibility": 0.8,
+                "completeness": 0.7,
+                "consistency": 0.6,
+                "presence": 0.9,
+                "reliability": 0.7,
+                "veridicality": 0.5
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Bernhard Moritz"
+        ],
+        "opinion_document_date": [
+            "20th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Written content analysis"
+        ]
+    },
+    "Amidu Sanni": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "editorial history",
+                "attendibility": 0.8,
+                "completeness": 0.7,
+                "consistency": 0.6,
+                "presence": 0.8,
+                "reliability": 0.7,
+                "veridicality": 0.5
+            }
+        ],
+        "opinion_reason": [
+            "lack of existent codices pre-dating the 16th century"
+        ],
+        "opinion_document_author": [
+            "Ali (scribe)",
+            "Muhammad (commissioner)"
+        ],
+        "opinion_document_date": [
+            "623 CE"
+        ],
+        "opinion_document_location": [
+            "Saint Catherine's Monastery, Sinai Peninsula"
+        ],
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ]
+    },
+    "Mubasher Hussain": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "impression of a hand",
+                "attendibility": 0.8,
+                "completeness": 0.7,
+                "consistency": 0.6,
+                "presence": 0.9,
+                "reliability": 0.7,
+                "veridicality": 0.6
+            },
+            {
+                "feature": "language expressions",
+                "attendibility": 0.6,
+                "completeness": 0.7,
+                "consistency": 0.8,
+                "presence": 0.9,
+                "reliability": 0.7,
+                "veridicality": 0.6
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Authenticity analysis",
+            "Linguistic analysis",
+            "Prophetic expressions comparison"
+        ]
+    }
+}

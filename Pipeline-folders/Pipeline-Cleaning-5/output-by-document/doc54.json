@@ -1,0 +1,399 @@
+{
+    "Samuel Ireland": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": true
+            },
+            {
+                "feature": "handwriting",
+                "consistency": true
+            },
+            {
+                "feature": "historical context",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Samuel Ireland",
+            "start_char": 97,
+            "end_char": 111,
+            "label": "Samuel Ireland",
+            "description": "British author and engraver",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Samuel Ireland",
+            "wikidata_id": "Q7411777",
+            "also_known_as": [
+                "Samuel, I Ireland",
+                "Samuel I Ireland",
+                "Ireld",
+                "Irld",
+                "Ireland"
+            ],
+            "occupation": "printmaker, writer, drawer, publisher",
+            "country of citizenship": "Kingdom of Great Britain",
+            "date of birth": "+1744-05-21T00:00:00Z",
+            "date of death": "+1800-07-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "James Boswell": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "James Boswell",
+            "start_char": 370,
+            "end_char": 383,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Henry James Pye": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Henry James Pye",
+            "start_char": 433,
+            "end_char": 448,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Richard Brinsley Sheridan": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Richard Brinsley Sheridan",
+            "start_char": 510,
+            "end_char": 535,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Edmond Malone": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "reliability": false,
+                "consistency": false
+            },
+            {
+                "feature": "handwriting",
+                "reliability": false,
+                "consistency": false
+            },
+            {
+                "feature": "orthography",
+                "reliability": false
+            },
+            {
+                "feature": "historical context",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "William Henry Ireland"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Paleographic analysis",
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Edmond Malone",
+            "start_char": 830,
+            "end_char": 843,
+            "label": "COMMENTATOR",
+            "description": null,
+            "wikidata_id": "Q1229512",
+            "country of citizenship": "Republic of Ireland",
+            "occupation": "literary historian, writer, literary critic, literary scholar, editor, jurist, man of letters",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Malone",
+            "also_known_as": [
+                "Edmund Malone"
+            ]
+        }
+    },
+    "William Henry Ireland": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "William Henry Ireland",
+            "start_char": 1047,
+            "end_char": 1068,
+            "label": "William Henry Ireland",
+            "description": "English forger of Shakespearean documents and plays",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Henry Ireland",
+            "wikidata_id": "Q4058973",
+            "also_known_as": [
+                "Samuel William Henry Ireland"
+            ],
+            "occupation": "novelist, poet, playwright",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland, United Kingdom",
+            "date of birth": "+1775-08-02T00:00:00Z",
+            "date of death": "+1835-04-17T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "William Henry"
+        }
+    },
+    "Thomas Caldecott": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "reliability": true
+            },
+            {
+                "feature": "orthography",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": [
+            "forensic techniques like handwriting comparison",
+            "relying on taste and aesthetic sensibilities"
+        ],
+        "opinion_document_author": [
+            "Malone"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Thomas Caldecott",
+            "start_char": 7445,
+            "end_char": 7461,
+            "label": "Thomas Caldecott",
+            "description": "English barrister and literary editor",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Thomas Caldecott",
+            "wikidata_id": "Q18528919",
+            "occupation": "barrister, literary editor, librarian",
+            "country of citizenship": "Kingdom of Great Britain, United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1744-01-01T00:00:00Z",
+            "date of death": "+1833-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "George Steevens": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": [
+            "collusion between father and son"
+        ],
+        "opinion_document_author": [
+            "Samuel Ireland",
+            "William Henry Ireland"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "George Steevens",
+            "start_char": 7877,
+            "end_char": 7892,
+            "label": "George Steevens",
+            "description": "English editor of the works of William Shakespeare",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Steevens",
+            "wikidata_id": "Q1450536",
+            "occupation": "literary critic",
+            "country of citizenship": "Kingdom of Great Britain",
+            "date of birth": "+1736-05-10T00:00:00Z",
+            "date of death": "+1800-01-22T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "George Chalmers": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "George Chalmers",
+            "start_char": 8367,
+            "end_char": 8382,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Clement Mansfield Ingleby": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": true,
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Clement Mansfield Ingleby",
+            "start_char": 8861,
+            "end_char": 8886,
+            "label": "Clement Mansfield Ingleby",
+            "description": "British lawyer and Shakespearian scholar",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Clement Mansfield Ingleby",
+            "wikidata_id": "Q1100266",
+            "occupation": "literary historian, literary critic, university teacher, chess player",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1823-10-29T00:00:00Z",
+            "date of death": "+1886-09-26T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "George Dawson": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "the father"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "George Dawson",
+            "start_char": 8899,
+            "end_char": 8912,
+            "label": "George Dawson",
+            "description": "English nonconformist preacher, lecturer and activist; (1821-1876)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Dawson",
+            "wikidata_id": "Q5538437",
+            "occupation": "cleric",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1821-02-24T00:00:00Z",
+            "date of death": "+1876-11-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Peter Ackroyd": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Peter Ackroyd",
+            "start_char": 9687,
+            "end_char": 9700,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Martyn Wade": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Martyn Wade",
+            "start_char": 9875,
+            "end_char": 9886,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

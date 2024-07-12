@@ -1,0 +1,40 @@
+{
+    "Friedrich Münter": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Friedrich Münter",
+            "start_char": 372,
+            "end_char": 388,
+            "label": "Friedrich Münter",
+            "description": "Danish bishop (1761-1830)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Friedrich Münter",
+            "wikidata_id": "Q213871",
+            "also_known_as": [
+                "Friedrich Christian Carl Heinrich Münter",
+                "Friedrich Christian Karl Heinrich Münter"
+            ],
+            "occupation": "archaeologist, priest, theologian, university teacher",
+            "country of citizenship": "Kingdom of Denmark",
+            "date of birth": "+1761-10-14T00:00:00Z",
+            "date of death": "+1830-04-09T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

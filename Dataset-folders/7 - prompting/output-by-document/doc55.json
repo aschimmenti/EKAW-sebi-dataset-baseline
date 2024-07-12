@@ -1,0 +1,259 @@
+{
+    "Seneca the Younger": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Paul the Apostle": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Lorenzo Valla": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "metre and style",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ]
+    },
+    "St Paul": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Erasmus": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "metre and style",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ]
+    },
+    "Lactantius": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Jerome": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ]
+    },
+    "J. B. Lightfoot": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false,
+                "completeness": null,
+                "consistency": false,
+                "presence": null,
+                "veridicality": null
+            },
+            {
+                "feature": "chronology and dating",
+                "reliability": null,
+                "completeness": null,
+                "consistency": null,
+                "presence": null,
+                "veridicality": false
+            },
+            {
+                "feature": "historical context",
+                "reliability": null,
+                "completeness": null,
+                "consistency": null,
+                "presence": null,
+                "veridicality": false
+            },
+            {
+                "feature": "metre and style",
+                "reliability": null,
+                "completeness": false,
+                "consistency": null,
+                "presence": null,
+                "veridicality": null
+            }
+        ],
+        "opinion_reason": [
+            "recommend Seneca to Christian readers",
+            "recommend Christianity to students of Seneca"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis",
+            "Historical analysis"
+        ]
+    },
+    "Adolf von Harnack": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "J. K. Elliott": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": [
+            "to show the superiority of Christianity over pagan philosophy"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ]
+    },
+    "Bart Ehrman": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "presence": true
+            },
+            {
+                "feature": "historical context",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": [
+            "early Christian apologia",
+            "Roman pagan polemic"
+        ],
+        "opinion_document_author": [
+            "Christian apologist"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis",
+            "Literary analysis"
+        ]
+    },
+    "Philip Schaff": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            },
+            {
+                "feature": "content",
+                "reliability": false
+            },
+            {
+                "feature": "metre and style",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ]
+    },
+    "Marta Sordi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "historical context",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": [
+            "contacts between Paul and the gens Annaea are documented since the first century",
+            "Seneca was the most powerful man after Nero",
+            "Paul had friends among the praetorians, including Afranius Burrus",
+            "Seneca's brother had intervened on Paul's behalf"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ]
+    },
+    "Nero": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    }
+}

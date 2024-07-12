@@ -1,0 +1,139 @@
+{
+    "Peter Schauer": {
+        "Peter Schauer": [
+            {
+                "claim": "Peter Schauer of the University of Regensburg, Germany, argued in 2005 that the Nebra disc was a fake and that he could prove that the patina of the disc could have been created with urine, hydrochloric acid, and a blow torch within a short amount of time.",
+                "bibliography": [
+                    "[70]"
+                ]
+            },
+            {
+                "claim": "He had to admit in court that he had never held the disc in his own hands, unlike the eighteen scientists who had examined the disc.",
+                "bibliography": [
+                    "[70]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Peter Schauer",
+            "start_char": 1468,
+            "end_char": 1481,
+            "label": "Peter Schauer",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Peter Schauer",
+            "wikidata_id": "Q18223861",
+            "occupation": "German university teacher",
+            "instance_of": "human"
+        }
+    },
+    "Richard Harrison": {
+        "Richard Harrison": [
+            {
+                "claim": "Richard Harrison, professor of European prehistory at the University of Bristol, stated in a BBC documentary that 'When I first heard about the Nebra Disc I thought it was a joke, indeed I thought it was a forgery,' due to the extraordinary nature of the find, although he had not seen the sky disc at the time.",
+                "bibliography": [
+                    "[21]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Richard Harrison",
+            "start_char": 1955,
+            "end_char": 1971,
+            "label": "Richard Harrison",
+            "description": "British archaeologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Richard Harrison",
+            "wikidata_id": "Q7326733",
+            "occupation": "anthropologist, archaeologist, university teacher",
+            "country of citizenship": "United Kingdom",
+            "instance_of": "human"
+        }
+    },
+    "Rupert Gebhard": {
+        "Rupert Gebhard": [
+            {
+                "claim": "A paper published in 2020 by Rupert Gebhard and Rudiger Krause questioned the Early Bronze Age dating of the Nebra disc and proposed a later Iron Age date instead.",
+                "bibliography": [
+                    "[71]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Rupert Gebhard",
+            "start_char": 2393,
+            "end_char": 2407,
+            "label": "Rupert Gebhard",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Rupert Gebhard",
+            "wikidata_id": "Q28866121",
+            "occupation": "university teacher, archaeologist, historian",
+            "date of birth": "+1961-04-09T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Gebhard"
+        }
+    },
+    "Rudiger Krause": {
+        "Rudiger Krause": [
+            {
+                "claim": "A paper published in 2020 by Rupert Gebhard and Rudiger Krause questioned the Early Bronze Age dating of the Nebra disc and proposed a later Iron Age date instead.",
+                "bibliography": [
+                    "[71]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Rudiger Krause",
+            "start_char": 2412,
+            "end_char": 2426,
+            "label": "Rüdiger Krause",
+            "description": "Dr. rer. nat. Ludwig-Maximilians-Universität München 2004",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Rudiger Krause",
+            "wikidata_id": "Q102305158",
+            "also_known_as": [
+                "Ruediger Krause"
+            ],
+            "instance_of": "human",
+            "text_2": "Krause"
+        }
+    },
+    "Ernst Pernicka": {
+        "Ernst Pernicka": [
+            {
+                "claim": "A response paper was published in the same year by Ernst Pernicka and colleagues, rejecting the arguments of Gebhard and Krause.",
+                "bibliography": [
+                    "[13]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Ernst Pernicka",
+            "start_char": 2583,
+            "end_char": 2597,
+            "label": "Ernst Pernicka",
+            "description": "Austrian archaeologist and chemist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ernst Pernicka",
+            "wikidata_id": "Q1359734",
+            "also_known_as": [
+                "E. Pernicka"
+            ],
+            "occupation": "archaeologist, chemist, university teacher",
+            "country of citizenship": "Austria",
+            "date of birth": "+1950-02-05T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

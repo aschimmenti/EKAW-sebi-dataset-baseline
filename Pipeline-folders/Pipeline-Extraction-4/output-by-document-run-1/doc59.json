@@ -1,0 +1,215 @@
+{
+    "Cyrus Thomas": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Cyrus Thomas",
+            "start_char": 491,
+            "end_char": 503,
+            "label": "Cyrus Thomas",
+            "description": "American Mesoamericanist and entomologist (1825-1910)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Cyrus Thomas",
+            "wikidata_id": "Q4460170",
+            "also_known_as": [
+                "C. Thomas",
+                "Thomas",
+                "Thomas C."
+            ],
+            "occupation": "anthropologist, zoologist, university teacher, entomologist, botanist, archaeologist, writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1825-07-27T00:00:00Z",
+            "date of death": "+1910-06-26T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Thomas"
+        }
+    },
+    "Cyrus Gordon": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": [
+            "interpreted inscription"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "1st or 2nd century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Cyrus Gordon",
+            "start_char": 707,
+            "end_char": 722,
+            "label": "Cyrus Herzl Gordon",
+            "description": "American Near Eastern scholar (1908–2001)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Cyrus H. Gordon",
+            "wikidata_id": "Q1148959",
+            "occupation": "anthropologist, linguist, archaeologist, university teacher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1908-06-29T00:00:00Z",
+            "date of death": "+2001-03-30T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Gordon"
+        }
+    },
+    "Robert Mainfort": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false
+            },
+            {
+                "feature": "language",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Robert Mainfort",
+            "start_char": 1191,
+            "end_char": 1206,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Robert Mainfort",
+            "text_2": "Mainfort",
+            "labels_2": [
+                "Organisation"
+            ]
+        }
+    },
+    "Mary Kwas": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false,
+                "consistency": false
+            },
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Mary Kwas",
+            "start_char": 1211,
+            "end_char": 1220,
+            "label": "Mary L. Kwas",
+            "description": "American biostatistician",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Mary Kwas",
+            "wikidata_id": "Q127134114",
+            "also_known_as": [
+                "Mary Kwasny"
+            ],
+            "occupation": "Researcher and writer",
+            "instance_of": "human"
+        }
+    },
+    "Bradley T. Lepper": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Bradley T. Lepper",
+            "start_char": 5069,
+            "end_char": 5086,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kyle McCarter": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false,
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Kyle McCarter",
+            "start_char": 5280,
+            "end_char": 5293,
+            "label": "P. Kyle McCarter, Jr.",
+            "description": "Old Testament scholar",
+            "labels": [
+                "Person"
+            ],
+            "also_known_as": [
+                "P. Kyle McCarter"
+            ],
+            "resolved_label": "Kyle McCarter",
+            "wikidata_id": "Q26466221",
+            "instance_of": "human"
+        }
+    }
+}

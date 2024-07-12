@@ -1,0 +1,29 @@
+{
+    "Walter Laqueur": {
+        "Walter Laqueur": [
+            {
+                "claim": "Walter Laqueur, an American historian, states that 'the German right-wing extremist press was supplied for years with information first published in Prizyv during its nine months of existence', and points to A Protocol of 1919 as a 'typical' example.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Walter Laqueur",
+            "start_char": 1509,
+            "end_char": 1523,
+            "label": "Walter Laqueur",
+            "description": "American historian and political commentator (1921-2018)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Walter Laqueur",
+            "wikidata_id": "Q213692",
+            "occupation": "historian, university teacher, political scientist, journalist, political analyst",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1921-05-26T00:00:00Z",
+            "date of death": "+2018-09-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

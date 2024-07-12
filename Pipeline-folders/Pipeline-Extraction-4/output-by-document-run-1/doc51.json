@@ -1,0 +1,310 @@
+{
+    "Konrad Kujau": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Konrad Kujau",
+            "start_char": 141,
+            "end_char": 153,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Hugh Trevor-Roper": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false,
+                "consistency": false
+            },
+            {
+                "feature": "authentication marks",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Hugh Trevor-Roper",
+            "start_char": 484,
+            "end_char": 501,
+            "label": "Hugh Trevor-Roper",
+            "description": "British historian (1914-2003)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Hugh Trevor-Roper",
+            "wikidata_id": "Q335087",
+            "also_known_as": [
+                "Baron Dacre",
+                "The Lord Dacre of Glanton",
+                "Hugh Redwald Trevor-Roper",
+                "Professor Hugh Redwald Trevor-Roper, Baron Dacre of Glanton",
+                "Maj. Hugh Redwald Trevor-Roper"
+            ],
+            "occupation": "politician, historian of Modern Age, historian, university teacher, journalist, essayist, military officer, intelligence officer, opinion journalist",
+            "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1914-01-15T00:00:00Z",
+            "date of death": "+2003-01-26T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Trevor-Roper"
+        }
+    },
+    "Gerd Heidemann": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Gerd Heidemann",
+            "start_char": 1438,
+            "end_char": 1452,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Josef Henke": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Josef Henke",
+            "start_char": 1992,
+            "end_char": 2003,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Klaus Oldenhage": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Klaus Oldenhage",
+            "start_char": 2008,
+            "end_char": 2023,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Max Frei-Sulzer": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Max Frei-Sulzer",
+            "start_char": 2074,
+            "end_char": 2089,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Ordway Hilton": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Hitler"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Ordway Hilton",
+            "start_char": 2716,
+            "end_char": 2729,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ordway Hilton",
+            "text_2": "Hilton"
+        }
+    },
+    "Gerhard Weinberg": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "veridicality": false
+            },
+            {
+                "feature": "historical context",
+                "veridicality": false
+            },
+            {
+                "feature": "authentication marks",
+                "reliability": true
+            },
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": [
+            "money"
+        ],
+        "opinion_document_author": "null",
+        "opinion_document_date": "null",
+        "opinion_document_location": "null",
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Gerhard Weinberg",
+            "start_char": 4631,
+            "end_char": 4647,
+            "label": "Gerhard Weinberg",
+            "description": "American military historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Gerhard Weinberg",
+            "wikidata_id": "Q214357",
+            "also_known_as": [
+                "Gerhard Ludwig Weinberg"
+            ],
+            "occupation": "historian of Modern Age, historian, university teacher, writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1928-01-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Weinberg"
+        }
+    },
+    "Irving": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            },
+            {
+                "feature": "ink",
+                "presence": true
+            },
+            {
+                "feature": "handwriting",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Irving",
+            "start_char": 12335,
+            "end_char": 12347,
+            "label": "David Irving",
+            "description": "British author and Holocaust denier",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "David Irving",
+            "wikidata_id": "Q158629",
+            "also_known_as": [
+                "David John Cawdell Irving"
+            ],
+            "occupation": "essayist, journalist, writer, biographer, opinion journalist",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1938-03-24T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "David Irving"
+        }
+    },
+    "Kenneth W. Rendell": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "consistency": false
+            },
+            {
+                "feature": "ink",
+                "reliability": false
+            },
+            {
+                "feature": "material support",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Paleographic analysis"
+        ],
+        "entity_info": {
+            "text": "Kenneth W. Rendell",
+            "start_char": 14983,
+            "end_char": 15001,
+            "label": "Kenneth W. Rendell",
+            "description": "American businessman",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kenneth W. Rendell",
+            "wikidata_id": "Q6390785",
+            "occupation": "businessperson",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1943-01-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Rendell"
+        }
+    }
+}

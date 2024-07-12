@@ -1,0 +1,196 @@
+{
+    "Marcello Dell'Utri": {
+        "Marcello Dell'Utri": [
+            {
+                "claim": "In February 2007, Italian senator Marcello Dell'Utri claimed that diaries, covering the years from 1935 to 1939 had been found.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "He claimed in the newspaper Corriere della Sera, these Mussolini diaries were with a lawyer at Bellinzona, in the Italian-speaking part of Switzerland.",
+                "bibliography": []
+            },
+            {
+                "claim": "He said he examined the diaries and found that the 'handwriting is clear and recognisably' that of Mussolini, though 'a bit hurried.'",
+                "bibliography": []
+            },
+            {
+                "claim": "Dell'Utri stated that his claim was supported by an unknown handwriting expert.",
+                "bibliography": []
+            },
+            {
+                "claim": "He said further that the diaries had been found in a suitcase the dictator was carrying when he was caught by partisans in Dongo, at Lake Como, while he was fleeing to Switzerland in April 1945.",
+                "bibliography": []
+            },
+            {
+                "claim": "Dell'Utri is the owner of the diaries and still claims them to be authentic.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Marcello Dell'Utri",
+            "start_char": 1076,
+            "end_char": 1094,
+            "label": "Marcello Dell'Utri",
+            "description": "Italian politician (born 1941)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Marcello Dell'Utri",
+            "wikidata_id": "Q558815",
+            "occupation": "politician, criminal",
+            "country of citizenship": "Italy",
+            "date of birth": "+1941-09-11T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Dell'Utri"
+        }
+    },
+    "Emilio Gentile": {
+        "Emilio Gentile": [
+            {
+                "claim": "Later in February two Italian historians, Emilio Gentile and Roberto Travaglini, independently discovered that these diaries had indeed been forged.",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "According to Gentile, the diaries contain 'historical errors' and that the authors 'seem to have copied various articles from old newspapers'.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Emilio Gentile",
+            "start_char": 2244,
+            "end_char": 2258,
+            "label": "Emilio Gentile",
+            "description": "Italian historian (1946-)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Emilio Gentile",
+            "wikidata_id": "Q1229044",
+            "occupation": "historian",
+            "country of citizenship": "Italy",
+            "date of birth": "+1946-08-31T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Gentile"
+        }
+    },
+    "Roberto Travaglini": {
+        "Roberto Travaglini": [
+            {
+                "claim": "Later in February two Italian historians, Emilio Gentile and Roberto Travaglini, independently discovered that these diaries had indeed been forged.[3]",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "According to Gentile, the diaries contain 'historical errors' and that the authors 'seem to have copied various articles from old newspapers', and according to Travaglini 'there were too many elements that did not match up'.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Roberto Travaglini",
+            "start_char": 2263,
+            "end_char": 2281,
+            "label": "Roberto Travaglini",
+            "description": "researcher",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Roberto Travaglini",
+            "wikidata_id": "Q114452845",
+            "occupation": "researcher",
+            "instance_of": "human",
+            "text_2": "Travaglini"
+        }
+    },
+    "Silvio Berlusconi": {
+        "Silvio Berlusconi": [
+            {
+                "claim": "Then-Italian Prime Minister Silvio Berlusconi, who is a close friend to Dell'Utri, also claimed that they are authentic and went so far to quote them in a 2010 OSCE meeting in Paris.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "Several elements close to Berlusconi, such as editor Elisabetta Sgarbi or the right-wing newspaper Libero (which distributed copies of the books to its readers in 2011), have also tried to defend the authenticity of the diaries, despite scholarly agreement that they are a forgery.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Silvio Berlusconi",
+            "start_char": 3051,
+            "end_char": 3068,
+            "label": "Silvio Berlusconi",
+            "description": "Italian politician and media tycoon (1936–2023)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Silvio Berlusconi",
+            "wikidata_id": "Q11860",
+            "also_known_as": [
+                "Berlusconi",
+                "il Cavaliere"
+            ],
+            "occupation": "politician, entrepreneur, media proprietor, association football executive",
+            "country of citizenship": "Italy",
+            "date of birth": "+1936-09-29T00:00:00Z",
+            "date of death": "+2023-06-12T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Berlusconi"
+        }
+    },
+    "Elisabetta Sgarbi": {
+        "Elisabetta Sgarbi": [
+            {
+                "claim": "Several elements close to Berlusconi, such as editor Elisabetta Sgarbi or the right-wing newspaper Libero (which distributed copies of the books to its readers in 2011), have also tried to defend the authenticity of the diaries, despite scholarly agreement that they are a forgery.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Elisabetta Sgarbi",
+            "start_char": 3262,
+            "end_char": 3279,
+            "label": "Elisabetta Sgarbi",
+            "description": "Italian writer (1956-)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Elisabetta Sgarbi",
+            "wikidata_id": "Q16268759",
+            "occupation": "writer, actor, film director, manufacturer, screenwriter",
+            "country of citizenship": "Italy",
+            "date of birth": "+1956-07-09T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Libero": {
+        "Libero": [
+            {
+                "claim": "Several elements close to Berlusconi, such as editor Elisabetta Sgarbi or the right-wing newspaper Libero (which distributed copies of the books to its readers in 2011), have also tried to defend the authenticity of the diaries, despite scholarly agreement that they are a forgery.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Libero",
+            "start_char": 3308,
+            "end_char": 3314,
+            "label": "libero",
+            "description": "volleyball position",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "Libero",
+            "wikidata_id": "Q975915",
+            "instance_of": "volleyball position"
+        }
+    }
+}

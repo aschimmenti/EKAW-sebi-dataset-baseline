@@ -1,0 +1,91 @@
+{
+    "Amado Crowley": {
+        "Amado Crowley": [
+            {
+                "claim": "Amado Crowley initially announced himself to the occult world via his adopted name in 1971, when he was past the age of forty, through a statement sent to the publishers of the encyclopedia on the subject, Man, Myth & Magic.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "However, it would later be inferred from his 1991 book, The Secrets of Aleister Crowley, that his name was registered at birth as Andrew Standish, though this has not been confirmed.",
+                "bibliography": [
+                    "[1]",
+                    "[3]",
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "Like Aleister Crowley, Amado used and taught a syncretic mix of Western magical techniques along with Eastern methods including meditation and yoga.",
+                "bibliography": []
+            },
+            {
+                "claim": "However, he maintained that the cornerstone of Aleister's religion of Thelema, The Book of the Law, was a fraud and that The Book of Desolation, a purported text given to him by Aleister, is the only true Crowleyan holy writ.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "The book has yet to be published and has only been seen by one other person other than Crowley, the writer, musician and filmmaker Jason Brett Serle.",
+                "bibliography": [
+                    "[6]"
+                ]
+            },
+            {
+                "claim": "Amado claims in his book that Aleister taught him between the ages of 7 and 14: i.e. 1937–1944.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Amado Crowley",
+            "start_char": 0,
+            "end_char": 13,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Jason Brett": {
+        "Jason Brett": [],
+        "entity_info": {
+            "text": "Jason Brett",
+            "start_char": 1261,
+            "end_char": 1272,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gerald Suster": {
+        "Gerald Suster": [
+            {
+                "claim": "Gerald Suster wrote: Amado claims in his book that Aleister taught him between the ages of 7 and 14: i.e.1937–1944.",
+                "bibliography": []
+            },
+            {
+                "claim": "If so, why isn't there a single mention of this vital matter in Crowley's Diaries?",
+                "bibliography": []
+            },
+            {
+                "claim": "There he records matters as trivial as the breaking of a tooth or the quality of his dinner: but he does not see fit to record meetings with an initiation of a son destined to be his successor.",
+                "bibliography": [
+                    "[7]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Gerald Suster",
+            "start_char": 1468,
+            "end_char": 1481,
+            "label": "Gerald Suster",
+            "description": "British writer (1951-2001)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Gerald Suster",
+            "wikidata_id": "Q5549612",
+            "occupation": "historian",
+            "date of birth": "+1951-08-02T00:00:00Z",
+            "date of death": "+2001-02-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

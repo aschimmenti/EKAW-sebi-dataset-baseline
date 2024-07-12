@@ -1,0 +1,63 @@
+{
+    "R. A. Stewart Macalister": {
+        "R. A. Stewart Macalister": [
+            {
+                "claim": "R. A. Stewart Macalister dismissed the book as 'an amalgam of bombastic paraphrases of Irish annalistic matter, irreverent parodies of Biblical excerpts, 'etymologies' (which have to be seen to be believed), and wildly irresponsible inventions resembling those in the closely analogous Book of Mormon.'",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "R. A. Stewart Macalister",
+            "start_char": 978,
+            "end_char": 1002,
+            "label": "R. A. Stewart Macalister",
+            "description": "Irish archaeologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "R. A. Stewart Macalister",
+            "wikidata_id": "Q983129",
+            "also_known_as": [
+                "Robert Alexander Stewart Macalister",
+                "R.A.S. Macalisters"
+            ],
+            "occupation": "anthropologist, archaeologist, prehistorian, university teacher",
+            "country of citizenship": "Republic of Ireland, United Kingdom of Great Britain and Ireland, Irish Free State",
+            "date of birth": "+1870-07-08T00:00:00Z",
+            "date of death": "+1950-04-26T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Alfred Webb": {
+        "Alfred Webb": [
+            {
+                "claim": "Alfred Webb in his A Compendium of Irish Biography (1878) was less charitable, deeming the Chronicles of Eri to be 'a piece of gross literary forgery.'",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Alfred Webb",
+            "start_char": 1286,
+            "end_char": 1297,
+            "label": "Alfred Webb",
+            "description": "British politician (1834-1908)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Alfred Webb",
+            "wikidata_id": "Q4723601",
+            "also_known_as": [
+                "Alfred John Webb"
+            ],
+            "occupation": "politician",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1834-06-10T00:00:00Z",
+            "date of death": "+1908-07-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "Cyrus Thomas": {
+        "Cyrus Thomas": [
+            {
+                "claim": "In the late nineteenth century, when the tablet was found, Cyrus Thomas, the director of the mound excavations, concluded the inscription presented letters from the Cherokee alphabet.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "In the report, Cyrus Thomas \"claimed that the marks on the Bat Creek stone represented characters of the Cherokee syllabary and used the inscription to support his hypothesis that the Cherokee constructed many of the earthen mounds and enclosures in eastern North America\".",
+                "bibliography": [
+                    "[1]",
+                    "[6]"
+                ]
+            },
+            {
+                "claim": "Yet despite this incongruity, at the time of its finding, there was little controversy regarding the inscription, and in fact, \"Thomas did not discuss the Bat Creek stone in any of his later substantive publications\".",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Cyrus Thomas",
+            "start_char": 491,
+            "end_char": 503,
+            "label": "Cyrus Thomas",
+            "description": "American Mesoamericanist and entomologist (1825-1910)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Cyrus Thomas",
+            "wikidata_id": "Q4460170",
+            "also_known_as": [
+                "C. Thomas",
+                "Thomas",
+                "Thomas C."
+            ],
+            "occupation": "anthropologist, zoologist, university teacher, entomologist, botanist, archaeologist, writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1825-07-27T00:00:00Z",
+            "date of death": "+1910-06-26T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Thomas"
+        }
+    },
+    "Cyrus Gordon": {
+        "Cyrus Gordon": [
+            {
+                "claim": "This interpretation was accepted at the time but was contested about a century later by Cyrus H. Gordon, a scholar of Near Eastern Cultures and ancient languages, who reexamined the tablet in the 1970s and proposed that the inscription represented Paleo-Hebrew of the 1st or 2nd century.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "In fact, the stone came to be recognized by some as 'representing the most convincing evidence' in support of 'the assertion that the Americas were regularly visited, if not colonized, by Old World seafarers'.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "This interpretation began in the 1970s when the stone was examined by professor Dr. Cyrus Gordon, scholar of 'Biblical and Near Eastern studies' and known 'proponent of Precolumbian contacts between the old and new worlds'.",
+                "bibliography": [
+                    "[14]",
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "Gordon concluded that Thomas had been viewing the inscription 'upside down', and when re-read in its proper orientation, the inscription represented 'ancient Hebrew'.",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "He asserted that the inscription 'could be translated as some variation of 'For the Jews'.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "But these claims by Gordon and McCulloh have been silenced by archeologists who 'have rejected the Bat Creek stone as a fake'.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Cyrus Gordon",
+            "start_char": 707,
+            "end_char": 722,
+            "label": "Cyrus Herzl Gordon",
+            "description": "American Near Eastern scholar (1908–2001)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Cyrus H. Gordon",
+            "wikidata_id": "Q1148959",
+            "occupation": "anthropologist, linguist, archaeologist, university teacher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1908-06-29T00:00:00Z",
+            "date of death": "+2001-03-30T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Gordon"
+        }
+    },
+    "Robert Mainfort": {
+        "Robert Mainfort": [
+            {
+                "claim": "Countering the notion of pre-Columbian transoceanic contact theories, archaeologists Robert Mainfort and Mary Kwas have concluded that the inscription is not a genuine paleo-Hebrew artifact but rather a 19th-century forgery.",
+                "bibliography": [
+                    "[1]",
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "The conclusions drawn by Mainfort and Kwas have been accepted by other archaeologists and members of academic communities.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "Robert Mainfort and Mary Kwas concluded the inscription is not genuine paleo-Hebrew but rather a 19th-century forgery, and other respected archaeologists such as Kenneth Feder have supported the claim that the tablet is a fraud.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "Mainfort and Kwas have identified the source of the inscription.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Robert Mainfort",
+            "start_char": 1191,
+            "end_char": 1206,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Robert Mainfort",
+            "text_2": "Mainfort",
+            "labels_2": [
+                "Organisation"
+            ]
+        }
+    },
+    "Mary Kwas": {
+        "Mary Kwas": [
+            {
+                "claim": "Countering the notion of pre-Columbian transoceanic contact theories, archaeologists Robert Mainfort and Mary Kwas have concluded that the inscription is not a genuine paleo-Hebrew artifact but rather a 19th-century forgery.",
+                "bibliography": [
+                    "[1]",
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Furthermore, the conclusions drawn by Mainfort and Kwas have been accepted by other archaeologists and members of academic communities.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "Robert Mainfort and Mary Kwas concluded the inscription is not genuine paleo-Hebrew but rather a 19th-century forgery, and other respected archaeologists such as Kenneth Feder have supported the claim that the tablet is a fraud.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "Mainfort and Kwas have identified the source of the inscription. It was most likely copied from the General History, Cyclopedia, and Dictionary of Freemasonry.",
+                "bibliography": [
+                    "[1]",
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Archaeologist Bradley T. Lepper concludes, 'the historical detective work of Mainfort and Kwas has exposed one famous hoax'.",
+                "bibliography": [
+                    "[15]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Mary Kwas",
+            "start_char": 1211,
+            "end_char": 1220,
+            "label": "Mary L. Kwas",
+            "description": "American biostatistician",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Mary Kwas",
+            "wikidata_id": "Q127134114",
+            "also_known_as": [
+                "Mary Kwasny"
+            ],
+            "occupation": "Researcher and writer",
+            "instance_of": "human"
+        }
+    },
+    "Feder": {
+        "Kenneth Feder": [
+            {
+                "claim": "As Feder explains, 'The Bat Creek Stone was an outlier, impossible to put into genuine historical context, and though few said it out loud, it was assumed by many that the artifact had been faked'.",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Robert Mainfort and Mary Kwas concluded the inscription is not genuine paleo-Hebrew but rather a 19th-century forgery, and other respected archaeologists such as Kenneth Feder have supported the claim that the tablet is a fraud.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Feder",
+            "start_char": 4672,
+            "end_char": 4685,
+            "label": "Kenneth Feder",
+            "description": "archaeologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kenneth Feder",
+            "wikidata_id": "Q6390092",
+            "also_known_as": [
+                "Kenneth L. \"Kenny\" Feder",
+                "Kenneth L. Feder",
+                "Kenny Feder"
+            ],
+            "occupation": "anthropologist, archaeologist",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1952-08-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Kenneth Feder"
+        }
+    },
+    "Bradley T. Lepper": {
+        "Bradley T. Lepper": [
+            {
+                "claim": "Archaeologist Bradley T. Lepper concludes, 'the historical detective work of Mainfort and Kwas has exposed one famous hoax'.",
+                "bibliography": [
+                    "[15]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Bradley T. Lepper",
+            "start_char": 5069,
+            "end_char": 5086,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kyle McCarter": {
+        "Kyle McCarter": [
+            {
+                "claim": "Professor in Biblical Studies and Ancient Near Eastern Studies at Johns Hopkins University, Kyle McCarter expresses, 'the Bat Creek stone has no place in the inventory of Hebrew inscriptions from the time of the First Jewish Revolt against Rome' and 'belongs to the melodrama of American archaeology in the late 19th century'.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "McCarter concluded, 'It seems probable that we are dealing here not with a coincidental similarity but with a fraud'.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Kyle McCarter",
+            "start_char": 5280,
+            "end_char": 5293,
+            "label": "P. Kyle McCarter, Jr.",
+            "description": "Old Testament scholar",
+            "labels": [
+                "Person"
+            ],
+            "also_known_as": [
+                "P. Kyle McCarter"
+            ],
+            "resolved_label": "Kyle McCarter",
+            "wikidata_id": "Q26466221",
+            "instance_of": "human"
+        }
+    }
+}

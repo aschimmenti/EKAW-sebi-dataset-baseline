@@ -1,0 +1,97 @@
+{
+    "Mark Hofmann": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "original document",
+                "presence": true
+            }
+        ],
+        "opinion_reason": [
+            "money"
+        ],
+        "opinion_document_author": [
+            "Mark Hofmann"
+        ],
+        "opinion_document_date": [
+            "1985"
+        ],
+        "opinion_document_location": [
+            "New York"
+        ],
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Mark Hofmann",
+            "start_char": 487,
+            "end_char": 499,
+            "label": "Mark Hofmann",
+            "description": "American counterfeiter, forger and convicted murderer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Mark Hofmann",
+            "wikidata_id": "Q4354485",
+            "also_known_as": [
+                "Mark William Hofmann",
+                "Mark W. Hofmann"
+            ],
+            "occupation": "spree killer, counterfeiter",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1954-12-07T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Hofmann"
+        }
+    },
+    "Charles Hamilton": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Charles Hamilton",
+            "start_char": 4261,
+            "end_char": 4277,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kenneth W. Rendell": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Kenneth W. Rendell",
+            "start_char": 4279,
+            "end_char": 4297,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "investigators at the National Archives": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "investigators at the National Archives",
+            "start_char": 4303,
+            "end_char": 4341,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

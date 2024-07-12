@@ -1,0 +1,34 @@
+{
+    "Artūras Dubonis": {
+        "Artūras Dubonis": [
+            {
+                "claim": "Lithuanian researcher Artūras Dubonis pointed out many inconsistencies in its authorship, unclear provenance, factual and chronological fallacies, and concluded that it is most likely a forgery, though more extensive study is required for a conclusive determination.",
+                "bibliography": []
+            },
+            {
+                "claim": "Therefore, researcher Artūras Dubonis concluded that Rivius' biography was invented between 1833 and 1842.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Artūras Dubonis",
+            "start_char": 283,
+            "end_char": 298,
+            "label": "Artūras Dubonis",
+            "description": "Lithuanian historian, academic",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Artūras Dubonis",
+            "wikidata_id": "Q3919852",
+            "also_known_as": [
+                "Dubonis, Artūras"
+            ],
+            "occupation": "historian",
+            "date of birth": "+1962-07-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

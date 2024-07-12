@@ -1,0 +1,356 @@
+{
+    "doc01": {
+        "document_info": {
+            "Source": "Wikipedia",
+            "Page URL": "https://en.wikipedia.org/w/index.php?title=Ashtiname_of_Muhammad&oldid=1204869561",
+            "Document description": "The Ashtiname of Muhammad, also known as the Covenant or Testament (Testamentum) of Muhammad, is a charter or writ granting protection and other privileges to the followers of Jesus, given to the Christian monks of Saint Catherine's Monastery in the Sinai Peninsula. Ascribed to Ali (scribe), and Muhammad (commissioner) in the 623 CE, it is sealed with an imprint representing Muhammad's hand.[1]\n\nĀshtīnāmeh (IPA: [ɒʃtinɒme]) [آشتی نامه] is a Persian phrase meaning \"Letter of Reconciliation\", a term for a treaty or covenant.[2]",
+            "Document claims": "The document is generally accepted as authentic by modern and ancient scholars, including Franciscus Quaresmius, Balthasar de Monconys, and Kara Mustafa Pasha.[7][8] John Andrew Morrow has also confirmed the authenticity of the document, pointing out that the document is replicated verbatim across numerous Islamic sources, including more than a thousand years of Caliphs and Sultans.[9][10][11] Since the 19th century, several aspects of the Ashtiname, notably the list of witnesses, have been questioned by some scholars.[12] There are similarities to other documents granted to other religious communities in the Near East. One example is Muhammad's alleged letter to the Christians of Najran, which first came to light in 878 in a monastery in Iraq and whose text is preserved in the Chronicle of Seert.[1]\n\nAt the beginning of the 20th century, Bernhard Moritz, in his seminal work, claimed that: \"The impossibility of finding this document to be authentic is clearly evident. The date, style and content all prove the inauthenticity.\"[13] Amidu Sanni points out that there are no existent codices, Islamic or otherwise, which predate the 16th century,[14] and Dr Mubasher Hussain has questioned the authenticity of the document on the basis of the fact it contains an impression of a hand which it is claimed belongs to that of Muhammad, but which, rather than showing the inside of the hand as might be expected, \"surprisingly shows the outer side of the hand, which is possible only if it is taken using a camera!\" Furthermore, he claims that \"many language expressions used in this covenant\" are dissimilar \"to those of the Prophetic expressions preserved in the authentic hadith collections.\"[15]"
+        },
+        "Franciscus Quaresmius": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "authentic",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null,
+            "entity_info": {
+                "text": "Franciscus Quaresmius",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Franciscus Quaresmius",
+                "wikidata_id": "Q351779",
+                "label": "Franciscus Quaresmius",
+                "description": "Italian orientalist",
+                "also_known_as": [
+                    "Francesco Quaresmio"
+                ],
+                "occupation": "religious figure",
+                "date of birth": "+1583-04-04T00:00:00Z",
+                "date of death": "+1650-10-25T00:00:00Z",
+                "instance_of": "human"
+            },
+            "claims": [
+                {
+                    "claim": "The document is generally accepted as authentic by modern and ancient scholars, including Franciscus Quaresmius, Balthasar de Monconys, and Kara Mustafa Pasha.",
+                    "bibliography": [
+                        "[7]",
+                        "[8]"
+                    ]
+                }
+            ]
+        },
+        "Balthasar de Monconys": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "authentic",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null,
+            "entity_info": {
+                "text": "Balthasar de Monconys",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Balthasar de Monconys",
+                "wikidata_id": "Q2262911",
+                "label": "Balthasar de Monconys",
+                "description": "French diplomat",
+                "occupation": "diplomat",
+                "country of citizenship": "France",
+                "date of birth": "+1611-01-01T00:00:00Z",
+                "date of death": "+1665-04-28T00:00:00Z",
+                "instance_of": "human"
+            },
+            "claims": [
+                {
+                    "claim": "The document is generally accepted as authentic by modern and ancient scholars, including Franciscus Quaresmius, Balthasar de Monconys, and Kara Mustafa Pasha.",
+                    "bibliography": [
+                        "[7]",
+                        "[8]"
+                    ]
+                }
+            ]
+        },
+        "Kara Mustafa Pasha": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "authentic",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null,
+            "entity_info": {
+                "text": "Kara Mustafa Pasha",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kara Mustafa Pasha",
+                "wikidata_id": "Q334140",
+                "label": "Kara Mustafa Pasha",
+                "description": "Ottoman military leader and grand vizier (1634-1683)",
+                "also_known_as": [
+                    "Merzifonlu Kara Mustafa Paşa",
+                    "Paşa Kara Mustafa"
+                ],
+                "occupation": "military personnel, politician, military leader",
+                "country of citizenship": "Ottoman Empire",
+                "date of birth": "+1634-01-01T00:00:00Z",
+                "date of death": "+1683-12-25T00:00:00Z",
+                "instance_of": "human"
+            },
+            "claims": [
+                {
+                    "claim": "The document is generally accepted as authentic by modern and ancient scholars, including Franciscus Quaresmius, Balthasar de Monconys, and Kara Mustafa Pasha.",
+                    "bibliography": [
+                        "[7]",
+                        "[8]"
+                    ]
+                }
+            ]
+        },
+        "John Andrew Morrow": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "authentic",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "list of witnesses",
+                    "reliability": true
+                },
+                {
+                    "feature": "document provenance",
+                    "reliability": true
+                }
+            ],
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": [
+                "Philologic analysis",
+                "Historical analysis"
+            ],
+            "entity_info": {
+                "text": "John Andrew Morrow",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "John Andrew Morrow",
+                "wikidata_id": "Q113669159",
+                "label": "John Andrew Morrow",
+                "description": "Canadian Islamic studies scholar",
+                "also_known_as": [
+                    "Morrow, J. A"
+                ],
+                "occupation": "Islamicist",
+                "country of citizenship": "Canada",
+                "date of birth": "+1971-00-00T00:00:00Z",
+                "instance_of": "human"
+            },
+            "claims": [
+                {
+                    "claim": "John Andrew Morrow has also confirmed the authenticity of the document, pointing out that the document is replicated verbatim across numerous Islamic sources, including more than a thousand years of Caliphs and Sultans.",
+                    "bibliography": [
+                        "[9]",
+                        "[10]",
+                        "[11]"
+                    ]
+                }
+            ]
+        },
+        "Bernhard Moritz": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "chronology and dating",
+                    "reliability": false
+                },
+                {
+                    "feature": "content",
+                    "reliability": false
+                },
+                {
+                    "feature": "metre and style",
+                    "reliability": false
+                }
+            ],
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": [
+                "Philologic analysis"
+            ],
+            "entity_info": {
+                "text": "Bernhard Moritz",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Bernhard Moritz",
+                "wikidata_id": "Q106300",
+                "label": "Bernhard Moritz",
+                "description": "German librarian (1859-1939)",
+                "occupation": "librarian, university teacher, orientalist, arabist",
+                "country of citizenship": "German Reich, Germany",
+                "date of birth": "+1859-09-13T00:00:00Z",
+                "date of death": "+1939-09-22T00:00:00Z",
+                "instance_of": "human"
+            },
+            "claims": [
+                {
+                    "claim": "At the beginning of the 20th century, Bernhard Moritz, in his seminal work, claimed that: \"The impossibility of finding this document to be authentic is clearly evident. The date, style and content all prove the inauthenticity.\"",
+                    "bibliography": [
+                        "[13]"
+                    ]
+                }
+            ]
+        },
+        "Amidu Sanni": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "original document",
+                    "presence": false
+                },
+                {
+                    "feature": "list of witnesses",
+                    "presence": false
+                }
+            ],
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": [
+                "Philologic analysis"
+            ],
+            "entity_info": {
+                "text": "Amidu Sanni",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Amidu Sanni",
+                "wikidata_id": "Q105794029",
+                "label": "Amidu Olalekan Sanni",
+                "description": "Nigerian academic",
+                "also_known_as": [
+                    "Amidu Sanni"
+                ],
+                "occupation": "academic, vice chancellor",
+                "country of citizenship": "Nigeria",
+                "instance_of": "human"
+            },
+            "claims": [
+                {
+                    "claim": "One example is Muhammad's alleged letter to the Christians of Najran, which first came to light in 878 in a monastery in Iraq and whose text is preserved in the Chronicle of Seert.[1]\n\nAt the beginning of the 20th century, Bernhard Moritz, in his seminal work, claimed that: \"The impossibility of finding this document to be authentic is clearly evident. Amidu Sanni points out that there are no existent codices, Islamic or otherwise, which predate the 16th century,",
+                    "bibliography": [
+                        "[14]"
+                    ]
+                }
+            ]
+        },
+        "Mubasher Hussain": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "sigillum or seal",
+                    "reliability": false
+                },
+                {
+                    "feature": "language",
+                    "consistency": false,
+                    "veridicality": false
+                }
+            ],
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": [
+                "Philologic analysis"
+            ],
+            "entity_info": {
+                "text": "Mubasher Hussain",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Mubasher Hussain",
+                "wikidata_id": "Q51144965",
+                "label": "Mubasher Hussain",
+                "description": "researcher (ORCID 0000-0003-0833-7399)",
+                "also_known_as": [
+                    "Hussain, Mubasher"
+                ],
+                "occupation": "assistant professor",
+                "instance_of": "human"
+            },
+            "claims": [
+                {
+                    "claim": "and Dr Mubasher Hussain has questioned the authenticity of the document on the basis of the fact it contains an impression of a hand which it is claimed belongs to that of Muhammad, but which, rather than showing the inside of the hand as might be expected, \"surprisingly shows the outer side of the hand, which is possible only if it is taken using a camera!\" Furthermore, he claims that \"many language expressions used in this covenant\" are dissimilar \"to those of the Prophetic expressions preserved in the authentic hadith collections.\"",
+                    "bibliography": [
+                        "[15]"
+                    ]
+                }
+            ]
+        },
+        "entities": [
+            {
+                "text": "Franciscus Quaresmius",
+                "start_char": 90,
+                "end_char": 111,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Balthasar de Monconys",
+                "start_char": 113,
+                "end_char": 134,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kara Mustafa",
+                "start_char": 140,
+                "end_char": 152,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Andrew Morrow",
+                "start_char": 166,
+                "end_char": 184,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Bernhard Moritz",
+                "start_char": 851,
+                "end_char": 866,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Amidu Sanni",
+                "start_char": 1046,
+                "end_char": 1057,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Dr Mubasher Hussain",
+                "start_char": 1167,
+                "end_char": 1186,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    }
+}

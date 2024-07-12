@@ -1,0 +1,64 @@
+{
+    "Arthur Waldo": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Arthur Waldo",
+            "start_char": 943,
+            "end_char": 955,
+            "label": "Arthur Waldo",
+            "description": "holocaust victim, b. 1883-10-22",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Arthur Waldo",
+            "occupation": "editor, writer, lecturer, social worker",
+            "instance_of": "human"
+        }
+    },
+    "James S. Pula": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": false
+            },
+            {
+                "feature": "original document",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "James S. Pula",
+            "start_char": 1286,
+            "end_char": 1299,
+            "label": "James S. Pula",
+            "description": "American historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "James S. Pula",
+            "wikidata_id": "Q16107475",
+            "occupation": "historian",
+            "date of birth": "+1946-02-18T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "Rohan Kriwaczek": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Rohan Kriwaczek",
+            "start_char": 74,
+            "end_char": 89,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Peter Mayer": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Rohan Kriwaczek"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Peter Mayer",
+            "start_char": 245,
+            "end_char": 256,
+            "label": "Peter Mayer",
+            "description": "American publisher (1936-2018)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Peter Mayer",
+            "wikidata_id": "Q7175723",
+            "also_known_as": [
+                "Peter Michael Mayer"
+            ],
+            "occupation": "publisher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1936-03-28T00:00:00Z",
+            "date of death": "+2018-05-11T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Matthew Rye": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "illustration or other graphical device",
+                "veridicality": false
+            },
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Matthew Rye",
+            "start_char": 1133,
+            "end_char": 1144,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Matthew Rye"
+        }
+    },
+    "Naomi Sadler": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Naomi Sadler",
+            "start_char": 1258,
+            "end_char": 1270,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

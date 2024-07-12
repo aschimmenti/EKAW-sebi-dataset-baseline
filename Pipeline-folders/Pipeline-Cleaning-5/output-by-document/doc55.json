@@ -1,0 +1,319 @@
+{
+    "Lorenzo Valla": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "metre and style",
+                "consistency": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Lorenzo Valla",
+            "start_char": 855,
+            "end_char": 868,
+            "label": "Lorenzo Valla",
+            "description": "Italian Renaissance humanist (c. 1407–1457)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Lorenzo Valla",
+            "wikidata_id": "Q214115",
+            "also_known_as": [
+                "Laurence Valla"
+            ],
+            "occupation": "writer, philologist, university teacher, philosopher, Latin Catholic priest",
+            "date of birth": "+1407-01-01T00:00:00Z",
+            "date of death": "+1457-08-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "J. B. Lightfoot": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false,
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "metre and style",
+                "consistency": false
+            },
+            {
+                "feature": "historical context",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Historical analysis",
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "J. B. Lightfoot",
+            "start_char": 2410,
+            "end_char": 2425,
+            "label": "J. B. Lightfoot",
+            "description": "British bishop and scholar of early Christianity",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J. B. Lightfoot",
+            "wikidata_id": "Q1706574",
+            "also_known_as": [
+                "Joseph Barber Lightfoot",
+                "Joseph Lightfoot"
+            ],
+            "occupation": "priest, theologian, university teacher, translator",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1828-04-13T00:00:00Z",
+            "date of death": "+1889-12-21T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Adolf von Harnack": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": null,
+                "completeness": null,
+                "consistency": null,
+                "presence": null,
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis",
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Adolf von Harnack",
+            "start_char": 2572,
+            "end_char": 2589,
+            "label": "Adolf von Harnack",
+            "description": "Baltic German theologian and prominent church historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Adolf von Harnack",
+            "wikidata_id": "Q164699",
+            "also_known_as": [
+                "Karl Gustav Adolf Harnack",
+                "Adolf Harnack"
+            ],
+            "occupation": "theologian, librarian, church historian, university teacher, writer, historian of religion",
+            "country of citizenship": "Germany",
+            "date of birth": "+1851-05-07T00:00:00Z",
+            "date of death": "+1930-06-10T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Claude Barlow": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": [
+            "rhetorical exercise"
+        ],
+        "opinion_document_author": [
+            "novice writer"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Claude Barlow",
+            "start_char": 2607,
+            "end_char": 2620,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "J. K. Elliott": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": [
+            "to show the superiority of Christianity over pagan philosophy"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "J. K. Elliott",
+            "start_char": 2820,
+            "end_char": 2833,
+            "label": "Keith Elliott",
+            "description": "English scholar of the New Testament and early Christian apocrypha",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J. K. Elliott",
+            "wikidata_id": "Q88771133",
+            "also_known_as": [
+                "Elliott, James Keith",
+                "Elliott, Keith",
+                "J. K. Elliott",
+                "James Keith Elliott"
+            ],
+            "occupation": "theologian, university teacher",
+            "date of birth": "+1943-03-19T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Bart Ehrman": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "historical context",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": [
+            "early Christian apologia"
+        ],
+        "opinion_document_author": [
+            "early Christian apologist"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Bart Ehrman",
+            "start_char": 2923,
+            "end_char": 2934,
+            "label": "Bart D. Ehrman",
+            "description": "American biblical scholar (born 1955)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Bart Ehrman",
+            "wikidata_id": "Q127876",
+            "also_known_as": [
+                "Bart Denton Ehrman",
+                "Bart Ehrman",
+                "Dr. Bart Ehrman"
+            ],
+            "occupation": "philologist, university teacher, writer, theologian",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1955-10-05T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Philip Schaff": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "metre and style",
+                "completeness": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis",
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Philip Schaff",
+            "start_char": 3746,
+            "end_char": 3759,
+            "label": "Philip Schaff",
+            "description": "Swiss-born, American theologian and ecclesiastical historian (1819–1893)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Philip Schaff",
+            "wikidata_id": "Q115922",
+            "occupation": "church historian, translator, theologian, university teacher, writer, Bible translator, historian",
+            "country of citizenship": "Switzerland, United States of America",
+            "date of birth": "+1819-01-01T00:00:00Z",
+            "date of death": "+1893-10-20T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Marta Sordi": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Marta Sordi",
+            "start_char": 5027,
+            "end_char": 5038,
+            "label": "Marta Sordi",
+            "description": "Italian historian of classical antiquity",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Marta Sordi",
+            "wikidata_id": "Q3849965",
+            "occupation": "historian, university teacher",
+            "country of citizenship": "Italy, Kingdom of Italy",
+            "date of birth": "+1925-11-18T00:00:00Z",
+            "date of death": "+2009-04-05T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

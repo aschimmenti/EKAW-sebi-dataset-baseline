@@ -1,0 +1,281 @@
+{
+    "Henry Ansgar Kelly": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Pseudo-Dante"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Henry Ansgar Kelly",
+            "start_char": 758,
+            "end_char": 776,
+            "label": "Henry A. Kelly",
+            "description": "scholar",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Henry Ansgar Kelly",
+            "wikidata_id": "Q18619046",
+            "also_known_as": [
+                "H. A. Kelly",
+                "Henry Ansgar Kelly"
+            ],
+            "occupation": "historian",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1934-06-06T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Kelly"
+        }
+    },
+    "Bruno Nardi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Bruno Nardi",
+            "start_char": 781,
+            "end_char": 792,
+            "label": "Bruno Nardi",
+            "description": "Italian philosopher",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Bruno Nardi",
+            "wikidata_id": "Q3645855",
+            "occupation": "philosopher",
+            "country of citizenship": "Italy, Kingdom of Italy",
+            "date of birth": "+1884-01-01T00:00:00Z",
+            "date of death": "+1968-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Francesco Mazzoni": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Francesco Mazzoni",
+            "start_char": 861,
+            "end_char": 878,
+            "label": "Francesco Mazzoni",
+            "description": "Italian philologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Francesco Mazzoni",
+            "wikidata_id": "Q3750276",
+            "occupation": "philologist",
+            "instance_of": "human"
+        }
+    },
+    "Robert Hollander": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Robert Hollander",
+            "start_char": 885,
+            "end_char": 901,
+            "label": "Robert Hollander",
+            "description": "1933-2021",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Robert Hollander",
+            "wikidata_id": "Q104563084",
+            "also_known_as": [
+                "Bob Hollander",
+                "Robert B. Hollander Jr."
+            ],
+            "occupation": "literary scholar, italianist",
+            "date of birth": "+1933-07-31T00:00:00Z",
+            "date of death": "+2021-04-20T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Charles Singleton": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Charles Singleton",
+            "start_char": 907,
+            "end_char": 924,
+            "label": "Charles S. Singleton",
+            "description": "American scholar",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Charles Singleton",
+            "wikidata_id": "Q642817",
+            "also_known_as": [
+                "Charles Southward Singleton"
+            ],
+            "occupation": "literary critic, university teacher, journalist, romanist, translator",
+            "country of citizenship": "United States of America",
+            "instance_of": "human"
+        }
+    },
+    "Ralph G. Hall": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Ralph G. Hall",
+            "start_char": 1115,
+            "end_char": 1128,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Madison U. Sowell": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": true
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Madison U. Sowell",
+            "start_char": 1133,
+            "end_char": 1150,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "John Ciardi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "John Ciardi",
+            "start_char": 1326,
+            "end_char": 1337,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Teodolinda Barolini": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Teodolinda Barolini",
+            "start_char": 1511,
+            "end_char": 1530,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Italian Istituto di Scienza e Tecnologie dell'Informazione": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "none",
+                "reliability": null,
+                "completeness": null,
+                "consistency": null,
+                "presence": null,
+                "veridicality": null
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Italian Istituto di Scienza e Tecnologie dell'Informazione",
+            "start_char": 1771,
+            "end_char": 1849,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "Italian Istituto di Scienza e Tecnologie dell'Informazione"
+        }
+    }
+}

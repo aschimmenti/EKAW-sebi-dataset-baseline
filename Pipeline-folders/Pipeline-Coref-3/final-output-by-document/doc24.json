@@ -1,0 +1,187 @@
+{
+    "Boris Rybakov": {
+        "Boris Rybakov": [
+            {
+                "claim": "Most of the scholars that specialize in the field of mythological studies and Slavic linguistics (such as Boris Rybakov, Andrey Zaliznyak, Leo Klejn, and all Russian academic historians and linguists) consider it a forgery.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Boris Rybakov",
+            "start_char": 1241,
+            "end_char": 1254,
+            "label": "Boris Rybakov",
+            "description": "Soviet archaeologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Boris Rybakov",
+            "wikidata_id": "Q834947",
+            "also_known_as": [
+                "Boris Aleksandrovich Rybakov",
+                "Boris Alexandrovich Rybakov",
+                "B.A. Rybakov",
+                "B. A. Rybakov"
+            ],
+            "occupation": "anthropologist, archaeologist, historian, university teacher",
+            "country of citizenship": "Russian Empire, Russian Socialist Federative Soviet Republic, Soviet Union, Russia",
+            "date of birth": "+1908-05-21T00:00:00Z",
+            "date of death": "+2001-12-27T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Andrey Zaliznyak": {
+        "Andrey Zaliznyak": [
+            {
+                "claim": "Most of the scholars that specialize in the field of mythological studies and Slavic linguistics (such as Boris Rybakov, Andrey Zaliznyak, Leo Klejn, and all Russian academic historians and linguists) consider it a forgery.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Andrey Zaliznyak",
+            "start_char": 1256,
+            "end_char": 1272,
+            "label": "Andrey Zaliznyak",
+            "description": "Russian linguist (1935-2017)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Andrey Zaliznyak",
+            "wikidata_id": "Q2371003",
+            "also_known_as": [
+                "Andrey Anatolyevich Zaliznyak"
+            ],
+            "occupation": "linguist, dialectologist, university teacher",
+            "country of citizenship": "Soviet Union, Russia",
+            "date of birth": "+1935-04-29T00:00:00Z",
+            "date of death": "+2017-12-24T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Leo Klejn": {
+        "Leo Klejn": [
+            {
+                "claim": "Most of the scholars that specialize in the field of mythological studies and Slavic linguistics (such as Boris Rybakov, Andrey Zaliznyak, Leo Klejn, and all Russian academic historians and linguists) consider it a forgery.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "According to these scholars the thorough analysis of the book shows that it was written sometime in the 20th century.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Leo Klejn",
+            "start_char": 1274,
+            "end_char": 1283,
+            "label": "Leo Klejn",
+            "description": "Russian archaeologist (1927-2019)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Leo Klejn",
+            "wikidata_id": "Q983700",
+            "also_known_as": [
+                "Lev Samuilovich Klejn"
+            ],
+            "occupation": "anthropologist, archaeologist, prehistorian, historian, cultural anthropologist, philologist",
+            "country of citizenship": "Soviet Union, Russia",
+            "date of birth": "+1927-07-01T00:00:00Z",
+            "date of death": "+2019-11-07T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Yuriy Mirolyubov": {
+        "Yuriy Mirolyubov": [
+            {
+                "claim": "Several scholars believe that the entire book is a product of collaboration of the editors of this newspaper and Yuriy Mirolyubov, who later claimed to have found the book.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Yuriy Mirolyubov",
+            "start_char": 1799,
+            "end_char": 1815,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Alexander Sulakadzev": {
+        "Alexander Sulakadzev": [
+            {
+                "claim": "Others believe that either the entire book or the only plank available, were forged in the early 19th century by the Russian collector and forger Alexander Sulakadzev.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Alexander Sulakadzev",
+            "start_char": 2005,
+            "end_char": 2025,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "O.V. Tvorogov": {
+        "O.V. Tvorogov": [
+            {
+                "claim": "In the words of the philologist O.V. Tvorogov: This analysis leads us to a definite conclusion: we are dealing with an artificial language, 'invented' by a person unacquainted with the history of Slavic languages and one who could not create his own language system.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "O.V. Tvorogov",
+            "start_char": 3143,
+            "end_char": 3156,
+            "label": "Oleg Tvorogov",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "also_known_as": [
+                "Oleg Viktorovich Tvorogov"
+            ],
+            "wikidata_id": "Q4453338",
+            "resolved_label": "O.V. Tvorogov",
+            "occupation": "scientist",
+            "date of birth": "+1928-10-11T00:00:00Z"
+        }
+    },
+    "Levko Lukyanenko": {
+        "Levko Lukyanenko": [
+            {
+                "claim": "In particular, Levko Lukyanenko cited the Book of Veles as historical.",
+                "bibliography": [
+                    "[citation needed]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Levko Lukyanenko",
+            "start_char": 3630,
+            "end_char": 3646,
+            "label": "Levko Lukianenko",
+            "description": "Ukrainian politician (1928-2018)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Levko Lukyanenko",
+            "wikidata_id": "Q1996140",
+            "also_known_as": [
+                "Levko Lukyanenko",
+                "Levko Hryhorovych Lukianenko"
+            ],
+            "occupation": "diplomat, human rights activist, writer, politician",
+            "country of citizenship": "Soviet Union, Ukraine",
+            "date of birth": "+1928-08-24T00:00:00Z",
+            "date of death": "+2018-07-07T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

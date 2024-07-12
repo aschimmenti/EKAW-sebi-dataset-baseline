@@ -1,0 +1,4813 @@
+{
+    "doc01": {
+        "entities": [
+            {
+                "text": "Franciscus Quaresmius",
+                "start_char": 621,
+                "end_char": 642,
+                "label": "Franciscus Quaresmius",
+                "description": "Italian orientalist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Franciscus Quaresmius",
+                "wikidata_id": "Q351779",
+                "also_known_as": [
+                    "Francesco Quaresmio"
+                ],
+                "occupation": "religious figure",
+                "date of birth": "+1583-04-04T00:00:00Z",
+                "date of death": "+1650-10-25T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Balthasar de Monconys",
+                "start_char": 644,
+                "end_char": 665,
+                "label": "Balthasar de Monconys",
+                "description": "French diplomat",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Balthasar de Monconys",
+                "wikidata_id": "Q2262911",
+                "occupation": "diplomat",
+                "country of citizenship": "France",
+                "date of birth": "+1611-01-01T00:00:00Z",
+                "date of death": "+1665-04-28T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Kara Mustafa Pasha",
+                "start_char": 671,
+                "end_char": 683,
+                "label": "Kara Mustafa Pasha",
+                "description": "Ottoman military leader and grand vizier (1634-1683)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kara Mustafa Pasha",
+                "wikidata_id": "Q334140",
+                "also_known_as": [
+                    "Merzifonlu Kara Mustafa Paşa",
+                    "Paşa Kara Mustafa"
+                ],
+                "occupation": "military personnel, politician, military leader",
+                "country of citizenship": "Ottoman Empire",
+                "date of birth": "+1634-01-01T00:00:00Z",
+                "date of death": "+1683-12-25T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "John Andrew Morrow",
+                "start_char": 697,
+                "end_char": 715,
+                "label": "John Andrew Morrow",
+                "description": "Canadian Islamic studies scholar",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "John Andrew Morrow",
+                "wikidata_id": "Q113669159",
+                "also_known_as": [
+                    "Morrow, J. A"
+                ],
+                "occupation": "Islamicist",
+                "country of citizenship": "Canada",
+                "date of birth": "+1971-00-00T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Bernhard Moritz",
+                "start_char": 1382,
+                "end_char": 1397,
+                "label": "Bernhard Moritz",
+                "description": "German librarian (1859-1939)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Bernhard Moritz",
+                "wikidata_id": "Q106300",
+                "occupation": "librarian, university teacher, orientalist, arabist",
+                "country of citizenship": "German Reich, Germany",
+                "date of birth": "+1859-09-13T00:00:00Z",
+                "date of death": "+1939-09-22T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Amidu Sanni",
+                "start_char": 1579,
+                "end_char": 1590,
+                "label": "Amidu Olalekan Sanni",
+                "description": "Nigerian academic",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Amidu Sanni",
+                "wikidata_id": "Q105794029",
+                "also_known_as": [
+                    "Amidu Sanni"
+                ],
+                "occupation": "academic, vice chancellor",
+                "country of citizenship": "Nigeria",
+                "instance_of": "human"
+            },
+            {
+                "text": "Mubasher Hussain",
+                "start_char": 1700,
+                "end_char": 1719,
+                "label": "Mubasher Hussain",
+                "description": "researcher (ORCID 0000-0003-0833-7399)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Mubasher Hussain",
+                "wikidata_id": "Q51144965",
+                "also_known_as": [
+                    "Hussain, Mubasher"
+                ],
+                "occupation": "assistant professor",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc02": {
+        "entities": []
+    },
+    "doc03": {
+        "entities": [
+            {
+                "text": "Hans K. Schulze",
+                "start_char": 2735,
+                "end_char": 2750,
+                "label": "Hans K. Schulze",
+                "description": "German medievalist (1932-2013)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Hans K. Schulze",
+                "wikidata_id": "Q1506950",
+                "occupation": "medievalist, university teacher",
+                "country of citizenship": "Germany",
+                "date of birth": "+1932-10-08T00:00:00Z",
+                "date of death": "+2013-06-10T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Hans Goetting",
+                "start_char": 2755,
+                "end_char": 2768,
+                "label": "Hans Goetting",
+                "description": "German medievalist and archivist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Hans Goetting",
+                "wikidata_id": "Q1123765",
+                "occupation": "medievalist, archivist, university teacher",
+                "country of citizenship": "Germany",
+                "date of birth": "+1911-01-21T00:00:00Z",
+                "date of death": "+1994-12-27T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Walter Deeters",
+                "start_char": 2877,
+                "end_char": 2891,
+                "label": "Walter Deeters",
+                "description": "German regional historian, medievalist and archivist (1930-2004)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Walter Deeters",
+                "wikidata_id": "Q15450221",
+                "occupation": "regional historian, medievalist, archivist",
+                "country of citizenship": "Germany",
+                "date of birth": "+1930-06-24T00:00:00Z",
+                "date of death": "+2004-10-14T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Theodor von Sickel",
+                "start_char": 3023,
+                "end_char": 3041,
+                "label": "Theodor von Sickel",
+                "description": "Austrian historian (1826-1908)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Theodor von Sickel",
+                "wikidata_id": "Q66729",
+                "also_known_as": [
+                    "Theodor Sickel"
+                ],
+                "occupation": "essayist, medievalist, writer, university teacher, archivist, politician, historian",
+                "country of citizenship": "Kingdom of Prussia",
+                "date of birth": "+1826-12-18T00:00:00Z",
+                "date of death": "+1908-04-21T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Carlrichard Brühl",
+                "start_char": 3046,
+                "end_char": 3063,
+                "label": "Carlrichard Brühl",
+                "description": "German philatelist and medievalist (1925-1997)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Carlrichard Brühl",
+                "wikidata_id": "Q1043335",
+                "occupation": "medievalist, university teacher",
+                "country of citizenship": "Germany",
+                "date of birth": "+1925-02-23T00:00:00Z",
+                "date of death": "+1997-01-25T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc04": {
+        "entities": []
+    },
+    "doc05": {
+        "entities": [
+            {
+                "text": "Daniele Farlati",
+                "start_char": 743,
+                "end_char": 758,
+                "label": "Daniele Farlati",
+                "description": "Italian Jesuit and historian (1690-1773)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Daniele Farlati",
+                "wikidata_id": "Q797181",
+                "occupation": "church historian, historian",
+                "country of citizenship": "Republic of Venice",
+                "date of birth": "+1690-02-22T00:00:00Z",
+                "date of death": "+1773-04-05T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Farlati"
+            },
+            {
+                "text": "Ivan Kukuljević Sakcinski",
+                "start_char": 763,
+                "end_char": 788,
+                "label": "Ivan Kukuljević Sakcinski",
+                "description": "Croatian historian and politician (1816-1889)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ivan Kukuljević Sakcinski",
+                "wikidata_id": "Q697783",
+                "occupation": "linguist, historian, writer, poet, politician, editor",
+                "country of citizenship": "Austrian Empire, Kingdom of Hungary",
+                "date of birth": "+1816-05-29T00:00:00Z",
+                "date of death": "+1889-08-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Ivan Lučić Lucius",
+                "start_char": 852,
+                "end_char": 869,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Franjo Rački",
+                "start_char": 971,
+                "end_char": 983,
+                "label": "Franjo Rački",
+                "description": "Croatian historian, politician and writer",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Franjo Rački",
+                "wikidata_id": "Q516286",
+                "occupation": "historian, politician, priest",
+                "country of citizenship": "Austrian Empire, Austria-Hungary",
+                "date of birth": "+1828-11-25T00:00:00Z",
+                "date of death": "+1894-02-13T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Miho Barada",
+                "start_char": 1297,
+                "end_char": 1308,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Lovre",
+                "start_char": 1471,
+                "end_char": 1476,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Marko",
+                "start_char": 1490,
+                "end_char": 1495,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Držislav Švob",
+                "start_char": 1511,
+                "end_char": 1524,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Držislav Švob",
+                "wikidata_id": "Q125913732",
+                "date of birth": "+1907-05-05T00:00:00Z",
+                "date of death": "+1945-04-00T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Lujo Margetić",
+                "start_char": 1708,
+                "end_char": 1721,
+                "label": "Lujo Margetić",
+                "description": "Croatian legal historian, member",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Lujo Margetić",
+                "wikidata_id": "Q1564163",
+                "occupation": "legal historian",
+                "date of birth": "+1920-10-18T00:00:00Z",
+                "date of death": "+2010-05-17T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Margetić"
+            },
+            {
+                "text": "Olga Perić",
+                "start_char": 3091,
+                "end_char": 3101,
+                "label": "Olga Perić",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Olga Perić",
+                "wikidata_id": "Q113805923",
+                "date of birth": "+1917-01-01T00:00:00Z",
+                "date of death": "+1985-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Neven Budak",
+                "start_char": 3318,
+                "end_char": 3329,
+                "label": "Neven Budak",
+                "description": "Croatian historian and professor",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Neven Budak",
+                "wikidata_id": "Q854539",
+                "occupation": "historian",
+                "date of birth": "+1957-05-03T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc06": {
+        "entities": [
+            {
+                "text": "Milan Šufflay",
+                "start_char": 1362,
+                "end_char": 1375,
+                "label": "Milan Šufflay",
+                "description": "Croatian historian, albanologist, and politician (1879-1931)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Milan Šufflay",
+                "wikidata_id": "Q1280614",
+                "also_known_as": [
+                    "Milan Sufflay"
+                ],
+                "occupation": "historian, albanologist, politician, university teacher, translator, science fiction writer, writer",
+                "country of citizenship": "Austria-Hungary, Kingdom of Yugoslavia",
+                "date of birth": "+1879-11-09T00:00:00Z",
+                "date of death": "+1931-02-18T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "János Karácsonyi",
+                "start_char": 1579,
+                "end_char": 1595,
+                "label": "János Karácsonyi",
+                "description": "Hungarian historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "János Karácsonyi",
+                "wikidata_id": "Q1105077",
+                "also_known_as": [
+                    "Janos Karacsonyi"
+                ],
+                "occupation": "historian, Catholic priest",
+                "country of citizenship": "Hungary",
+                "date of birth": "+1858-12-15T00:00:00Z",
+                "date of death": "+1929-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Ljudmil Hauptmann",
+                "start_char": 1653,
+                "end_char": 1670,
+                "label": "Ljudmil Hauptmann",
+                "description": "Slovene historian and academic (1884-1968)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ljudmil Hauptmann",
+                "wikidata_id": "Q12795030",
+                "also_known_as": [
+                    "Ludmil Hauptmann"
+                ],
+                "occupation": "historian",
+                "country of citizenship": "Socialist Federal Republic of Yugoslavia, Kingdom of Yugoslavia, Kingdom of Serbs, Croats and Slovenes, Cisleithania",
+                "date of birth": "+1884-02-05T00:00:00Z",
+                "date of death": "+1968-04-19T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Miho Barada",
+                "start_char": 1731,
+                "end_char": 1742,
+                "label": "Miho Barada",
+                "description": "Croatian historian of the Catholic church",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Miho Barada",
+                "wikidata_id": "Q16114446",
+                "occupation": "historian",
+                "country of citizenship": "Yugoslavia",
+                "date of birth": "+1889-00-00T00:00:00Z",
+                "date of death": "+1957-00-00T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Marko Kostrenčić",
+                "start_char": 1747,
+                "end_char": 1763,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Nada Klaić",
+                "start_char": 1824,
+                "end_char": 1834,
+                "label": "Nada Klaić",
+                "description": "Croatian historian, linguist, translator",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Nada Klaić",
+                "wikidata_id": "Q1276244",
+                "occupation": "linguist, historian, translator, university teacher",
+                "country of citizenship": "Croatia",
+                "date of birth": "+1920-07-21T00:00:00Z",
+                "date of death": "+1988-08-02T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Stjepan Antoljak",
+                "start_char": 1914,
+                "end_char": 1930,
+                "label": "Stjepan Antoljak",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Stjepan Antoljak",
+                "wikidata_id": "Q12295365",
+                "occupation": "medievalist",
+                "country of citizenship": "Yugoslavia",
+                "date of birth": "+1909-08-29T00:00:00Z",
+                "date of death": "+1997-09-02T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Ferdo Šišić",
+                "start_char": 2393,
+                "end_char": 2404,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gyula Kristó",
+                "start_char": 2551,
+                "end_char": 2563,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Bálint Hóman",
+                "start_char": 2565,
+                "end_char": 2577,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "János Karácsonyi",
+                "start_char": 2582,
+                "end_char": 2598,
+                "label": "János Karácsonyi",
+                "description": "Hungarian historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "János Karácsonyi",
+                "wikidata_id": "Q1105077",
+                "also_known_as": [
+                    "Janos Karacsonyi"
+                ],
+                "occupation": "historian, Catholic priest",
+                "country of citizenship": "Hungary",
+                "date of birth": "+1858-12-15T00:00:00Z",
+                "date of death": "+1929-01-01T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc07": {
+        "entities": [
+            {
+                "text": "Brian Welch",
+                "start_char": 967,
+                "end_char": 978,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Brian Welch"
+            },
+            {
+                "text": "Pierre Kohler",
+                "start_char": 1148,
+                "end_char": 1161,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc08": {
+        "entities": [
+            {
+                "text": "Lorenzo Valla",
+                "start_char": 649,
+                "end_char": 662,
+                "label": "Lorenzo Valla",
+                "description": "Italian Renaissance humanist (c. 1407–1457)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Lorenzo Valla",
+                "wikidata_id": "Q214115",
+                "also_known_as": [
+                    "Laurence Valla"
+                ],
+                "occupation": "writer, philologist, university teacher, philosopher, Latin Catholic priest",
+                "date of birth": "+1407-01-01T00:00:00Z",
+                "date of death": "+1457-08-01T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Valla"
+            },
+            {
+                "text": "Cardinal Nicholas of Cusa",
+                "start_char": 1344,
+                "end_char": 1369,
+                "label": "Nicholas of Cusa",
+                "description": "German philosopher (1401 – 1464)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Cardinal Nicholas of Cusa",
+                "wikidata_id": "Q154751",
+                "also_known_as": [
+                    "Cusanus bem foda",
+                    "Nikolaus Krebs",
+                    "Nikolaus von Kues",
+                    "Nikolaus Cusanus",
+                    "Nikolaus Cryfftz",
+                    "Nikolaus von Cusa",
+                    "Nicholas of Kues",
+                    "P. Nicolavm Cvsanvm",
+                    "Cardinal Nicholas of Cusa",
+                    "Nicolaus Cusanus",
+                    "Nicolas of Cusa"
+                ],
+                "occupation": "mathematician, astronomer, diplomat, philosopher, writer, Christian minister, Catholic priest, theologian, jurist, politician, Catholic bishop, scribe",
+                "country of citizenship": "Germany",
+                "date of birth": "+1401-00-00T00:00:00Z",
+                "date of death": "+1464-08-11T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Reginald Pecocke",
+                "start_char": 2059,
+                "end_char": 2075,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Pope Pius II",
+                "start_char": 2621,
+                "end_char": 2633,
+                "label": "Pius II",
+                "description": "pope of the Catholic Church from 1458 to 1464",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Pope Pius II",
+                "wikidata_id": "Q101437",
+                "also_known_as": [
+                    "Enea Silvio Bartolomeo Piccolomini",
+                    "Pope Pius II",
+                    "pape Pie II",
+                    "Aeneas Silvius Piccolomini",
+                    "Enea Silvio Piccolomini",
+                    "papa Pio II",
+                    "Pius II. Papst",
+                    "Pius PP. II",
+                    "Papa Pío II",
+                    "Eneas Silvius Piccolomini",
+                    "Aeneas Sylvius Piccolominus",
+                    "Silvio Piccolomini",
+                    "Æneas Silvius"
+                ],
+                "occupation": "Catholic priest, diplomat, writer, university teacher, poet, historian, geographer",
+                "country of citizenship": "Holy Roman Empire",
+                "date of birth": "+1405-10-18T00:00:00Z",
+                "date of death": "+1464-08-14T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Giovanni Cavalcanti",
+                "start_char": 3056,
+                "end_char": 3075,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Filippo Maria Visconti",
+                "start_char": 3129,
+                "end_char": 3151,
+                "label": "Filippo Maria Visconti",
+                "description": "Duke of Milan",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Filippo Maria Visconti",
+                "wikidata_id": "Q289285",
+                "occupation": "statesperson",
+                "country of citizenship": "Duchy of Milan",
+                "date of birth": "+1392-09-03T00:00:00Z",
+                "date of death": "+1447-08-13T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Wolfram Setz",
+                "start_char": 3742,
+                "end_char": 3754,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ulrich von Hutten",
+                "start_char": 4653,
+                "end_char": 4670,
+                "label": "Ulrich von Hutten",
+                "description": "German scholar, poet and reformer (1488-1523)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ulrich von Hutten",
+                "wikidata_id": "Q77107",
+                "occupation": "poet, writer, monk, Imperial Knight, politician, philosopher",
+                "country of citizenship": "Holy Roman Empire",
+                "date of birth": "+1488-04-21T00:00:00Z",
+                "date of death": "+1523-08-29T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Martin Luther",
+                "start_char": 4675,
+                "end_char": 4688,
+                "label": "Martin Luther",
+                "description": "German priest, theologian and author (1483–1546)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Martin Luther",
+                "wikidata_id": "Q9554",
+                "also_known_as": [
+                    "Martinos Luter",
+                    "Marczin Luther",
+                    "Martti Luther",
+                    "Martin Lutr",
+                    "Marcin Luter",
+                    "Mātīn Lūtœ",
+                    "Martí Luther",
+                    "Mārtiņš Luters",
+                    "Martín Lutero",
+                    "Márton Luther",
+                    "Marṭin Luter",
+                    "D. M. L. A.",
+                    "Luttar Cāstiriyār",
+                    "Martinus Luther",
+                    "Maarten Luther",
+                    "Luther",
+                    "Lutʻŏ",
+                    "Marti Luther",
+                    "Martin Lutero",
+                    "Marton Luther"
+                ],
+                "occupation": "translator, theologian, professor, friar, lawyer, Bible translator, hymnwriter, Protestant reformer, presbyter, philosopher, pastor, writer, preacher, composer, scribe",
+                "country of citizenship": "Holy Roman Empire",
+                "date of birth": "+1483-11-10T00:00:00Z",
+                "date of death": "+1546-02-18T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Caesar Baronius",
+                "start_char": 4849,
+                "end_char": 4864,
+                "label": "Caesar Baronius",
+                "description": "Italian cardinal and ecclesiastical historian (1538–1607)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Caesar Baronius",
+                "wikidata_id": "Q317900",
+                "also_known_as": [
+                    "Cesare Baronio",
+                    "Cardinal Cesare Baronio",
+                    "Cesare, Cardinal Baronio"
+                ],
+                "occupation": "librarian, church historian, historian, writer, Catholic priest, Catholic deacon, Catholic bishop",
+                "date of birth": "+1538-01-01T00:00:00Z",
+                "date of death": "+1607-06-30T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Christian Wolff",
+                "start_char": 5099,
+                "end_char": 5114,
+                "label": "Christian Wolff",
+                "description": "German philosopher (1679–1754)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Christian Wolff",
+                "wikidata_id": "Q76510",
+                "also_known_as": [
+                    "Christian von Wolff",
+                    "Johann Christian von Wolff"
+                ],
+                "occupation": "jurist, mathematician, philosopher, university teacher",
+                "country of citizenship": "Kingdom of Prussia",
+                "date of birth": "+1679-01-24T00:00:00Z",
+                "date of death": "+1754-04-09T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc09": {
+        "entities": []
+    },
+    "doc10": {
+        "entities": []
+    },
+    "doc11": {
+        "entities": []
+    },
+    "doc12": {
+        "entities": [
+            {
+                "text": "Friedrich Münter",
+                "start_char": 372,
+                "end_char": 388,
+                "label": "Friedrich Münter",
+                "description": "Danish bishop (1761-1830)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Friedrich Münter",
+                "wikidata_id": "Q213871",
+                "also_known_as": [
+                    "Friedrich Christian Carl Heinrich Münter",
+                    "Friedrich Christian Karl Heinrich Münter"
+                ],
+                "occupation": "archaeologist, priest, theologian, university teacher",
+                "country of citizenship": "Kingdom of Denmark",
+                "date of birth": "+1761-10-14T00:00:00Z",
+                "date of death": "+1830-04-09T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc13": {
+        "entities": [
+            {
+                "text": "Robert S. Nelson",
+                "start_char": 1131,
+                "end_char": 1147,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Robert P. Casey",
+                "start_char": 1256,
+                "end_char": 1271,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Mary V. Orna",
+                "start_char": 1315,
+                "end_char": 1327,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Mary V. Orna"
+            },
+            {
+                "text": "Stephen Carlson",
+                "start_char": 1777,
+                "end_char": 1792,
+                "label": "Stephen Carlson",
+                "description": "associate professor at Australian Catholic University",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Stephen Carlson",
+                "wikidata_id": "Q125913421",
+                "occupation": "teacher",
+                "country of citizenship": "",
+                "date of birth": "",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc14": {
+        "entities": [
+            {
+                "text": "Mark Hofmann",
+                "start_char": 487,
+                "end_char": 499,
+                "label": "Mark Hofmann",
+                "description": "American counterfeiter, forger and convicted murderer",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Mark Hofmann",
+                "wikidata_id": "Q4354485",
+                "also_known_as": [
+                    "Mark William Hofmann",
+                    "Mark W. Hofmann"
+                ],
+                "occupation": "spree killer, counterfeiter",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1954-12-07T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Hofmann"
+            },
+            {
+                "text": "Charles Hamilton",
+                "start_char": 4261,
+                "end_char": 4277,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kenneth W. Rendell",
+                "start_char": 4279,
+                "end_char": 4297,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "investigators at the National Archives",
+                "start_char": 4303,
+                "end_char": 4341,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc15": {
+        "entities": [
+            {
+                "text": "Arthur Waldo",
+                "start_char": 943,
+                "end_char": 955,
+                "label": "Arthur Waldo",
+                "description": "holocaust victim, b. 1883-10-22",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Arthur Waldo",
+                "occupation": "editor, writer, lecturer, social worker",
+                "instance_of": "human"
+            },
+            {
+                "text": "James S. Pula",
+                "start_char": 1286,
+                "end_char": 1299,
+                "label": "James S. Pula",
+                "description": "American historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "James S. Pula",
+                "wikidata_id": "Q16107475",
+                "occupation": "historian",
+                "date of birth": "+1946-02-18T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc16": {
+        "entities": [
+            {
+                "text": "Abdul Hai Habibi",
+                "start_char": 349,
+                "end_char": 365,
+                "label": "Abdul Hai Habibi",
+                "description": "Afghan writer and historian",
+                "labels": [
+                    "Person"
+                ],
+                "also_known_as": [
+                    "Abdul-Hai Habibi"
+                ],
+                "resolved_label": "Abdul Hai Habibi",
+                "wikidata_id": "Q95673018",
+                "date of birth": "+1910-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Lucia Serena Loi",
+                "start_char": 1487,
+                "end_char": 1503,
+                "label": "Lucia Serena Loi",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Lucia Serena Loi",
+                "wikidata_id": "Q95673018",
+                "occupation": "iranologist",
+                "instance_of": "human"
+            },
+            {
+                "text": "Qalandar Mohmand",
+                "start_char": 1623,
+                "end_char": 1639,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Qalandar Mohmand"
+            },
+            {
+                "text": "Juma Khan Sufi",
+                "start_char": 1665,
+                "end_char": 1679,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Juma Khan Sufi"
+            },
+            {
+                "text": "David Neil MacKenzie",
+                "start_char": 2404,
+                "end_char": 2424,
+                "label": "David Neil MacKenzie",
+                "description": "British linguist (1926–2001)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "David Neil MacKenzie",
+                "wikidata_id": "Q4819498",
+                "also_known_as": [
+                    "David N. MacKenzie"
+                ],
+                "occupation": "linguist, orientalist, polyglot",
+                "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1926-04-08T00:00:00Z",
+                "date of death": "+2001-10-13T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc17": {
+        "entities": [
+            {
+                "text": "Petrarch",
+                "start_char": 2200,
+                "end_char": 2208,
+                "label": "Petrarch",
+                "description": "Italian scholar and poet (1304-1374)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Petrarch",
+                "wikidata_id": "Q1401",
+                "also_known_as": [
+                    "Francesco Petrarca",
+                    "Peetrarque",
+                    "Petrarque",
+                    "Francesco Peetrarque",
+                    "Francesco Petrarch",
+                    "Francis Petrarch"
+                ],
+                "occupation": "philosopher, poet, translator, lyricist, writer, mountaineer, autobiographer, philologist, humanist, Catholic cleric",
+                "country of citizenship": "Republic of Florence",
+                "date of birth": "+1304-07-19T00:00:00Z",
+                "date of death": "+1374-07-18T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Wilhelm Wattenbach",
+                "start_char": 4487,
+                "end_char": 4505,
+                "label": "Wilhelm Wattenbach",
+                "description": "German paleographer",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Wilhelm Wattenbach",
+                "wikidata_id": "Q72864",
+                "occupation": "historian, archivist, university teacher, writer, palaeographer",
+                "country of citizenship": "Kingdom of Prussia",
+                "date of birth": "+1819-09-22T00:00:00Z",
+                "date of death": "+1897-09-20T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc18": {
+        "entities": [
+            {
+                "text": "Daniel Pipes",
+                "start_char": 3060,
+                "end_char": 3072,
+                "label": "Daniel Pipes",
+                "description": "American historian, writer, journalist and political scientist (born 1949)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Daniel Pipes",
+                "wikidata_id": "Q369283",
+                "occupation": "journalist, writer, historian, university teacher, political scientist",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1949-09-09T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Pipes"
+            },
+            {
+                "text": "Umberto Eco",
+                "start_char": 3907,
+                "end_char": 3918,
+                "label": "Umberto Eco",
+                "description": "Italian semiotician, essayist, philosopher, literary critic, and novelist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Umberto Eco",
+                "wikidata_id": "Q12807",
+                "also_known_as": [
+                    "Umberto Ecco",
+                    "Umberto Eccounstino",
+                    "Humberto Eco",
+                    "Dedalus",
+                    "Umberto Eko",
+                    "Oumperto Eko",
+                    "Eco Umberto",
+                    "U. Eco"
+                ],
+                "occupation": "philosopher, novelist, essayist, pedagogue, screenwriter, translator, university teacher, semiotician, writer, literary critic, medievalist, literary scholar, historian",
+                "country of citizenship": "Italy, Kingdom of Italy",
+                "date of birth": "+1932-01-05T00:00:00Z",
+                "date of death": "+2016-02-19T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Philip Graves",
+                "start_char": 4859,
+                "end_char": 4872,
+                "label": "Philip Graves",
+                "description": "Irish journalist (1876-1953)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Philip Graves",
+                "wikidata_id": "Q2086191",
+                "also_known_as": [
+                    "Philip Perceval Graves",
+                    "Philip Percival Graves"
+                ],
+                "occupation": "journalist, entomologist, lepidopterist",
+                "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland, Republic of Ireland",
+                "date of birth": "+1876-02-25T00:00:00Z",
+                "date of death": "+1953-06-03T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Graves"
+            },
+            {
+                "text": "Peter Grose",
+                "start_char": 4960,
+                "end_char": 4971,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Allen Dulles",
+                "start_char": 4973,
+                "end_char": 4985,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Vladimir Burtsev",
+                "start_char": 6337,
+                "end_char": 6353,
+                "label": "Vladimir Burtsev",
+                "description": "Russian revolutionary activist (1862-1942)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Vladimir Burtsev",
+                "wikidata_id": "Q1888703",
+                "also_known_as": [
+                    "Vladimir Lvovich Burtsev"
+                ],
+                "occupation": "journalist, writer, politician, opinion journalist, publisher, revolutionary",
+                "country of citizenship": "Russian Empire",
+                "date of birth": "+1862-11-17T00:00:00Z",
+                "date of death": "+1942-08-21T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Nora Levin",
+                "start_char": 8841,
+                "end_char": 8851,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Giovanni Preziosi",
+                "start_char": 9436,
+                "end_char": 9453,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Julius Evola",
+                "start_char": 9769,
+                "end_char": 9781,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ali Gomaa",
+                "start_char": 11431,
+                "end_char": 11440,
+                "label": "Ali Gomaa",
+                "description": "Egyptian imam",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ali Gomaa",
+                "wikidata_id": "Q957704",
+                "occupation": "writer, mufti",
+                "country of citizenship": "Egypt",
+                "date of birth": "+1952-03-03T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc19": {
+        "entities": [
+            {
+                "text": "Kenneth W. Rendell",
+                "start_char": 694,
+                "end_char": 712,
+                "label": "Kenneth W. Rendell",
+                "description": "American businessman",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kenneth W. Rendell",
+                "wikidata_id": "Q6390785",
+                "occupation": "businessperson",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1943-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Jerald Tanner",
+                "start_char": 1917,
+                "end_char": 1930,
+                "label": "Jerald Tanner",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Jerald Tanner",
+                "wikidata_id": "Q40739905",
+                "also_known_as": [
+                    "Jerald Dee Tanner"
+                ],
+                "country of citizenship": "United States of America",
+                "date of birth": "+1938-06-01T00:00:00Z",
+                "date of death": "+2006-10-01T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Jerald"
+            },
+            {
+                "text": "John Tvedtnes",
+                "start_char": 2591,
+                "end_char": 2604,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "George Throckmorton",
+                "start_char": 4313,
+                "end_char": 4332,
+                "label": "George Throckmorton",
+                "description": "English politician; (1489-1552)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "George Throckmorton",
+                "wikidata_id": "Q5545218",
+                "occupation": "politician",
+                "country of citizenship": "Kingdom of England",
+                "date of birth": "+1489-00-00T00:00:00Z",
+                "date of death": "+1552-08-06T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "William Flynn",
+                "start_char": 4363,
+                "end_char": 4376,
+                "label": "William F Flynn",
+                "description": "researcher",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "William Flynn",
+                "wikidata_id": "Q85544831",
+                "also_known_as": [
+                    "William Flynn"
+                ],
+                "occupation": "researcher",
+                "instance_of": "human"
+            },
+            {
+                "text": "Frances Magee",
+                "start_char": 4741,
+                "end_char": 4754,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gordon B. Hinckley",
+                "start_char": 5142,
+                "end_char": 5160,
+                "label": "Gordon B. Hinckley",
+                "description": "President of The Church of Jesus Christ of Latter-day Saints (1910–2008)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Gordon B. Hinckley",
+                "wikidata_id": "Q553147",
+                "also_known_as": [
+                    "Gordon Bitner Hinckley",
+                    "Gordon Hinckley"
+                ],
+                "occupation": "hymnwriter, prophet",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1910-06-23T00:00:00Z",
+                "date of death": "+2008-01-27T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Dallin H. Oaks",
+                "start_char": 5868,
+                "end_char": 5882,
+                "label": "Dallin H. Oaks",
+                "description": "Apostle of The Church of Jesus Christ of Latter-day Saints",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Dallin H. Oaks",
+                "wikidata_id": "Q3012489",
+                "also_known_as": [
+                    "Dallin Harris Oaks"
+                ],
+                "occupation": "lawyer, university teacher, writer, judge, religious leader",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1932-08-12T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Grant H. Palmer",
+                "start_char": 8315,
+                "end_char": 8330,
+                "label": "Grant H. Palmer",
+                "description": "American mormon leader",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Grant H. Palmer",
+                "wikidata_id": "Q5596239",
+                "also_known_as": [
+                    "Grant Hart Palmer"
+                ],
+                "date of birth": "+1940-08-17T00:00:00Z",
+                "date of death": "+2017-09-25T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Palmer"
+            },
+            {
+                "text": "Sandra Tanner",
+                "start_char": 8990,
+                "end_char": 9003,
+                "label": "Sandra Tanner",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Sandra Tanner",
+                "wikidata_id": "Q40739939",
+                "also_known_as": [
+                    "Sandra McGee Tanner"
+                ],
+                "country of citizenship": "United States of America",
+                "date of birth": "+1941-01-14T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc20": {
+        "entities": [
+            {
+                "text": "Sergei Lavrov",
+                "start_char": 533,
+                "end_char": 546,
+                "label": "Sergei Lavrov",
+                "description": "Russian politician and Foreign Minister",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Sergei Lavrov",
+                "wikidata_id": "Q58217",
+                "also_known_as": [
+                    "Sergey Viktorovich Lavrov"
+                ],
+                "occupation": "diplomat, politician, minister",
+                "instance_of": "human"
+            },
+            {
+                "text": "Michał Sokolnicki",
+                "start_char": 598,
+                "end_char": 615,
+                "label": "Michał Sokolnicki",
+                "description": "Polish general (1760-1816)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Michał Sokolnicki",
+                "wikidata_id": "Q4427460",
+                "also_known_as": [
+                    "Michal Sokolnicki"
+                ],
+                "occupation": "military officer",
+                "country of citizenship": "France, Duchy of Warsaw, Polish–Lithuanian Commonwealth",
+                "date of birth": "+1760-09-29T00:00:00Z",
+                "date of death": "+1816-09-24T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Sokolnicki"
+            },
+            {
+                "text": "Napoleon Bonaparte",
+                "start_char": 769,
+                "end_char": 787,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Charles-Louis Lesur",
+                "start_char": 1359,
+                "end_char": 1378,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Walter K. Kelly",
+                "start_char": 1736,
+                "end_char": 1751,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Sergey Shubinsky",
+                "start_char": 2108,
+                "end_char": 2124,
+                "label": "Sergey Shubinsky",
+                "description": "Russian general and historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Sergey Shubinsky",
+                "wikidata_id": "Q4527209",
+                "also_known_as": [
+                    "Sergey Nikolayevich Shubinsky"
+                ],
+                "occupation": "writer, historian, journalist",
+                "country of citizenship": "Russian Empire",
+                "date of birth": "+1834-06-02T00:00:00Z",
+                "date of death": "+1913-05-28T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Karl Marx",
+                "start_char": 2271,
+                "end_char": 2280,
+                "label": "Karl Marx",
+                "description": "German-born philosopher (1818–1883)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Karl Marx",
+                "wikidata_id": "Q9061",
+                "also_known_as": [
+                    "Karl Heinrich Marx",
+                    "Marx",
+                    "Karl H. Marx"
+                ],
+                "occupation": "economist, journalist, historian, philosopher, sociologist, revolutionary, poet, politician, writer",
+                "country of citizenship": "Kingdom of Prussia, statelessness",
+                "date of birth": "+1818-05-05T00:00:00Z",
+                "date of death": "+1883-03-14T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Marx"
+            },
+            {
+                "text": "Michał Sokolnicki",
+                "start_char": 2973,
+                "end_char": 2990,
+                "label": "Michał Sokolnicki",
+                "description": "Polish general (1760-1816)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Michał Sokolnicki",
+                "wikidata_id": "Q4427460",
+                "also_known_as": [
+                    "Michal Sokolnicki"
+                ],
+                "occupation": "military officer",
+                "country of citizenship": "France, Duchy of Warsaw, Polish–Lithuanian Commonwealth",
+                "date of birth": "+1760-09-29T00:00:00Z",
+                "date of death": "+1816-09-24T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Sokolnicki"
+            }
+        ]
+    },
+    "doc21": {
+        "entities": [
+            {
+                "text": "Witten",
+                "start_char": 1412,
+                "end_char": 1418,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Skelton",
+                "start_char": 2463,
+                "end_char": 2470,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Luka Jelić",
+                "start_char": 3554,
+                "end_char": 3564,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Peter Foote",
+                "start_char": 3614,
+                "end_char": 3625,
+                "label": "Peter Foote",
+                "description": "Scandinavian Studies professor (1924-2009)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Peter Foote",
+                "wikidata_id": "Q7174032",
+                "also_known_as": [
+                    "Peter Godfrey Foote"
+                ],
+                "occupation": "Scandinavian studies scholar",
+                "country of citizenship": "United Kingdom",
+                "date of birth": "+1924-05-26T00:00:00Z",
+                "date of death": "+2009-09-29T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Richard Hennig",
+                "start_char": 3754,
+                "end_char": 3768,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jacqueline Olin",
+                "start_char": 10395,
+                "end_char": 10410,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kenneth Towe",
+                "start_char": 10648,
+                "end_char": 10660,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kirsten A. Seaver",
+                "start_char": 13994,
+                "end_char": 14011,
+                "label": "Kirsten A. Seaver",
+                "description": "Norwegian historian and author",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kirsten A. Seaver",
+                "wikidata_id": "Q11980767",
+                "also_known_as": [
+                    "Kirsten Seaver"
+                ],
+                "occupation": "translator, non-fiction writer, historian, writer",
+                "country of citizenship": "Norway",
+                "date of birth": "+1934-08-23T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "John Paul Floyd",
+                "start_char": 17242,
+                "end_char": 17257,
+                "label": "John Paul Floyd",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "John Paul Floyd",
+                "wikidata_id": "Q125914978",
+                "occupation": "essayist",
+                "country of citizenship": "United Kingdom",
+                "instance_of": "human",
+                "text_2": "Floyd"
+            },
+            {
+                "text": "Paul Freedman",
+                "start_char": 19191,
+                "end_char": 19204,
+                "label": "Paul Freedman",
+                "description": "American academic.",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Paul Freedman",
+                "wikidata_id": "Q16241764",
+                "also_known_as": [
+                    "Paul H. Freedman",
+                    "Paul Harris Freedman"
+                ],
+                "occupation": "university teacher, historian, medievalist",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1949-09-15T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Richard Hark",
+                "start_char": 19336,
+                "end_char": 19348,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Richard Hark"
+            },
+            {
+                "text": "Raymond Clemens",
+                "start_char": 19735,
+                "end_char": 19750,
+                "label": "Raymond Clemens",
+                "description": "professor",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Raymond Clemens",
+                "wikidata_id": "Q112425727",
+                "occupation": "professor",
+                "date of birth": "+1966-00-00T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc22": {
+        "entities": [
+            {
+                "text": "Nicolò Zeno the Younger",
+                "start_char": 215,
+                "end_char": 238,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerardus Mercator",
+                "start_char": 607,
+                "end_char": 624,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Andrea di Robilant",
+                "start_char": 2329,
+                "end_char": 2347,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "The Dictionary of Canadian Biography Online",
+                "start_char": 2405,
+                "end_char": 2448,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Herbert Wrigley Wilson",
+                "start_char": 2598,
+                "end_char": 2620,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Di Robilant",
+                "start_char": 2983,
+                "end_char": 2994,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc23": {
+        "entities": [
+            {
+                "text": "Jacob Ilive",
+                "start_char": 92,
+                "end_char": 103,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Monthly Review",
+                "start_char": 1392,
+                "end_char": 1406,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Rosicrucians in San Jose,",
+                "start_char": 2164,
+                "end_char": 2189,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc24": {
+        "entities": [
+            {
+                "text": "Boris Rybakov",
+                "start_char": 1241,
+                "end_char": 1254,
+                "label": "Boris Rybakov",
+                "description": "Soviet archaeologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Boris Rybakov",
+                "wikidata_id": "Q834947",
+                "also_known_as": [
+                    "Boris Aleksandrovich Rybakov",
+                    "Boris Alexandrovich Rybakov",
+                    "B.A. Rybakov",
+                    "B. A. Rybakov"
+                ],
+                "occupation": "anthropologist, archaeologist, historian, university teacher",
+                "country of citizenship": "Russian Empire, Russian Socialist Federative Soviet Republic, Soviet Union, Russia",
+                "date of birth": "+1908-05-21T00:00:00Z",
+                "date of death": "+2001-12-27T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Andrey Zaliznyak",
+                "start_char": 1256,
+                "end_char": 1272,
+                "label": "Andrey Zaliznyak",
+                "description": "Russian linguist (1935-2017)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Andrey Zaliznyak",
+                "wikidata_id": "Q2371003",
+                "also_known_as": [
+                    "Andrey Anatolyevich Zaliznyak"
+                ],
+                "occupation": "linguist, dialectologist, university teacher",
+                "country of citizenship": "Soviet Union, Russia",
+                "date of birth": "+1935-04-29T00:00:00Z",
+                "date of death": "+2017-12-24T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Leo Klejn",
+                "start_char": 1274,
+                "end_char": 1283,
+                "label": "Leo Klejn",
+                "description": "Russian archaeologist (1927-2019)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Leo Klejn",
+                "wikidata_id": "Q983700",
+                "also_known_as": [
+                    "Lev Samuilovich Klejn"
+                ],
+                "occupation": "anthropologist, archaeologist, prehistorian, historian, cultural anthropologist, philologist",
+                "country of citizenship": "Soviet Union, Russia",
+                "date of birth": "+1927-07-01T00:00:00Z",
+                "date of death": "+2019-11-07T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Yuriy Mirolyubov",
+                "start_char": 1799,
+                "end_char": 1815,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alexander Sulakadzev",
+                "start_char": 2005,
+                "end_char": 2025,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "O.V. Tvorogov",
+                "start_char": 3143,
+                "end_char": 3156,
+                "label": "Oleg Tvorogov",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "also_known_as": [
+                    "Oleg Viktorovich Tvorogov"
+                ],
+                "wikidata_id": "Q4453338",
+                "resolved_label": "O.V. Tvorogov",
+                "occupation": "scientist",
+                "date of birth": "+1928-10-11T00:00:00Z"
+            },
+            {
+                "text": "Levko Lukyanenko",
+                "start_char": 3630,
+                "end_char": 3646,
+                "label": "Levko Lukianenko",
+                "description": "Ukrainian politician (1928-2018)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Levko Lukyanenko",
+                "wikidata_id": "Q1996140",
+                "also_known_as": [
+                    "Levko Lukyanenko",
+                    "Levko Hryhorovych Lukianenko"
+                ],
+                "occupation": "diplomat, human rights activist, writer, politician",
+                "country of citizenship": "Soviet Union, Ukraine",
+                "date of birth": "+1928-08-24T00:00:00Z",
+                "date of death": "+2018-07-07T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc25": {
+        "entities": [
+            {
+                "text": "L. Ron Hubbard",
+                "start_char": 175,
+                "end_char": 189,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Edward Hunter",
+                "start_char": 793,
+                "end_char": 806,
+                "label": "Edward Hunter",
+                "description": "Presiding Bishop of the LDS Church (1793-1883)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Edward Hunter",
+                "wikidata_id": "Q5343562",
+                "also_known_as": [
+                    "Edward Hunter Jr."
+                ],
+                "occupation": "priest, politician",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1793-06-22T00:00:00Z",
+                "date of death": "+1883-10-16T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Tony Ortega",
+                "start_char": 1860,
+                "end_char": 1871,
+                "label": "Tony Ortega",
+                "description": "American journalist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Tony Ortega",
+                "wikidata_id": "Q16195244",
+                "occupation": "journalist, editor",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1963-05-23T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Nick Redfern",
+                "start_char": 2624,
+                "end_char": 2636,
+                "label": "Nick Redfern",
+                "description": "British journalist and ufologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Nick Redfern",
+                "wikidata_id": "Q7027791",
+                "also_known_as": [
+                    "Nicholas Redfern"
+                ],
+                "occupation": "ufologist, writer, ghost hunter",
+                "country of citizenship": "United Kingdom",
+                "date of birth": "+1964-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Anderson Report",
+                "start_char": 3689,
+                "end_char": 3704,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc26": {
+        "entities": [
+            {
+                "text": "Ernst Edler von der Planitz",
+                "start_char": 53,
+                "end_char": 80,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc27": {
+        "entities": [
+            {
+                "text": "The librarian",
+                "start_char": 2047,
+                "end_char": 2060,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Roy Rosenzweig",
+                "start_char": 2712,
+                "end_char": 2726,
+                "label": "Roy Rosenzweig",
+                "description": "American historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Roy Rosenzweig",
+                "wikidata_id": "Q1298389",
+                "also_known_as": [
+                    "Roy Alan Rosenzweig"
+                ],
+                "occupation": "historian, university teacher",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1950-08-06T00:00:00Z",
+                "date of death": "+2007-10-11T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Rosenzweig"
+            },
+            {
+                "text": "William Jelani Cobb",
+                "start_char": 2929,
+                "end_char": 2948,
+                "label": "Jelani Cobb",
+                "description": "American journalist and professor of journalism",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "William Jelani Cobb",
+                "wikidata_id": "Q8013536",
+                "also_known_as": [
+                    "William Jelani Cobb"
+                ],
+                "occupation": "educator, writer",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1967-09-22T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc28": {
+        "entities": [
+            {
+                "text": "Jose Marco",
+                "start_char": 437,
+                "end_char": 447,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Teodoro Agoncillo",
+                "start_char": 621,
+                "end_char": 638,
+                "label": "Teodoro Agoncillo",
+                "description": "historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Teodoro Agoncillo",
+                "wikidata_id": "Q2735473",
+                "also_known_as": [
+                    "Teodoro Andal Agoncillo"
+                ],
+                "occupation": "historian",
+                "country of citizenship": "Philippines",
+                "date of birth": "+1912-11-09T00:00:00Z",
+                "date of death": "+1985-01-14T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "National Historical Commission of the Philippines",
+                "start_char": 801,
+                "end_char": 850,
+                "label": "National Historical Commission of the Philippines",
+                "description": "Philippine government agency",
+                "labels": [
+                    "Organisation"
+                ],
+                "resolved_label": "National Historical Commission of the Philippines",
+                "wikidata_id": "Q2652138",
+                "also_known_as": [
+                    "NHCP",
+                    "Philippine Historical Research and Markers Committee",
+                    "Philippines Historical Committee",
+                    "National Historical Institute",
+                    "NHI"
+                ],
+                "instance_of": "government agency"
+            },
+            {
+                "text": "James Alexander Robertson",
+                "start_char": 1500,
+                "end_char": 1525,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Henry Scott",
+                "start_char": 2072,
+                "end_char": 2091,
+                "label": "William Henry Scott",
+                "description": "British Army general",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "William Henry Scott",
+                "wikidata_id": "Q27825593",
+                "also_known_as": [
+                    "Maj.-Gen. William Henry Scott",
+                    "General Thomas William Scott"
+                ],
+                "occupation": "military personnel",
+                "date of birth": "+1789-01-01T00:00:00Z",
+                "date of death": "+1868-01-01T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Scott"
+            },
+            {
+                "text": "Antonio M. Molina",
+                "start_char": 3149,
+                "end_char": 3166,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "National Historical Commission of the Philippines",
+                "start_char": 3913,
+                "end_char": 3942,
+                "label": "National Historical Commission of the Philippines",
+                "description": "Philippine government agency",
+                "labels": [
+                    "Organisation"
+                ],
+                "resolved_label": "National Historical Commission of the Philippines",
+                "wikidata_id": "Q2652138",
+                "also_known_as": [
+                    "NHCP",
+                    "Philippine Historical Research and Markers Committee",
+                    "Philippines Historical Committee",
+                    "National Historical Institute",
+                    "NHI"
+                ],
+                "instance_of": "government agency"
+            }
+        ]
+    },
+    "doc29": {
+        "entities": [
+            {
+                "text": "Josef Dobrovský",
+                "start_char": 451,
+                "end_char": 466,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jernej Kopitar",
+                "start_char": 468,
+                "end_char": 482,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Josef Jungmann",
+                "start_char": 724,
+                "end_char": 738,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "František Čelakovský",
+                "start_char": 747,
+                "end_char": 767,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "František Palacký",
+                "start_char": 779,
+                "end_char": 796,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Karel Jaromír Erben",
+                "start_char": 818,
+                "end_char": 837,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Bowring",
+                "start_char": 854,
+                "end_char": 866,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Wratislaw",
+                "start_char": 1548,
+                "end_char": 1557,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alois Vojtěch Šembera",
+                "start_char": 1725,
+                "end_char": 1746,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Tomáš Masaryk",
+                "start_char": 2124,
+                "end_char": 2137,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jan Gebauer",
+                "start_char": 2237,
+                "end_char": 2248,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Palacký",
+                "start_char": 2911,
+                "end_char": 2918,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc30": {
+        "entities": [
+            {
+                "text": "Franck Gavard-Perret",
+                "start_char": 1025,
+                "end_char": 1045,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Franck Gavard-Perret"
+            },
+            {
+                "text": "Nicolas Beaudry",
+                "start_char": 1082,
+                "end_char": 1097,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Nicolas Beaudry",
+                "instance_of": "human"
+            },
+            {
+                "text": "Coraline Hausenblas",
+                "start_char": 1378,
+                "end_char": 1397,
+                "label": "Coraline Hausenblas",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Coraline Hausenblas",
+                "wikidata_id": "Q125916735",
+                "occupation": "writer",
+                "instance_of": "human"
+            },
+            {
+                "text": "Antoine Resche",
+                "start_char": 2373,
+                "end_char": 2387,
+                "label": "Antoine Resche",
+                "description": "French historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Antoine Resche",
+                "wikidata_id": "Q32827051",
+                "also_known_as": [
+                    "Histony"
+                ],
+                "occupation": "historian, video blogger",
+                "country of citizenship": "France",
+                "date of birth": "+1990-04-26T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc31": {
+        "entities": [
+            {
+                "text": "Marcello Dell'Utri",
+                "start_char": 1076,
+                "end_char": 1094,
+                "label": "Marcello Dell'Utri",
+                "description": "Italian politician (born 1941)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Marcello Dell'Utri",
+                "wikidata_id": "Q558815",
+                "occupation": "politician, criminal",
+                "country of citizenship": "Italy",
+                "date of birth": "+1941-09-11T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Dell'Utri"
+            },
+            {
+                "text": "Emilio Gentile",
+                "start_char": 2244,
+                "end_char": 2258,
+                "label": "Emilio Gentile",
+                "description": "Italian historian (1946-)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Emilio Gentile",
+                "wikidata_id": "Q1229044",
+                "occupation": "historian",
+                "country of citizenship": "Italy",
+                "date of birth": "+1946-08-31T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Gentile"
+            },
+            {
+                "text": "Roberto Travaglini",
+                "start_char": 2263,
+                "end_char": 2281,
+                "label": "Roberto Travaglini",
+                "description": "researcher",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Roberto Travaglini",
+                "wikidata_id": "Q114452845",
+                "occupation": "researcher",
+                "instance_of": "human",
+                "text_2": "Travaglini"
+            },
+            {
+                "text": "Silvio Berlusconi",
+                "start_char": 3051,
+                "end_char": 3068,
+                "label": "Silvio Berlusconi",
+                "description": "Italian politician and media tycoon (1936–2023)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Silvio Berlusconi",
+                "wikidata_id": "Q11860",
+                "also_known_as": [
+                    "Berlusconi",
+                    "il Cavaliere"
+                ],
+                "occupation": "politician, entrepreneur, media proprietor, association football executive",
+                "country of citizenship": "Italy",
+                "date of birth": "+1936-09-29T00:00:00Z",
+                "date of death": "+2023-06-12T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Berlusconi"
+            },
+            {
+                "text": "Elisabetta Sgarbi",
+                "start_char": 3262,
+                "end_char": 3279,
+                "label": "Elisabetta Sgarbi",
+                "description": "Italian writer (1956-)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Elisabetta Sgarbi",
+                "wikidata_id": "Q16268759",
+                "occupation": "writer, actor, film director, manufacturer, screenwriter",
+                "country of citizenship": "Italy",
+                "date of birth": "+1956-07-09T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Libero",
+                "start_char": 3308,
+                "end_char": 3314,
+                "label": "libero",
+                "description": "volleyball position",
+                "labels": [
+                    "Organisation"
+                ],
+                "resolved_label": "Libero",
+                "wikidata_id": "Q975915",
+                "instance_of": "volleyball position"
+            }
+        ]
+    },
+    "doc32": {
+        "entities": [
+            {
+                "text": "Walter Kaufmann",
+                "start_char": 128,
+                "end_char": 143,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Walter K. Stewart",
+                "start_char": 2145,
+                "end_char": 2162,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Walter K. Stewart",
+                "also_known_as": [
+                    "Walter K. Stewart"
+                ],
+                "text_2": "Stewart"
+            }
+        ]
+    },
+    "doc33": {
+        "entities": [
+            {
+                "text": "Georg Zappert",
+                "start_char": 102,
+                "end_char": 115,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Johann Kelle",
+                "start_char": 555,
+                "end_char": 567,
+                "label": "Johann von Kellerer",
+                "description": "German philologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Johann Kelle",
+                "wikidata_id": "Q6216334",
+                "also_known_as": [
+                    "Johann Nepomuk Kelle"
+                ],
+                "occupation": "botanist",
+                "country of citizenship": "Germany",
+                "date of birth": "+1828-03-15T00:00:00Z",
+                "date of death": "+1909-01-30T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Jacob Grimm",
+                "start_char": 760,
+                "end_char": 771,
+                "label": "Jacob Grimm",
+                "description": "German philologist, linguist, jurist and mythologist (1785-1863)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Jacob Grimm",
+                "wikidata_id": "Q6701",
+                "also_known_as": [
+                    "Jacob Ludwig Karl Grimm",
+                    "Giacomo Grimm",
+                    "Jakob Ludwig Karl Grimm",
+                    "Jacob, Freiherr von Grimm",
+                    "Jacob Ludwig Carl Grimm",
+                    "Jacob Ludwig Grimm"
+                ],
+                "occupation": "jurist, lexicographer, anthropologist, linguist, philologist, mythologist, librarian, translator, law librarian, children's writer, university teacher, literary scholar, legal historian, secretary of legation, poet lawyer, mythographer, writer, politician, collector of fairy tales, historian",
+                "country of citizenship": "Electorate of Hesse, Kingdom of Prussia",
+                "date of birth": "+1785-01-04T00:00:00Z",
+                "date of death": "+1863-09-20T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "J. Grimm"
+            },
+            {
+                "text": "Edwards",
+                "start_char": 953,
+                "end_char": 960,
+                "label": "Cyril Edwards",
+                "description": "British medievalist and translator (1947-2019)",
+                "wikidata_id": "Q6701",
+                "also_known_as": [
+                    "Cyril W. Edwards",
+                    "Cyril Edwards"
+                ],
+                "occupation": "Germanist",
+                "country of citizenship": "Electorate of Hesse, Kingdom of Prussia",
+                "date of birth": "+1785-01-04T00:00:00Z",
+                "date of death": "+1863-09-20T00:00:00Z",
+                "instance_of": "human",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Edwards"
+            },
+            {
+                "text": "Grohmann",
+                "start_char": 1141,
+                "end_char": 1149,
+                "label": "Josef Virgil Grohmann",
+                "description": "Czech member of Czech council, educator and writer (1831-1919)",
+                "wikidata_id": "Q14923863",
+                "occupation": "pedagogue, writer, politician",
+                "date of birth": "+1831-12-12T00:00:00Z",
+                "date of death": "+1919-10-12T00:00:00Z",
+                "instance_of": "human",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Grohmann"
+            },
+            {
+                "text": "Kletke",
+                "start_char": 1326,
+                "end_char": 1332,
+                "label": "Cäsar Albano Kletke",
+                "description": "German educationist",
+                "wikidata_id": "Q1149994",
+                "occupation": "pedagogue, high school teacher",
+                "date of birth": "+1805-11-28T00:00:00Z",
+                "date of death": "+1893-04-05T00:00:00Z",
+                "instance_of": "human",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kletke"
+            },
+            {
+                "text": "Fichtenau",
+                "start_char": 1601,
+                "end_char": 1610,
+                "label": "Heinrich Fichtenau",
+                "description": "German educationist",
+                "wikidata_id": "Q86883",
+                "also_known_as": [
+                    "Heinrich Ritter von Fichtenau",
+                    "Heinrich von Fichtenau"
+                ],
+                "occupation": "medievalist, historian, university teacher",
+                "date of birth": "+1912-12-10T00:00:00Z",
+                "date of death": "+2000-06-12T00:00:00Z",
+                "instance_of": "human",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Fichtenau"
+            },
+            {
+                "text": "Howard",
+                "start_char": 2108,
+                "end_char": 2114,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "F. Mairinger",
+                "start_char": 2872,
+                "end_char": 2884,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "F. Mairinger"
+            }
+        ]
+    },
+    "doc34": {
+        "entities": [
+            {
+                "text": "Walter Laqueur",
+                "start_char": 1509,
+                "end_char": 1523,
+                "label": "Walter Laqueur",
+                "description": "American historian and political commentator (1921-2018)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Walter Laqueur",
+                "wikidata_id": "Q213692",
+                "occupation": "historian, university teacher, political scientist, journalist, political analyst",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1921-05-26T00:00:00Z",
+                "date of death": "+2018-09-30T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc35": {
+        "entities": [
+            {
+                "text": "Leonard Lewin",
+                "start_char": 843,
+                "end_char": 856,
+                "label": "Leonard C. Lewin",
+                "description": "American writer (1916-1999)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Leonard Lewin",
+                "wikidata_id": "Q1818947",
+                "also_known_as": [
+                    "Leonard Lewin",
+                    "Leonard Case Lewin",
+                    "L.L. Case"
+                ],
+                "occupation": "writer",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1916-10-02T00:00:00Z",
+                "date of death": "+1999-01-28T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Lewin"
+            },
+            {
+                "text": "Victor Navasky",
+                "start_char": 1532,
+                "end_char": 1546,
+                "label": "Victor Navasky",
+                "description": "American journalist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Victor Navasky",
+                "wikidata_id": "Q2522488",
+                "also_known_as": [
+                    "Victor S. Navasky",
+                    "Victor Saul Navasky"
+                ],
+                "occupation": "journalist, writer, publisher, university teacher",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1932-07-05T00:00:00Z",
+                "date of death": "+2023-01-23T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "John Kenneth Galbraith",
+                "start_char": 1679,
+                "end_char": 1701,
+                "label": "John Kenneth Galbraith",
+                "description": "Canadian-American economist and diplomat (1908–2006)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "John Kenneth Galbraith",
+                "wikidata_id": "Q186042",
+                "also_known_as": [
+                    "John K. Galbraith"
+                ],
+                "occupation": "economist, diplomat, politician, university teacher, non-fiction writer, writer, ambassador",
+                "country of citizenship": "Canada, United States of America",
+                "date of birth": "+1908-10-15T00:00:00Z",
+                "date of death": "+2006-04-29T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Galbraith"
+            },
+            {
+                "text": "Herschel McLandress",
+                "start_char": 1976,
+                "end_char": 1995,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc36": {
+        "entities": [
+            {
+                "text": "Artūras Dubonis",
+                "start_char": 283,
+                "end_char": 298,
+                "label": "Artūras Dubonis",
+                "description": "Lithuanian historian, academic",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Artūras Dubonis",
+                "wikidata_id": "Q3919852",
+                "also_known_as": [
+                    "Dubonis, Artūras"
+                ],
+                "occupation": "historian",
+                "date of birth": "+1962-07-23T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc37": {
+        "entities": [
+            {
+                "text": "R. A. Stewart Macalister",
+                "start_char": 978,
+                "end_char": 1002,
+                "label": "R. A. Stewart Macalister",
+                "description": "Irish archaeologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "R. A. Stewart Macalister",
+                "wikidata_id": "Q983129",
+                "also_known_as": [
+                    "Robert Alexander Stewart Macalister",
+                    "R.A.S. Macalisters"
+                ],
+                "occupation": "anthropologist, archaeologist, prehistorian, university teacher",
+                "country of citizenship": "Republic of Ireland, United Kingdom of Great Britain and Ireland, Irish Free State",
+                "date of birth": "+1870-07-08T00:00:00Z",
+                "date of death": "+1950-04-26T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Alfred Webb",
+                "start_char": 1286,
+                "end_char": 1297,
+                "label": "Alfred Webb",
+                "description": "British politician (1834-1908)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Alfred Webb",
+                "wikidata_id": "Q4723601",
+                "also_known_as": [
+                    "Alfred John Webb"
+                ],
+                "occupation": "politician",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1834-06-10T00:00:00Z",
+                "date of death": "+1908-07-30T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc38": {
+        "entities": [
+            {
+                "text": "Charles Vanderbourg",
+                "start_char": 101,
+                "end_char": 120,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Antonin Mace",
+                "start_char": 685,
+                "end_char": 697,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc39": {
+        "entities": [
+            {
+                "text": "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières",
+                "start_char": 0,
+                "end_char": 98,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Cousin de Courchamps",
+                "start_char": 320,
+                "end_char": 340,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc40": {
+        "entities": [
+            {
+                "text": "Amado Crowley",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jason Brett",
+                "start_char": 1261,
+                "end_char": 1272,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerald Suster",
+                "start_char": 1468,
+                "end_char": 1481,
+                "label": "Gerald Suster",
+                "description": "British writer (1951-2001)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Gerald Suster",
+                "wikidata_id": "Q5549612",
+                "occupation": "historian",
+                "date of birth": "+1951-08-02T00:00:00Z",
+                "date of death": "+2001-02-03T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc41": {
+        "entities": [
+            {
+                "text": "Linda Davison Stafford",
+                "start_char": 0,
+                "end_char": 22,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Moody Press",
+                "start_char": 771,
+                "end_char": 782,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Harvest House",
+                "start_char": 1287,
+                "end_char": 1300,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc42": {
+        "entities": [
+            {
+                "text": "Walter Hooper",
+                "start_char": 324,
+                "end_char": 337,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kathryn Lindskoog",
+                "start_char": 477,
+                "end_char": 494,
+                "label": "Kathryn Lindskoog",
+                "description": "American literary critic, Christian writer, creator of adapted or abridged children's literature (1934-2003)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kathryn Ann Lindskoog",
+                "wikidata_id": "Q6377083",
+                "also_known_as": [
+                    "Kathryn Ann Lindskoog",
+                    "Kay Lindskoog",
+                    "Kathryn A. Lindskoog",
+                    "Kathryn Ann Stillwell"
+                ],
+                "occupation": "writer, literary critic, journalist",
+                "instance_of": "human"
+            },
+            {
+                "text": "Margaret Wheatfield",
+                "start_char": 1933,
+                "end_char": 1952,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Margaret Wheatfield"
+            },
+            {
+                "text": "Alastair Fowler",
+                "start_char": 2641,
+                "end_char": 2656,
+                "label": "Alastair Fowler",
+                "description": "British literary critic",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Alastair Fowler",
+                "wikidata_id": "Q14948933",
+                "also_known_as": [
+                    "Alastair David Shaw Fowler"
+                ],
+                "occupation": "literary critic",
+                "country of citizenship": "",
+                "date of birth": "+1930-00-00T00:00:00Z",
+                "date of death": "+2022-00-00T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc43": {
+        "entities": [
+            {
+                "text": "Bertram",
+                "start_char": 147,
+                "end_char": 162,
+                "label": "Charles Bertram",
+                "description": null,
+                "wikidata_id": "Q5075584",
+                "occupation": "writer",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Bertram",
+                "also_known_as": [
+                    "Charles Julius Bertram"
+                ]
+            },
+            {
+                "text": "William Stukeley",
+                "start_char": 626,
+                "end_char": 642,
+                "label": "William Stukeley",
+                "description": "English antiquarian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "William Stukeley",
+                "wikidata_id": "Q1381018",
+                "also_known_as": [
+                    "Rev. William Stukeley"
+                ],
+                "occupation": "anthropologist, archaeologist, prehistorian, physician",
+                "country of citizenship": "Kingdom of Great Britain, Kingdom of England",
+                "date of birth": "+1687-11-07T00:00:00Z",
+                "date of death": "+1765-03-03T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "John Hodgson",
+                "start_char": 1010,
+                "end_char": 1022,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Karl Wex",
+                "start_char": 1024,
+                "end_char": 1032,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "B. B. Woodward",
+                "start_char": 1034,
+                "end_char": 1048,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "J.E.B. Mayor",
+                "start_char": 1054,
+                "end_char": 1070,
+                "label": "John E. B. Mayor",
+                "description": "British classical scholar (1825-1910)",
+                "wikidata_id": "Q55982",
+                "occupation": "classical scholar",
+                "instance_of": "human",
+                "date of birth": "+1825-01-28T00:00:00Z",
+                "date of death": "+1910-12-01T00:00:00Z",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "J.E.B. Mayor"
+            },
+            {
+                "text": "Major-General William Roy",
+                "start_char": 2899,
+                "end_char": 2924,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Forbes Skene",
+                "start_char": 3361,
+                "end_char": 3381,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Barry Cunliffe",
+                "start_char": 3846,
+                "end_char": 3860,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Friedrich Carl Wex",
+                "start_char": 4421,
+                "end_char": 4439,
+                "label": "Friedrich Karl Wex",
+                "description": "German classical philologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Friedrich Carl Wex",
+                "wikidata_id": "Q1347567",
+                "occupation": "classical philologist",
+                "country of citizenship": "Germany",
+                "date of birth": "+1801-08-27T00:00:00Z",
+                "date of death": "+1865-08-08T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Wex"
+            },
+            {
+                "text": "J.E.B. Mayor",
+                "start_char": 5848,
+                "end_char": 5860,
+                "label": "John E. B. Mayor",
+                "description": "British classical scholar (1825-1910)",
+                "wikidata_id": "Q55982",
+                "occupation": "classical scholar",
+                "instance_of": "human",
+                "date of birth": "+1825-01-28T00:00:00Z",
+                "date of death": "+1910-12-01T00:00:00Z",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "J.E.B. Mayor"
+            }
+        ]
+    },
+    "doc44": {
+        "entities": []
+    },
+    "doc45": {
+        "entities": [
+            {
+                "text": "Philip Yorke",
+                "start_char": 226,
+                "end_char": 238,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Dr Thomas Birch",
+                "start_char": 570,
+                "end_char": 585,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "George Chalmers",
+                "start_char": 941,
+                "end_char": 956,
+                "label": "George Chalmers",
+                "description": "British antiquarian; (1742-1825)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "George Chalmers",
+                "wikidata_id": "Q320810",
+                "occupation": "economist, statistician, writer, biographer, historian, lawyer",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1742-01-01T00:00:00Z",
+                "date of death": "+1825-05-31T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Thomas Watts",
+                "start_char": 1617,
+                "end_char": 1629,
+                "label": "Thomas H. Watts",
+                "description": "American politician (1819-1892)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Thomas Watts",
+                "wikidata_id": "Q879281",
+                "also_known_as": [
+                    "Thomas Hill Watts, Sr.",
+                    "Thomas Hill Watts",
+                    "Thomas Watts"
+                ],
+                "occupation": "politician, lawyer",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1819-01-03T00:00:00Z",
+                "date of death": "+1892-08-16T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Watts"
+            }
+        ]
+    },
+    "doc46": {
+        "entities": []
+    },
+    "doc47": {
+        "entities": []
+    },
+    "doc48": {
+        "entities": [
+            {
+                "text": "William Dudley Pelley",
+                "start_char": 386,
+                "end_char": 407,
+                "label": "William Dudley Pelley",
+                "description": "American political activist, screenwriter, and convicted fraudster (1890-1965)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "William Dudley Pelley",
+                "wikidata_id": "Q1501730",
+                "occupation": "screenwriter, politician, journalist, peace activist, writer",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1890-03-12T00:00:00Z",
+                "date of death": "+1965-06-30T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "U.S. Congress",
+                "start_char": 873,
+                "end_char": 886,
+                "label": "United States Congress",
+                "description": "bicameral legislature of the United States",
+                "labels": [
+                    "Organisation"
+                ],
+                "resolved_label": "U.S. Congress",
+                "wikidata_id": "Q11268",
+                "also_known_as": [
+                    "US Congress",
+                    "U.S. Congress",
+                    "American Congress",
+                    "Congress of the United States",
+                    "Legislature of the United States",
+                    "American legislature",
+                    "United states legislative branch",
+                    "Congress"
+                ],
+                "instance_of": "bicameral legislature"
+            },
+            {
+                "text": "Anti-Defamation League",
+                "start_char": 1486,
+                "end_char": 1508,
+                "label": "Anti-Defamation League",
+                "description": "international Jewish non-governmental organization",
+                "labels": [
+                    "Organisation"
+                ],
+                "resolved_label": "Anti-Defamation League",
+                "wikidata_id": "Q158818",
+                "also_known_as": [
+                    "ADL",
+                    "Anti-Defamation League of B'nai B'rith"
+                ],
+                "instance_of": "non-governmental organization, nonprofit organization"
+            },
+            {
+                "text": "Fatah Central Committee",
+                "start_char": 2513,
+                "end_char": 2536,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Osama bin Laden",
+                "start_char": 2642,
+                "end_char": 2657,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc49": {
+        "entities": [
+            {
+                "text": "Norman Cohn",
+                "start_char": 1028,
+                "end_char": 1039,
+                "label": "Norman Cohn",
+                "description": "British historian (1915–2007)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Norman Cohn",
+                "wikidata_id": "Q1405916",
+                "also_known_as": [
+                    "Norman Rufus Colin Cohn"
+                ],
+                "occupation": "historian, screenwriter, anthropologist, sociologist",
+                "instance_of": "human"
+            },
+            {
+                "text": "Richard Kieckhefer",
+                "start_char": 1044,
+                "end_char": 1062,
+                "label": "Richard Kieckhefer",
+                "description": "American writer",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Richard Kieckhefer",
+                "wikidata_id": "Q19864435",
+                "also_known_as": [
+                    "Richard Alan Kieckhefer"
+                ],
+                "occupation": "writer, historian of religion, university teacher",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc50": {
+        "entities": [
+            {
+                "text": "Hermann Dessau",
+                "start_char": 940,
+                "end_char": 954,
+                "label": "Hermann Dessau",
+                "description": "German ancient historian and epigrapher (1856–1931)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Hermann Dessau",
+                "wikidata_id": "Q65239",
+                "occupation": "historian, epigrapher, archaeologist, anthropologist, university teacher, classical philologist",
+                "country of citizenship": "Germany",
+                "date of birth": "+1856-04-06T00:00:00Z",
+                "date of death": "+1931-04-12T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Theodor Mommsen",
+                "start_char": 3435,
+                "end_char": 3450,
+                "label": "Theodor Mommsen",
+                "description": "German classical scholar and historian (1817–1903)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Theodor Mommsen",
+                "wikidata_id": "Q25351",
+                "also_known_as": [
+                    "Christian Matthias Theodor Mommsen",
+                    "Christian Mommsen",
+                    "T. Mommsen",
+                    "Theodore Mommsen"
+                ],
+                "occupation": "historian of classical antiquity, numismatist, jurist, journalist, legal historian, writer, university teacher, politician, epigrapher, classical scholar, classical archaeologist, historian, Germanist",
+                "country of citizenship": "Kingdom of Prussia, Duchy of Schleswig",
+                "date of birth": "+1817-11-30T00:00:00Z",
+                "date of death": "+1903-11-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Hermann Peter",
+                "start_char": 3559,
+                "end_char": 3572,
+                "label": "Hermann Peter",
+                "description": "German classical philologist and teacher",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Hermann Peter",
+                "wikidata_id": "Q15453178",
+                "also_known_as": [
+                    "Hermann Wilhelm Gottlob Peter"
+                ],
+                "occupation": "teacher, classical philologist",
+                "country of citizenship": "Germany, Kingdom of Saxony",
+                "date of birth": "+1837-09-07T00:00:00Z",
+                "date of death": "+1914-02-16T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Norman H. Baynes",
+                "start_char": 3770,
+                "end_char": 3786,
+                "label": "Norman H. Baynes",
+                "description": "British historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Norman H. Baynes",
+                "wikidata_id": "Q7052305",
+                "also_known_as": [
+                    "Norman Hepburn Baynes"
+                ],
+                "occupation": "historian, university teacher",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1877-05-29T00:00:00Z",
+                "date of death": "+1961-02-12T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Ronald Syme",
+                "start_char": 4058,
+                "end_char": 4073,
+                "label": "Ronald Syme",
+                "description": "New Zealand born British historian and classicist (1903-1989)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ronald Syme",
+                "wikidata_id": "Q707856",
+                "also_known_as": [
+                    "Sir Ronald Syme",
+                    "Ronald Saym"
+                ],
+                "occupation": "historian, university teacher, classical scholar, translator",
+                "country of citizenship": "United Kingdom, New Zealand",
+                "date of birth": "+1903-03-11T00:00:00Z",
+                "date of death": "+1989-09-04T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Syme"
+            },
+            {
+                "text": "Arnaldo",
+                "start_char": 4811,
+                "end_char": 4818,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "A. H. M.",
+                "start_char": 4846,
+                "end_char": 4854,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "H Stern",
+                "start_char": 6046,
+                "end_char": 6053,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alan Cameron",
+                "start_char": 6285,
+                "end_char": 6297,
+                "label": "Alan Cameron",
+                "description": "British classical scholar (1938–2017)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Alan Cameron",
+                "wikidata_id": "Q2623113",
+                "also_known_as": [
+                    "Alan Douglas Edward Cameron",
+                    "Alan D. E. Cameron"
+                ],
+                "occupation": "historian, classical philologist, mythographer, classical scholar, historian of classical antiquity, university teacher",
+                "country of citizenship": "United Kingdom",
+                "date of birth": "+1938-03-13T00:00:00Z",
+                "date of death": "+2017-07-31T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Daniel Den Hengst",
+                "start_char": 9583,
+                "end_char": 9600,
+                "label": "Daniël den Hengst",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Daniel Den Hengst",
+                "wikidata_id": "Q41267221",
+                "also_known_as": [
+                    "Daan den Hengst"
+                ],
+                "occupation": "painter, drawer, pastellist",
+                "country of citizenship": "Kingdom of the Netherlands",
+                "date of birth": "+1909-04-15T00:00:00Z",
+                "date of death": "+1992-07-15T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Edward Gibbon",
+                "start_char": 16686,
+                "end_char": 16699,
+                "label": "Edward Gibbon",
+                "description": "English historian and politician (1737–1794)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Edward Gibbon",
+                "wikidata_id": "Q161841",
+                "occupation": "historian, politician, classical scholar, writer",
+                "country of citizenship": "Kingdom of Great Britain",
+                "date of birth": "+1737-04-27T00:00:00Z",
+                "date of death": "+1794-01-16T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Gibbon"
+            },
+            {
+                "text": "Anthony Birley",
+                "start_char": 4124,
+                "end_char": 4138,
+                "label": "Anthony Birley",
+                "description": "British archaeologist (1937–2020)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Anthony Birley",
+                "wikidata_id": "Q573849",
+                "also_known_as": [
+                    "Anthony Richard Birley",
+                    "Anthony R. Birley"
+                ],
+                "occupation": "anthropologist, classical archaeologist, university teacher",
+                "country of citizenship": "United Kingdom",
+                "date of birth": "+1937-10-08T00:00:00Z",
+                "date of death": "+2020-12-19T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Ronald Syme",
+                "start_char": 4803,
+                "end_char": 4814,
+                "label": "Ronald Syme",
+                "description": "New Zealand born British historian and classicist (1903-1989)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ronald Syme",
+                "wikidata_id": "Q707856",
+                "also_known_as": [
+                    "Sir Ronald Syme",
+                    "Ronald Saym"
+                ],
+                "occupation": "historian, university teacher, classical scholar, translator",
+                "country of citizenship": "United Kingdom, New Zealand",
+                "date of birth": "+1903-03-11T00:00:00Z",
+                "date of death": "+1989-09-04T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Syme"
+            },
+            {
+                "text": "François Paschoud",
+                "start_char": 6088,
+                "end_char": 6105,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "David Magie",
+                "start_char": 7065,
+                "end_char": 7076,
+                "label": "David Magie",
+                "description": "American ancient historian (1877-1960)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "David Magie",
+                "wikidata_id": "Q21524527",
+                "occupation": "classical scholar, university teacher, historian, translator",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1877-01-20T00:00:00Z",
+                "date of death": "+1960-04-22T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "M. L. W. Laistner",
+                "start_char": 8158,
+                "end_char": 8175,
+                "label": "Max L. W. Laistner",
+                "description": "British medievalist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "M. L. W. Laistner",
+                "wikidata_id": "Q1912918",
+                "also_known_as": [
+                    "Max Laistner",
+                    "Max Ludwig Wolfram Laistner",
+                    "M. L. W. Laistner"
+                ],
+                "occupation": "medievalist, university teacher, historian of classical antiquity",
+                "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1890-10-10T00:00:00Z",
+                "date of death": "+1959-12-10T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc51": {
+        "entities": [
+            {
+                "text": "Konrad Kujau",
+                "start_char": 141,
+                "end_char": 153,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hugh Trevor-Roper",
+                "start_char": 484,
+                "end_char": 501,
+                "label": "Hugh Trevor-Roper",
+                "description": "British historian (1914-2003)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Hugh Trevor-Roper",
+                "wikidata_id": "Q335087",
+                "also_known_as": [
+                    "Baron Dacre",
+                    "The Lord Dacre of Glanton",
+                    "Hugh Redwald Trevor-Roper",
+                    "Professor Hugh Redwald Trevor-Roper, Baron Dacre of Glanton",
+                    "Maj. Hugh Redwald Trevor-Roper"
+                ],
+                "occupation": "politician, historian of Modern Age, historian, university teacher, journalist, essayist, military officer, intelligence officer, opinion journalist",
+                "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1914-01-15T00:00:00Z",
+                "date of death": "+2003-01-26T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Trevor-Roper"
+            },
+            {
+                "text": "Gerd Heidemann",
+                "start_char": 1438,
+                "end_char": 1452,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Josef Henke",
+                "start_char": 1992,
+                "end_char": 2003,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Klaus Oldenhage",
+                "start_char": 2008,
+                "end_char": 2023,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Max Frei-Sulzer",
+                "start_char": 2074,
+                "end_char": 2089,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ordway Hilton",
+                "start_char": 2716,
+                "end_char": 2729,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ordway Hilton",
+                "text_2": "Hilton"
+            },
+            {
+                "text": "Gerhard Weinberg",
+                "start_char": 4631,
+                "end_char": 4647,
+                "label": "Gerhard Weinberg",
+                "description": "American military historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Gerhard Weinberg",
+                "wikidata_id": "Q214357",
+                "also_known_as": [
+                    "Gerhard Ludwig Weinberg"
+                ],
+                "occupation": "historian of Modern Age, historian, university teacher, writer",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1928-01-01T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Weinberg"
+            },
+            {
+                "text": "Irving",
+                "start_char": 12335,
+                "end_char": 12347,
+                "label": "David Irving",
+                "description": "British author and Holocaust denier",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "David Irving",
+                "wikidata_id": "Q158629",
+                "also_known_as": [
+                    "David John Cawdell Irving"
+                ],
+                "occupation": "essayist, journalist, writer, biographer, opinion journalist",
+                "country of citizenship": "United Kingdom",
+                "date of birth": "+1938-03-24T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "David Irving"
+            },
+            {
+                "text": "Kenneth W. Rendell",
+                "start_char": 14983,
+                "end_char": 15001,
+                "label": "Kenneth W. Rendell",
+                "description": "American businessman",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kenneth W. Rendell",
+                "wikidata_id": "Q6390785",
+                "occupation": "businessperson",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1943-01-01T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Rendell"
+            }
+        ]
+    },
+    "doc52": {
+        "entities": [
+            {
+                "text": "Waniko Yasutoshi",
+                "start_char": 385,
+                "end_char": 401,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hirata Atsutane",
+                "start_char": 544,
+                "end_char": 559,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Yoshinosuke",
+                "start_char": 994,
+                "end_char": 1005,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "some scholars",
+                "start_char": 2036,
+                "end_char": 2049,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc53": {
+        "entities": [
+            {
+                "text": "Rohan Kriwaczek",
+                "start_char": 74,
+                "end_char": 89,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Peter Mayer",
+                "start_char": 245,
+                "end_char": 256,
+                "label": "Peter Mayer",
+                "description": "American publisher (1936-2018)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Peter Mayer",
+                "wikidata_id": "Q7175723",
+                "also_known_as": [
+                    "Peter Michael Mayer"
+                ],
+                "occupation": "publisher",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1936-03-28T00:00:00Z",
+                "date of death": "+2018-05-11T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Matthew Rye",
+                "start_char": 1133,
+                "end_char": 1144,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Matthew Rye"
+            },
+            {
+                "text": "Naomi Sadler",
+                "start_char": 1258,
+                "end_char": 1270,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc54": {
+        "entities": [
+            {
+                "text": "Samuel Ireland",
+                "start_char": 97,
+                "end_char": 111,
+                "label": "Samuel Ireland",
+                "description": "British author and engraver",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Samuel Ireland",
+                "wikidata_id": "Q7411777",
+                "also_known_as": [
+                    "Samuel, I Ireland",
+                    "Samuel I Ireland",
+                    "Ireld",
+                    "Irld",
+                    "Ireland"
+                ],
+                "occupation": "printmaker, writer, drawer, publisher",
+                "country of citizenship": "Kingdom of Great Britain",
+                "date of birth": "+1744-05-21T00:00:00Z",
+                "date of death": "+1800-07-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "James Boswell",
+                "start_char": 370,
+                "end_char": 383,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Henry James Pye",
+                "start_char": 433,
+                "end_char": 448,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Richard Brinsley Sheridan",
+                "start_char": 510,
+                "end_char": 535,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Edmond Malone",
+                "start_char": 830,
+                "end_char": 843,
+                "label": "COMMENTATOR",
+                "description": null,
+                "wikidata_id": "Q1229512",
+                "country of citizenship": "Republic of Ireland",
+                "occupation": "literary historian, writer, literary critic, literary scholar, editor, jurist, man of letters",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Malone",
+                "also_known_as": [
+                    "Edmund Malone"
+                ]
+            },
+            {
+                "text": "William Henry Ireland",
+                "start_char": 1047,
+                "end_char": 1068,
+                "label": "William Henry Ireland",
+                "description": "English forger of Shakespearean documents and plays",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "William Henry Ireland",
+                "wikidata_id": "Q4058973",
+                "also_known_as": [
+                    "Samuel William Henry Ireland"
+                ],
+                "occupation": "novelist, poet, playwright",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland, United Kingdom",
+                "date of birth": "+1775-08-02T00:00:00Z",
+                "date of death": "+1835-04-17T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "William Henry"
+            },
+            {
+                "text": "Thomas Caldecott",
+                "start_char": 7445,
+                "end_char": 7461,
+                "label": "Thomas Caldecott",
+                "description": "English barrister and literary editor",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Thomas Caldecott",
+                "wikidata_id": "Q18528919",
+                "occupation": "barrister, literary editor, librarian",
+                "country of citizenship": "Kingdom of Great Britain, United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1744-01-01T00:00:00Z",
+                "date of death": "+1833-00-00T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "George Steevens",
+                "start_char": 7877,
+                "end_char": 7892,
+                "label": "George Steevens",
+                "description": "English editor of the works of William Shakespeare",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "George Steevens",
+                "wikidata_id": "Q1450536",
+                "occupation": "literary critic",
+                "country of citizenship": "Kingdom of Great Britain",
+                "date of birth": "+1736-05-10T00:00:00Z",
+                "date of death": "+1800-01-22T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "George Chalmers",
+                "start_char": 8367,
+                "end_char": 8382,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Clement Mansfield Ingleby",
+                "start_char": 8861,
+                "end_char": 8886,
+                "label": "Clement Mansfield Ingleby",
+                "description": "British lawyer and Shakespearian scholar",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Clement Mansfield Ingleby",
+                "wikidata_id": "Q1100266",
+                "occupation": "literary historian, literary critic, university teacher, chess player",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1823-10-29T00:00:00Z",
+                "date of death": "+1886-09-26T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "George Dawson",
+                "start_char": 8899,
+                "end_char": 8912,
+                "label": "George Dawson",
+                "description": "English nonconformist preacher, lecturer and activist; (1821-1876)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "George Dawson",
+                "wikidata_id": "Q5538437",
+                "occupation": "cleric",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1821-02-24T00:00:00Z",
+                "date of death": "+1876-11-30T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Peter Ackroyd",
+                "start_char": 9687,
+                "end_char": 9700,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Martyn Wade",
+                "start_char": 9875,
+                "end_char": 9886,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc55": {
+        "entities": [
+            {
+                "text": "Lorenzo Valla",
+                "start_char": 855,
+                "end_char": 868,
+                "label": "Lorenzo Valla",
+                "description": "Italian Renaissance humanist (c. 1407–1457)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Lorenzo Valla",
+                "wikidata_id": "Q214115",
+                "also_known_as": [
+                    "Laurence Valla"
+                ],
+                "occupation": "writer, philologist, university teacher, philosopher, Latin Catholic priest",
+                "date of birth": "+1407-01-01T00:00:00Z",
+                "date of death": "+1457-08-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "J. B. Lightfoot",
+                "start_char": 2410,
+                "end_char": 2425,
+                "label": "J. B. Lightfoot",
+                "description": "British bishop and scholar of early Christianity",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "J. B. Lightfoot",
+                "wikidata_id": "Q1706574",
+                "also_known_as": [
+                    "Joseph Barber Lightfoot",
+                    "Joseph Lightfoot"
+                ],
+                "occupation": "priest, theologian, university teacher, translator",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1828-04-13T00:00:00Z",
+                "date of death": "+1889-12-21T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Adolf von Harnack",
+                "start_char": 2572,
+                "end_char": 2589,
+                "label": "Adolf von Harnack",
+                "description": "Baltic German theologian and prominent church historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Adolf von Harnack",
+                "wikidata_id": "Q164699",
+                "also_known_as": [
+                    "Karl Gustav Adolf Harnack",
+                    "Adolf Harnack"
+                ],
+                "occupation": "theologian, librarian, church historian, university teacher, writer, historian of religion",
+                "country of citizenship": "Germany",
+                "date of birth": "+1851-05-07T00:00:00Z",
+                "date of death": "+1930-06-10T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Claude Barlow",
+                "start_char": 2607,
+                "end_char": 2620,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "J. K. Elliott",
+                "start_char": 2820,
+                "end_char": 2833,
+                "label": "Keith Elliott",
+                "description": "English scholar of the New Testament and early Christian apocrypha",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "J. K. Elliott",
+                "wikidata_id": "Q88771133",
+                "also_known_as": [
+                    "Elliott, James Keith",
+                    "Elliott, Keith",
+                    "J. K. Elliott",
+                    "James Keith Elliott"
+                ],
+                "occupation": "theologian, university teacher",
+                "date of birth": "+1943-03-19T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Bart Ehrman",
+                "start_char": 2923,
+                "end_char": 2934,
+                "label": "Bart D. Ehrman",
+                "description": "American biblical scholar (born 1955)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Bart Ehrman",
+                "wikidata_id": "Q127876",
+                "also_known_as": [
+                    "Bart Denton Ehrman",
+                    "Bart Ehrman",
+                    "Dr. Bart Ehrman"
+                ],
+                "occupation": "philologist, university teacher, writer, theologian",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1955-10-05T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Philip Schaff",
+                "start_char": 3746,
+                "end_char": 3759,
+                "label": "Philip Schaff",
+                "description": "Swiss-born, American theologian and ecclesiastical historian (1819–1893)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Philip Schaff",
+                "wikidata_id": "Q115922",
+                "occupation": "church historian, translator, theologian, university teacher, writer, Bible translator, historian",
+                "country of citizenship": "Switzerland, United States of America",
+                "date of birth": "+1819-01-01T00:00:00Z",
+                "date of death": "+1893-10-20T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Marta Sordi",
+                "start_char": 5027,
+                "end_char": 5038,
+                "label": "Marta Sordi",
+                "description": "Italian historian of classical antiquity",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Marta Sordi",
+                "wikidata_id": "Q3849965",
+                "occupation": "historian, university teacher",
+                "country of citizenship": "Italy, Kingdom of Italy",
+                "date of birth": "+1925-11-18T00:00:00Z",
+                "date of death": "+2009-04-05T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc56": {
+        "entities": [
+            {
+                "text": "Tokugawa Mitsukuni",
+                "start_char": 212,
+                "end_char": 230,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Tada Yoshitoshi",
+                "start_char": 235,
+                "end_char": 250,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John R. Bentley",
+                "start_char": 1472,
+                "end_char": 1487,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Mark Teeuwen",
+                "start_char": 1903,
+                "end_char": 1915,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc57": {
+        "entities": [
+            {
+                "text": "Dr. Kelly",
+                "start_char": 46,
+                "end_char": 55,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "McCormick",
+                "start_char": 275,
+                "end_char": 284,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "P. S. O'Hegarty",
+                "start_char": 1036,
+                "end_char": 1051,
+                "label": "P. S. O'Hegarty",
+                "description": "Irish writer, historian and activist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "P. S. O'Hegarty",
+                "wikidata_id": "Q7117511",
+                "also_known_as": [
+                    "Patrick Sarsfield O'Hegarty",
+                    "Pádraig Sáirséal Ó hÉigeartaigh"
+                ],
+                "occupation": "historian, writer, civil servant",
+                "country of citizenship": "Republic of Ireland",
+                "date of birth": "+1879-12-29T00:00:00Z",
+                "date of death": "+1955-12-17T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Curtis",
+                "start_char": 1706,
+                "end_char": 1719,
+                "label": "Edmund Curtis",
+                "description": "British historian (1881-1943)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Edmund Curtis",
+                "wikidata_id": "Q4989931",
+                "also_known_as": [
+                    "Éamon Cuirtéis"
+                ],
+                "occupation": "historian",
+                "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1881-03-25T00:00:00Z",
+                "date of death": "+1943-03-25T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Edmund Curtis"
+            },
+            {
+                "text": "Cardinal Gasquet",
+                "start_char": 2177,
+                "end_char": 2193,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Father Burke",
+                "start_char": 3919,
+                "end_char": 3931,
+                "label": "Father Burke",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Father Burke",
+                "wikidata_id": "Q95896080",
+                "instance_of": "human"
+            },
+            {
+                "text": "Herbert Paul",
+                "start_char": 6560,
+                "end_char": 6572,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Lingard",
+                "start_char": 6994,
+                "end_char": 7006,
+                "label": "John Lingard",
+                "description": "English historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "John Lingard",
+                "wikidata_id": "Q5959147",
+                "occupation": "historian",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1771-02-05T00:00:00Z",
+                "date of death": "+1851-07-17T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "John Lanigan",
+                "start_char": 7008,
+                "end_char": 7020,
+                "label": "John Lanigan",
+                "description": "Irish historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "John Lanigan",
+                "wikidata_id": "Q1587220",
+                "occupation": "historian",
+                "country of citizenship": "Republic of Ireland",
+                "date of birth": "+1758-01-01T00:00:00Z",
+                "date of death": "+1825-07-08T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Stephen J. McCormick",
+                "start_char": 7022,
+                "end_char": 7042,
+                "label": "S. J. McCormick",
+                "description": "American publisher, politician",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Stephen J. McCormick",
+                "wikidata_id": "Q7387544",
+                "also_known_as": [
+                    "Stephen J. McCormick",
+                    "Stephen James McCormick"
+                ],
+                "occupation": "politician, printer, publisher, journalist, editor",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1829-12-26T00:00:00Z",
+                "date of death": "+1891-08-12T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "McCormick"
+            },
+            {
+                "text": "P. S. O'Hegarty",
+                "start_char": 7048,
+                "end_char": 7063,
+                "label": "P. S. O'Hegarty",
+                "description": "Irish writer, historian and activist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "P. S. O'Hegarty",
+                "wikidata_id": "Q7117511",
+                "also_known_as": [
+                    "Patrick Sarsfield O'Hegarty",
+                    "Pádraig Sáirséal Ó hÉigeartaigh"
+                ],
+                "occupation": "historian, writer, civil servant",
+                "country of citizenship": "Republic of Ireland",
+                "date of birth": "+1879-12-29T00:00:00Z",
+                "date of death": "+1955-12-17T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Michael Richter",
+                "start_char": 7422,
+                "end_char": 7437,
+                "label": "Michael Richter",
+                "description": "researcher (ORCID 0000-0003-1868-9005)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Michael Richter",
+                "wikidata_id": "Q79561480",
+                "occupation": "researcher",
+                "instance_of": "human"
+            },
+            {
+                "text": "Arthur Ua Clerigh",
+                "start_char": 7563,
+                "end_char": 7580,
+                "label": "Arthur Ua Clerigh",
+                "description": "Irish barrister and historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Arthur Ua Clerigh",
+                "wikidata_id": "Q16943898",
+                "also_known_as": [
+                    "Arthur Patrick O'Clery",
+                    "Art Ua Cléirigh"
+                ],
+                "occupation": "barrister, historian",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1841-00-00T00:00:00Z",
+                "date of death": "+1915-00-00T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "J. R. S. Phillips",
+                "start_char": 8647,
+                "end_char": 8664,
+                "label": "J. R. S. Phillips",
+                "description": "British historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "J. R. S. Phillips",
+                "wikidata_id": "Q6106875",
+                "also_known_as": [
+                    "John Roland Seymour Phillips"
+                ],
+                "occupation": "historian",
+                "country of citizenship": "United Kingdom",
+                "date of birth": "+1940-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Goddard Henry Orpen",
+                "start_char": 8980,
+                "end_char": 8999,
+                "label": "Goddard Henry Orpen",
+                "description": "Irish historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Goddard Henry Orpen",
+                "wikidata_id": "Q3427366",
+                "also_known_as": [
+                    "Goddard H. Orpen",
+                    "G. H. Orpen",
+                    "Goddard Orpen"
+                ],
+                "occupation": "medieval historian, castellologist, barrister",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland, Irish Free State",
+                "date of birth": "+1852-05-08T00:00:00Z",
+                "date of death": "+1932-05-15T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Stephen White",
+                "start_char": 9071,
+                "end_char": 9084,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Stephen White",
+                "instance_of": "human"
+            },
+            {
+                "text": "John Lynch",
+                "start_char": 9104,
+                "end_char": 9114,
+                "label": "John Lynch",
+                "description": "Irish Roman Catholic priest and historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "John Lynch",
+                "wikidata_id": "Q6245602",
+                "occupation": "author, poet",
+                "country of citizenship": "United Kingdom, Republic of Ireland",
+                "date of birth": "+1961-12-26T00:00:00Z",
+                "also_known_as": [
+                    "Gratianus Lucius"
+                ],
+                "instance_of": "human"
+            },
+            {
+                "text": "Abbé Mac Geoghegan",
+                "start_char": 9142,
+                "end_char": 9160,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Francis Aidan Gasquet",
+                "start_char": 9162,
+                "end_char": 9183,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Burke",
+                "start_char": 9484,
+                "end_char": 9504,
+                "label": "Thomas Nicholas Burke",
+                "description": "Irish Dominican",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Thomas N. Burke",
+                "wikidata_id": "Q7792734",
+                "also_known_as": [
+                    "Thomas N. Burke"
+                ],
+                "occupation": "Catholic priest",
+                "date of birth": "+1830-09-08T00:00:00Z",
+                "date of death": "+1882-07-02T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Thomas N. Burke"
+            },
+            {
+                "text": "Patrick Francis Moran",
+                "start_char": 9895,
+                "end_char": 9916,
+                "label": "Patrick Francis Moran",
+                "description": "Catholic cardinal",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Patrick Francis Moran",
+                "wikidata_id": "Q2588733",
+                "occupation": "Catholic priest, Catholic bishop",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1830-12-16T00:00:00Z",
+                "date of death": "+1911-08-16T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Patrick F. Moran"
+            },
+            {
+                "text": "Professor Anne Duggan",
+                "start_char": 10023,
+                "end_char": 10044,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Arthur Ua Clerigh",
+                "start_char": 13,
+                "end_char": 30,
+                "label": "Arthur Ua Clerigh",
+                "description": "Irish barrister and historian",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Arthur Ua Clerigh",
+                "wikidata_id": "Q16943898",
+                "also_known_as": [
+                    "Arthur Patrick O'Clery",
+                    "Art Ua Cléirigh"
+                ],
+                "occupation": "barrister, historian",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1841-00-00T00:00:00Z",
+                "date of death": "+1915-00-00T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Paul Scheffer-Boichorst",
+                "start_char": 185,
+                "end_char": 208,
+                "label": "Paul Scheffer-Boichorst",
+                "description": "German medievalist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Paul Scheffer-Boichorst",
+                "wikidata_id": "Q97545",
+                "occupation": "medievalist, university teacher",
+                "country of citizenship": "Kingdom of Prussia",
+                "date of birth": "+1843-05-25T00:00:00Z",
+                "date of death": "+1902-01-17T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Felix",
+                "start_char": 302,
+                "end_char": 307,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Anne Duggan",
+                "start_char": 476,
+                "end_char": 487,
+                "label": "Anne Duggan",
+                "description": "Peerage person ID=412054",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Anne Duggan",
+                "wikidata_id": "Q75933422",
+                "instance_of": "human"
+            },
+            {
+                "text": "Ginnell",
+                "start_char": 1087,
+                "end_char": 1094,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Caesar Baronius",
+                "start_char": 1723,
+                "end_char": 1738,
+                "label": "Caesar Baronius",
+                "description": "Italian cardinal and ecclesiastical historian (1538–1607)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Caesar Baronius",
+                "wikidata_id": "Q317900",
+                "also_known_as": [
+                    "Cesare Baronio",
+                    "Cardinal Cesare Baronio",
+                    "Cesare, Cardinal Baronio"
+                ],
+                "occupation": "librarian, church historian, historian, writer, Catholic priest, Catholic deacon, Catholic bishop",
+                "date of birth": "+1538-01-01T00:00:00Z",
+                "date of death": "+1607-06-30T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Patrick Francis Moran",
+                "start_char": 1960,
+                "end_char": 1976,
+                "label": "Patrick Francis Moran",
+                "description": "Catholic cardinal",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Patrick Francis Moran",
+                "wikidata_id": "Q2588733",
+                "occupation": "Catholic priest, Catholic bishop",
+                "country of citizenship": "United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1830-12-16T00:00:00Z",
+                "date of death": "+1911-08-16T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Patrick F. Moran"
+            },
+            {
+                "text": "Curtis",
+                "start_char": 2159,
+                "end_char": 2165,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Mackie",
+                "start_char": 2381,
+                "end_char": 2387,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerald of Wales",
+                "start_char": 2543,
+                "end_char": 2558,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Domnall mac Brian Ó Néill",
+                "start_char": 7173,
+                "end_char": 7198,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Tír Eógain",
+                "start_char": 7203,
+                "end_char": 7213,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Henry VIII of England",
+                "start_char": 8753,
+                "end_char": 8774,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Pope Paul III",
+                "start_char": 8797,
+                "end_char": 8810,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Pope Paul IV",
+                "start_char": 9234,
+                "end_char": 9246,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc58": {
+        "entities": []
+    },
+    "doc59": {
+        "entities": [
+            {
+                "text": "Cyrus Thomas",
+                "start_char": 491,
+                "end_char": 503,
+                "label": "Cyrus Thomas",
+                "description": "American Mesoamericanist and entomologist (1825-1910)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Cyrus Thomas",
+                "wikidata_id": "Q4460170",
+                "also_known_as": [
+                    "C. Thomas",
+                    "Thomas",
+                    "Thomas C."
+                ],
+                "occupation": "anthropologist, zoologist, university teacher, entomologist, botanist, archaeologist, writer",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1825-07-27T00:00:00Z",
+                "date of death": "+1910-06-26T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Thomas"
+            },
+            {
+                "text": "Cyrus Gordon",
+                "start_char": 707,
+                "end_char": 722,
+                "label": "Cyrus Herzl Gordon",
+                "description": "American Near Eastern scholar (1908–2001)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Cyrus H. Gordon",
+                "wikidata_id": "Q1148959",
+                "occupation": "anthropologist, linguist, archaeologist, university teacher",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1908-06-29T00:00:00Z",
+                "date of death": "+2001-03-30T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Gordon"
+            },
+            {
+                "text": "Robert Mainfort",
+                "start_char": 1191,
+                "end_char": 1206,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Robert Mainfort",
+                "text_2": "Mainfort",
+                "labels_2": [
+                    "Organisation"
+                ]
+            },
+            {
+                "text": "Mary Kwas",
+                "start_char": 1211,
+                "end_char": 1220,
+                "label": "Mary L. Kwas",
+                "description": "American biostatistician",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Mary Kwas",
+                "wikidata_id": "Q127134114",
+                "also_known_as": [
+                    "Mary Kwasny"
+                ],
+                "occupation": "Researcher and writer",
+                "instance_of": "human"
+            },
+            {
+                "text": "Feder",
+                "start_char": 4672,
+                "end_char": 4685,
+                "label": "Kenneth Feder",
+                "description": "archaeologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Kenneth Feder",
+                "wikidata_id": "Q6390092",
+                "also_known_as": [
+                    "Kenneth L. \"Kenny\" Feder",
+                    "Kenneth L. Feder",
+                    "Kenny Feder"
+                ],
+                "occupation": "anthropologist, archaeologist",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1952-08-01T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Kenneth Feder"
+            },
+            {
+                "text": "Bradley T. Lepper",
+                "start_char": 5069,
+                "end_char": 5086,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kyle McCarter",
+                "start_char": 5280,
+                "end_char": 5293,
+                "label": "P. Kyle McCarter, Jr.",
+                "description": "Old Testament scholar",
+                "labels": [
+                    "Person"
+                ],
+                "also_known_as": [
+                    "P. Kyle McCarter"
+                ],
+                "resolved_label": "Kyle McCarter",
+                "wikidata_id": "Q26466221",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc60": {
+        "entities": [
+            {
+                "text": "Peter Schauer",
+                "start_char": 1468,
+                "end_char": 1481,
+                "label": "Peter Schauer",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Peter Schauer",
+                "wikidata_id": "Q18223861",
+                "occupation": "German university teacher",
+                "instance_of": "human"
+            },
+            {
+                "text": "Richard Harrison",
+                "start_char": 1955,
+                "end_char": 1971,
+                "label": "Richard Harrison",
+                "description": "British archaeologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Richard Harrison",
+                "wikidata_id": "Q7326733",
+                "occupation": "anthropologist, archaeologist, university teacher",
+                "country of citizenship": "United Kingdom",
+                "instance_of": "human"
+            },
+            {
+                "text": "Rupert Gebhard",
+                "start_char": 2393,
+                "end_char": 2407,
+                "label": "Rupert Gebhard",
+                "description": null,
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Rupert Gebhard",
+                "wikidata_id": "Q28866121",
+                "occupation": "university teacher, archaeologist, historian",
+                "date of birth": "+1961-04-09T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Gebhard"
+            },
+            {
+                "text": "Rudiger Krause",
+                "start_char": 2412,
+                "end_char": 2426,
+                "label": "Rüdiger Krause",
+                "description": "Dr. rer. nat. Ludwig-Maximilians-Universität München 2004",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Rudiger Krause",
+                "wikidata_id": "Q102305158",
+                "also_known_as": [
+                    "Ruediger Krause"
+                ],
+                "instance_of": "human",
+                "text_2": "Krause"
+            },
+            {
+                "text": "Ernst Pernicka",
+                "start_char": 2583,
+                "end_char": 2597,
+                "label": "Ernst Pernicka",
+                "description": "Austrian archaeologist and chemist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ernst Pernicka",
+                "wikidata_id": "Q1359734",
+                "also_known_as": [
+                    "E. Pernicka"
+                ],
+                "occupation": "archaeologist, chemist, university teacher",
+                "country of citizenship": "Austria",
+                "date of birth": "+1950-02-05T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    },
+    "doc61": {
+        "entities": [
+            {
+                "text": "Henry Ansgar Kelly",
+                "start_char": 758,
+                "end_char": 776,
+                "label": "Henry A. Kelly",
+                "description": "scholar",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Henry Ansgar Kelly",
+                "wikidata_id": "Q18619046",
+                "also_known_as": [
+                    "H. A. Kelly",
+                    "Henry Ansgar Kelly"
+                ],
+                "occupation": "historian",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1934-06-06T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Kelly"
+            },
+            {
+                "text": "Bruno Nardi",
+                "start_char": 781,
+                "end_char": 792,
+                "label": "Bruno Nardi",
+                "description": "Italian philosopher",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Bruno Nardi",
+                "wikidata_id": "Q3645855",
+                "occupation": "philosopher",
+                "country of citizenship": "Italy, Kingdom of Italy",
+                "date of birth": "+1884-01-01T00:00:00Z",
+                "date of death": "+1968-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Francesco Mazzoni",
+                "start_char": 861,
+                "end_char": 878,
+                "label": "Francesco Mazzoni",
+                "description": "Italian philologist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Francesco Mazzoni",
+                "wikidata_id": "Q3750276",
+                "occupation": "philologist",
+                "instance_of": "human"
+            },
+            {
+                "text": "Robert Hollander",
+                "start_char": 885,
+                "end_char": 901,
+                "label": "Robert Hollander",
+                "description": "1933-2021",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Robert Hollander",
+                "wikidata_id": "Q104563084",
+                "also_known_as": [
+                    "Bob Hollander",
+                    "Robert B. Hollander Jr."
+                ],
+                "occupation": "literary scholar, italianist",
+                "date of birth": "+1933-07-31T00:00:00Z",
+                "date of death": "+2021-04-20T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Charles Singleton",
+                "start_char": 907,
+                "end_char": 924,
+                "label": "Charles S. Singleton",
+                "description": "American scholar",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Charles Singleton",
+                "wikidata_id": "Q642817",
+                "also_known_as": [
+                    "Charles Southward Singleton"
+                ],
+                "occupation": "literary critic, university teacher, journalist, romanist, translator",
+                "country of citizenship": "United States of America",
+                "instance_of": "human"
+            },
+            {
+                "text": "Ralph G. Hall",
+                "start_char": 1115,
+                "end_char": 1128,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Madison U. Sowell",
+                "start_char": 1133,
+                "end_char": 1150,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Ciardi",
+                "start_char": 1326,
+                "end_char": 1337,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Teodolinda Barolini",
+                "start_char": 1511,
+                "end_char": 1530,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Italian Istituto di Scienza e Tecnologie dell'Informazione",
+                "start_char": 1771,
+                "end_char": 1849,
+                "label": "COMMENTATOR",
+                "description": null,
+                "labels": [
+                    "Organisation"
+                ],
+                "resolved_label": "Italian Istituto di Scienza e Tecnologie dell'Informazione"
+            }
+        ]
+    }
+}

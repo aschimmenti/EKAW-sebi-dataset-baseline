@@ -1,0 +1,285 @@
+{
+    "Milan Šufflay": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "14th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Milan Šufflay",
+            "start_char": 1362,
+            "end_char": 1375,
+            "label": "Milan Šufflay",
+            "description": "Croatian historian, albanologist, and politician (1879-1931)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Milan Šufflay",
+            "wikidata_id": "Q1280614",
+            "also_known_as": [
+                "Milan Sufflay"
+            ],
+            "occupation": "historian, albanologist, politician, university teacher, translator, science fiction writer, writer",
+            "country of citizenship": "Austria-Hungary, Kingdom of Yugoslavia",
+            "date of birth": "+1879-11-09T00:00:00Z",
+            "date of death": "+1931-02-18T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "János Karácsonyi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "14th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "János Karácsonyi",
+            "start_char": 2582,
+            "end_char": 2598,
+            "label": "János Karácsonyi",
+            "description": "Hungarian historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "János Karácsonyi",
+            "wikidata_id": "Q1105077",
+            "also_known_as": [
+                "Janos Karacsonyi"
+            ],
+            "occupation": "historian, Catholic priest",
+            "country of citizenship": "Hungary",
+            "date of birth": "+1858-12-15T00:00:00Z",
+            "date of death": "+1929-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Ljudmil Hauptmann": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "13th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Ljudmil Hauptmann",
+            "start_char": 1653,
+            "end_char": 1670,
+            "label": "Ljudmil Hauptmann",
+            "description": "Slovene historian and academic (1884-1968)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ljudmil Hauptmann",
+            "wikidata_id": "Q12795030",
+            "also_known_as": [
+                "Ludmil Hauptmann"
+            ],
+            "occupation": "historian",
+            "country of citizenship": "Socialist Federal Republic of Yugoslavia, Kingdom of Yugoslavia, Kingdom of Serbs, Croats and Slovenes, Cisleithania",
+            "date of birth": "+1884-02-05T00:00:00Z",
+            "date of death": "+1968-04-19T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Miho Barada": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Miho Barada",
+            "start_char": 1731,
+            "end_char": 1742,
+            "label": "Miho Barada",
+            "description": "Croatian historian of the Catholic church",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Miho Barada",
+            "wikidata_id": "Q16114446",
+            "occupation": "historian",
+            "country of citizenship": "Yugoslavia",
+            "date of birth": "+1889-00-00T00:00:00Z",
+            "date of death": "+1957-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Marko Kostrenčić": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Marko Kostrenčić",
+            "start_char": 1747,
+            "end_char": 1763,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Nada Klaić": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "14th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Nada Klaić",
+            "start_char": 1824,
+            "end_char": 1834,
+            "label": "Nada Klaić",
+            "description": "Croatian historian, linguist, translator",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Nada Klaić",
+            "wikidata_id": "Q1276244",
+            "occupation": "linguist, historian, translator, university teacher",
+            "country of citizenship": "Croatia",
+            "date of birth": "+1920-07-21T00:00:00Z",
+            "date of death": "+1988-08-02T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Stjepan Antoljak": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "completeness",
+                "completeness": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Stjepan Antoljak",
+            "start_char": 1914,
+            "end_char": 1930,
+            "label": "Stjepan Antoljak",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Stjepan Antoljak",
+            "wikidata_id": "Q12295365",
+            "occupation": "medievalist",
+            "country of citizenship": "Yugoslavia",
+            "date of birth": "+1909-08-29T00:00:00Z",
+            "date of death": "+1997-09-02T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Ferdo Šišić": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Ferdo Šišić",
+            "start_char": 2393,
+            "end_char": 2404,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gyula Kristó": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Gyula Kristó",
+            "start_char": 2551,
+            "end_char": 2563,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Bálint Hóman": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Bálint Hóman",
+            "start_char": 2565,
+            "end_char": 2577,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

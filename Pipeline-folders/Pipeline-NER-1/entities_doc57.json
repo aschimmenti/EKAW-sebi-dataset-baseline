@@ -1,0 +1,265 @@
+{
+    "doc57": {
+        "entities": [
+            {
+                "text": "Dr. Kelly",
+                "start_char": 46,
+                "end_char": 55,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "McCormick",
+                "start_char": 275,
+                "end_char": 284,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "P. S. O'Hegarty",
+                "start_char": 1036,
+                "end_char": 1051,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Edmund Curtis",
+                "start_char": 1706,
+                "end_char": 1719,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Cardinal Gasquet",
+                "start_char": 2177,
+                "end_char": 2193,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Father Burke",
+                "start_char": 3919,
+                "end_char": 3931,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Herbert Paul",
+                "start_char": 6560,
+                "end_char": 6572,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Lingard",
+                "start_char": 6994,
+                "end_char": 7006,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Lanigan",
+                "start_char": 7008,
+                "end_char": 7020,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Stephen J. McCormick",
+                "start_char": 7022,
+                "end_char": 7042,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "P. S. O'Hegarty",
+                "start_char": 7048,
+                "end_char": 7063,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Michael Richter",
+                "start_char": 7422,
+                "end_char": 7437,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Arthur Ua Clerigh",
+                "start_char": 7563,
+                "end_char": 7580,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "J. R. S. Phillips",
+                "start_char": 8647,
+                "end_char": 8664,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Goddard Henry Orpen",
+                "start_char": 8980,
+                "end_char": 8999,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Stephen White",
+                "start_char": 9071,
+                "end_char": 9084,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Lynch",
+                "start_char": 9104,
+                "end_char": 9114,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Abbé Mac Geoghegan",
+                "start_char": 9142,
+                "end_char": 9160,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Francis Aidan Gasquet",
+                "start_char": 9162,
+                "end_char": 9183,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Thomas N. Burke O.P.",
+                "start_char": 9484,
+                "end_char": 9504,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Patrick Francis Moran",
+                "start_char": 9895,
+                "end_char": 9916,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Professor Anne Duggan",
+                "start_char": 10023,
+                "end_char": 10044,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Arthur Ua Clerigh",
+                "start_char": 13,
+                "end_char": 30,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Paul Scheffer-Boichorst",
+                "start_char": 185,
+                "end_char": 208,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Felix",
+                "start_char": 302,
+                "end_char": 307,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Anne Duggan",
+                "start_char": 476,
+                "end_char": 487,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ginnell",
+                "start_char": 1087,
+                "end_char": 1094,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Caesar Baronius",
+                "start_char": 1723,
+                "end_char": 1738,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Patrick F. Moran",
+                "start_char": 1960,
+                "end_char": 1976,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Curtis",
+                "start_char": 2159,
+                "end_char": 2165,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Mackie",
+                "start_char": 2381,
+                "end_char": 2387,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerald of Wales",
+                "start_char": 2543,
+                "end_char": 2558,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Domnall mac Brian Ó Néill",
+                "start_char": 7173,
+                "end_char": 7198,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Tír Eógain",
+                "start_char": 7203,
+                "end_char": 7213,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Henry VIII of England",
+                "start_char": 8753,
+                "end_char": 8774,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Pope Paul III",
+                "start_char": 8797,
+                "end_char": 8810,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Pope Paul IV",
+                "start_char": 9234,
+                "end_char": 9246,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    }
+}

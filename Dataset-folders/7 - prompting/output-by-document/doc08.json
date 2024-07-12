@@ -1,0 +1,179 @@
+{
+    "doc08": {
+        "Cardinal Nicholas of Cusa": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Lorenzo Valla": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "language",
+                    "consistency": false
+                }
+            ],
+            "opinion_reason": [
+                "corrupted the church",
+                "caused the wars of Italy",
+                "overbearing, barbarous, tyrannical priestly domination"
+            ],
+            "opinion_document_author": [
+                "Church"
+            ],
+            "opinion_document_date": [
+                "8th century"
+            ],
+            "opinion_document_location": null,
+            "opinion_specific_perspective": [
+                "Philologic analysis"
+            ]
+        },
+        "Pope Pius II": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "chronology and dating",
+                    "consistency": false
+                }
+            ],
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": [
+                "Historical analysis"
+            ]
+        },
+        "Charlemagne": {
+            "is_expressing_opinion": false,
+            "opinion_evaluation": "null",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Giovanni Cavalcanti": {
+            "is_expressing_opinion": false,
+            "opinion_evaluation": "null",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Filippo Maria Visconti": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "suspicious",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "content",
+                    "presence": false
+                }
+            ],
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Wolfram Setz": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": [
+                {
+                    "feature": "content",
+                    "reliability": false
+                }
+            ],
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": [
+                "Historical analysis",
+                "Philologic analysis"
+            ]
+        },
+        "Nicholas V": {
+            "is_expressing_opinion": false,
+            "opinion_evaluation": "null",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Nicholas II": {
+            "is_expressing_opinion": false,
+            "opinion_evaluation": "null",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Robert Guiscard": {
+            "is_expressing_opinion": false,
+            "opinion_evaluation": "null",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Ulrich von Hutten": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Martin Luther": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Caesar Baronius": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "forgery",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        },
+        "Christian Wolff": {
+            "is_expressing_opinion": true,
+            "opinion_evaluation": "authentic",
+            "opinion_evidence_provided": null,
+            "opinion_reason": null,
+            "opinion_document_author": null,
+            "opinion_document_date": null,
+            "opinion_document_location": null,
+            "opinion_specific_perspective": null
+        }
+    }
+}

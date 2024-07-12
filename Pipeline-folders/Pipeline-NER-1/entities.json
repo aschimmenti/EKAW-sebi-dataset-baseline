@@ -1,0 +1,2301 @@
+{
+    "doc01": {
+        "entities": [
+            {
+                "text": "Franciscus Quaresmius",
+                "start_char": 621,
+                "end_char": 642,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Balthasar de Monconys",
+                "start_char": 644,
+                "end_char": 665,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kara Mustafa",
+                "start_char": 671,
+                "end_char": 683,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Andrew Morrow",
+                "start_char": 697,
+                "end_char": 715,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Bernhard Moritz",
+                "start_char": 1382,
+                "end_char": 1397,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Amidu Sanni",
+                "start_char": 1579,
+                "end_char": 1590,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Dr Mubasher Hussain",
+                "start_char": 1700,
+                "end_char": 1719,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc02": {
+        "entities": []
+    },
+    "doc03": {
+        "entities": [
+            {
+                "text": "Hans K. Schulze",
+                "start_char": 2735,
+                "end_char": 2750,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hans Goetting",
+                "start_char": 2755,
+                "end_char": 2768,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Walter Deeters",
+                "start_char": 2877,
+                "end_char": 2891,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Theodor von Sickel",
+                "start_char": 3023,
+                "end_char": 3041,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Carlrichard Brühl",
+                "start_char": 3046,
+                "end_char": 3063,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc04": {
+        "entities": []
+    },
+    "doc05": {
+        "entities": [
+            {
+                "text": "Daniele Farlati",
+                "start_char": 743,
+                "end_char": 758,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ivan Kukuljević Sakcinski",
+                "start_char": 763,
+                "end_char": 788,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ivan Lučić Lucius",
+                "start_char": 852,
+                "end_char": 869,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Franjo Rački",
+                "start_char": 971,
+                "end_char": 983,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Miho Barada",
+                "start_char": 1297,
+                "end_char": 1308,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Lovre",
+                "start_char": 1471,
+                "end_char": 1476,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Marko",
+                "start_char": 1490,
+                "end_char": 1495,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Držislav Švob",
+                "start_char": 1511,
+                "end_char": 1524,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Lujo Margetić",
+                "start_char": 1708,
+                "end_char": 1721,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Olga Perić",
+                "start_char": 3091,
+                "end_char": 3101,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Neven Budak",
+                "start_char": 3318,
+                "end_char": 3329,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc06": {
+        "entities": [
+            {
+                "text": "Milan Šufflay",
+                "start_char": 1362,
+                "end_char": 1375,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "János Karácsonyi",
+                "start_char": 1579,
+                "end_char": 1595,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ljudmil Hauptmann",
+                "start_char": 1653,
+                "end_char": 1670,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Miho Barada",
+                "start_char": 1731,
+                "end_char": 1742,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Marko Kostrenčić",
+                "start_char": 1747,
+                "end_char": 1763,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Nada Klaić",
+                "start_char": 1824,
+                "end_char": 1834,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Stjepan Antoljak",
+                "start_char": 1914,
+                "end_char": 1930,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ferdo Šišić",
+                "start_char": 2393,
+                "end_char": 2404,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gyula Kristó",
+                "start_char": 2551,
+                "end_char": 2563,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Bálint Hóman",
+                "start_char": 2565,
+                "end_char": 2577,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "János Karácsonyi",
+                "start_char": 2582,
+                "end_char": 2598,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc07": {
+        "entities": [
+            {
+                "text": "Brian Welch",
+                "start_char": 967,
+                "end_char": 978,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Pierre Kohler",
+                "start_char": 1148,
+                "end_char": 1161,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc08": {
+        "entities": [
+            {
+                "text": "Lorenzo Valla",
+                "start_char": 649,
+                "end_char": 662,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Cardinal Nicholas of Cusa",
+                "start_char": 1344,
+                "end_char": 1369,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Reginald Pecocke",
+                "start_char": 2059,
+                "end_char": 2075,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Pope Pius II",
+                "start_char": 2621,
+                "end_char": 2633,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Giovanni Cavalcanti",
+                "start_char": 3056,
+                "end_char": 3075,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Filippo Maria Visconti",
+                "start_char": 3129,
+                "end_char": 3151,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Wolfram Setz",
+                "start_char": 3742,
+                "end_char": 3754,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ulrich von Hutten",
+                "start_char": 4653,
+                "end_char": 4670,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Martin Luther",
+                "start_char": 4675,
+                "end_char": 4688,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Caesar Baronius",
+                "start_char": 4849,
+                "end_char": 4864,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Christian Wolff",
+                "start_char": 5099,
+                "end_char": 5114,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc09": {
+        "entities": []
+    },
+    "doc10": {
+        "entities": []
+    },
+    "doc11": {
+        "entities": []
+    },
+    "doc12": {
+        "entities": [
+            {
+                "text": "Friedrich Münter",
+                "start_char": 372,
+                "end_char": 388,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc13": {
+        "entities": [
+            {
+                "text": "Robert S. Nelson",
+                "start_char": 1131,
+                "end_char": 1147,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Robert P. Casey",
+                "start_char": 1256,
+                "end_char": 1271,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Mary V. Orna",
+                "start_char": 1315,
+                "end_char": 1327,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Stephen Carlson",
+                "start_char": 1777,
+                "end_char": 1792,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc14": {
+        "entities": [
+            {
+                "text": "Mark Hofmann",
+                "start_char": 487,
+                "end_char": 499,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Charles Hamilton",
+                "start_char": 4261,
+                "end_char": 4277,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kenneth W. Rendell",
+                "start_char": 4279,
+                "end_char": 4297,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "investigators at the National Archives",
+                "start_char": 4303,
+                "end_char": 4341,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc15": {
+        "entities": [
+            {
+                "text": "Arthur Waldo",
+                "start_char": 943,
+                "end_char": 955,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "James S. Pula",
+                "start_char": 1286,
+                "end_char": 1299,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc16": {
+        "entities": [
+            {
+                "text": "Abdul Hai Habibi",
+                "start_char": 349,
+                "end_char": 365,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Lucia Serena Loi",
+                "start_char": 1487,
+                "end_char": 1503,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Qalandar Mohmand",
+                "start_char": 1623,
+                "end_char": 1639,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Juma Khan Sufi",
+                "start_char": 1665,
+                "end_char": 1679,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "David Neil MacKenzie",
+                "start_char": 2404,
+                "end_char": 2424,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc17": {
+        "entities": [
+            {
+                "text": "Petrarch",
+                "start_char": 2200,
+                "end_char": 2208,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Wilhelm Wattenbach",
+                "start_char": 4487,
+                "end_char": 4505,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc18": {
+        "entities": [
+            {
+                "text": "Daniel Pipes",
+                "start_char": 3060,
+                "end_char": 3072,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Umberto Eco",
+                "start_char": 3907,
+                "end_char": 3918,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Philip Graves",
+                "start_char": 4859,
+                "end_char": 4872,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Peter Grose",
+                "start_char": 4960,
+                "end_char": 4971,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Allen Dulles",
+                "start_char": 4973,
+                "end_char": 4985,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Vladimir Burtsev",
+                "start_char": 6337,
+                "end_char": 6353,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Nora Levin",
+                "start_char": 8841,
+                "end_char": 8851,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Giovanni Preziosi",
+                "start_char": 9436,
+                "end_char": 9453,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Julius Evola",
+                "start_char": 9769,
+                "end_char": 9781,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ali Gomaa",
+                "start_char": 11431,
+                "end_char": 11440,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc19": {
+        "entities": [
+            {
+                "text": "Kenneth W. Rendell",
+                "start_char": 694,
+                "end_char": 712,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jerald Tanner",
+                "start_char": 1917,
+                "end_char": 1930,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Tvedtnes",
+                "start_char": 2591,
+                "end_char": 2604,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "George Throckmorton",
+                "start_char": 4313,
+                "end_char": 4332,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Flynn",
+                "start_char": 4363,
+                "end_char": 4376,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Frances Magee",
+                "start_char": 4741,
+                "end_char": 4754,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gordon B. Hinckley",
+                "start_char": 5142,
+                "end_char": 5160,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Dallin H. Oaks",
+                "start_char": 5868,
+                "end_char": 5882,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Grant H. Palmer",
+                "start_char": 8315,
+                "end_char": 8330,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Sandra Tanner",
+                "start_char": 8990,
+                "end_char": 9003,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc20": {
+        "entities": [
+            {
+                "text": "Sergei Lavrov",
+                "start_char": 533,
+                "end_char": 546,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Michał Sokolnicki",
+                "start_char": 598,
+                "end_char": 615,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Napoleon Bonaparte",
+                "start_char": 769,
+                "end_char": 787,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Charles-Louis Lesur",
+                "start_char": 1359,
+                "end_char": 1378,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Walter K. Kelly",
+                "start_char": 1736,
+                "end_char": 1751,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Sergey Shubinsky",
+                "start_char": 2108,
+                "end_char": 2124,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Karl Marx",
+                "start_char": 2271,
+                "end_char": 2280,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Michel Sokolnicki",
+                "start_char": 2973,
+                "end_char": 2990,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc21": {
+        "entities": [
+            {
+                "text": "Witten",
+                "start_char": 1412,
+                "end_char": 1418,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Skelton",
+                "start_char": 2463,
+                "end_char": 2470,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Luka Jelić",
+                "start_char": 3554,
+                "end_char": 3564,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Peter Foote",
+                "start_char": 3614,
+                "end_char": 3625,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Richard Hennig",
+                "start_char": 3754,
+                "end_char": 3768,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jacqueline Olin",
+                "start_char": 10395,
+                "end_char": 10410,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kenneth Towe",
+                "start_char": 10648,
+                "end_char": 10660,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kirsten A. Seaver",
+                "start_char": 13994,
+                "end_char": 14011,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Paul Floyd",
+                "start_char": 17242,
+                "end_char": 17257,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Paul Freedman",
+                "start_char": 19191,
+                "end_char": 19204,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Richard Hark",
+                "start_char": 19336,
+                "end_char": 19348,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Raymond Clemens",
+                "start_char": 19735,
+                "end_char": 19750,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc22": {
+        "entities": [
+            {
+                "text": "Nicolò Zeno the Younger",
+                "start_char": 215,
+                "end_char": 238,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerardus Mercator",
+                "start_char": 607,
+                "end_char": 624,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Andrea di Robilant",
+                "start_char": 2329,
+                "end_char": 2347,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "The Dictionary of Canadian Biography Online",
+                "start_char": 2405,
+                "end_char": 2448,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Herbert Wrigley Wilson",
+                "start_char": 2598,
+                "end_char": 2620,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Di Robilant",
+                "start_char": 2983,
+                "end_char": 2994,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc23": {
+        "entities": [
+            {
+                "text": "Jacob Ilive",
+                "start_char": 92,
+                "end_char": 103,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Monthly Review",
+                "start_char": 1392,
+                "end_char": 1406,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Rosicrucians in San Jose,",
+                "start_char": 2164,
+                "end_char": 2189,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc24": {
+        "entities": [
+            {
+                "text": "Boris Rybakov",
+                "start_char": 1241,
+                "end_char": 1254,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Andrey Zaliznyak",
+                "start_char": 1256,
+                "end_char": 1272,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Leo Klejn",
+                "start_char": 1274,
+                "end_char": 1283,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Yuriy Mirolyubov",
+                "start_char": 1799,
+                "end_char": 1815,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alexander Sulakadzev",
+                "start_char": 2005,
+                "end_char": 2025,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "O.V. Tvorogov",
+                "start_char": 3143,
+                "end_char": 3156,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Levko Lukyanenko",
+                "start_char": 3630,
+                "end_char": 3646,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc25": {
+        "entities": [
+            {
+                "text": "L. Ron Hubbard",
+                "start_char": 175,
+                "end_char": 189,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Edward Hunter",
+                "start_char": 793,
+                "end_char": 806,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Tony Ortega",
+                "start_char": 1860,
+                "end_char": 1871,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Nick Redfern",
+                "start_char": 2624,
+                "end_char": 2636,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Anderson Report",
+                "start_char": 3689,
+                "end_char": 3704,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc26": {
+        "entities": [
+            {
+                "text": "Ernst Edler von der Planitz",
+                "start_char": 53,
+                "end_char": 80,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc27": {
+        "entities": [
+            {
+                "text": "The librarian",
+                "start_char": 2047,
+                "end_char": 2060,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Roy Rosenzweig",
+                "start_char": 2712,
+                "end_char": 2726,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Jelani Cobb",
+                "start_char": 2929,
+                "end_char": 2948,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc28": {
+        "entities": [
+            {
+                "text": "Jose Marco",
+                "start_char": 437,
+                "end_char": 447,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Teodoro Agoncillo",
+                "start_char": 621,
+                "end_char": 638,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "National Historical Commission of the Philippines",
+                "start_char": 801,
+                "end_char": 850,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "James Alexander Robertson",
+                "start_char": 1500,
+                "end_char": 1525,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Henry Scott",
+                "start_char": 2072,
+                "end_char": 2091,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Antonio M. Molina",
+                "start_char": 3149,
+                "end_char": 3166,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "National Historical Institute",
+                "start_char": 3913,
+                "end_char": 3942,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc29": {
+        "entities": [
+            {
+                "text": "Josef Dobrovský",
+                "start_char": 451,
+                "end_char": 466,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jernej Kopitar",
+                "start_char": 468,
+                "end_char": 482,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Josef Jungmann",
+                "start_char": 724,
+                "end_char": 738,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "František Čelakovský",
+                "start_char": 747,
+                "end_char": 767,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "František Palacký",
+                "start_char": 779,
+                "end_char": 796,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Karel Jaromír Erben",
+                "start_char": 818,
+                "end_char": 837,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Bowring",
+                "start_char": 854,
+                "end_char": 866,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Wratislaw",
+                "start_char": 1548,
+                "end_char": 1557,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alois Vojtěch Šembera",
+                "start_char": 1725,
+                "end_char": 1746,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Tomáš Masaryk",
+                "start_char": 2124,
+                "end_char": 2137,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jan Gebauer",
+                "start_char": 2237,
+                "end_char": 2248,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Palacký",
+                "start_char": 2911,
+                "end_char": 2918,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc30": {
+        "entities": [
+            {
+                "text": "Franck Gavard-Perret",
+                "start_char": 1025,
+                "end_char": 1045,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Nicolas Beaudry",
+                "start_char": 1082,
+                "end_char": 1097,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Coraline Hausenblas",
+                "start_char": 1378,
+                "end_char": 1397,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Antoine Resche",
+                "start_char": 2373,
+                "end_char": 2387,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc31": {
+        "entities": [
+            {
+                "text": "Marcello Dell'Utri",
+                "start_char": 1076,
+                "end_char": 1094,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Emilio Gentile",
+                "start_char": 2244,
+                "end_char": 2258,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Roberto Travaglini",
+                "start_char": 2263,
+                "end_char": 2281,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Silvio Berlusconi",
+                "start_char": 3051,
+                "end_char": 3068,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Elisabetta Sgarbi",
+                "start_char": 3262,
+                "end_char": 3279,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Libero",
+                "start_char": 3308,
+                "end_char": 3314,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc32": {
+        "entities": [
+            {
+                "text": "Walter Kaufmann",
+                "start_char": 128,
+                "end_char": 143,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Walter K. Stewart",
+                "start_char": 2145,
+                "end_char": 2162,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc33": {
+        "entities": [
+            {
+                "text": "Georg Zappert",
+                "start_char": 102,
+                "end_char": 115,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Johann Kelle",
+                "start_char": 555,
+                "end_char": 567,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jacob Grimm",
+                "start_char": 760,
+                "end_char": 771,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Edwards",
+                "start_char": 953,
+                "end_char": 960,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Grohmann",
+                "start_char": 1141,
+                "end_char": 1149,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kletke",
+                "start_char": 1326,
+                "end_char": 1332,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Fichtenau",
+                "start_char": 1601,
+                "end_char": 1610,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Howard",
+                "start_char": 2108,
+                "end_char": 2114,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "F. Mairinger",
+                "start_char": 2872,
+                "end_char": 2884,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc34": {
+        "entities": [
+            {
+                "text": "Walter Laqueur",
+                "start_char": 1509,
+                "end_char": 1523,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc35": {
+        "entities": [
+            {
+                "text": "Leonard Lewin",
+                "start_char": 843,
+                "end_char": 856,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Victor Navasky",
+                "start_char": 1532,
+                "end_char": 1546,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Kenneth Galbraith",
+                "start_char": 1679,
+                "end_char": 1701,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Herschel McLandress",
+                "start_char": 1976,
+                "end_char": 1995,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc36": {
+        "entities": [
+            {
+                "text": "Artūras Dubonis",
+                "start_char": 283,
+                "end_char": 298,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc37": {
+        "entities": [
+            {
+                "text": "R. A. Stewart Macalister",
+                "start_char": 978,
+                "end_char": 1002,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alfred Webb",
+                "start_char": 1286,
+                "end_char": 1297,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc38": {
+        "entities": [
+            {
+                "text": "Charles Vanderbourg",
+                "start_char": 101,
+                "end_char": 120,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Antonin Mace",
+                "start_char": 685,
+                "end_char": 697,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc39": {
+        "entities": [
+            {
+                "text": "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières",
+                "start_char": 0,
+                "end_char": 98,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Cousin de Courchamps",
+                "start_char": 320,
+                "end_char": 340,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc40": {
+        "entities": [
+            {
+                "text": "Amado Crowley",
+                "start_char": 0,
+                "end_char": 13,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Jason Brett",
+                "start_char": 1261,
+                "end_char": 1272,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerald Suster",
+                "start_char": 1468,
+                "end_char": 1481,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc41": {
+        "entities": [
+            {
+                "text": "Linda Davison Stafford",
+                "start_char": 0,
+                "end_char": 22,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Moody Press",
+                "start_char": 771,
+                "end_char": 782,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Harvest House",
+                "start_char": 1287,
+                "end_char": 1300,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc42": {
+        "entities": [
+            {
+                "text": "Walter Hooper",
+                "start_char": 324,
+                "end_char": 337,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kathryn Lindskoog",
+                "start_char": 477,
+                "end_char": 494,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Margaret Wheatfield",
+                "start_char": 1933,
+                "end_char": 1952,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alastair Fowler",
+                "start_char": 2641,
+                "end_char": 2656,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc43": {
+        "entities": [
+            {
+                "text": "Charles Bertram",
+                "start_char": 147,
+                "end_char": 162,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Stukeley",
+                "start_char": 626,
+                "end_char": 642,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Hodgson",
+                "start_char": 1010,
+                "end_char": 1022,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Karl Wex",
+                "start_char": 1024,
+                "end_char": 1032,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "B. B. Woodward",
+                "start_char": 1034,
+                "end_char": 1048,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John E. B. Mayor",
+                "start_char": 1054,
+                "end_char": 1070,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Major-General William Roy",
+                "start_char": 2899,
+                "end_char": 2924,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Forbes Skene",
+                "start_char": 3361,
+                "end_char": 3381,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Barry Cunliffe",
+                "start_char": 3846,
+                "end_char": 3860,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Friedrich Carl Wex",
+                "start_char": 4421,
+                "end_char": 4439,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "J.E.B. Mayor",
+                "start_char": 5848,
+                "end_char": 5860,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc44": {
+        "entities": []
+    },
+    "doc45": {
+        "entities": [
+            {
+                "text": "Philip Yorke",
+                "start_char": 226,
+                "end_char": 238,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Dr Thomas Birch",
+                "start_char": 570,
+                "end_char": 585,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "George Chalmers",
+                "start_char": 941,
+                "end_char": 956,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Thomas Watts",
+                "start_char": 1617,
+                "end_char": 1629,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc46": {
+        "entities": []
+    },
+    "doc47": {
+        "entities": []
+    },
+    "doc48": {
+        "entities": [
+            {
+                "text": "William Dudley Pelley",
+                "start_char": 386,
+                "end_char": 407,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "U.S. Congress",
+                "start_char": 873,
+                "end_char": 886,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Anti-Defamation League",
+                "start_char": 1486,
+                "end_char": 1508,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Fatah Central Committee",
+                "start_char": 2513,
+                "end_char": 2536,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Osama bin Laden",
+                "start_char": 2642,
+                "end_char": 2657,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc49": {
+        "entities": [
+            {
+                "text": "Norman Cohn",
+                "start_char": 1028,
+                "end_char": 1039,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Richard Kieckhefer",
+                "start_char": 1044,
+                "end_char": 1062,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc50": {
+        "entities": [
+            {
+                "text": "Hermann Dessau",
+                "start_char": 940,
+                "end_char": 954,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Theodor Mommsen",
+                "start_char": 3435,
+                "end_char": 3450,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hermann Peter",
+                "start_char": 3559,
+                "end_char": 3572,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Norman H. Baynes",
+                "start_char": 3770,
+                "end_char": 3786,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Sir Ronald Syme",
+                "start_char": 4058,
+                "end_char": 4073,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Arnaldo",
+                "start_char": 4811,
+                "end_char": 4818,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "A. H. M.",
+                "start_char": 4846,
+                "end_char": 4854,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "H Stern",
+                "start_char": 6046,
+                "end_char": 6053,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Alan Cameron",
+                "start_char": 6285,
+                "end_char": 6297,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Daniel Den Hengst",
+                "start_char": 9583,
+                "end_char": 9600,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Edward Gibbon",
+                "start_char": 16686,
+                "end_char": 16699,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Anthony Birley",
+                "start_char": 4124,
+                "end_char": 4138,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ronald Syme",
+                "start_char": 4803,
+                "end_char": 4814,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "François Paschoud",
+                "start_char": 6088,
+                "end_char": 6105,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "David Magie",
+                "start_char": 7065,
+                "end_char": 7076,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "M. L. W. Laistner",
+                "start_char": 8158,
+                "end_char": 8175,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc51": {
+        "entities": [
+            {
+                "text": "Konrad Kujau",
+                "start_char": 141,
+                "end_char": 153,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hugh Trevor-Roper",
+                "start_char": 484,
+                "end_char": 501,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerd Heidemann",
+                "start_char": 1438,
+                "end_char": 1452,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Josef Henke",
+                "start_char": 1992,
+                "end_char": 2003,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Klaus Oldenhage",
+                "start_char": 2008,
+                "end_char": 2023,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Max Frei-Sulzer",
+                "start_char": 2074,
+                "end_char": 2089,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ordway Hilton",
+                "start_char": 2716,
+                "end_char": 2729,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Gerhard Weinberg",
+                "start_char": 4631,
+                "end_char": 4647,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "David Irving",
+                "start_char": 12335,
+                "end_char": 12347,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kenneth W. Rendell",
+                "start_char": 14983,
+                "end_char": 15001,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc52": {
+        "entities": [
+            {
+                "text": "Waniko Yasutoshi",
+                "start_char": 385,
+                "end_char": 401,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hirata Atsutane",
+                "start_char": 544,
+                "end_char": 559,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Yoshinosuke",
+                "start_char": 994,
+                "end_char": 1005,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "some scholars",
+                "start_char": 2036,
+                "end_char": 2049,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc53": {
+        "entities": [
+            {
+                "text": "Rohan Kriwaczek",
+                "start_char": 74,
+                "end_char": 89,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Peter Mayer",
+                "start_char": 245,
+                "end_char": 256,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Matthew Rye",
+                "start_char": 1133,
+                "end_char": 1144,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Naomi Sadler",
+                "start_char": 1258,
+                "end_char": 1270,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc54": {
+        "entities": [
+            {
+                "text": "Samuel Ireland",
+                "start_char": 97,
+                "end_char": 111,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "James Boswell",
+                "start_char": 370,
+                "end_char": 383,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Henry James Pye",
+                "start_char": 433,
+                "end_char": 448,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Richard Brinsley Sheridan",
+                "start_char": 510,
+                "end_char": 535,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Edmond Malone",
+                "start_char": 830,
+                "end_char": 843,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "William Henry Ireland",
+                "start_char": 1047,
+                "end_char": 1068,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Thomas Caldecott",
+                "start_char": 7445,
+                "end_char": 7461,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "George Steevens",
+                "start_char": 7877,
+                "end_char": 7892,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "George Chalmers",
+                "start_char": 8367,
+                "end_char": 8382,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Clement Mansfield Ingleby",
+                "start_char": 8861,
+                "end_char": 8886,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "George Dawson",
+                "start_char": 8899,
+                "end_char": 8912,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Peter Ackroyd",
+                "start_char": 9687,
+                "end_char": 9700,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Martyn Wade",
+                "start_char": 9875,
+                "end_char": 9886,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc55": {
+        "entities": [
+            {
+                "text": "Lorenzo Valla",
+                "start_char": 855,
+                "end_char": 868,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "J. B. Lightfoot",
+                "start_char": 2410,
+                "end_char": 2425,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Adolf von Harnack",
+                "start_char": 2572,
+                "end_char": 2589,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Claude Barlow",
+                "start_char": 2607,
+                "end_char": 2620,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "J. K. Elliott",
+                "start_char": 2820,
+                "end_char": 2833,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Bart Ehrman",
+                "start_char": 2923,
+                "end_char": 2934,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Philip Schaff",
+                "start_char": 3746,
+                "end_char": 3759,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Marta Sordi",
+                "start_char": 5027,
+                "end_char": 5038,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc56": {
+        "entities": [
+            {
+                "text": "Tokugawa Mitsukuni",
+                "start_char": 212,
+                "end_char": 230,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Tada Yoshitoshi",
+                "start_char": 235,
+                "end_char": 250,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John R. Bentley",
+                "start_char": 1472,
+                "end_char": 1487,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Mark Teeuwen",
+                "start_char": 1903,
+                "end_char": 1915,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc57": {
+        "entities": []
+    },
+    "doc58": {
+        "entities": []
+    },
+    "doc59": {
+        "entities": [
+            {
+                "text": "Cyrus Thomas",
+                "start_char": 491,
+                "end_char": 503,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Cyrus H. Gordon",
+                "start_char": 707,
+                "end_char": 722,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Robert Mainfort",
+                "start_char": 1191,
+                "end_char": 1206,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Mary Kwas",
+                "start_char": 1211,
+                "end_char": 1220,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kenneth Feder",
+                "start_char": 4672,
+                "end_char": 4685,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Bradley T. Lepper",
+                "start_char": 5069,
+                "end_char": 5086,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Kyle McCarter",
+                "start_char": 5280,
+                "end_char": 5293,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc60": {
+        "entities": [
+            {
+                "text": "Peter Schauer",
+                "start_char": 1468,
+                "end_char": 1481,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Richard Harrison",
+                "start_char": 1955,
+                "end_char": 1971,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Rupert Gebhard",
+                "start_char": 2393,
+                "end_char": 2407,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Rudiger Krause",
+                "start_char": 2412,
+                "end_char": 2426,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ernst Pernicka",
+                "start_char": 2583,
+                "end_char": 2597,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    },
+    "doc61": {
+        "entities": [
+            {
+                "text": "Henry Ansgar Kelly",
+                "start_char": 758,
+                "end_char": 776,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Bruno Nardi",
+                "start_char": 781,
+                "end_char": 792,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Francesco Mazzoni",
+                "start_char": 861,
+                "end_char": 878,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Robert Hollander",
+                "start_char": 885,
+                "end_char": 901,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Charles Singleton",
+                "start_char": 907,
+                "end_char": 924,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ralph G. Hall",
+                "start_char": 1115,
+                "end_char": 1128,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Madison U. Sowell",
+                "start_char": 1133,
+                "end_char": 1150,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "John Ciardi",
+                "start_char": 1326,
+                "end_char": 1337,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Teodolinda Barolini",
+                "start_char": 1511,
+                "end_char": 1530,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "researchers for the Italian Istituto di Scienza e Tecnologie dell'Informazione",
+                "start_char": 1771,
+                "end_char": 1849,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    }
+}

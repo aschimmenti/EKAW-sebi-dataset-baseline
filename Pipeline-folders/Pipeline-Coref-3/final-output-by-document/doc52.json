@@ -1,0 +1,91 @@
+{
+    "Waniko Yasutoshi": {
+        "Waniko Yasutoshi": [
+            {
+                "claim": "Although many proponents allege that the Hotsuma predates the mainstream mythology, the first known manuscript was dedicated to a shrine by Waniko Yasutoshi (also known as Yunoshin Ibo) in 1775.",
+                "bibliography": []
+            },
+            {
+                "claim": "Yasutoshi's manuscript was almost lost, but was discovered and rescued in 1993 following the publication of some popular books on the subject in the mid-20th century by Yoshinosuke Matsumoto.",
+                "bibliography": [
+                    "[1]",
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Waniko Yasutoshi",
+            "start_char": 385,
+            "end_char": 401,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Hirata Atsutane": {
+        "Hirata Atsutane": [
+            {
+                "claim": "Some excerpts were published and translated into modern Japanese in 1884, a printing which was noted by Hirata Atsutane in his work on jindai moji, a Japanese writing system developed prior to the use of Chinese characters, but which otherwise ignored the work.",
+                "bibliography": []
+            },
+            {
+                "claim": "Atsutane's Kokugaku was principally concerned with the Kojiki and the Hotsuma Tsutae would have only muddled his theories.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Hirata Atsutane",
+            "start_char": 544,
+            "end_char": 559,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Yoshinosuke": {
+        "Yoshinosuke": [
+            {
+                "claim": "Yasutoshi's manuscript was almost lost, but was discovered and rescued in 1993 following the publication of some popular books on the subject in the mid-20th century by Yoshinosuke Matsumoto.",
+                "bibliography": [
+                    "[1]",
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Matsumoto theorizes that Amaterasu was feminized in the Kojiki and Nihon Shoki to provide a justification for the reign of Empress Suiko who reigned just before those documents were written.",
+                "bibliography": [
+                    "[1]",
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Yoshinosuke",
+            "start_char": 994,
+            "end_char": 1005,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "some scholars": {
+        "some scholars": [
+            {
+                "claim": "Although for the most part Japanese academics remain uninterested in this text, some scholars are of the opinion that it may have been written in the Edo period.",
+                "bibliography": []
+            },
+            {
+                "claim": "This is due to claims that the text was written in an original Japanese alphabet - in academic circles, the existence of writing in Japan before the use of Chinese characters is denied, also the alphabet does not reflect the Old Japanese phonology but rather those of later stages of Japanese.",
+                "bibliography": []
+            },
+            {
+                "claim": "The general opinion is that it is a false document.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "some scholars",
+            "start_char": 2036,
+            "end_char": 2049,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

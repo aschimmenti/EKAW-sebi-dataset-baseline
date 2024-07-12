@@ -1,0 +1,186 @@
+{
+    "Leonard Lewin": {
+        "Leonard Lewin": [
+            {
+                "claim": "The document is a favorite among conspiracy theorists, who reject the statement made in 1972 by satirist Leonard Lewin that the book was a spoof and that he was its author.",
+                "bibliography": []
+            },
+            {
+                "claim": "In an article in the March 19, 1972, edition of The New York Times Book Review, Lewin said that he had written the book.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "In a remembrance of E. L. Doctorow published in 2015 in The Nation, Victor Navasky asserted his involvement in creating Report from Iron Mountain, naming Leonard Lewin as the main writer with 'input' from economist John Kenneth Galbraith, two editors of the satirical magazine Monocle (Marvin Kitman and Richard Lingeman) and himself.",
+                "bibliography": [
+                    "[6]"
+                ]
+            },
+            {
+                "claim": "The original reporter reported the following six days later: 'Misquoting seems to be a hazard to which Professor Galbraith is prone. The latest edition of the Cambridge newspaper Varsity quotes the following (tape recorded) interchange: Interviewer: \"Are you aware of the identity of the author of Report from Iron Mountain?\" Galbraith: \"I was in general a member of the conspiracy, but I was not the author. I have always assumed that it was the man who wrote the foreword – Mr. Lewin'.",
+                "bibliography": [
+                    "[10]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Leonard Lewin",
+            "start_char": 843,
+            "end_char": 856,
+            "label": "Leonard C. Lewin",
+            "description": "American writer (1916-1999)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Leonard Lewin",
+            "wikidata_id": "Q1818947",
+            "also_known_as": [
+                "Leonard Lewin",
+                "Leonard Case Lewin",
+                "L.L. Case"
+            ],
+            "occupation": "writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1916-10-02T00:00:00Z",
+            "date of death": "+1999-01-28T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Lewin"
+        }
+    },
+    "Victor Navasky": {
+        "Victor Navasky": [
+            {
+                "claim": "In a remembrance of E. L. Doctorow published in 2015 in The Nation, Victor Navasky asserted his involvement in creating Report from Iron Mountain, naming Leonard Lewin as the main writer with 'input' from economist John Kenneth Galbraith, two editors of the satirical magazine Monocle (Marvin Kitman and Richard Lingeman) and himself.",
+                "bibliography": [
+                    "[6]"
+                ]
+            },
+            {
+                "claim": "In an article published in New York in 2013, Victor Navasky asserted that Galbraith was indeed McLandress, and that he was 'in on the hoax from the beginning.'",
+                "bibliography": [
+                    "[11]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Victor Navasky",
+            "start_char": 1532,
+            "end_char": 1546,
+            "label": "Victor Navasky",
+            "description": "American journalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Victor Navasky",
+            "wikidata_id": "Q2522488",
+            "also_known_as": [
+                "Victor S. Navasky",
+                "Victor Saul Navasky"
+            ],
+            "occupation": "journalist, writer, publisher, university teacher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1932-07-05T00:00:00Z",
+            "date of death": "+2023-01-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Kenneth Galbraith": {
+        "John Kenneth Galbraith": [
+            {
+                "claim": "In a remembrance of E. L. Doctorow published in 2015 in The Nation, Victor Navasky asserted his involvement in creating Report from Iron Mountain, naming Leonard Lewin as the main writer with 'input' from economist John Kenneth Galbraith, two editors of the satirical magazine Monocle (Marvin Kitman and Richard Lingeman) and himself.",
+                "bibliography": [
+                    "[6]"
+                ]
+            },
+            {
+                "claim": "On November 26, 1967, the report was reviewed in the book section of The Washington Post by Herschel McLandress, supposedly the pen name for Harvard professor John Kenneth Galbraith. McLandress wrote that he knew firsthand of the report's authenticity because he had been invited to participate in its creation; that although he was unable to be part of the official group, he was consulted from time to time and had been asked to keep the project secret; and that while he doubted the wisdom of letting the public know about the report, he agreed totally with its conclusions.",
+                "bibliography": [
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "He wrote: 'As I would put my personal repute behind the authenticity of this document, so would I testify to the validity of its conclusions. My reservation relates only to the wisdom of releasing it to an obviously unconditioned public.'",
+                "bibliography": [
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "Six weeks later, in an Associated Press dispatch from London, Galbraith went even further and jokingly admitted that he was a member of the conspiracy.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "The following day, Galbraith backed off. When asked about his 'conspiracy' statement, he replied: 'For the first time since Charles II The Times has been guilty of a misquotation... Nothing shakes my conviction that it was written by either Dean Rusk or Mrs. Clare Boothe Luce'.",
+                "bibliography": [
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "The original reporter reported the following six days later: 'Misquoting seems to be a hazard to which Professor Galbraith is prone. The latest edition of the Cambridge newspaper Varsity quotes the following (tape recorded) interchange: Interviewer: 'Are you aware of the identity of the author of Report from Iron Mountain?' Galbraith: 'I was in general a member of the conspiracy, but I was not the author. I have always assumed that it was the man who wrote the foreword – Mr. Lewin'.",
+                "bibliography": [
+                    "[10]"
+                ]
+            },
+            {
+                "claim": "In an article published in New York in 2013, Victor Navasky asserted that Galbraith was indeed McLandress, and that he was 'in on the hoax from the beginning.'",
+                "bibliography": [
+                    "[11]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "John Kenneth Galbraith",
+            "start_char": 1679,
+            "end_char": 1701,
+            "label": "John Kenneth Galbraith",
+            "description": "Canadian-American economist and diplomat (1908–2006)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Kenneth Galbraith",
+            "wikidata_id": "Q186042",
+            "also_known_as": [
+                "John K. Galbraith"
+            ],
+            "occupation": "economist, diplomat, politician, university teacher, non-fiction writer, writer, ambassador",
+            "country of citizenship": "Canada, United States of America",
+            "date of birth": "+1908-10-15T00:00:00Z",
+            "date of death": "+2006-04-29T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Galbraith"
+        }
+    },
+    "Herschel McLandress": {
+        "Herschel McLandress": [
+            {
+                "claim": "On November 26, 1967, the report was reviewed in the book section of The Washington Post by Herschel McLandress, supposedly the pen name for Harvard professor John Kenneth Galbraith.",
+                "bibliography": []
+            },
+            {
+                "claim": "McLandress wrote that he knew firsthand of the report's authenticity because he had been invited to participate in its creation; that although he was unable to be part of the official group, he was consulted from time to time and had been asked to keep the project secret; and that while he doubted the wisdom of letting the public know about the report, he agreed totally with its conclusions.",
+                "bibliography": []
+            },
+            {
+                "claim": "He wrote: 'As I would put my personal repute behind the authenticity of this document, so would I testify to the validity of its conclusions. My reservation relates only to the wisdom of releasing it to an obviously unconditioned public.'",
+                "bibliography": [
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "In an article published in New York in 2013, Victor Navasky asserted that Galbraith was indeed McLandress, and that he was 'in on the hoax from the beginning.'",
+                "bibliography": [
+                    "[11]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Herschel McLandress",
+            "start_char": 1976,
+            "end_char": 1995,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

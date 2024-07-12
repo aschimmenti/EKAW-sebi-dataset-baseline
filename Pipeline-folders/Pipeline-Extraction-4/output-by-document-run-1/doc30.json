@@ -1,0 +1,132 @@
+{
+    "Franck Gavard-Perret": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Franck Gavard-Perret",
+            "start_char": 1025,
+            "end_char": 1045,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Franck Gavard-Perret"
+        }
+    },
+    "Nicolas Beaudry": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Nicolas Beaudry",
+            "start_char": 1082,
+            "end_char": 1097,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Nicolas Beaudry",
+            "instance_of": "human"
+        }
+    },
+    "Coraline Hausenblas": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": [
+            "identity theft"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Coraline Hausenblas",
+            "start_char": 1378,
+            "end_char": 1397,
+            "label": "Coraline Hausenblas",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Coraline Hausenblas",
+            "wikidata_id": "Q125916735",
+            "occupation": "writer",
+            "instance_of": "human"
+        }
+    },
+    "Antoine Resche": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false
+            },
+            {
+                "feature": "material support",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Antoine Resche",
+            "start_char": 2373,
+            "end_char": 2387,
+            "label": "Antoine Resche",
+            "description": "French historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Antoine Resche",
+            "wikidata_id": "Q32827051",
+            "also_known_as": [
+                "Histony"
+            ],
+            "occupation": "historian, video blogger",
+            "country of citizenship": "France",
+            "date of birth": "+1990-04-26T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

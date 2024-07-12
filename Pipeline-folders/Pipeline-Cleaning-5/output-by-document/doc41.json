@@ -1,0 +1,72 @@
+{
+    "Linda Davison Stafford": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true,
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Linda Davison Stafford",
+            "start_char": 0,
+            "end_char": 22,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Moody Press": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Moody Press",
+            "start_char": 771,
+            "end_char": 782,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Harvest House": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Harvest House",
+            "start_char": 1287,
+            "end_char": 1300,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

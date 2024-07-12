@@ -1,0 +1,105 @@
+{
+    "The librarian": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": true,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "The librarian",
+            "start_char": 2047,
+            "end_char": 2060,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Roy Rosenzweig": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false,
+                "veridicality": false
+            },
+            {
+                "feature": "historical context",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Roy Rosenzweig",
+            "start_char": 2712,
+            "end_char": 2726,
+            "label": "Roy Rosenzweig",
+            "description": "American historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Roy Rosenzweig",
+            "wikidata_id": "Q1298389",
+            "also_known_as": [
+                "Roy Alan Rosenzweig"
+            ],
+            "occupation": "historian, university teacher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1950-08-06T00:00:00Z",
+            "date of death": "+2007-10-11T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Rosenzweig"
+        }
+    },
+    "William Jelani Cobb": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "historical context",
+                "consistency": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "William Jelani Cobb",
+            "start_char": 2929,
+            "end_char": 2948,
+            "label": "Jelani Cobb",
+            "description": "American journalist and professor of journalism",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Jelani Cobb",
+            "wikidata_id": "Q8013536",
+            "also_known_as": [
+                "William Jelani Cobb"
+            ],
+            "occupation": "educator, writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1967-09-22T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

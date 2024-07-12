@@ -1,0 +1,145 @@
+{
+    "Abdul Hai Habibi": {
+        "Abdul Hai Habibi": [
+            {
+                "claim": "The Afghan scholar Abdul Hai Habibi claimed to have discovered the manuscript in 1944.",
+                "bibliography": []
+            },
+            {
+                "claim": "He claimed it was a 19th-century copy of an anthology of Pashto poetry written in 1729 in Kandahar by Shah Hussain Hotak.",
+                "bibliography": []
+            },
+            {
+                "claim": "Habibi published the manuscript as a facsimile in 1975 but did not make the original document available for historical testing due to the scholars not following the UN protocol.",
+                "bibliography": []
+            },
+            {
+                "claim": "Habibi dismissed such critics, stating that their arguments were not 'scientifically based'.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Abdul Hai Habibi",
+            "start_char": 349,
+            "end_char": 365,
+            "label": "Abdul Hai Habibi",
+            "description": "Afghan writer and historian",
+            "labels": [
+                "Person"
+            ],
+            "also_known_as": [
+                "Abdul-Hai Habibi"
+            ],
+            "resolved_label": "Abdul Hai Habibi",
+            "wikidata_id": "Q95673018",
+            "date of birth": "+1910-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Lucia Serena Loi": {
+        "Lucia Serena Loi": [
+            {
+                "claim": "The first translation into a European language, with a detailed critical commentary, only appeared in 1987, written by the Italian Iranologist Lucia Serena Loi.",
+                "bibliography": []
+            },
+            {
+                "claim": "Loi considers the manuscript a forgery of the late 19th century.",
+                "bibliography": [
+                    "[3]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Lucia Serena Loi",
+            "start_char": 1487,
+            "end_char": 1503,
+            "label": "Lucia Serena Loi",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Lucia Serena Loi",
+            "wikidata_id": "Q95673018",
+            "occupation": "iranologist",
+            "instance_of": "human"
+        }
+    },
+    "Qalandar Mohmand": {
+        "Qalandar Mohmand": [
+            {
+                "claim": "The most intensive critical occupation with the manuscript among Pashto scholars was published by the Pashtun scholar Qalandar Mohmand in 1988.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Qalandar Mohmand",
+            "start_char": 1623,
+            "end_char": 1639,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Qalandar Mohmand"
+        }
+    },
+    "Juma Khan Sufi": {
+        "Juma Khan Sufi": [
+            {
+                "claim": "Another scholar Juma Khan Sufi in his critical exposition of Pata Khazana also questions the authenticity of the Pata Khazana.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Juma Khan Sufi",
+            "start_char": 1665,
+            "end_char": 1679,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Juma Khan Sufi"
+        }
+    },
+    "David Neil MacKenzie": {
+        "David Neil MacKenzie": [
+            {
+                "claim": "The Iranologist David Neil MacKenzie concludes from the anachronisms that the document was fabricated only shortly before its claimed discovery in 1944.",
+                "bibliography": []
+            },
+            {
+                "claim": "MacKenzie's central argument refers to the use of the modern Pashto letters ẓ̌e and ṇun throughout the script. These letters were only introduced into the Pashto alphabet in 1936 when the Afghan government reformed the Pashto orthography.",
+                "bibliography": []
+            },
+            {
+                "claim": "MacKenzie claims that the two letters have never been found simultaneously in any genuine manuscript before 1935.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "David Neil MacKenzie",
+            "start_char": 2404,
+            "end_char": 2424,
+            "label": "David Neil MacKenzie",
+            "description": "British linguist (1926–2001)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "David Neil MacKenzie",
+            "wikidata_id": "Q4819498",
+            "also_known_as": [
+                "David N. MacKenzie"
+            ],
+            "occupation": "linguist, orientalist, polyglot",
+            "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1926-04-08T00:00:00Z",
+            "date of death": "+2001-10-13T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "Daniele Farlati": {
+        "Daniele Farlati": [
+            {
+                "claim": "Historians Daniele Farlati and Ivan Kukuljević Sakcinski considered that the indiction XV refers to the year 837, while Ivan Lučić Lucius considered that indiction refers to the year 838, which cannot be because of indiction.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Historian Franjo Rački corrected the opinion of Farlati and Kukuljević Sakcinski because Lothair I reigned as 'Francorum rex', King of Franks, only since year 840, and also because, according to chronicler John the Deacon, Duke Mislav reigned over Duchy of Croatia in year 837.",
+                "bibliography": [
+                    "[3]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Daniele Farlati",
+            "start_char": 743,
+            "end_char": 758,
+            "label": "Daniele Farlati",
+            "description": "Italian Jesuit and historian (1690-1773)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Daniele Farlati",
+            "wikidata_id": "Q797181",
+            "occupation": "church historian, historian",
+            "country of citizenship": "Republic of Venice",
+            "date of birth": "+1690-02-22T00:00:00Z",
+            "date of death": "+1773-04-05T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Farlati"
+        }
+    },
+    "Ivan Kukuljević Sakcinski": {
+        "Ivan Kukuljević Sakcinski": [
+            {
+                "claim": "Historians Daniele Farlati and Ivan Kukuljević Sakcinski considered that the indiction XV refers to the year 837, while Ivan Lučić Lucius considered that indiction refers to the year 838, which cannot be because of indiction.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Historian Franjo Rački corrected the opinion of Farlati and Kukuljević Sakcinski because Lothair I reigned as 'Francorum rex', King of Franks, only since year 840, and also because, according to chronicler John the Deacon, Duke Mislav reigned over Duchy of Croatia in year 837. Accordingly, indiction XV can only refer to year 852.",
+                "bibliography": [
+                    "[3]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Ivan Kukuljević Sakcinski",
+            "start_char": 763,
+            "end_char": 788,
+            "label": "Ivan Kukuljević Sakcinski",
+            "description": "Croatian historian and politician (1816-1889)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ivan Kukuljević Sakcinski",
+            "wikidata_id": "Q697783",
+            "occupation": "linguist, historian, writer, poet, politician, editor",
+            "country of citizenship": "Austrian Empire, Kingdom of Hungary",
+            "date of birth": "+1816-05-29T00:00:00Z",
+            "date of death": "+1889-08-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Ivan Lučić Lucius": {
+        "Ivan Lučić Lucius": [
+            {
+                "claim": "Ivan Lučić Lucius considered that indiction refers to the year 838, which cannot be because of indiction.",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Ivan Lučić Lucius",
+            "start_char": 852,
+            "end_char": 869,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Franjo Rački": {
+        "Franjo Rački": [
+            {
+                "claim": "Historian Franjo Rački corrected the opinion of Farlati and Kukuljević Sakcinski because Lothair I reigned as 'Francorum rex', King of Franks, only since year 840, and also because, according to chronicler John the Deacon, Duke Mislav reigned over Duchy of Croatia in year 837. Accordingly, indiction XV can only refer to year 852.",
+                "bibliography": [
+                    "[3]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Franjo Rački",
+            "start_char": 971,
+            "end_char": 983,
+            "label": "Franjo Rački",
+            "description": "Croatian historian, politician and writer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Franjo Rački",
+            "wikidata_id": "Q516286",
+            "occupation": "historian, politician, priest",
+            "country of citizenship": "Austrian Empire, Austria-Hungary",
+            "date of birth": "+1828-11-25T00:00:00Z",
+            "date of death": "+1894-02-13T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Miho Barada": {
+        "Miho Barada": [
+            {
+                "claim": "Miho Barada gave the first extensive palaeographic-diplomatic analysis to attempt to reconstruct the original text.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Miho Barada",
+            "start_char": 1297,
+            "end_char": 1308,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Lovre": {
+        "Lovre": [
+            {
+                "claim": "In addition, valuable contributions were also given by Lovre Katić[5] and Marko Kostrenčić.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Lovre",
+            "start_char": 1471,
+            "end_char": 1476,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Marko": {
+        "Marko": [
+            {
+                "claim": "In addition, valuable contributions were also given by Lovre Katić and Marko Kostrenčić.",
+                "bibliography": [
+                    "[6]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Marko",
+            "start_char": 1490,
+            "end_char": 1495,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Držislav Švob": {
+        "Držislav Švob": [
+            {
+                "claim": "Držislav Švob considered this Charter to be forgery from 14th century because of its 'unconvincing arguments and arbitrary assumptions'.",
+                "bibliography": [
+                    "[7]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Držislav Švob",
+            "start_char": 1511,
+            "end_char": 1524,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Držislav Švob",
+            "wikidata_id": "Q125913732",
+            "date of birth": "+1907-05-05T00:00:00Z",
+            "date of death": "+1945-04-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Lujo Margetić": {
+        "Lujo Margetić": [
+            {
+                "claim": "In recent years, the debate on the issue was renewed by Lujo Margetić who thought that, because Lothari had already left Italy in year 840 and succeeded his father to the imperial throne, it is very unlikely that Trpimir was unaware of that change on the imperial throne even twelve years later.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "According to Margetić, the real date when the document was written would be March 4, 840.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "This Margetić's claim is supported by writings of John the Deacon according to which Justin was Archbishop of Split in year 840 after Archbishop Petar which is mentioned in the Charter.",
+                "bibliography": [
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "According to Lujo Margetić, these terms indicate the ancient Roman forms of acquiring property and were at the time slowly disappearing as knowledge of Corpus Juris Civilis was growing by the activity of glossators, but they also linger at least in Italy even in the 9th century AD.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Lujo Margetić",
+            "start_char": 1708,
+            "end_char": 1721,
+            "label": "Lujo Margetić",
+            "description": "Croatian legal historian, member",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Lujo Margetić",
+            "wikidata_id": "Q1564163",
+            "occupation": "legal historian",
+            "date of birth": "+1920-10-18T00:00:00Z",
+            "date of death": "+2010-05-17T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Margetić"
+        }
+    },
+    "Olga Perić": {
+        "Olga Perić": [
+            {
+                "claim": "Olga Perić also came to the similar results noting that at least two old and different language layers can be found in the text of the Charter.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Olga Perić",
+            "start_char": 3091,
+            "end_char": 3101,
+            "label": "Olga Perić",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Olga Perić",
+            "wikidata_id": "Q113805923",
+            "date of birth": "+1917-01-01T00:00:00Z",
+            "date of death": "+1985-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Neven Budak": {
+        "Neven Budak": [
+            {
+                "claim": "Some interesting observations in support of Charter authenticity were presented by Neven Budak.",
+                "bibliography": []
+            },
+            {
+                "claim": "First observation refers to the name of people from the Trpimir's escort that are mentioned in the eschatocol of the Charter, which points out that all the names are national, Croatian names, and not Christian, unless of course those from the priests.",
+                "bibliography": []
+            },
+            {
+                "claim": "Budak disputes the contention that the institution of chaplain as a court scribe did not exist in the 9th century, stating that it is known in Bavaria in the 8th century and that it was accepted by Carolingian dynasty.",
+                "bibliography": [
+                    "[11]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Neven Budak",
+            "start_char": 3318,
+            "end_char": 3329,
+            "label": "Neven Budak",
+            "description": "Croatian historian and professor",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Neven Budak",
+            "wikidata_id": "Q854539",
+            "occupation": "historian",
+            "date of birth": "+1957-05-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

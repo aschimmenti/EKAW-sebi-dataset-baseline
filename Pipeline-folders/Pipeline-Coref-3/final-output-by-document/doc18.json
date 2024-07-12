@@ -1,0 +1,295 @@
+{
+    "Daniel Pipes": {
+        "Daniel Pipes": [
+            {
+                "claim": "According to Daniel Pipes, the book's vagueness—almost no names, dates, or issues are specified—has been one key to this wide-ranging success.",
+                "bibliography": [
+                    "[14]"
+                ]
+            },
+            {
+                "claim": "Pipes notes that the Protocols emphasizes recurring themes of conspiratorial antisemitism: 'Jews always scheme', 'Jews are everywhere', 'Jews are behind every institution', 'Jews obey a central authority, the shadowy 'Elders', and 'Jews are close to success.'",
+                "bibliography": [
+                    "[30]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Daniel Pipes",
+            "start_char": 3060,
+            "end_char": 3072,
+            "label": "Daniel Pipes",
+            "description": "American historian, writer, journalist and political scientist (born 1949)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Daniel Pipes",
+            "wikidata_id": "Q369283",
+            "occupation": "journalist, writer, historian, university teacher, political scientist",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1949-09-09T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Pipes"
+        }
+    },
+    "Umberto Eco": {
+        "Umberto Eco": [
+            {
+                "claim": "As fiction in the genre of literature, the tract was analyzed by Umberto Eco in his novel Foucault's Pendulum (1988): The great importance of The Protocols lies in its permitting antisemites to reach beyond their traditional circles and find a large international audience, a process that continues to this day.",
+                "bibliography": []
+            },
+            {
+                "claim": "Eco also dealt with the Protocols in 1994 in chapter 6, 'Fictional Protocols', of his Six Walks in the Fictional Woods and in his 2010 novel The Cemetery of Prague.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Umberto Eco",
+            "start_char": 3907,
+            "end_char": 3918,
+            "label": "Umberto Eco",
+            "description": "Italian semiotician, essayist, philosopher, literary critic, and novelist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Umberto Eco",
+            "wikidata_id": "Q12807",
+            "also_known_as": [
+                "Umberto Ecco",
+                "Umberto Eccounstino",
+                "Humberto Eco",
+                "Dedalus",
+                "Umberto Eko",
+                "Oumperto Eko",
+                "Eco Umberto",
+                "U. Eco"
+            ],
+            "occupation": "philosopher, novelist, essayist, pedagogue, screenwriter, translator, university teacher, semiotician, writer, literary critic, medievalist, literary scholar, historian",
+            "country of citizenship": "Italy, Kingdom of Italy",
+            "date of birth": "+1932-01-05T00:00:00Z",
+            "date of death": "+2016-02-19T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Philip Graves": {
+        "Philip Graves": [
+            {
+                "claim": "But a dramatic exposé occurred in the series of articles in The Times by its Constantinople reporter, Philip Graves, who discovered the plagiarism from the work of Maurice Joly.",
+                "bibliography": [
+                    "[20]"
+                ]
+            },
+            {
+                "claim": "In the first article of Graves' series, titled \"A Literary Forgery\", the editors of The Times wrote, \"our Constantinople Correspondent presents for the first time conclusive proof that the document is in the main a clumsy plagiarism.",
+                "bibliography": [
+                    "[20]"
+                ]
+            },
+            {
+                "claim": "The Times extended a loan to the source, a Russian émigré who refused to be identified, with the understanding the loan would not be repaid.",
+                "bibliography": [
+                    "[68]"
+                ]
+            },
+            {
+                "claim": "Colin Holmes, a lecturer in economic history at Sheffield University, identified the émigré as Mikhail Raslovlev, a self-identified antisemite, who gave the information to Graves so as not to \"give a weapon of any kind to the Jews, whose friend I have never been.\"",
+                "bibliography": [
+                    "[69]"
+                ]
+            },
+            {
+                "claim": "In the first article of Graves' series, titled \"A Literary Forgery\", the editors of The Times wrote, \"Our Constantinople Correspondent presents for the first time conclusive proof that the document is in the main a clumsy plagiarism. He has forwarded us a copy of the French book from which the plagiarism is made.\"",
+                "bibliography": [
+                    "[20]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Philip Graves",
+            "start_char": 4859,
+            "end_char": 4872,
+            "label": "Philip Graves",
+            "description": "Irish journalist (1876-1953)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Philip Graves",
+            "wikidata_id": "Q2086191",
+            "also_known_as": [
+                "Philip Perceval Graves",
+                "Philip Percival Graves"
+            ],
+            "occupation": "journalist, entomologist, lepidopterist",
+            "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland, Republic of Ireland",
+            "date of birth": "+1876-02-25T00:00:00Z",
+            "date of death": "+1953-06-03T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Graves"
+        }
+    },
+    "Peter Grose": {
+        "Peter Grose": [
+            {
+                "claim": "According to writer Peter Grose, Allen Dulles, who was in Constantinople developing relationships in post-Ottoman political structures, discovered 'the source' of the documentation and ultimately provided him to The Times.",
+                "bibliography": []
+            },
+            {
+                "claim": "Grose writes that The Times extended a loan to the source, a Russian émigré who refused to be identified, with the understanding the loan would not be repaid.",
+                "bibliography": [
+                    "[68]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Peter Grose",
+            "start_char": 4960,
+            "end_char": 4971,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Allen Dulles": {
+        "Allen Dulles": [
+            {
+                "claim": "According to writer Peter Grose, Allen Dulles, who was in Constantinople developing relationships in post-Ottoman political structures, discovered 'the source' of the documentation and ultimately provided him to The Times.",
+                "bibliography": []
+            },
+            {
+                "claim": "Grose writes that The Times extended a loan to the source, a Russian émigré who refused to be identified, with the understanding the loan would not be repaid.",
+                "bibliography": [
+                    "[68]"
+                ]
+            },
+            {
+                "claim": "Dulles, a successful lawyer and career diplomat, attempted to persuade the US State Department to publicly denounce the forgery, but without success.",
+                "bibliography": [
+                    "[71]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Allen Dulles",
+            "start_char": 4973,
+            "end_char": 4985,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Vladimir Burtsev": {
+        "Vladimir Burtsev": [
+            {
+                "claim": "Vladimir Burtsev, a Russian émigré, anti-Bolshevik and anti-Fascist who exposed numerous Okhrana agents provocateurs in the early 1900s, served as a witness at the Berne Trial.",
+                "bibliography": []
+            },
+            {
+                "claim": "In 1938 in Paris he published a book, The Protocols of the Elders of Zion: A Proved Forgery, based on his testimony.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Vladimir Burtsev",
+            "start_char": 6337,
+            "end_char": 6353,
+            "label": "Vladimir Burtsev",
+            "description": "Russian revolutionary activist (1862-1942)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Vladimir Burtsev",
+            "wikidata_id": "Q1888703",
+            "also_known_as": [
+                "Vladimir Lvovich Burtsev"
+            ],
+            "occupation": "journalist, writer, politician, opinion journalist, publisher, revolutionary",
+            "country of citizenship": "Russian Empire",
+            "date of birth": "+1862-11-17T00:00:00Z",
+            "date of death": "+1942-08-21T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Nora Levin": {
+        "Nora Levin": [
+            {
+                "claim": "In The Holocaust: The Destruction of European Jewry 1933–1945, Nora Levin states that 'Hitler used the Protocols as a manual in his war to exterminate the Jews':",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Nora Levin",
+            "start_char": 8841,
+            "end_char": 8851,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Giovanni Preziosi": {
+        "Giovanni Preziosi": [
+            {
+                "claim": "Fascist politician Giovanni Preziosi published the first Italian edition of the Protocols in 1921.",
+                "bibliography": [
+                    "[89][page needed]"
+                ]
+            },
+            {
+                "claim": "The book however had little impact until the mid-1930s. A new 1937 edition had a much higher impact, and three further editions in the following months sold 60,000 copies total.",
+                "bibliography": [
+                    "[89][page needed]"
+                ]
+            },
+            {
+                "claim": "The fifth edition had an introduction by Julius Evola, which argued around the issue of forgery, stating: 'The problem of the authenticity of this document is secondary and has to be replaced by the much more serious and essential problem of its truthfulness'.",
+                "bibliography": [
+                    "[89][page needed]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Giovanni Preziosi",
+            "start_char": 9436,
+            "end_char": 9453,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Julius Evola": {
+        "Julius Evola": [
+            {
+                "claim": "The fifth edition had an introduction by Julius Evola, which argued around the issue of forgery, stating: 'The problem of the authenticity of this document is secondary and has to be replaced by the much more serious and essential problem of its truthfulness'.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Julius Evola",
+            "start_char": 9769,
+            "end_char": 9781,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Ali Gomaa": {
+        "Ali Gomaa": [
+            {
+                "claim": "However, figures within the region have publicly asserted that The Protocols of the Elders of Zion is a forgery such as former Grand Mufti of Egypt Ali Gomaa, who made an official court complaint concerning a publisher who falsely put his name on an introduction to its Arabic translation.",
+                "bibliography": [
+                    "[98]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Ali Gomaa",
+            "start_char": 11431,
+            "end_char": 11440,
+            "label": "Ali Gomaa",
+            "description": "Egyptian imam",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ali Gomaa",
+            "wikidata_id": "Q957704",
+            "occupation": "writer, mufti",
+            "country of citizenship": "Egypt",
+            "date of birth": "+1952-03-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

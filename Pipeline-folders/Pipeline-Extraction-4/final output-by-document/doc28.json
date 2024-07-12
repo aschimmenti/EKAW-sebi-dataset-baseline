@@ -1,0 +1,216 @@
+{
+    "Jose Marco": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Jose Marco"
+        ],
+        "opinion_document_date": [
+            "1913",
+            "20th-century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Jose Marco",
+            "start_char": 437,
+            "end_char": 447,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Teodoro Agoncillo": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "José Marco"
+        ],
+        "opinion_document_date": [
+            "1913"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Teodoro Agoncillo",
+            "start_char": 621,
+            "end_char": 638,
+            "label": "Teodoro Agoncillo",
+            "description": "historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Teodoro Agoncillo",
+            "wikidata_id": "Q2735473",
+            "also_known_as": [
+                "Teodoro Andal Agoncillo"
+            ],
+            "occupation": "historian",
+            "country of citizenship": "Philippines",
+            "date of birth": "+1912-11-09T00:00:00Z",
+            "date of death": "+1985-01-14T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "National Historical Commission of the Philippines": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "José Marco"
+        ],
+        "opinion_document_date": [
+            "20th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "National Historical Commission of the Philippines",
+            "start_char": 3913,
+            "end_char": 3942,
+            "label": "National Historical Commission of the Philippines",
+            "description": "Philippine government agency",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "National Historical Commission of the Philippines",
+            "wikidata_id": "Q2652138",
+            "also_known_as": [
+                "NHCP",
+                "Philippine Historical Research and Markers Committee",
+                "Philippines Historical Committee",
+                "National Historical Institute",
+                "NHI"
+            ],
+            "instance_of": "government agency"
+        }
+    },
+    "James Alexander Robertson": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "José Marco"
+        ],
+        "opinion_document_date": [
+            "1913"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "James Alexander Robertson",
+            "start_char": 1500,
+            "end_char": 1525,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "William Henry Scott": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Jose Marco"
+        ],
+        "opinion_document_date": [
+            "1913"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis",
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "William Henry Scott",
+            "start_char": 2072,
+            "end_char": 2091,
+            "label": "William Henry Scott",
+            "description": "British Army general",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Henry Scott",
+            "wikidata_id": "Q27825593",
+            "also_known_as": [
+                "Maj.-Gen. William Henry Scott",
+                "General Thomas William Scott"
+            ],
+            "occupation": "military personnel",
+            "date of birth": "+1789-01-01T00:00:00Z",
+            "date of death": "+1868-01-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Scott"
+        }
+    },
+    "Antonio M. Molina": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Antonio M. Molina",
+            "start_char": 3149,
+            "end_char": 3166,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

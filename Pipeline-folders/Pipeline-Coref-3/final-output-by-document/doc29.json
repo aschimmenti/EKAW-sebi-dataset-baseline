@@ -1,0 +1,230 @@
+{
+    "Josef Dobrovský": {
+        "Josef Dobrovský": [
+            {
+                "claim": "But when the second manuscript appeared, it was pronounced a forgery by Josef Dobrovský.",
+                "bibliography": []
+            },
+            {
+                "claim": "When he first sought suitable Czech material, he approached Kopitar, who recommended Dobrovský as someone who could provide an appropriate list of texts.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Josef Dobrovský",
+            "start_char": 451,
+            "end_char": 466,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Jernej Kopitar": {
+        "Jernej Kopitar": [
+            {
+                "claim": "Jernej Kopitar seconded this opinion, accusing Hanka of being the author of the hoax.",
+                "bibliography": []
+            },
+            {
+                "claim": "When he first sought suitable Czech material, he approached Kopitar, who recommended Dobrovský as someone who could provide an appropriate list of texts.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Jernej Kopitar",
+            "start_char": 468,
+            "end_char": 482,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Josef Jungmann": {
+        "Josef Jungmann": [
+            {
+                "claim": "Many of the important Czech writers at the time, however, supported the manuscripts' authenticity including dictionary compiler and author of a Czech literary history Josef Jungmann, writer František Čelakovský, historian František Palacký, and poet-folklorist Karel Jaromír Erben.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Josef Jungmann",
+            "start_char": 724,
+            "end_char": 738,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "František Čelakovský": {
+        "František Čelakovský": [
+            {
+                "claim": "Many of the important Czech writers at the time, however, supported the manuscripts' authenticity including dictionary compiler and author of a Czech literary history Josef Jungmann, writer František Čelakovský, historian František Palacký, and poet-folklorist Karel Jaromír Erben.",
+                "bibliography": []
+            },
+            {
+                "claim": "Later, Čelakovský learned of this enterprise, and not only furnished his own list, but became Bowring's close collaborator, sending him material with his own German paraphrases for Bowring to work on.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "František Čelakovský",
+            "start_char": 747,
+            "end_char": 767,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "František Palacký": {
+        "František Palacký": [
+            {
+                "claim": "Many of the important Czech writers at the time, however, supported the manuscripts' authenticity including dictionary compiler and author of a Czech literary history Josef Jungmann, writer František Čelakovský, historian František Palacký, and poet-folklorist Karel Jaromír Erben.",
+                "bibliography": []
+            },
+            {
+                "claim": "Therefore, when Palacký wrote his Czech history based partly on these manuscripts, he depicted a romanticized Slavic struggle against the German non-democratic social order.",
+                "bibliography": []
+            },
+            {
+                "claim": "Palacký's historical accounts of Bohemia based on the manuscripts also bolstered the Czechs' exclusive claims on Bohemia.",
+                "bibliography": [
+                    "[citation needed]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "František Palacký",
+            "start_char": 779,
+            "end_char": 796,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Karel Jaromír Erben": {
+        "Karel Jaromír Erben": [
+            {
+                "claim": "Many of the important Czech writers at the time, however, supported the manuscripts' authenticity including dictionary compiler and author of a Czech literary history Josef Jungmann, writer František Čelakovský, historian František Palacký, and poet-folklorist Karel Jaromír Erben.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Karel Jaromír Erben",
+            "start_char": 818,
+            "end_char": 837,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "John Bowring": {
+        "John Bowring": [
+            {
+                "claim": "In England, John Bowring, who was a translator of Slavonic poetry, had dealings with authorities on both sides of the debate.",
+                "bibliography": []
+            },
+            {
+                "claim": "When he first sought suitable Czech material, he approached Kopitar, who recommended Dobrovský as someone who could provide an appropriate list of texts.",
+                "bibliography": []
+            },
+            {
+                "claim": "Later, Čelakovský learned of this enterprise, and not only furnished his own list, but became Bowring's close collaborator, sending him material with his own German paraphrases for Bowring to work on.",
+                "bibliography": []
+            },
+            {
+                "claim": "Bowring, partly to make amends for the delayed publication of the Czech poetry anthology, wrote a piece in the Foreign Quarterly Review in 1828, which presented the debate about these manuscripts evenly for both sides.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "John Bowring",
+            "start_char": 854,
+            "end_char": 866,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Wratislaw": {
+        "Wratislaw": [
+            {
+                "claim": "Wratislaw noted in his 1852 translation that he was well aware of the controversy when he published his translation, but determined that the skeptics had not made their case.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Wratislaw",
+            "start_char": 1548,
+            "end_char": 1557,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Alois Vojtěch Šembera": {
+        "Alois Vojtěch Šembera": [
+            {
+                "claim": "Alois Vojtěch Šembera wrote a book in 1879 which contended that the 'Libušin soud' poem (the second manuscript) was a forgery and named Josef Linda as its creator.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Alois Vojtěch Šembera",
+            "start_char": 1725,
+            "end_char": 1746,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Tomáš Masaryk": {
+        "Tomáš Masaryk": [
+            {
+                "claim": "One author who doubted the authenticity of the manuscripts, Tomáš Masaryk, used his journal Athenaeum to publish a body of literature to support that view.",
+                "bibliography": []
+            },
+            {
+                "claim": "Masaryk in a later issue wrote that the poems could be proven as 'reworked from Modern Czech to Old Czech', presenting metrical and grammatical evidence to support his claim.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Tomáš Masaryk",
+            "start_char": 2124,
+            "end_char": 2137,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Jan Gebauer": {
+        "Jan Gebauer": [
+            {
+                "claim": "The linguist Jan Gebauer wrote an article debunking the manuscripts in the February 1886 issue of Athenaeum.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Jan Gebauer",
+            "start_char": 2237,
+            "end_char": 2248,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Palacký": {
+        "Palacký": [
+            {
+                "claim": "Many of the important Czech writers at the time, however, supported the manuscripts' authenticity including dictionary compiler and author of a Czech literary history Josef Jungmann, writer František Čelakovský, historian František Palacký, and poet-folklorist Karel Jaromír Erben.",
+                "bibliography": []
+            },
+            {
+                "claim": "Therefore, when Palacký wrote his Czech history based partly on these manuscripts, he depicted a romanticized Slavic struggle against the German non-democratic social order.",
+                "bibliography": []
+            },
+            {
+                "claim": "Palacký's historical accounts of Bohemia based on the manuscripts also bolstered the Czechs' exclusive claims on Bohemia.",
+                "bibliography": [
+                    "[citation needed]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Palacký",
+            "start_char": 2911,
+            "end_char": 2918,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

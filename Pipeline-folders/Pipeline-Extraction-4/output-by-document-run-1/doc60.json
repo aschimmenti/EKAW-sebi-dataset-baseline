@@ -1,0 +1,171 @@
+{
+    "Peter Schauer": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "material support",
+                "reliability": false,
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Peter Schauer",
+            "start_char": 1468,
+            "end_char": 1481,
+            "label": "Peter Schauer",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Peter Schauer",
+            "wikidata_id": "Q18223861",
+            "occupation": "German university teacher",
+            "instance_of": "human"
+        }
+    },
+    "Richard Harrison": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Richard Harrison",
+            "start_char": 1955,
+            "end_char": 1971,
+            "label": "Richard Harrison",
+            "description": "British archaeologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Richard Harrison",
+            "wikidata_id": "Q7326733",
+            "occupation": "anthropologist, archaeologist, university teacher",
+            "country of citizenship": "United Kingdom",
+            "instance_of": "human"
+        }
+    },
+    "Rupert Gebhard": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false,
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis",
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Rupert Gebhard",
+            "start_char": 2393,
+            "end_char": 2407,
+            "label": "Rupert Gebhard",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Rupert Gebhard",
+            "wikidata_id": "Q28866121",
+            "occupation": "university teacher, archaeologist, historian",
+            "date of birth": "+1961-04-09T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Gebhard"
+        }
+    },
+    "Rudiger Krause": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Rudiger Krause",
+            "start_char": 2412,
+            "end_char": 2426,
+            "label": "Rüdiger Krause",
+            "description": "Dr. rer. nat. Ludwig-Maximilians-Universität München 2004",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Rudiger Krause",
+            "wikidata_id": "Q102305158",
+            "also_known_as": [
+                "Ruediger Krause"
+            ],
+            "instance_of": "human",
+            "text_2": "Krause"
+        }
+    },
+    "Ernst Pernicka": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Ernst Pernicka",
+            "start_char": 2583,
+            "end_char": 2597,
+            "label": "Ernst Pernicka",
+            "description": "Austrian archaeologist and chemist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ernst Pernicka",
+            "wikidata_id": "Q1359734",
+            "also_known_as": [
+                "E. Pernicka"
+            ],
+            "occupation": "archaeologist, chemist, university teacher",
+            "country of citizenship": "Austria",
+            "date of birth": "+1950-02-05T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

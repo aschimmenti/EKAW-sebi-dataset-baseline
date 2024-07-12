@@ -1,0 +1,136 @@
+{
+    "Philip Yorke": {
+        "Philip Yorke": [
+            {
+                "claim": "It is apparently an account of the English battle with the Spanish Armada of 1588, but was in fact written by the second Earl of Hardwicke, Philip Yorke, in the 18th century as a literary game with some friends.",
+                "bibliography": []
+            },
+            {
+                "claim": "The orchestrator of the hoax was Philip Yorke, 2nd Earl of Hardwicke, along with his friend Dr Thomas Birch, and possibly Yorke's brother Charles.",
+                "bibliography": []
+            },
+            {
+                "claim": "He identified the handwriting on the manuscript as being identical to that used in a letter from Yorke as part of Dr Birch's collection.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Philip Yorke",
+            "start_char": 226,
+            "end_char": 238,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Dr Thomas Birch": {
+        "Dr Thomas Birch": [
+            {
+                "claim": "The orchestrator of the hoax was Philip Yorke, 2nd Earl of Hardwicke, along with his friend Dr Thomas Birch, and possibly Yorke's brother Charles.",
+                "bibliography": []
+            },
+            {
+                "claim": "Dr Birch bequeathed the manuscript and printed copies of the English Mercurie to the British Museum in 1766, without any explanation of their origin.",
+                "bibliography": []
+            },
+            {
+                "claim": "He identified the handwriting on the manuscript as being identical to that used in a letter from Yorke as part of Dr Birch's collection.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "Watts also found corrections on the manuscript in Dr Birch's handwriting.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Dr Thomas Birch",
+            "start_char": 570,
+            "end_char": 585,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "George Chalmers": {
+        "George Chalmers": [
+            {
+                "claim": "The English Mercurie was referred to by George Chalmers, a Scottish antiquarian and political writer, in his 1794 book The Life of Thomas Ruddiman.",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Chalmers adduced the Mercurie as evidence of English invention, saying 'It may gratify our national pride to be told, that mankind are indebted to the wisdom of Elizabeth, and the prudence of Burleigh, for the first newspaper.'",
+                "bibliography": []
+            },
+            {
+                "claim": "Chalmers's assertion was unchallenged for 45 years until Thomas Watts uncovered the existence of the original manuscript in the archives of the British Museum in 1839.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "George Chalmers",
+            "start_char": 941,
+            "end_char": 956,
+            "label": "George Chalmers",
+            "description": "British antiquarian; (1742-1825)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Chalmers",
+            "wikidata_id": "Q320810",
+            "occupation": "economist, statistician, writer, biographer, historian, lawyer",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1742-01-01T00:00:00Z",
+            "date of death": "+1825-05-31T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Thomas Watts": {
+        "Thomas Watts": [
+            {
+                "claim": "Chalmers's assertion was unchallenged for 45 years until Thomas Watts uncovered the existence of the original manuscript in the archives of the British Museum in 1839.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "He identified the handwriting on the manuscript as being identical to that used in a letter from Yorke as part of Dr Birch's collection.",
+                "bibliography": []
+            },
+            {
+                "claim": "There were other inconsistencies, including the typeface and some spellings and Watts also found corrections on the manuscript in Dr Birch's handwriting.",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Thomas Watts",
+            "start_char": 1617,
+            "end_char": 1629,
+            "label": "Thomas H. Watts",
+            "description": "American politician (1819-1892)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Thomas Watts",
+            "wikidata_id": "Q879281",
+            "also_known_as": [
+                "Thomas Hill Watts, Sr.",
+                "Thomas Hill Watts",
+                "Thomas Watts"
+            ],
+            "occupation": "politician, lawyer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1819-01-03T00:00:00Z",
+            "date of death": "+1892-08-16T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Watts"
+        }
+    }
+}

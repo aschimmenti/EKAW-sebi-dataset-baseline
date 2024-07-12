@@ -1,0 +1,93 @@
+{
+    "Rohan Kriwaczek": {
+        "Rohan Kriwaczek": [
+            {
+                "claim": "An Incomplete History of the Art of the Funerary Violin is a 2006 book by Rohan Kriwaczek, purportedly tracing the lost history of funerary violin.",
+                "bibliography": []
+            },
+            {
+                "claim": "Kriwaczek argues that his book is neither a hoax nor an attempt to mislead.",
+                "bibliography": []
+            },
+            {
+                "claim": "He issued a statement on October 5, 2006, saying that he wanted to 'expand the notion of musical composition to encompass the creation of an entire artistic genre, with its necessary accompanying history, mythology, philosophy, social function, etc.'",
+                "bibliography": [
+                    "[citation needed]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Rohan Kriwaczek",
+            "start_char": 74,
+            "end_char": 89,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Peter Mayer": {
+        "Peter Mayer": [
+            {
+                "claim": "Peter Mayer, the publisher of Overlook Press, doubted the veracity of the book and the history that it was said to contain; nevertheless, he agreed to publish it.",
+                "bibliography": []
+            },
+            {
+                "claim": "Defending his decision to publish the book, Mayer said: I decided it didn't really matter to me how much of this was actually accurate. It was a life's work. [Kriwaczek] was dedicated to this guild not being forgotten, dedicated to the music. I decided this is just an amazing piece of work, and I wanted to publish it,... Who knows if it's true, but it's unbelievable reading.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Peter Mayer",
+            "start_char": 245,
+            "end_char": 256,
+            "label": "Peter Mayer",
+            "description": "American publisher (1936-2018)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Peter Mayer",
+            "wikidata_id": "Q7175723",
+            "also_known_as": [
+                "Peter Michael Mayer"
+            ],
+            "occupation": "publisher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1936-03-28T00:00:00Z",
+            "date of death": "+2018-05-11T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Matthew Rye": {
+        "Matthew Rye": [
+            {
+                "claim": "The author had submitted an article with illustrations and facsimiles of music manuscripts, but the sub-editor on the title, Matthew Rye, became suspicious that the images had been faked and that the facts could not be corroborated.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Matthew Rye",
+            "start_char": 1133,
+            "end_char": 1144,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Matthew Rye"
+        }
+    },
+    "Naomi Sadler": {
+        "Naomi Sadler": [
+            {
+                "claim": "The then-editor, Naomi Sadler, refused to publish the article.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Naomi Sadler",
+            "start_char": 1258,
+            "end_char": 1270,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

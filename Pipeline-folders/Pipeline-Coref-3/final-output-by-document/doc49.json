@@ -1,0 +1,60 @@
+{
+    "Norman Cohn": {
+        "Norman Cohn": [
+            {
+                "claim": "In the early 1970s, the historians Norman Cohn and Richard Kieckhefer independently discovered that the Histoire was a fabrication; Lamothe-Langon's archive did not exist, he did not have the paleographic skills to read books of that age anyway, several major events he described could not have occurred, and his book was full of anachronisms.",
+                "bibliography": []
+            },
+            {
+                "claim": "In the early 1970s, the historians Norman Cohn and Richard Kieckhefer independently discovered that the Histoire was a fabrication.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Norman Cohn",
+            "start_char": 1028,
+            "end_char": 1039,
+            "label": "Norman Cohn",
+            "description": "British historian (1915–2007)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Norman Cohn",
+            "wikidata_id": "Q1405916",
+            "also_known_as": [
+                "Norman Rufus Colin Cohn"
+            ],
+            "occupation": "historian, screenwriter, anthropologist, sociologist",
+            "instance_of": "human"
+        }
+    },
+    "Richard Kieckhefer": {
+        "Richard Kieckhefer": [
+            {
+                "claim": "In the early 1970s, the historians Norman Cohn and Richard Kieckhefer independently discovered that the Histoire was a fabrication; Lamothe-Langon's archive did not exist, he did not have the paleographic skills to read books of that age anyway, several major events he described could not have occurred, and his book was full of anachronisms.",
+                "bibliography": []
+            },
+            {
+                "claim": "In the early 1970s, the historians Norman Cohn and Richard Kieckhefer independently discovered that the Histoire was a fabrication; Lamothe-Langon's archive did not exist, he did not have the paleographic skills to read books of that age anyway, several major events he described could not have occurred, and his book was full of anachronisms.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Richard Kieckhefer",
+            "start_char": 1044,
+            "end_char": 1062,
+            "label": "Richard Kieckhefer",
+            "description": "American writer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Richard Kieckhefer",
+            "wikidata_id": "Q19864435",
+            "also_known_as": [
+                "Richard Alan Kieckhefer"
+            ],
+            "occupation": "writer, historian of religion, university teacher",
+            "instance_of": "human"
+        }
+    }
+}

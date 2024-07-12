@@ -1,0 +1,47 @@
+{
+    "Artūras Dubonis": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "authorship",
+                "reliability": false
+            },
+            {
+                "feature": "document provenance",
+                "consistency": false
+            },
+            {
+                "feature": "chronology and dating",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "between 1833 and 1842"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Artūras Dubonis",
+            "start_char": 283,
+            "end_char": 298,
+            "label": "Artūras Dubonis",
+            "description": "Lithuanian historian, academic",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Artūras Dubonis",
+            "wikidata_id": "Q3919852",
+            "also_known_as": [
+                "Dubonis, Artūras"
+            ],
+            "occupation": "historian",
+            "date of birth": "+1962-07-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

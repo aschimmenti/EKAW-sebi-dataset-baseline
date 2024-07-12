@@ -1,0 +1,168 @@
+{
+    "Abdul Hai Habibi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "original document",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Shah Hussain Hotak"
+        ],
+        "opinion_document_date": [
+            "1729"
+        ],
+        "opinion_document_location": [
+            "Kandahar"
+        ],
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Abdul Hai Habibi",
+            "start_char": 349,
+            "end_char": 365,
+            "label": "Abdul Hai Habibi",
+            "description": "Afghan writer and historian",
+            "labels": [
+                "Person"
+            ],
+            "also_known_as": [
+                "Abdul-Hai Habibi"
+            ],
+            "resolved_label": "Abdul Hai Habibi",
+            "wikidata_id": "Q95673018",
+            "date of birth": "+1910-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Lucia Serena Loi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "late 19th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Lucia Serena Loi",
+            "start_char": 1487,
+            "end_char": 1503,
+            "label": "Lucia Serena Loi",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Lucia Serena Loi",
+            "wikidata_id": "Q95673018",
+            "occupation": "iranologist",
+            "instance_of": "human"
+        }
+    },
+    "Qalandar Mohmand": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Qalandar Mohmand",
+            "start_char": 1623,
+            "end_char": 1639,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Qalandar Mohmand"
+        }
+    },
+    "Juma Khan Sufi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Juma Khan Sufi",
+            "start_char": 1665,
+            "end_char": 1679,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Juma Khan Sufi"
+        }
+    },
+    "David Neil MacKenzie": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "orthography",
+                "consistency": false
+            },
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "shortly before 1944",
+            "after 1935"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "David Neil MacKenzie",
+            "start_char": 2404,
+            "end_char": 2424,
+            "label": "David Neil MacKenzie",
+            "description": "British linguist (1926–2001)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "David Neil MacKenzie",
+            "wikidata_id": "Q4819498",
+            "also_known_as": [
+                "David N. MacKenzie"
+            ],
+            "occupation": "linguist, orientalist, polyglot",
+            "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1926-04-08T00:00:00Z",
+            "date of death": "+2001-10-13T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

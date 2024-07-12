@@ -1,0 +1,108 @@
+{
+    "Franck Gavard-Perret": {
+        "Franck Gavard-Perret": [
+            {
+                "claim": "According to Franck Gavard-Perret, professor of geography history and Nicolas Beaudry, from the Uqar Archaeology and Heritage Laboratory, the handwriting attributed to Mathilde Lefebvre isn't like that expected from people of the working classes of the time, especially when compared with the correspondence of the Poilu of the Great War.",
+                "bibliography": [
+                    "[7]",
+                    "[19]",
+                    "[20]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Franck Gavard-Perret",
+            "start_char": 1025,
+            "end_char": 1045,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Franck Gavard-Perret"
+        }
+    },
+    "Nicolas Beaudry": {
+        "Nicolas Beaudry": [
+            {
+                "claim": "According to Franck Gavard-Perret, professor of geography history and Nicolas Beaudry, from the Uqar Archaeology and Heritage Laboratory, the handwriting attributed to Mathilde Lefebvre isn't like that expected from people of the working classes of the time, especially when compared with the correspondence of the Poilu of the Great War.",
+                "bibliography": [
+                    "[7]",
+                    "[19]",
+                    "[20]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Nicolas Beaudry",
+            "start_char": 1082,
+            "end_char": 1097,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Nicolas Beaudry",
+            "instance_of": "human"
+        }
+    },
+    "Coraline Hausenblas": {
+        "Coraline Hausenblas": [
+            {
+                "claim": "Psychomotrician Coraline Hausenblas conducted a study of writing and concluded that 'identity theft was carried out in order to carry out a hoax around a historical subject attracting the attention and sympathy of the public'.",
+                "bibliography": [
+                    "[21]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Coraline Hausenblas",
+            "start_char": 1378,
+            "end_char": 1397,
+            "label": "Coraline Hausenblas",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Coraline Hausenblas",
+            "wikidata_id": "Q125916735",
+            "occupation": "writer",
+            "instance_of": "human"
+        }
+    },
+    "Antoine Resche": {
+        "Antoine Resche": [
+            {
+                "claim": "According to Antoine Resche, this can be explained as follows: “If we start from the premise that the document is a forgery, it is very easy to explain: it is much more common to find the city of origin of the Lefebvre's Family than their destination...and a forger did not necessarily have this information”.",
+                "bibliography": [
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "According to Antoine Resche, \"Such bottles would certainly not have been available in the third class dining room, which did not offer self-service liquors. A lone mother traveling with children who did not speak English would also have had a difficult time obtaining them from the crew\".",
+                "bibliography": [
+                    "[7]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Antoine Resche",
+            "start_char": 2373,
+            "end_char": 2387,
+            "label": "Antoine Resche",
+            "description": "French historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Antoine Resche",
+            "wikidata_id": "Q32827051",
+            "also_known_as": [
+                "Histony"
+            ],
+            "occupation": "historian, video blogger",
+            "country of citizenship": "France",
+            "date of birth": "+1990-04-26T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "Nicolò Zeno the Younger": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            },
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "around 1400"
+        ],
+        "opinion_document_location": [
+            "storeroom of his family home"
+        ],
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Nicolò Zeno the Younger",
+            "start_char": 215,
+            "end_char": 238,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gerardus Mercator": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Gerardus Mercator",
+            "start_char": 607,
+            "end_char": 624,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Andrea di Robilant": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Andrea di Robilant",
+            "start_char": 2329,
+            "end_char": 2347,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "The Dictionary of Canadian Biography Online": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "The Dictionary of Canadian Biography Online",
+            "start_char": 2405,
+            "end_char": 2448,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Herbert Wrigley Wilson": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "historical context",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": [
+            "Venice was extremely eager to claim for herself some share in the credit of Columbus's discoveries"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Herbert Wrigley Wilson",
+            "start_char": 2598,
+            "end_char": 2620,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Di Robilant": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Di Robilant",
+            "start_char": 2983,
+            "end_char": 2994,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

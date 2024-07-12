@@ -1,0 +1,72 @@
+{
+    "Tokugawa Mitsukuni": {
+        "Tokugawa Mitsukuni": [
+            {
+                "claim": "It was generally believed to have been one of the earliest Japanese histories until the middle of the Edo period, when scholars such as Tokugawa Mitsukuni and Tada Yoshitoshi successfully contended that it was an imitation based on the Nihon Shoki, the Kojiki and the Kogo Shūi.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Tokugawa Mitsukuni",
+            "start_char": 212,
+            "end_char": 230,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Tada Yoshitoshi": {
+        "Tada Yoshitoshi": [
+            {
+                "claim": "It was generally believed to have been one of the earliest Japanese histories until the middle of the Edo period, when scholars such as Tokugawa Mitsukuni and Tada Yoshitoshi successfully contended that it was an imitation based on the Nihon Shoki, the Kojiki and the Kogo Shūi.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Tada Yoshitoshi",
+            "start_char": 235,
+            "end_char": 250,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "John R. Bentley": {
+        "John R. Bentley": [
+            {
+                "claim": "The only complete English translation of the Kujiki was made in 2006 by John R. Bentley, who argued based on his examinations of extant manuscripts that the Kujiki was indeed written in the early eighth century CE, before the Kogo Shūi, and as part of the same historiographical movement that produced the Nihon Shoki and the Kojiki.",
+                "bibliography": []
+            },
+            {
+                "claim": "Bentley took the preface, which attributes the work to the early-7th century statesman Prince Shōtoku, to be a later interpolation.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "John R. Bentley",
+            "start_char": 1472,
+            "end_char": 1487,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Mark Teeuwen": {
+        "Mark Teeuwen": [
+            {
+                "claim": "In a review for Monumenta Nipponica, Mark Teeuwen criticized Bentley's methodology.",
+                "bibliography": [
+                    "[3]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Mark Teeuwen",
+            "start_char": 1903,
+            "end_char": 1915,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

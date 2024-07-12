@@ -1,0 +1,137 @@
+{
+    "L. Ron Hubbard": {
+        "L. Ron Hubbard": [
+            {
+                "claim": "L. Ron Hubbard authored the text and alleged it was the secret manual written by Lavrentiy Beria, the Soviet secret police chief, in 1936.",
+                "bibliography": []
+            },
+            {
+                "claim": "Hubbard sent the material to the FBI, and one unidentified FBI agent gave this review: '[He] appears mental.'",
+                "bibliography": []
+            },
+            {
+                "claim": "When the FBI ignored him, Hubbard wrote again stating that Soviet agents had, on three occasions, attempted to hire him to work against the United States, and were upset about his refusal, and that one agent specifically attacked him using electroshock as a weapon.",
+                "bibliography": []
+            },
+            {
+                "claim": "In 1956, only a year later, L. Ron Hubbard wrote a rather similar statement under his own name, saying that mankind was so desperate that he 'will buy almost any ideology whether it is communism or druidism. He will buy the garbage of Marx and even write it unsuspectingly into the United States Constitution under the heading of 'Income Tax.' He will seek solutions to his overpowering problems from indigestible sources such as Russian psychiatry or Wundtian German psychology, neither one of which was intended to free Man or to give him understanding and which were intended only to enslave and debase.'",
+                "bibliography": [
+                    "[23]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "L. Ron Hubbard",
+            "start_char": 175,
+            "end_char": 189,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Edward Hunter": {
+        "Edward Hunter": [
+            {
+                "claim": "Hubbard's text is a relative copy of the 1953, best-selling, non-fiction book Brain-washing in Red China by journalist Edward Hunter.",
+                "bibliography": []
+            },
+            {
+                "claim": "According to the journalist Tony Ortega, the primary thesis of the work was 'how to use psychiatry and psychology to carry out a communist takeover of the West,' with critics and active communists calling it a 'crude and laughable forgery,' and Edward Hunter, author of Brainwashing In China, 'described it as a fictional and inferior version of his own [book].'",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Edward Hunter",
+            "start_char": 793,
+            "end_char": 806,
+            "label": "Edward Hunter",
+            "description": "Presiding Bishop of the LDS Church (1793-1883)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Edward Hunter",
+            "wikidata_id": "Q5343562",
+            "also_known_as": [
+                "Edward Hunter Jr."
+            ],
+            "occupation": "priest, politician",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1793-06-22T00:00:00Z",
+            "date of death": "+1883-10-16T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Tony Ortega": {
+        "Tony Ortega": [
+            {
+                "claim": "According to the journalist Tony Ortega, the primary thesis of the work was 'how to use psychiatry and psychology to carry out a communist takeover of the West,' with critics and active communists calling it a 'crude and laughable forgery,' and Edward Hunter, author of Brainwashing In China, 'described it as a fictional and inferior version of his own [book].'",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Tony Ortega",
+            "start_char": 1860,
+            "end_char": 1871,
+            "label": "Tony Ortega",
+            "description": "American journalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Tony Ortega",
+            "wikidata_id": "Q16195244",
+            "occupation": "journalist, editor",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1963-05-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Nick Redfern": {
+        "Nick Redfern": [
+            {
+                "claim": "Nick Redfern, a researcher studying Freedom of Information Act requests and FBI files, has written 'the document [the brain-washing manual] is filled with what is clearly evidence of Hubbard's own writing style.'",
+                "bibliography": [
+                    "[22]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Nick Redfern",
+            "start_char": 2624,
+            "end_char": 2636,
+            "label": "Nick Redfern",
+            "description": "British journalist and ufologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Nick Redfern",
+            "wikidata_id": "Q7027791",
+            "also_known_as": [
+                "Nicholas Redfern"
+            ],
+            "occupation": "ufologist, writer, ghost hunter",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1964-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Anderson Report": {
+        "Anderson Report": [
+            {
+                "claim": "The final results of a 1965 Australian investigation called the Anderson Report declared: 'The Board is not concerned to find that the scientology techniques are brainwashing techniques as practised, so it is understood, in some communist-controlled countries. Scientology techniques are, nevertheless, a kind of brainwashing ... The astonishing feature of Scientology is that its techniques and propagation resemble very closely those set out in a book entitled Brain-washing, advertised and sold by the [Hubbard Association of Scientologists International].'",
+                "bibliography": [
+                    "[9]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Anderson Report",
+            "start_char": 3689,
+            "end_char": 3704,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "doc18": {
+        "entities": [
+            {
+                "text": "Cesare G. De Michelis",
+                "start_char": 1662,
+                "end_char": 1683,
+                "label": "Cesare G. De Michelis",
+                "description": "Italian writer",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Cesare G. De Michelis",
+                "wikidata_id": "Q1056824",
+                "also_known_as": [
+                    "Cesare Giuseppe De Michelis"
+                ],
+                "occupation": "university teacher, literary scholar, translator, man of letters",
+                "country of citizenship": "Italy",
+                "date of birth": "+1944-04-20T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Daniel Pipes",
+                "start_char": 3061,
+                "end_char": 3073,
+                "label": "Daniel Pipes",
+                "description": "American historian, writer, journalist and political scientist (born 1949)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Daniel Pipes",
+                "wikidata_id": "Q369283",
+                "occupation": "journalist, writer, historian, university teacher, political scientist",
+                "country of citizenship": "United States of America",
+                "date of birth": "+1949-09-09T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Pipes"
+            },
+            {
+                "text": "Umberto Eco",
+                "start_char": 72,
+                "end_char": 83,
+                "label": "Umberto Eco",
+                "description": "Italian semiotician, essayist, philosopher, literary critic, and novelist",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Umberto Eco",
+                "wikidata_id": "Q12807",
+                "also_known_as": [
+                    "Umberto Ecco",
+                    "Umberto Eccounstino",
+                    "Humberto Eco",
+                    "Dedalus",
+                    "Umberto Eko",
+                    "Oumperto Eko",
+                    "Eco Umberto",
+                    "U. Eco"
+                ],
+                "occupation": "philosopher, novelist, essayist, pedagogue, screenwriter, translator, university teacher, semiotician, writer, literary critic, medievalist, literary scholar, historian",
+                "country of citizenship": "Italy, Kingdom of Italy",
+                "date of birth": "+1932-01-05T00:00:00Z",
+                "date of death": "+2016-02-19T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "The Times",
+                "start_char": 632,
+                "end_char": 641,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Lucien Wolf",
+                "start_char": 837,
+                "end_char": 848,
+                "label": "Lucien Wolf",
+                "description": "British-Jewish journalist, historian, advocate of Jewish rights",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Lucien Wolf",
+                "wikidata_id": "Q6697145",
+                "occupation": "historian, journalist, writer",
+                "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland",
+                "date of birth": "+1857-01-01T00:00:00Z",
+                "date of death": "+1930-01-01T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Philip Graves",
+                "start_char": 1023,
+                "end_char": 1036,
+                "label": "Philip Graves",
+                "description": "Irish journalist (1876-1953)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Philip Graves",
+                "wikidata_id": "Q2086191",
+                "also_known_as": [
+                    "Philip Perceval Graves",
+                    "Philip Percival Graves"
+                ],
+                "occupation": "journalist, entomologist, lepidopterist",
+                "country of citizenship": "United Kingdom, United Kingdom of Great Britain and Ireland, Republic of Ireland",
+                "date of birth": "+1876-02-25T00:00:00Z",
+                "date of death": "+1953-06-03T00:00:00Z",
+                "instance_of": "human",
+                "text_2": "Graves"
+            },
+            {
+                "text": "Peter Grose",
+                "start_char": 1124,
+                "end_char": 1135,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Allen Dulles",
+                "start_char": 1137,
+                "end_char": 1149,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Colin Holmes",
+                "start_char": 1490,
+                "end_char": 1502,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Herman Bernstein",
+                "start_char": 2178,
+                "end_char": 2194,
+                "label": "Herman Bernstein",
+                "description": "American journalist, poet, novelist, playwright, translator, Jewish activist, and diplomat",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Herman Bernstein",
+                "wikidata_id": "Q3507116",
+                "also_known_as": [
+                    "Herman Bernshteyn"
+                ],
+                "occupation": "journalist, linguist, diplomat, translator, writer, playwright, editor",
+                "country of citizenship": "Russian Empire, United States of America",
+                "date of birth": "+1876-09-21T00:00:00Z",
+                "date of death": "+1935-08-31T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "Vladimir Burtsev",
+                "start_char": 2499,
+                "end_char": 2515,
+                "label": "Vladimir Burtsev",
+                "description": "Russian revolutionary activist (1862-1942)",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Vladimir Burtsev",
+                "wikidata_id": "Q1888703",
+                "also_known_as": [
+                    "Vladimir Lvovich Burtsev"
+                ],
+                "occupation": "journalist, writer, politician, opinion journalist, publisher, revolutionary",
+                "country of citizenship": "Russian Empire",
+                "date of birth": "+1862-11-17T00:00:00Z",
+                "date of death": "+1942-08-21T00:00:00Z",
+                "instance_of": "human"
+            },
+            {
+                "text": "The presiding judge",
+                "start_char": 485,
+                "end_char": 504,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Michael Hagemeister",
+                "start_char": 1376,
+                "end_char": 1395,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Charles Ruud and Sergei Stepanov",
+                "start_char": 1618,
+                "end_char": 1650,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hitler",
+                "start_char": 1774,
+                "end_char": 1780,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Nora Levin",
+                "start_char": 2327,
+                "end_char": 2337,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Giovanni Preziosi",
+                "start_char": 2922,
+                "end_char": 2939,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Julius Evola",
+                "start_char": 3255,
+                "end_char": 3267,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Sheikh Ekrima Sa'id Sabri, and the education ministry of Saudi",
+                "start_char": 4426,
+                "end_char": 4488,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ali Gomaa",
+                "start_char": 4917,
+                "end_char": 4926,
+                "label": "Ali Gomaa",
+                "description": "Egyptian imam",
+                "labels": [
+                    "Person"
+                ],
+                "resolved_label": "Ali Gomaa",
+                "wikidata_id": "Q957704",
+                "occupation": "writer, mufti",
+                "country of citizenship": "Egypt",
+                "date of birth": "+1952-03-03T00:00:00Z",
+                "instance_of": "human"
+            }
+        ]
+    }
+}

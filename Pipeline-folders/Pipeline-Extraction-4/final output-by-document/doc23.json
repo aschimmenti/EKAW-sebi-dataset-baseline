@@ -1,0 +1,69 @@
+{
+    "Jacob Ilive": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Jacob Ilive",
+            "start_char": 92,
+            "end_char": 103,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Monthly Review": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Monthly Review",
+            "start_char": 1392,
+            "end_char": 1406,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Rosicrucians in San Jose,": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Rosicrucians in San Jose,",
+            "start_char": 2164,
+            "end_char": 2189,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

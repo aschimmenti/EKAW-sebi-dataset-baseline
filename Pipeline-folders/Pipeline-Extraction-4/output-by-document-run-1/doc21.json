@@ -1,0 +1,379 @@
+{
+    "Witten": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "consistency": false
+            },
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Witten",
+            "start_char": 1412,
+            "end_char": 1418,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Skelton": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "ink",
+                "reliability": false,
+                "consistency": false
+            },
+            {
+                "feature": "material support",
+                "completeness": false
+            },
+            {
+                "feature": "format (spacing, signs)",
+                "consistency": true
+            },
+            {
+                "feature": "document provenance",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "about 1950"
+        ],
+        "opinion_document_location": [
+            "Iceland"
+        ],
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Skelton",
+            "start_char": 2463,
+            "end_char": 2470,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Luka Jelić": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Luka Jelić",
+            "start_char": 3554,
+            "end_char": 3564,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Peter Foote": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Peter Foote",
+            "start_char": 3614,
+            "end_char": 3625,
+            "label": "Peter Foote",
+            "description": "Scandinavian Studies professor (1924-2009)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Peter Foote",
+            "wikidata_id": "Q7174032",
+            "also_known_as": [
+                "Peter Godfrey Foote"
+            ],
+            "occupation": "Scandinavian studies scholar",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1924-05-26T00:00:00Z",
+            "date of death": "+2009-09-29T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Richard Hennig": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Richard Hennig",
+            "start_char": 3754,
+            "end_char": 3768,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Jacqueline Olin": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "ink",
+                "consistency": false
+            },
+            {
+                "feature": "chronology and dating",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Jacqueline Olin",
+            "start_char": 10395,
+            "end_char": 10410,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kenneth Towe": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "ink",
+                "consistency": false
+            },
+            {
+                "feature": "material support",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Kenneth Towe",
+            "start_char": 10648,
+            "end_char": 10660,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kirsten A. Seaver": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Father Josef Fischer"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Kirsten A. Seaver",
+            "start_char": 13994,
+            "end_char": 14011,
+            "label": "Kirsten A. Seaver",
+            "description": "Norwegian historian and author",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kirsten A. Seaver",
+            "wikidata_id": "Q11980767",
+            "also_known_as": [
+                "Kirsten Seaver"
+            ],
+            "occupation": "translator, non-fiction writer, historian, writer",
+            "country of citizenship": "Norway",
+            "date of birth": "+1934-08-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Paul Floyd": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            },
+            {
+                "feature": "document provenance",
+                "reliability": true,
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "John Paul Floyd",
+            "start_char": 17242,
+            "end_char": 17257,
+            "label": "John Paul Floyd",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Paul Floyd",
+            "wikidata_id": "Q125914978",
+            "occupation": "essayist",
+            "country of citizenship": "United Kingdom",
+            "instance_of": "human",
+            "text_2": "Floyd"
+        }
+    },
+    "Paul Freedman": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Paul Freedman",
+            "start_char": 19191,
+            "end_char": 19204,
+            "label": "Paul Freedman",
+            "description": "American academic.",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Paul Freedman",
+            "wikidata_id": "Q16241764",
+            "also_known_as": [
+                "Paul H. Freedman",
+                "Paul Harris Freedman"
+            ],
+            "occupation": "university teacher, historian, medievalist",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1949-09-15T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Richard Hark": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "ink",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "Richard Hark",
+            "start_char": 19336,
+            "end_char": 19348,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Richard Hark"
+        }
+    },
+    "Raymond Clemens": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            },
+            {
+                "feature": "content",
+                "reliability": true
+            },
+            {
+                "feature": "ink",
+                "consistency": false
+            },
+            {
+                "feature": "document provenance",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "John Paul Floyd"
+        ],
+        "opinion_document_date": [
+            "20th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis",
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Raymond Clemens",
+            "start_char": 19735,
+            "end_char": 19750,
+            "label": "Raymond Clemens",
+            "description": "professor",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Raymond Clemens",
+            "wikidata_id": "Q112425727",
+            "occupation": "professor",
+            "date of birth": "+1966-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

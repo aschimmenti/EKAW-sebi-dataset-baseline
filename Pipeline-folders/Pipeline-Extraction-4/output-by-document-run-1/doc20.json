@@ -1,0 +1,199 @@
+{
+    "Sergei Lavrov": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Sergei Lavrov",
+            "start_char": 533,
+            "end_char": 546,
+            "label": "Sergei Lavrov",
+            "description": "Russian politician and Foreign Minister",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Sergei Lavrov",
+            "wikidata_id": "Q58217",
+            "also_known_as": [
+                "Sergey Viktorovich Lavrov"
+            ],
+            "occupation": "diplomat, politician, minister",
+            "instance_of": "human"
+        }
+    },
+    "Michał Sokolnicki": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Michał Sokolnicki",
+            "start_char": 2973,
+            "end_char": 2990,
+            "label": "Michał Sokolnicki",
+            "description": "Polish general (1760-1816)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Michał Sokolnicki",
+            "wikidata_id": "Q4427460",
+            "also_known_as": [
+                "Michal Sokolnicki"
+            ],
+            "occupation": "military officer",
+            "country of citizenship": "France, Duchy of Warsaw, Polish–Lithuanian Commonwealth",
+            "date of birth": "+1760-09-29T00:00:00Z",
+            "date of death": "+1816-09-24T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Sokolnicki"
+        }
+    },
+    "Napoleon Bonaparte": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Napoleon Bonaparte",
+            "start_char": 769,
+            "end_char": 787,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Charles-Louis Lesur": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Charles-Louis Lesur",
+            "start_char": 1359,
+            "end_char": 1378,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Walter K. Kelly": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Walter K. Kelly",
+            "start_char": 1736,
+            "end_char": 1751,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Sergey Shubinsky": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Sergey Shubinsky",
+            "start_char": 2108,
+            "end_char": 2124,
+            "label": "Sergey Shubinsky",
+            "description": "Russian general and historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Sergey Shubinsky",
+            "wikidata_id": "Q4527209",
+            "also_known_as": [
+                "Sergey Nikolayevich Shubinsky"
+            ],
+            "occupation": "writer, historian, journalist",
+            "country of citizenship": "Russian Empire",
+            "date of birth": "+1834-06-02T00:00:00Z",
+            "date of death": "+1913-05-28T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Karl Marx": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Karl Marx",
+            "start_char": 2271,
+            "end_char": 2280,
+            "label": "Karl Marx",
+            "description": "German-born philosopher (1818–1883)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Karl Marx",
+            "wikidata_id": "Q9061",
+            "also_known_as": [
+                "Karl Heinrich Marx",
+                "Marx",
+                "Karl H. Marx"
+            ],
+            "occupation": "economist, journalist, historian, philosopher, sociologist, revolutionary, poet, politician, writer",
+            "country of citizenship": "Kingdom of Prussia, statelessness",
+            "date of birth": "+1818-05-05T00:00:00Z",
+            "date of death": "+1883-03-14T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Marx"
+        }
+    }
+}

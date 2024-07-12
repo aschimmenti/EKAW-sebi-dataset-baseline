@@ -1,0 +1,397 @@
+{
+    "Lorenzo Valla": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": [
+            "corrupted the church",
+            "wars of Italy",
+            "priestly domination"
+        ],
+        "opinion_document_author": [
+            "the Church"
+        ],
+        "opinion_document_date": [
+            "8th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Lorenzo Valla",
+            "start_char": 649,
+            "end_char": 662,
+            "label": "Lorenzo Valla",
+            "description": "Italian Renaissance humanist (c. 1407–1457)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Lorenzo Valla",
+            "wikidata_id": "Q214115",
+            "also_known_as": [
+                "Laurence Valla"
+            ],
+            "occupation": "writer, philologist, university teacher, philosopher, Latin Catholic priest",
+            "date of birth": "+1407-01-01T00:00:00Z",
+            "date of death": "+1457-08-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Valla"
+        }
+    },
+    "Cardinal Nicholas of Cusa": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Cardinal Nicholas of Cusa",
+            "start_char": 1344,
+            "end_char": 1369,
+            "label": "Nicholas of Cusa",
+            "description": "German philosopher (1401 – 1464)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Cardinal Nicholas of Cusa",
+            "wikidata_id": "Q154751",
+            "also_known_as": [
+                "Cusanus bem foda",
+                "Nikolaus Krebs",
+                "Nikolaus von Kues",
+                "Nikolaus Cusanus",
+                "Nikolaus Cryfftz",
+                "Nikolaus von Cusa",
+                "Nicholas of Kues",
+                "P. Nicolavm Cvsanvm",
+                "Cardinal Nicholas of Cusa",
+                "Nicolaus Cusanus",
+                "Nicolas of Cusa"
+            ],
+            "occupation": "mathematician, astronomer, diplomat, philosopher, writer, Christian minister, Catholic priest, theologian, jurist, politician, Catholic bishop, scribe",
+            "country of citizenship": "Germany",
+            "date of birth": "+1401-00-00T00:00:00Z",
+            "date of death": "+1464-08-11T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Reginald Pecocke": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Reginald Pecocke",
+            "start_char": 2059,
+            "end_char": 2075,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Pope Pius II": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            },
+            {
+                "feature": "historical context",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Pope Pius II",
+            "start_char": 2621,
+            "end_char": 2633,
+            "label": "Pius II",
+            "description": "pope of the Catholic Church from 1458 to 1464",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Pope Pius II",
+            "wikidata_id": "Q101437",
+            "also_known_as": [
+                "Enea Silvio Bartolomeo Piccolomini",
+                "Pope Pius II",
+                "pape Pie II",
+                "Aeneas Silvius Piccolomini",
+                "Enea Silvio Piccolomini",
+                "papa Pio II",
+                "Pius II. Papst",
+                "Pius PP. II",
+                "Papa Pío II",
+                "Eneas Silvius Piccolomini",
+                "Aeneas Sylvius Piccolominus",
+                "Silvio Piccolomini",
+                "Æneas Silvius"
+            ],
+            "occupation": "Catholic priest, diplomat, writer, university teacher, poet, historian, geographer",
+            "country of citizenship": "Holy Roman Empire",
+            "date of birth": "+1405-10-18T00:00:00Z",
+            "date of death": "+1464-08-14T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Giovanni Cavalcanti": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Giovanni Cavalcanti",
+            "start_char": 3056,
+            "end_char": 3075,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Filippo Maria Visconti": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Filippo Maria Visconti",
+            "start_char": 3129,
+            "end_char": 3151,
+            "label": "Filippo Maria Visconti",
+            "description": "Duke of Milan",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Filippo Maria Visconti",
+            "wikidata_id": "Q289285",
+            "occupation": "statesperson",
+            "country of citizenship": "Duchy of Milan",
+            "date of birth": "+1392-09-03T00:00:00Z",
+            "date of death": "+1447-08-13T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Wolfram Setz": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "historical context",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": [
+            "provided an opportunity for an exercise in legal rhetoric"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Wolfram Setz",
+            "start_char": 3742,
+            "end_char": 3754,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Ulrich von Hutten": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Ulrich von Hutten",
+            "start_char": 4653,
+            "end_char": 4670,
+            "label": "Ulrich von Hutten",
+            "description": "German scholar, poet and reformer (1488-1523)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ulrich von Hutten",
+            "wikidata_id": "Q77107",
+            "occupation": "poet, writer, monk, Imperial Knight, politician, philosopher",
+            "country of citizenship": "Holy Roman Empire",
+            "date of birth": "+1488-04-21T00:00:00Z",
+            "date of death": "+1523-08-29T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Martin Luther": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Martin Luther",
+            "start_char": 4675,
+            "end_char": 4688,
+            "label": "Martin Luther",
+            "description": "German priest, theologian and author (1483–1546)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Martin Luther",
+            "wikidata_id": "Q9554",
+            "also_known_as": [
+                "Martinos Luter",
+                "Marczin Luther",
+                "Martti Luther",
+                "Martin Lutr",
+                "Marcin Luter",
+                "Mātīn Lūtœ",
+                "Martí Luther",
+                "Mārtiņš Luters",
+                "Martín Lutero",
+                "Márton Luther",
+                "Marṭin Luter",
+                "D. M. L. A.",
+                "Luttar Cāstiriyār",
+                "Martinus Luther",
+                "Maarten Luther",
+                "Luther",
+                "Lutʻŏ",
+                "Marti Luther",
+                "Martin Lutero",
+                "Marton Luther"
+            ],
+            "occupation": "translator, theologian, professor, friar, lawyer, Bible translator, hymnwriter, Protestant reformer, presbyter, philosopher, pastor, writer, preacher, composer, scribe",
+            "country of citizenship": "Holy Roman Empire",
+            "date of birth": "+1483-11-10T00:00:00Z",
+            "date of death": "+1546-02-18T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Caesar Baronius": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Caesar Baronius",
+            "start_char": 4849,
+            "end_char": 4864,
+            "label": "Caesar Baronius",
+            "description": "Italian cardinal and ecclesiastical historian (1538–1607)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Caesar Baronius",
+            "wikidata_id": "Q317900",
+            "also_known_as": [
+                "Cesare Baronio",
+                "Cardinal Cesare Baronio",
+                "Cesare, Cardinal Baronio"
+            ],
+            "occupation": "librarian, church historian, historian, writer, Catholic priest, Catholic deacon, Catholic bishop",
+            "date of birth": "+1538-01-01T00:00:00Z",
+            "date of death": "+1607-06-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Christian Wolff": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Christian Wolff",
+            "start_char": 5099,
+            "end_char": 5114,
+            "label": "Christian Wolff",
+            "description": "German philosopher (1679–1754)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Christian Wolff",
+            "wikidata_id": "Q76510",
+            "also_known_as": [
+                "Christian von Wolff",
+                "Johann Christian von Wolff"
+            ],
+            "occupation": "jurist, mathematician, philosopher, university teacher",
+            "country of citizenship": "Kingdom of Prussia",
+            "date of birth": "+1679-01-24T00:00:00Z",
+            "date of death": "+1754-04-09T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

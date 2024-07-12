@@ -1,0 +1,452 @@
+[
+    {
+        "Page ID": "doc08",
+        "Source": "Wikipedia",
+        "Page URL": "https://en.wikipedia.org/wiki/Donation_of_Constantine",
+        "Document description": "The Donation of Constantine (Latin: Donatio Constantini) is a forged Roman imperial decree by which the 4th-century emperor Constantine the Great supposedly transferred authority over Rome and the western part of the Roman Empire to the Pope. Composed probably in the 8th century, it was used, especially in the 13th century, in support of claims of political authority by the papacy. \n\nIn many of the existing manuscripts (handwritten copies of the document), including the oldest one, the document bears the title Constitutum domini Constantini imperatoris.  The Donation of Constantine was included in the 9th-century Pseudo-Isidorean decretals. Lorenzo Valla, an Italian Catholic priest and Renaissance humanist, is credited with first exposing the forgery with solid philological arguments in 1439–1440,  although the document's authenticity had been repeatedly contested since 1001. ",
+        "Document claims": "During the Middle Ages, the Donation was widely accepted as authentic, although Otto III, Holy Roman Emperor did possibly raise suspicions of the document \"in letters of gold\" as a forgery, in making a gift to the See of Rome.[13] It was not until the mid-15th century, with the revival of Classical scholarship and textual criticism, that humanists, and eventually the papal bureaucracy, began to realize that the document could not possibly be genuine. Cardinal Nicholas of Cusa declared it to be a forgery[18][19] and spoke of it as an apocryphal work. Later, the Catholic priest Lorenzo Valla argued in his philological study of the text that the language used in manuscript could not be dated to the 4th century.[20] The language of the text suggests that the manuscript can most likely be dated to the 8th century. Valla believed the forgery to be so obvious that he suspected that the Church knew the document to be inauthentic. Valla further argued that papal usurpation of temporal power had corrupted the church, caused the wars of Italy, and reinforced the \"overbearing, barbarous, tyrannical priestly domination.\"[20] Independently of both Cusa and Valla, Reginald Pecocke, Bishop of Chichester (1450–57), reached a similar conclusion. Among the indications that the Donation is a forgery are its language and the fact that, while certain imperial-era formulas are used in the text, some of the Latin in the document could not have been written in the 4th century; anachronistic terms such as \"fief\" were used. Also, the purported date of the document is inconsistent with the content of the document itself, as it refers both to the fourth consulate of Constantine (315) as well as the consulate of Gallicanus (317). Pope Pius II wrote a tract in 1453, five years before becoming pope, to show that though the Donation was a forgery, the papacy owed its lands to Charlemagne and its powers of the keys to Peter; however, he did not publish it.[21] Contemporary opponents of papal powers in Italy emphasized the primacy of civil law and civil jurisdiction, now firmly embodied once again in the Justinian Corpus Juris Civilis. The Florentine chronicler Giovanni Cavalcanti reported that, in the very year of Valla's treatise, Filippo Maria Visconti, Duke of Milan, made diplomatic overtures toward Cosimo de' Medici in Florence, proposing an alliance against the pope. In reference to the Donation, Visconti wrote: \"It so happens that even if Constantine consigned to Sylvester so many and such rich gifts – which is doubtful, because such a privilege can nowhere be found – he could only have granted them for his lifetime: the empire takes precedence over any lordship.\"[citation needed] Later, scholars further demonstrated that other elements, such as Sylvester's curing of Constantine, are legends which originated at a later time. Wolfram Setz, a recent editor of Valla's work, has affirmed that at the time of Valla's refutation, Constantine's alleged \"donation\" was no longer a matter of contemporary relevance in political theory and that it simply provided an opportunity for an exercise in legal rhetoric.[22] The bulls of Nicholas V and his successors made no further mention of the Donation, even when partitioning the New World, though the doctrine of \"omni-insular\" papal fiefdoms, developed out of the Donation's vague references to islands since Pope Nicholas II's grant of Sicily to Robert Guiscard, was deployed after 1492 in papal pronouncements on the overlapping claims of the Iberian kingdoms in the Americas and Moluccas, including Inter caetera, a bull that resulted in the Treaty of Tordesillas and the Treaty of Zaragoza.[16][23] Valla's treatise was taken up vehemently by writers of the Protestant Reformation, such as Ulrich von Hutten and Martin Luther, causing the treatise to be placed on the Index Librorum Prohibitorum in the mid-16th century. The Donation continued to be tacitly accepted as authentic until Caesar Baronius in his Annales Ecclesiastici (published 1588–1607) admitted that it was a forgery, after which it was almost universally accepted as such.[2] Some continued to argue for its authenticity; nearly a century after Annales Ecclesiastici, Christian Wolff still alluded to the Donation as undisputed fact.[24]",
+        "Chunks": [
+            {
+                "claim-id": "doc08-001",
+                "claim": "The Donation of Constantine (Latin: Donatio Constantini) is a forged Roman imperial decree by which the 4th-century emperor Constantine the Great supposedly transferred authority over Rome and the western part of the Roman Empire to the Pope. Composed probably in the 8th century, it was used, especially in the 13th century, in support of claims of political authority by the papacy. \n\nIn many of the existing manuscripts (handwritten copies of the document), including the oldest one, the document bears the title Constitutum domini Constantini imperatoris.  The Donation of Constantine was included in the 9th-century Pseudo-Isidorean decretals. Lorenzo Valla, an Italian Catholic priest and Renaissance humanist, is credited with first exposing the forgery with solid philological arguments in 1439–1440,  although the document's authenticity had been repeatedly contested since 1001.  During the Middle Ages, the Donation was widely accepted as authentic, although Otto III, Holy Roman Emperor did possibly raise suspicions of the document \"in letters of gold\" as a forgery, in making a gift to the See of Rome.",
+                "bibliography": [
+                    "[13]"
+                ],
+                "entities": []
+            },
+            {
+                "claim-id": "doc08-002",
+                "claim": "It was not until the mid-15th century, with the revival of Classical scholarship and textual criticism, that humanists, and eventually the papal bureaucracy, began to realize that the document could not possibly be genuine. Cardinal Nicholas of Cusa declared it to be a forgery",
+                "bibliography": [
+                    "[18]",
+                    "[19]"
+                ],
+                "entities": [
+                    {
+                        "text": "humanists",
+                        "labels": [
+                            "Group"
+                        ],
+                        "resolved_label": "humanists"
+                    },
+                    {
+                        "text": "papal bureaucracy",
+                        "labels": [
+                            "Organisation"
+                        ],
+                        "resolved_label": "papal bureaucracy"
+                    },
+                    {
+                        "text": "Cardinal Nicholas of Cusa",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Cardinal Nicholas of Cusa",
+                        "wikidata_id": "Q154751",
+                        "label": "Nicholas of Cusa",
+                        "description": "German philosopher (1401 – 1464)",
+                        "also_known_as": [
+                            "Cusanus bem foda",
+                            "Nikolaus Krebs",
+                            "Nikolaus von Kues",
+                            "Nikolaus Cusanus",
+                            "Nikolaus Cryfftz",
+                            "Nikolaus von Cusa",
+                            "Nicholas of Kues",
+                            "P. Nicolavm Cvsanvm",
+                            "Cardinal Nicholas of Cusa",
+                            "Nicolaus Cusanus",
+                            "Nicolas of Cusa"
+                        ],
+                        "occupation": "mathematician, astronomer, diplomat, philosopher, writer, Christian minister, Catholic priest, theologian, jurist, politician, Catholic bishop, scribe",
+                        "country of citizenship": "Germany",
+                        "date of birth": "+1401-00-00T00:00:00Z",
+                        "date of death": "+1464-08-11T00:00:00Z",
+                        "instance_of": "human"
+                    }
+                ]
+            },
+            {
+                "claim-id": "doc08-003",
+                "claim": "and spoke of it as an apocryphal work. Later, the Catholic priest Lorenzo Valla argued in his philological study of the text that the language used in manuscript could not be dated to the 4th century.",
+                "bibliography": [
+                    "[20]"
+                ],
+                "entities": [
+                    {
+                        "text": "Lorenzo Valla",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Lorenzo Valla",
+                        "wikidata_id": "Q214115",
+                        "label": "Lorenzo Valla",
+                        "description": "Italian Renaissance humanist (c. 1407–1457)",
+                        "also_known_as": [
+                            "Laurence Valla"
+                        ],
+                        "occupation": "writer, philologist, university teacher, philosopher, Latin Catholic priest",
+                        "date of birth": "+1407-01-01T00:00:00Z",
+                        "date of death": "+1457-08-01T00:00:00Z",
+                        "instance_of": "human"
+                    }
+                ]
+            },
+            {
+                "claim-id": "doc08-004",
+                "claim": "The language of the text suggests that the manuscript can most likely be dated to the 8th century. Valla believed the forgery to be so obvious that he suspected that the Church knew the document to be inauthentic. Valla further argued that papal usurpation of temporal power had corrupted the church, caused the wars of Italy, and reinforced the \"overbearing, barbarous, tyrannical priestly domination.\"",
+                "bibliography": [
+                    "[20]"
+                ],
+                "entities": [
+                    {
+                        "text": "Valla",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Lorenzo Valla",
+                        "wikidata_id": "Q214115",
+                        "label": "Lorenzo Valla",
+                        "description": "Italian Renaissance humanist (c. 1407–1457)",
+                        "also_known_as": [
+                            "Laurence Valla"
+                        ],
+                        "occupation": "writer, philologist, university teacher, philosopher, Latin Catholic priest",
+                        "date of birth": "+1407-01-01T00:00:00Z",
+                        "date of death": "+1457-08-01T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Catholic Church",
+                        "labels": [
+                            "Organisation"
+                        ],
+                        "resolved_label": "Church",
+                        "wikidata_id": "Q9592",
+                        "label": "Catholic Church",
+                        "description": "largest Christian Church, made up of 24 autonomous Churches in communion with the Pope",
+                        "also_known_as": [
+                            "Roman Catholic Church",
+                            "Roman Apostolic Catholic Church"
+                        ],
+                        "instance_of": "religious organisation"
+                    }
+                ]
+            },
+            {
+                "claim-id": "doc08-005",
+                "claim": "Independently of both Cusa and Valla, Reginald Pecocke, Bishop of Chichester (1450–57), reached a similar conclusion. Among the indications that the Donation is a forgery are its language and the fact that, while certain imperial-era formulas are used in the text, some of the Latin in the document could not have been written in the 4th century; anachronistic terms such as \"fief\" were used. Also, the purported date of the document is inconsistent with the content of the document itself, as it refers both to the fourth consulate of Constantine (315) as well as the consulate of Gallicanus (317). Pope Pius II wrote a tract in 1453, five years before becoming pope, to show that though the Donation was a forgery, the papacy owed its lands to Charlemagne and its powers of the keys to Peter; however, he did not publish it.",
+                "bibliography": [
+                    "[21]"
+                ],
+                "entities": [
+                    {
+                        "text": "Reginald Pecocke",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Reginald Pecocke"
+                    },
+                    {
+                        "text": "Pope Pius II",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Pope Pius II",
+                        "wikidata_id": "Q101437",
+                        "label": "Pius II",
+                        "description": "pope of the Catholic Church from 1458 to 1464",
+                        "also_known_as": [
+                            "Enea Silvio Bartolomeo Piccolomini",
+                            "Pope Pius II",
+                            "pape Pie II",
+                            "Aeneas Silvius Piccolomini",
+                            "Enea Silvio Piccolomini",
+                            "papa Pio II",
+                            "Pius II. Papst",
+                            "Pius PP. II",
+                            "Papa Pío II",
+                            "Eneas Silvius Piccolomini",
+                            "Aeneas Sylvius Piccolominus",
+                            "Silvio Piccolomini",
+                            "Æneas Silvius"
+                        ],
+                        "occupation": "Catholic priest, diplomat, writer, university teacher, poet, historian, geographer",
+                        "country of citizenship": "Holy Roman Empire",
+                        "date of birth": "+1405-10-18T00:00:00Z",
+                        "date of death": "+1464-08-14T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Charlemagne",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Charlemagne",
+                        "wikidata_id": "Q3044",
+                        "label": "Charlemagne",
+                        "description": "king of Franks, regarded as the first Holy Roman Emperor (747–814)",
+                        "also_known_as": [
+                            "Karolus Magnus",
+                            "Charles the Great",
+                            "Emperor Charlemagne",
+                            "Karl the Great",
+                            "Carolus Magnus",
+                            "Charlemagne the Franc",
+                            "Charles I",
+                            "Carlus Magnus"
+                        ],
+                        "occupation": "monarch, sovereign",
+                        "country of citizenship": "Francia",
+                        "date of birth": "+0748-04-02T00:00:00Z",
+                        "date of death": "+0814-01-28T00:00:00Z",
+                        "instance_of": "human"
+                    }
+                ]
+            },
+            {
+                "claim-id": "doc08-006",
+                "claim": "Contemporary opponents of papal powers in Italy emphasized the primacy of civil law and civil jurisdiction, now firmly embodied once again in the Justinian Corpus Juris Civilis. The Florentine chronicler Giovanni Cavalcanti reported that, in the very year of Valla's treatise, Filippo Maria Visconti, Duke of Milan, made diplomatic overtures toward Cosimo de' Medici in Florence, proposing an alliance against the pope. In reference to the Donation, Visconti wrote: \"It so happens that even if Constantine consigned to Sylvester so many and such rich gifts – which is doubtful, because such a privilege can nowhere be found – he could only have granted them for his lifetime: the empire takes precedence over any lordship.\"[citation needed] Later, scholars further demonstrated that other elements, such as Sylvester's curing of Constantine, are legends which originated at a later time. Wolfram Setz, a recent editor of Valla's work, has affirmed that at the time of Valla's refutation, Constantine's alleged \"donation\" was no longer a matter of contemporary relevance in political theory and that it simply provided an opportunity for an exercise in legal rhetoric.",
+                "bibliography": [
+                    "[22]"
+                ],
+                "entities": [
+                    {
+                        "text": "Giovanni Cavalcanti",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Giovanni Cavalcanti",
+                        "wikidata_id": "Q3766991",
+                        "label": "Giovanni Cavalcanti",
+                        "description": "Florentine historian",
+                        "occupation": "historian",
+                        "date of birth": "+1381-00-00T00:00:00Z",
+                        "date of death": "+1451-00-00T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Filippo Maria Visconti",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Filippo Maria Visconti",
+                        "wikidata_id": "Q289285",
+                        "label": "Filippo Maria Visconti",
+                        "description": "Duke of Milan",
+                        "occupation": "statesperson",
+                        "country of citizenship": "Duchy of Milan",
+                        "date of birth": "+1392-09-03T00:00:00Z",
+                        "date of death": "+1447-08-13T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Wolfram Setz",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Wolfram Setz",
+                        "wikidata_id": "Q98265",
+                        "label": "Wolfram Setz",
+                        "description": "German historian (1941–2023)",
+                        "occupation": "medievalist, historian, translator, literary editor, writer, LGBTQI+ rights activist, opinion journalist",
+                        "country of citizenship": "Germany",
+                        "date of birth": "+1941-07-07T00:00:00Z",
+                        "date of death": "+2023-08-14T00:00:00Z",
+                        "instance_of": "human"
+                    }
+                ]
+            },
+            {
+                "claim-id": "doc08-007",
+                "claim": "The bulls of Nicholas V and his successors made no further mention of the Donation, even when partitioning the New World, though the doctrine of \"omni-insular\" papal fiefdoms, developed out of the Donation's vague references to islands since Pope Nicholas II's grant of Sicily to Robert Guiscard, was deployed after 1492 in papal pronouncements on the overlapping claims of the Iberian kingdoms in the Americas and Moluccas, including Inter caetera, a bull that resulted in the Treaty of Tordesillas and the Treaty of Zaragoza.",
+                "bibliography": [
+                    "[16]",
+                    "[23]"
+                ],
+                "entities": [
+                    {
+                        "text": "Nicholas V",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Nicholas V",
+                        "wikidata_id": "Q134588",
+                        "label": "Nicholas V",
+                        "description": "pope of catholic church from 1447 until 1455",
+                        "also_known_as": [
+                            "Tommaso Parentucelli",
+                            "Pope Nicholas V",
+                            "Nicolaus PP. V",
+                            "Nikolaus V. Papst",
+                            "pape Nicolas V",
+                            "Pope Nikolaus V",
+                            "‏papa Niccolò‏ V"
+                        ],
+                        "occupation": "librarian, Catholic priest, Catholic bishop",
+                        "country of citizenship": "Papal States",
+                        "date of birth": "+1397-11-15T00:00:00Z",
+                        "date of death": "+1455-03-24T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Nicholas II",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Nicholas II",
+                        "wikidata_id": "Q117840",
+                        "label": "Nicholas II",
+                        "description": "pope",
+                        "also_known_as": [
+                            "Gérard de Bourgogne",
+                            "Pope Nicholas II",
+                            "Gerard de Bourgogne"
+                        ],
+                        "occupation": "monarch, aristocrat",
+                        "country of citizenship": "Russian Empire",
+                        "date of birth": "+990-01-01T00:00:00Z",
+                        "date of death": "+1061-01-01T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Robert Guiscard",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Robert Guiscard",
+                        "wikidata_id": "Q203792",
+                        "label": "Robert Guiscard",
+                        "description": "Duke of Apulia and Calabria",
+                        "also_known_as": [
+                            "Robert de Hauteville"
+                        ],
+                        "occupation": "military leader, mercenary",
+                        "date of birth": "+1016-01-01T00:00:00Z",
+                        "date of death": "+1085-07-17T00:00:00Z",
+                        "instance_of": "human"
+                    }
+                ]
+            },
+            {
+                "claim-id": "doc08-008",
+                "claim": "Valla's treatise was taken up vehemently by writers of the Protestant Reformation, such as Ulrich von Hutten and Martin Luther, causing the treatise to be placed on the Index Librorum Prohibitorum in the mid-16th century. The Donation continued to be tacitly accepted as authentic until Caesar Baronius in his Annales Ecclesiastici (published 1588–1607) admitted that it was a forgery, after which it was almost universally accepted as such.",
+                "bibliography": [
+                    "[2]"
+                ],
+                "entities": [
+                    {
+                        "text": "Ulrich von Hutten",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Ulrich von Hutten",
+                        "wikidata_id": "Q77107",
+                        "label": "Ulrich von Hutten",
+                        "description": "German scholar, poet and reformer (1488-1523)",
+                        "occupation": "poet, writer, monk, Imperial Knight, politician, philosopher",
+                        "country of citizenship": "Holy Roman Empire",
+                        "date of birth": "+1488-04-21T00:00:00Z",
+                        "date of death": "+1523-08-29T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Martin Luther",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Martin Luther",
+                        "wikidata_id": "Q9554",
+                        "label": "Martin Luther",
+                        "description": "German priest, theologian and author (1483–1546)",
+                        "also_known_as": [
+                            "Martinos Luter",
+                            "Marczin Luther",
+                            "Martti Luther",
+                            "Martin Lutr",
+                            "Marcin Luter",
+                            "Mātīn Lūtœ",
+                            "Martí Luther",
+                            "Mārtiņš Luters",
+                            "Martín Lutero",
+                            "Márton Luther",
+                            "Marṭin Luter",
+                            "D. M. L. A.",
+                            "Luttar Cāstiriyār",
+                            "Martinus Luther",
+                            "Maarten Luther",
+                            "Luther",
+                            "Lutʻŏ",
+                            "Marti Luther",
+                            "Martin Lutero",
+                            "Marton Luther"
+                        ],
+                        "occupation": "translator, theologian, professor, friar, lawyer, Bible translator, hymnwriter, Protestant reformer, presbyter, philosopher, pastor, writer, preacher, composer, scribe",
+                        "country of citizenship": "Holy Roman Empire",
+                        "date of birth": "+1483-11-10T00:00:00Z",
+                        "date of death": "+1546-02-18T00:00:00Z",
+                        "instance_of": "human"
+                    },
+                    {
+                        "text": "Caesar Baronius",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Caesar Baronius",
+                        "wikidata_id": "Q317900",
+                        "label": "Caesar Baronius",
+                        "description": "Italian cardinal and ecclesiastical historian (1538–1607)",
+                        "also_known_as": [
+                            "Cesare Baronio",
+                            "Cardinal Cesare Baronio",
+                            "Cesare, Cardinal Baronio"
+                        ],
+                        "occupation": "librarian, church historian, historian, writer, Catholic priest, Catholic deacon, Catholic bishop",
+                        "date of birth": "+1538-01-01T00:00:00Z",
+                        "date of death": "+1607-06-30T00:00:00Z",
+                        "instance_of": "human"
+                    }
+                ]
+            },
+            {
+                "claim-id": "doc08-009",
+                "claim": "Some continued to argue for its authenticity; nearly a century after Annales Ecclesiastici, Christian Wolff still alluded to the Donation as undisputed fact.",
+                "bibliography": [
+                    "[24]"
+                ],
+                "entities": [
+                    {
+                        "text": "Annales Ecclesiastici",
+                        "labels": [
+                            "Organisation"
+                        ],
+                        "resolved_label": "Annales Ecclesiastici",
+                        "wikidata_id": "Q1226261",
+                        "label": "Annales Ecclesiastici",
+                        "description": "history of the first 12 centuries of the Christian Church by Caesar Baronius",
+                        "instance_of": "written work"
+                    },
+                    {
+                        "text": "Christian Wolff",
+                        "labels": [
+                            "Person"
+                        ],
+                        "resolved_label": "Christian Wolff",
+                        "wikidata_id": "Q76510",
+                        "label": "Christian Wolff",
+                        "description": "German philosopher (1679–1754)",
+                        "also_known_as": [
+                            "Christian von Wolff",
+                            "Johann Christian von Wolff"
+                        ],
+                        "occupation": "jurist, mathematician, philosopher, university teacher",
+                        "country of citizenship": "Kingdom of Prussia",
+                        "date of birth": "+1679-01-24T00:00:00Z",
+                        "date of death": "+1754-04-09T00:00:00Z",
+                        "instance_of": "human"
+                    }
+                ]
+            }
+        ]
+    }
+]

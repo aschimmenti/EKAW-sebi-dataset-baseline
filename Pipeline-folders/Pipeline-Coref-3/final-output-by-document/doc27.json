@@ -1,0 +1,100 @@
+{
+    "The librarian": {
+        "The librarian": [
+            {
+                "claim": "It appeared on the Internet as early as 1993, when a reference librarian at the University of Missouri–St. Louis posted the document on the library's Gopher server.",
+                "bibliography": [
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "The librarian later revealed that she had obtained the document from the publisher of a local annual business directory, The St. Louis Black Pages in which the narrative had recently appeared.",
+                "bibliography": [
+                    "[9]",
+                    "[10]"
+                ]
+            },
+            {
+                "claim": "Though eventually convinced the document was a forgery, the librarian elected to leave it on the Gopher server, as she believed that 'even as an inauthentic document, it says something about the former and current state of African America', but added a warning about its provenance.",
+                "bibliography": [
+                    "[9]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "The librarian",
+            "start_char": 2047,
+            "end_char": 2060,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Roy Rosenzweig": {
+        "Roy Rosenzweig": [
+            {
+                "claim": "The text contains numerous anachronisms, including words and phrases such as 'refueling' and 'fool proof' which were not in use until the early 20th century, while historian Roy Rosenzweig noted the divisions emphasized in the text – skin color, age, and gender – are distinctly 20th-century in nature, making little sense in an 18th-century context.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "Historians, including Rosenzweig and William Jelani Cobb, have concluded that the William Lynch speech is a modern hoax.",
+                "bibliography": [
+                    "[4]",
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Roy Rosenzweig",
+            "start_char": 2712,
+            "end_char": 2726,
+            "label": "Roy Rosenzweig",
+            "description": "American historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Roy Rosenzweig",
+            "wikidata_id": "Q1298389",
+            "also_known_as": [
+                "Roy Alan Rosenzweig"
+            ],
+            "occupation": "historian, university teacher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1950-08-06T00:00:00Z",
+            "date of death": "+2007-10-11T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Rosenzweig"
+        }
+    },
+    "William Jelani Cobb": {
+        "William Jelani Cobb": [
+            {
+                "claim": "Historians, including Rosenzweig and William Jelani Cobb, have concluded that the William Lynch speech is a modern hoax.",
+                "bibliography": [
+                    "[4]",
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "William Jelani Cobb",
+            "start_char": 2929,
+            "end_char": 2948,
+            "label": "Jelani Cobb",
+            "description": "American journalist and professor of journalism",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Jelani Cobb",
+            "wikidata_id": "Q8013536",
+            "also_known_as": [
+                "William Jelani Cobb"
+            ],
+            "occupation": "educator, writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1967-09-22T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

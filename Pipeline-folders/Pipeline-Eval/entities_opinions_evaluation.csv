@@ -1,0 +1,204 @@
+doc_id,entity_name_manual,entity_name_ml,manual_opinion_evaluation,ml_opinion_evaluation,manual_opinion_evidence_provided,ml_opinion_evidence_provided,manual_opinion_specific_perspective,ml_opinion_specific_perspective
+doc60,Peter Schauer,Peter Schauer,forgery,forgery,material support,"material support, original document",Scientific analysis,Scientific analysis
+doc60,Richard Harrison,Richard Harrison,forgery,suspicious,,content,,Historical analysis
+doc60,Rupert Gebhard,Rupert Gebhard,suspicious,suspicious,chronology and dating,chronology and dating,Scientific analysis,Scientific analysis
+doc60,Rudiger Krause,Rudiger Krause,suspicious,suspicious,chronology and dating,chronology and dating,Scientific analysis,Scientific analysis
+doc60,Ernst Pernicka,Ernst Pernicka,authentic,suspicious,"support, chronology and dating",chronology and dating,Scientific analysis,Scientific analysis
+doc01,Franciscus Quaresmius,Franciscus Quaresmius,authentic,authentic,,,,
+doc01,Balthasar de Monconys,Balthasar de Monconys,authentic,authentic,,,,
+doc01,Kara Mustafa Pasha,Kara Mustafa Pasha,authentic,authentic,,,,
+doc01,John Andrew Morrow,John Andrew Morrow,authentic,authentic,"list of witnesses, document provenance","content, document provenance","Philologic analysis, Historical analysis",Historical analysis
+doc01,Bernhard Moritz,Bernhard Moritz,forgery,forgery,"chronology and dating, content, metre and style","chronology and dating, metre and style, content",Philologic analysis,Philologic analysis
+doc01,Amidu Sanni,Amidu Sanni,forgery,forgery,"original document, list of witnesses",chronology and dating,Philologic analysis,Historical analysis
+doc01,Mubasher Hussain,Mubasher Hussain,forgery,forgery,"sigillum or seal, language","sigillum or seal, language",Philologic analysis,Philologic analysis
+doc48,William Dudley Pelley,William Dudley Pelley,authentic,authentic,"document provenance, original document",document provenance,,Historical analysis
+doc48,U.S. Congress,U.S. Congress,forgery,forgery,content,content,,Historical analysis
+doc48,Anti-Defamation League,Anti-Defamation League,forgery,forgery,"historical context, content",chronology and dating,,Historical analysis
+doc61,Henry Ansgar Kelly,Henry Ansgar Kelly,suspicious,forgery,,content,,"Literary analysis, Philologic analysis"
+doc61,Bruno Nardi,Bruno Nardi,forgery,forgery,,,,
+doc61,Francesco Mazzoni,Francesco Mazzoni,authentic,authentic,,,,
+doc61,Robert Hollander,Robert Hollander,authentic,authentic,,content,,
+doc61,Charles Singleton,Charles Singleton,authentic,authentic,,,,
+doc61,Italian Istituto di Scienza e Tecnologie dell'Informazione,Italian Istituto di Scienza e Tecnologie dell'Informazione,forgery,forgery,,content,Scientific analysis,Scientific analysis
+doc16,Abdul Hai Habibi,Abdul Hai Habibi,authentic,authentic,"document provenance, original document",original document,Philologic analysis,Historical analysis
+doc16,Lucia Serena Loi,Abdul Hai Habibi,forgery,authentic,chronology and dating,original document,"Literary analysis, Philologic analysis",Historical analysis
+doc16,David Neil MacKenzie,David Neil MacKenzie,forgery,forgery,"chronology and dating, orthography","orthography, chronology and dating",Philologic analysis,Philologic analysis
+doc16,Juma Khan Sufi,Juma Khan Sufi,forgery,suspicious,,content,,Philologic analysis
+doc45,George Chalmers,George Chalmers,authentic,authentic,"document provenance, historical context",content,Historical analysis,Historical analysis
+doc45,Thomas Watts,Thomas Watts,forgery,forgery,"handwriting, original document","handwriting, orthography, ink",,Philologic analysis
+doc35,Leonard Lewin,Leonard Lewin,forgery,forgery,document provenance,document provenance,,
+doc35,Victor Navasky,Victor Navasky,forgery,forgery,content,content,,Literary analysis
+doc35,John Kenneth Galbraith,John Kenneth Galbraith,authentic,suspicious,content,content,,
+doc06,Milan Šufflay,Milan Šufflay,forgery,forgery,chronology and dating,chronology and dating,Historical analysis,Historical analysis
+doc06,János Karácsonyi,János Karácsonyi,forgery,forgery,chronology and dating,chronology and dating,Historical analysis,Historical analysis
+doc06,Ljudmil Hauptmann,Ljudmil Hauptmann,suspicious,suspicious,chronology and dating,chronology and dating,Historical analysis,Historical analysis
+doc06,Miho Barada,Miho Barada,authentic,authentic,,,Historical analysis,
+doc06,Nada Klaić,Nada Klaić,forgery,forgery,chronology and dating,"chronology and dating, content",Historical analysis,Historical analysis
+doc06,Stjepan Antoljak,Stjepan Antoljak,authentic,authentic,content,completeness,"Historical analysis, Philologic analysis",Historical analysis
+doc40,Gerald Suster,Gerald Suster,forgery,suspicious,content,"chronology and dating, content",,Historical analysis
+doc59,Cyrus Thomas,Cyrus Thomas,authentic,authentic,language,"language, content","Philologic analysis, Historical analysis",Historical analysis
+doc59,Mary Kwas,Mary Kwas,forgery,forgery,"document provenance, content","document provenance, content",,Historical analysis
+doc59,Cyrus Gordon,Cyrus Gordon,authentic,authentic,language,language,,Philologic analysis
+doc59,Kyle McCarter,Kyle McCarter,forgery,forgery,document provenance,language,Historical analysis,Philologic analysis
+doc59,Robert Mainfort,Robert Mainfort,forgery,forgery,"document provenance, content",content,,Historical analysis
+doc17,Petrarch,Petrarch,forgery,forgery,content,original document,"Philologic analysis, Historical analysis",Philologic analysis
+doc17,Wilhelm Wattenbach,Wilhelm Wattenbach,forgery,forgery,,chronology and dating,,Historical analysis
+doc31,Marcello Dell'Utri,Marcello Dell'Utri,authentic,authentic,"content, original document","handwriting, document provenance",Diplomatic analysis,"Historical analysis, Paleographic analysis"
+doc31,Emilio Gentile,Emilio Gentile,forgery,forgery,content,"content, content",Historical analysis,Historical analysis
+doc31,Roberto Travaglini,Roberto Travaglini,forgery,forgery,content,content,Historical analysis,Historical analysis
+doc31,Silvio Berlusconi,Silvio Berlusconi,authentic,authentic,original document,content,,
+doc31,Elisabetta Sgarbi,Elisabetta Sgarbi,authentic,authentic,,,,
+doc31,Libero,Libero,authentic,authentic,,,,
+doc30,Nicolas Beaudry,Nicolas Beaudry,suspicious,suspicious,handwriting,handwriting,Diplomatic analysis,Paleographic analysis
+doc30,Coraline Hausenblas,Coraline Hausenblas,forgery,forgery,handwriting,"identity theft, writing","Literary analysis, Diplomatic analysis",Scientific analysis
+doc30,Antoine Resche,Antoine Resche,forgery,forgery,content,"content, material support",Literary analysis,Historical analysis
+doc30,Franck Gavard-Perret,Franck Gavard-Perret,suspicious,forgery,handwriting,handwriting,Diplomatic analysis,Paleographic analysis
+doc03,Hans K. Schulze,Hans K. Schulze,authentic,authentic,historical context,document provenance,Historical analysis,Historical analysis
+doc03,Hans Goetting,Hans Goetting,authentic,authentic,historical context,document provenance,Historical analysis,
+doc03,Walter Deeters,Walter Deeters,authentic,authentic,"format (spacing, signs)","format (spacing, signs)",Philologic analysis,Philologic analysis
+doc03,Theodor von Sickel,Theodor von Sickel,suspicious,suspicious,"sigillum or seal, format (spacing, signs)","sigillum or seal, format (spacing, signs)","Philologic analysis, Diplomatic analysis","Diplomatic analysis, Paleographic analysis"
+doc03,Carlrichard Brühl,Carlrichard Brühl,suspicious,suspicious,"sigillum or seal, format (spacing, signs)","sigillum or seal, format (spacing, signs)",Diplomatic analysis,Diplomatic analysis
+doc32,Walter Kaufmann,Walter Kaufmann,forgery,forgery,"content, language","chronology and dating, content, historical context, language, metre and style",,Literary analysis
+doc32,Walter K. Stewart,Walter K. Stewart,suspicious,authentic,content,content,,Literary analysis
+doc20,Sergei Lavrov,Sergei Lavrov,authentic,forgery,,,,
+doc20,Michał Sokolnicki,Michał Sokolnicki,authentic,suspicious,,"content, historical context, document provenance",,Historical analysis
+doc20,Sergey Shubinsky,Sergey Shubinsky,authentic,authentic,content,content,Historical analysis,Historical analysis
+doc50,Hermann Dessau,Hermann Dessau,suspicious,forgery,"chronology and dating, content, language, orthography","language, content",Philologic analysis,Philologic analysis
+doc50,Theodor Mommsen,Theodor Mommsen,suspicious,suspicious,interpolations,document provenance,Philologic analysis,Historical analysis
+doc50,Hermann Peter,Hermann Peter,suspicious,authentic,chronology and dating,"chronology and dating, language",Philologic analysis,Philologic analysis
+doc50,Norman H. Baynes,Norman H. Baynes,forgery,suspicious,chronology and dating,"chronology and dating, content",Historical analysis,Historical analysis
+doc50,Ronald Syme,Ronald Syme,suspicious,suspicious,"interpolations, chronology and dating, metre and style, metre and style","chronology and dating, interpolations, content",Philologic analysis,"Historical analysis, Literary analysis"
+doc50,Alan Cameron,Alan Cameron,suspicious,suspicious,,chronology and dating,Historical analysis,Historical analysis
+doc50,Daniel Den Hengst,Daniel Den Hengst,suspicious,suspicious,interpolations,metre and style,"Philologic analysis, Historical analysis","Literary analysis, Historical analysis"
+doc50,Edward Gibbon,Edward Gibbon,authentic,suspicious,content,content,Historical analysis,"Historical analysis, Literary analysis"
+doc50,Anthony Birley,Anthony Birley,suspicious,suspicious,content,content,Historical analysis,Historical analysis
+doc50,David Magie,David Magie,suspicious,suspicious,"metre and style, content, interpolations","content, interpolations",Literary analysis,Literary analysis
+doc50,M. L. W. Laistner,M. L. W. Laistner,forgery,forgery,"content, metre and style","content, metre and style",Literary analysis,Literary analysis
+doc37,R. A. Stewart Macalister,R. A. Stewart Macalister,forgery,forgery,"content, metre and style, interpolations","content, language, metre and style",Literary analysis,Literary analysis
+doc37,Alfred Webb,Alfred Webb,forgery,forgery,content,content,Literary analysis,Literary analysis
+doc24,Boris Rybakov,Boris Rybakov,forgery,forgery,"language, orthography",language,Philologic analysis,Philologic analysis
+doc24,Andrey Zaliznyak,Andrey Zaliznyak,forgery,forgery,language,content,Philologic analysis,Philologic analysis
+doc24,Leo Klejn,Leo Klejn,forgery,forgery,language,language,"Historical analysis, Philologic analysis",Philologic analysis
+doc24,Levko Lukyanenko,Levko Lukyanenko,authentic,authentic,,content,,
+doc24,O.V. Tvorogov,O.V. Tvorogov,forgery,forgery,language,language,,Philologic analysis
+doc25,Edward Hunter,Edward Hunter,forgery,forgery,"content, metre and style",content,Literary analysis,
+doc25,Tony Ortega,Tony Ortega,forgery,forgery,content,content,,
+doc25,Nick Redfern,Nick Redfern,forgery,suspicious,metre and style,"content, metre and style",Philologic analysis,"Philologic analysis, Literary analysis"
+doc49,Norman Cohn,Norman Cohn,forgery,forgery,"content, list of witnesses","archive, paleographic skills, historical context, anachronisms","Historical analysis, Philologic analysis","Historical analysis, Philologic analysis"
+doc49,Richard Kieckhefer,Richard Kieckhefer,forgery,forgery,"content, list of witnesses","document provenance, paleographic skills, chronology and dating, historical context","Historical analysis, Philologic analysis","Philologic analysis, Historical analysis"
+doc53,Peter Mayer,Peter Mayer,suspicious,suspicious,content,content,Literary analysis,Literary analysis
+doc53,Matthew Rye,Matthew Rye,suspicious,suspicious,"illustration or other graphical device, content","illustration or other graphical device, content",Philologic analysis,
+doc34,Walter Laqueur,Walter Laqueur,forgery,forgery,document provenance,document provenance,Historical analysis,Historical analysis
+doc15,Arthur Waldo,Arthur Waldo,authentic,suspicious,document provenance,document provenance,,
+doc15,James S. Pula,James S. Pula,forgery,suspicious,original document,"document provenance, original document",Philologic analysis,
+doc36,Artūras Dubonis,Artūras Dubonis,forgery,forgery,"document provenance, content, chronology and dating","authorship, document provenance, chronology and dating",Philologic analysis,Historical analysis
+doc43,Friedrich Carl Wex,Friedrich Carl Wex,forgery,forgery,content,content,Philologic analysis,Philologic analysis
+doc43,William Stukeley,William Stukeley,authentic,authentic,document provenance,"document provenance, historical context",,Historical analysis
+doc43,Bertram,Bertram,authentic,authentic,document provenance,document provenance,,Historical analysis
+doc43,J.E.B. Mayor,J.E.B. Mayor,forgery,forgery,,content,,
+doc28,William Henry Scott,William Henry Scott,forgery,forgery,"content, historical context",content,"Historical analysis, Philologic analysis","Historical analysis, Philologic analysis"
+doc28,Teodoro Agoncillo,Teodoro Agoncillo,forgery,suspicious,document provenance,content,Historical analysis,Historical analysis
+doc28,National Historical Commission of the Philippines,National Historical Commission of the Philippines,forgery,forgery,historical context,"content, document provenance",Historical analysis,Historical analysis
+doc28,National Historical Institute,National Historical Commission of the Philippines,forgery,forgery,historical context,"content, document provenance",Historical analysis,Historical analysis
+doc18,Cesare G. De Michelis,Cesare G. De Michelis,forgery,forgery,"chronology and dating, content, document provenance","chronology and dating, content",Historical analysis,Historical analysis
+doc18,Daniel Pipes,Daniel Pipes,forgery,forgery,content,content,"Historical analysis, Literary analysis",Historical analysis
+doc18,Umberto Eco,Umberto Eco,forgery,forgery,content,content,Literary analysis,Literary analysis
+doc18,Lucien Wolf,Lucien Wolf,forgery,forgery,"content, document provenance",document provenance,"Historical analysis, Philologic analysis",Historical analysis
+doc18,Philip Graves,Philip Graves,forgery,forgery,"content, original document, list of witnesses",content,"Literary analysis, Philologic analysis",Literary analysis
+doc18,Herman Bernstein,Herman Bernstein,forgery,forgery,content,content,,
+doc18,Vladimir Burtsev,Vladimir Burtsev,forgery,forgery,document provenance,content,,Historical analysis
+doc18,Ali Gomaa,Ali Gomaa,forgery,forgery,document provenance,"document provenance, content",,
+doc14,Mark Hofmann,Mark Hofmann,forgery,forgery,material support,original document,,
+doc19,Kenneth W. Rendell,Kenneth W. Rendell,authentic,suspicious,"ink, material support, document provenance","ink, paper, postmark",Scientific analysis,Historical analysis
+doc19,Jerald Tanner,Jerald Tanner,suspicious,suspicious,"document provenance, content, list of witnesses",document provenance,"Historical analysis, Philologic analysis",Historical analysis
+doc19,George Throckmorton,George Throckmorton,forgery,forgery,"content, document provenance",material support,"Philologic analysis, Literary analysis, Scientific analysis",Scientific analysis
+doc19,William Flynn,William Flynn,forgery,forgery,"content, document provenance",content,Scientific analysis,Scientific analysis
+doc19,Gordon B. Hinckley,Gordon B. Hinckley,forgery,forgery,document provenance,content,,
+doc19,Dallin H. Oaks,Dallin H. Oaks,forgery,suspicious,document provenance,"content, document provenance",,Historical analysis
+doc19,Grant H. Palmer,Grant H. Palmer,authentic,authentic,content,content,Historical analysis,Historical analysis
+doc19,Sandra Tanner,Sandra Tanner,suspicious,forgery,"content, list of witnesses",content,,
+doc07,Brian Welch,Brian Welch,forgery,forgery,content,content,,
+doc29,Josef Dobrovský,Josef Dobrovský,forgery,forgery,document provenance,document provenance,Philologic analysis,Philologic analysis
+doc29,Jernej Kopitar,Jernej Kopitar,forgery,forgery,,,,
+doc29,Josef Jungmann,Josef Jungmann,authentic,authentic,content,content,Literary analysis,Literary analysis
+doc29,František Čelakovský,František Čelakovský,authentic,authentic,,,,
+doc29,František Palacký,František Čelakovský,authentic,authentic,content,,Historical analysis,
+doc29,Karel Jaromír Erben,Karel Jaromír Erben,authentic,authentic,,,,
+doc29,Wratislaw,Wratislaw,suspicious,authentic,,chronology and dating,,Philologic analysis
+doc29,Alois Vojtěch Šembera,Alois Vojtěch Šembera,forgery,forgery,,content,,Historical analysis
+doc29,Tomáš Masaryk,Tomáš Masaryk,forgery,forgery,"metre and style, language","metre and style, language","Philologic analysis, Literary analysis","Philologic analysis, Literary analysis"
+doc29,Jan Gebauer,Jan Gebauer,forgery,forgery,content,content,Philologic analysis,Philologic analysis
+doc54,William Henry Ireland,William Henry Ireland,forgery,forgery,"handwriting, original document",document provenance,,
+doc54,Samuel Ireland,Samuel Ireland,authentic,authentic,"handwriting, sigillum or seal","content, handwriting, historical context",Literary analysis,Historical analysis
+doc54,Thomas Caldecott,Thomas Caldecott,authentic,authentic,handwriting,"handwriting, orthography","Philologic analysis, Literary analysis",Literary analysis
+doc54,George Steevens,George Steevens,forgery,forgery,content,content,"Historical analysis, Literary analysis",Historical analysis
+doc54,Clement Mansfield Ingleby,Clement Mansfield Ingleby,forgery,forgery,,document provenance,Historical analysis,Historical analysis
+doc54,George Dawson,George Dawson,forgery,forgery,,content,,
+doc54,Edmond Malone,Edmond Malone,forgery,forgery,"orthography, handwriting, content","language, handwriting, orthography, historical context",,"Philologic analysis, Paleographic analysis, Historical analysis"
+doc57,Curtis,Curtis,suspicious,suspicious,"chronology and dating, original document, content, document provenance","content, original document, chronology and dating",Historical analysis,Historical analysis
+doc57,Stephen J. McCormick,Stephen J. McCormick,authentic,authentic,"chronology and dating, document provenance, historical context","chronology and dating, historical context, content",Historical analysis,Historical analysis
+doc57,Michael Richter,Michael Richter,authentic,authentic,"content, historical context, original document, list of witnesses",document provenance,Historical analysis,Historical analysis
+doc57,Ginnell,Ginnell,suspicious,suspicious,content,"chronology and dating, content",Historical analysis,Historical analysis
+doc57,Burke,Burke,forgery,forgery,"chronology and dating, content, document provenance","chronology and dating, historical context, document provenance",Historical analysis,Historical analysis
+doc57,P. S. O'Hegarty,P. S. O'Hegarty,authentic,authentic,,content,Historical analysis,Historical analysis
+doc57,Father Burke,Father Burke,forgery,forgery,"historical context, chronology and dating","chronology and dating, content, document provenance",Historical analysis,Historical analysis
+doc57,John Lingard,John Lingard,authentic,authentic,,,,
+doc57,John Lanigan,John Lingard,authentic,authentic,,,,
+doc57,Arthur Ua Clerigh,Arthur Ua Clerigh,authentic,authentic,list of witnesses,"chronology and dating, content, original document, language",Philologic analysis,Historical analysis
+doc57,J. R. S. Phillips,J. R. S. Phillips,authentic,authentic,"historical context, content","content, historical context",Historical analysis,Historical analysis
+doc57,Goddard Henry Orpen,Goddard Henry Orpen,forgery,forgery,chronology and dating,chronology and dating,Historical analysis,Historical analysis
+doc57,John Lynch,John Lynch,forgery,forgery,,,,
+doc57,Patrick Francis Moran,Patrick Francis Moran,forgery,forgery,content,document provenance,Philologic analysis,Historical analysis
+doc57,Anne Duggan,Anne Duggan,forgery,forgery,content,content,Philologic analysis,Philologic analysis
+doc57,Paul Scheffer-Boichorst,Paul Scheffer-Boichorst,suspicious,forgery,original document,content,Historical analysis,Historical analysis
+doc57,Caesar Baronius,Caesar Baronius,suspicious,suspicious,"document provenance, chronology and dating",content,"Philologic analysis, Historical analysis",Historical analysis
+doc21,Kirsten A. Seaver,Kirsten A. Seaver,forgery,forgery,,document provenance,Historical analysis,Historical analysis
+doc21,Kirsten Seaver,Kirsten A. Seaver,forgery,forgery,material support,document provenance,Historical analysis,Historical analysis
+doc21,John Paul Floyd,John Paul Floyd,forgery,forgery,"content, document provenance","document provenance, content",Historical analysis,"Philologic analysis, Historical analysis"
+doc21,Paul Freedman,Paul Freedman,forgery,forgery,,content,,Historical analysis
+doc21,Richard Hark,Richard Hark,forgery,forgery,ink,ink,Scientific analysis,Scientific analysis
+doc21,Raymond Clemens,Raymond Clemens,forgery,forgery,"chronology and dating, language, ink, document provenance","chronology and dating, ink, document provenance, content","Scientific analysis, Historical analysis","Scientific analysis, Historical analysis"
+doc21,Witten,Witten,suspicious,suspicious,"chronology and dating, language, ink","content, handwriting, document provenance",Diplomatic analysis,
+doc21,Skelton,Skelton,suspicious,suspicious,ink,"ink, document provenance, material support, format (spacing, signs)",Scientific analysis,Scientific analysis
+doc27,Roy Rosenzweig,Roy Rosenzweig,forgery,forgery,"content, historical context","content, historical context",Historical analysis,Historical analysis
+doc27,William Jelani Cobb,William Jelani Cobb,forgery,forgery,historical context,historical context,Historical analysis,Historical analysis
+doc42,Kathryn Lindskoog,Kathryn Lindskoog,forgery,forgery,"metre and style, document provenance","metre and style, document provenance, content",,Literary analysis
+doc42,Alastair Fowler,Alastair Fowler,authentic,authentic,,content,,Literary analysis
+doc05,Daniele Farlati,Daniele Farlati,suspicious,suspicious,"chronology and dating, historical context","chronology and dating, historical context",Historical analysis,Historical analysis
+doc05,Ivan Kukuljević Sakcinski,Ivan Kukuljević Sakcinski,suspicious,authentic,"chronology and dating, historical context","chronology and dating, historical context",Historical analysis,Historical analysis
+doc05,Ivan Kukuljević Sakcinski,Ivan Kukuljević Sakcinski,suspicious,authentic,chronology and dating,"chronology and dating, historical context",Historical analysis,Historical analysis
+doc05,Franjo Rački,Franjo Rački,authentic,authentic,"chronology and dating, historical context","chronology and dating, historical context",Historical analysis,Historical analysis
+doc05,Držislav Švob,Držislav Švob,forgery,forgery,content,content,Historical analysis,
+doc05,Lujo Margetić,Lujo Margetić,suspicious,suspicious,"chronology and dating, legal formulas","chronology and dating, historical context, content","Philologic analysis, Historical analysis","Historical analysis, Philologic analysis"
+doc05,Olga Perić,Olga Perić,suspicious,suspicious,language,language,Philologic analysis,Philologic analysis
+doc05,Neven Budak,Neven Budak,authentic,authentic,"list of witnesses, historical context","list of witnesses, historical context",Historical analysis,Historical analysis
+doc51,Hugh Trevor-Roper,Hugh Trevor-Roper,suspicious,suspicious,"document provenance, original document, authentication marks","document provenance, content","Historical analysis, Philologic analysis",Historical analysis
+doc51,Gerhard Weinberg,Gerhard Weinberg,suspicious,suspicious,"document provenance, handwriting, document provenance",handwriting,Historical analysis,Historical analysis
+doc51,Irving,Irving,authentic,forgery,handwriting,"chronology and dating, handwriting, ink",Historical analysis,Historical analysis
+doc51,Kenneth W. Rendell,Kenneth W. Rendell,forgery,forgery,"handwriting, ink, material support","ink, material support, handwriting","Scientific analysis, Diplomatic analysis",Scientific analysis
+doc51,Ordway Hilton,Ordway Hilton,authentic,authentic,handwriting,handwriting,,Scientific analysis
+doc56,John R. Bentley,John R. Bentley,authentic,authentic,interpolations,"chronology and dating, interpolations",Historical analysis,Philologic analysis
+doc13,Stephen Carlson,Stephen Carlson,forgery,forgery,,document provenance,Philologic analysis,Philologic analysis
+doc13,Mary V. Orna,Mary V. Orna,suspicious,suspicious,illustration or other graphical device,"illustration or other graphical device, chronology and dating","Scientific analysis, Diplomatic analysis",Scientific analysis
+doc08,Cardinal Nicholas of Cusa,Cardinal Nicholas of Cusa,forgery,forgery,,content,,Historical analysis
+doc08,Lorenzo Valla,Lorenzo Valla,forgery,forgery,language,"language, content, historical context",Philologic analysis,Philologic analysis
+doc08,Pope Pius II,Pope Pius II,forgery,forgery,chronology and dating,"content, historical context",Historical analysis,Historical analysis
+doc08,Filippo Maria Visconti,Filippo Maria Visconti,suspicious,suspicious,"content, original document",content,,Philologic analysis
+doc08,Ulrich von Hutten,Ulrich von Hutten,forgery,forgery,,,,
+doc08,Martin Luther,Martin Luther,forgery,forgery,,,,
+doc08,Caesar Baronius,Caesar Baronius,forgery,forgery,,content,,Historical analysis
+doc08,Christian Wolff,Christian Wolff,authentic,authentic,,,,
+doc12,Friedrich Münter,Friedrich Münter,suspicious,suspicious,chronology and dating,chronology and dating,Historical analysis,Historical analysis
+doc55,Lorenzo Valla,Lorenzo Valla,forgery,forgery,metre and style,metre and style,Philologic analysis,Philologic analysis
+doc55,J. B. Lightfoot,J. B. Lightfoot,forgery,forgery,"content, chronology and dating, metre and style","chronology and dating, content, metre and style, historical context","Literary analysis, Historical analysis","Philologic analysis, Historical analysis, Literary analysis"
+doc55,Adolf von Harnack,Adolf von Harnack,forgery,suspicious,,content,,"Literary analysis, Philologic analysis"
+doc55,J. K. Elliott,J. K. Elliott,forgery,forgery,,content,Philologic analysis,Philologic analysis
+doc55,Bart Ehrman,Bart Ehrman,forgery,forgery,"content, historical context","content, historical context","Historical analysis, Literary analysis",Historical analysis
+doc55,Philip Schaff,Philip Schaff,forgery,forgery,"chronology and dating, content, metre and style","chronology and dating, content, metre and style",Philologic analysis,"Historical analysis, Literary analysis"
+doc33,Johann Kelle,Johann Kelle,forgery,authentic,,,Philologic analysis,
+doc33,Jacob Grimm,Jacob Grimm,authentic,authentic,content,content,Philologic analysis,Philologic analysis
+doc33,Edwards,Jacob Grimm,forgery,authentic,"content, language",content,"Philologic analysis, Paleographic analysis",Philologic analysis
+doc33,Grohmann,Grohmann,forgery,forgery,,content,,Literary analysis
+doc33,Kletke,Kletke,authentic,authentic,,,,
+doc33,Fichtenau,Fichtenau,forgery,forgery,,content,,Literary analysis
+doc33,F. Mairinger,F. Mairinger,forgery,suspicious,ink,ink,Diplomatic analysis,Scientific analysis

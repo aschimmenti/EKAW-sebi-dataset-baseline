@@ -1,0 +1,60 @@
+{
+    "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières": {
+        "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières": [
+            {
+                "claim": "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières (1704 or 1714–1803) was a French woman of letters, salonniére and alleged memoir writer.",
+                "bibliography": []
+            },
+            {
+                "claim": "She was friends with d'Alembert, Rousseau and de Meilhan.",
+                "bibliography": []
+            },
+            {
+                "claim": "The Souvenirs de la Marquise de Créquy is attributed to her but may be by Cousin de Courchamps.",
+                "bibliography": []
+            },
+            {
+                "claim": "The well-known Souvenirs de la marquise de Créquy (1710-1803) (a reliable description of the French royal court under Louis XV), printed in 7 volumes, 1834-1835, and purporting to be addressed to her grandson, Tancrède de Créquy, was the production of a Breton adventurer, Cousin de Courchamps.",
+                "bibliography": []
+            },
+            {
+                "claim": "In her Souvenirs, which consists mainly of accurate noble genealogies and court gossip from the reigns of Louis XIV, Louis XV, Louis XVI and Napoleon, there is a tale for which the author of the Souvenirs is the sole authority.",
+                "bibliography": []
+            },
+            {
+                "claim": "This story, widely believed in France, is her statement, with a detailed story to back it up, that Britain's national anthem, 'God Save the Queen', was in fact written by Lully and sung by a French girls' school to greet Louis XIV.",
+                "bibliography": []
+            },
+            {
+                "claim": "The French author of Souvenirs further states that the tune was later plagiarized by Handel and sold to the British crown as their anthem.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières",
+            "start_char": 0,
+            "end_char": 98,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Cousin de Courchamps": {
+        "Cousin de Courchamps": [
+            {
+                "claim": "The Souvenirs de la Marquise de Créquy is attributed to her but may be by Cousin de Courchamps.",
+                "bibliography": []
+            },
+            {
+                "claim": "The well-known Souvenirs de la marquise de Créquy (1710-1803) (a reliable description of the French royal court under Louis XV), printed in 7 volumes, 1834-1835, and purporting to be addressed to her grandson, Tancrède de Créquy, was the production of a Breton adventurer, Cousin de Courchamps.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Cousin de Courchamps",
+            "start_char": 320,
+            "end_char": 340,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

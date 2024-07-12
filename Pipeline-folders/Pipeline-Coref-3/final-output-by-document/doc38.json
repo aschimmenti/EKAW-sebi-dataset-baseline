@@ -1,0 +1,44 @@
+{
+    "Charles Vanderbourg": {
+        "Charles Vanderbourg": [
+            {
+                "claim": "In 1803 Charles Vanderbourg published as the Poésies de Clotilde some forty poems dealing with love and war.",
+                "bibliography": []
+            },
+            {
+                "claim": "This correspondence makes it clear that Vanderbourg was innocent of forgery and believed that the poems were of 15th century date, and that the anachronisms of matter and form were due to retouching by Surville.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Charles Vanderbourg",
+            "start_char": 101,
+            "end_char": 120,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Antonin Mace": {
+        "Antonin Mace": [
+            {
+                "claim": "In 1863 Antonin Mace made further inquiries on the subject and discovered letters from Vanderbourg to Surville's widow.",
+                "bibliography": [
+                    "[5]"
+                ]
+            },
+            {
+                "claim": "But the researches of Mace interested local antiquarians, and documentary evidence was produced that the wife of Berenger de Surville was Marguerite Chalis, not Clotilde, and that the marriage dated only from 1428.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Antonin Mace",
+            "start_char": 685,
+            "end_char": 697,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "Marcello Dell'Utri": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "reliability": true,
+                "completeness": true,
+                "veridicality": true
+            },
+            {
+                "feature": "document provenance",
+                "presence": true,
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Marcello Dell'Utri",
+            "start_char": 1076,
+            "end_char": 1094,
+            "label": "Marcello Dell'Utri",
+            "description": "Italian politician (born 1941)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Marcello Dell'Utri",
+            "wikidata_id": "Q558815",
+            "occupation": "politician, criminal",
+            "country of citizenship": "Italy",
+            "date of birth": "+1941-09-11T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Dell'Utri"
+        }
+    },
+    "Emilio Gentile": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Emilio Gentile",
+            "start_char": 2244,
+            "end_char": 2258,
+            "label": "Emilio Gentile",
+            "description": "Italian historian (1946-)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Emilio Gentile",
+            "wikidata_id": "Q1229044",
+            "occupation": "historian",
+            "country of citizenship": "Italy",
+            "date of birth": "+1946-08-31T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Gentile"
+        }
+    },
+    "Roberto Travaglini": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Roberto Travaglini",
+            "start_char": 2263,
+            "end_char": 2281,
+            "label": "Roberto Travaglini",
+            "description": "researcher",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Roberto Travaglini",
+            "wikidata_id": "Q114452845",
+            "occupation": "researcher",
+            "instance_of": "human",
+            "text_2": "Travaglini"
+        }
+    },
+    "Silvio Berlusconi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Silvio Berlusconi",
+            "start_char": 3051,
+            "end_char": 3068,
+            "label": "Silvio Berlusconi",
+            "description": "Italian politician and media tycoon (1936–2023)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Silvio Berlusconi",
+            "wikidata_id": "Q11860",
+            "also_known_as": [
+                "Berlusconi",
+                "il Cavaliere"
+            ],
+            "occupation": "politician, entrepreneur, media proprietor, association football executive",
+            "country of citizenship": "Italy",
+            "date of birth": "+1936-09-29T00:00:00Z",
+            "date of death": "+2023-06-12T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Berlusconi"
+        }
+    },
+    "Elisabetta Sgarbi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Elisabetta Sgarbi",
+            "start_char": 3262,
+            "end_char": 3279,
+            "label": "Elisabetta Sgarbi",
+            "description": "Italian writer (1956-)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Elisabetta Sgarbi",
+            "wikidata_id": "Q16268759",
+            "occupation": "writer, actor, film director, manufacturer, screenwriter",
+            "country of citizenship": "Italy",
+            "date of birth": "+1956-07-09T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Libero": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Libero",
+            "start_char": 3308,
+            "end_char": 3314,
+            "label": "libero",
+            "description": "volleyball position",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "Libero",
+            "wikidata_id": "Q975915",
+            "instance_of": "volleyball position"
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "Sergei Lavrov": {
+        "Sergei Lavrov": [
+            {
+                "claim": "Sergei Lavrov recalled it in 2022.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Sergei Lavrov",
+            "start_char": 533,
+            "end_char": 546,
+            "label": "Sergei Lavrov",
+            "description": "Russian politician and Foreign Minister",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Sergei Lavrov",
+            "wikidata_id": "Q58217",
+            "also_known_as": [
+                "Sergey Viktorovich Lavrov"
+            ],
+            "occupation": "diplomat, politician, minister",
+            "instance_of": "human"
+        }
+    },
+    "Michał Sokolnicki": {
+        "Michał Sokolnicki": [
+            {
+                "claim": "In 1797 the Polish nobleman Michał Sokolnicki presented the French Directory with a document entitled \"Aperçu sur la Russie\".",
+                "bibliography": [
+                    "[5]",
+                    "[6]",
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "In 1912, Polish historian Michel Sokolnicki (Michał Sokolnicki) found in archives of French Ministry of Foreign Affairs a 1797 memorandum \"Aperçu sur la Russie\" of his ancestor, general Michał Sokolnicki and wrote a journal article \"Le Testament de Pierre le Grand: Origines d'un prétendu document historique\".",
+                "bibliography": [
+                    "[11]"
+                ]
+            },
+            {
+                "claim": "General Sokolnicki claimed that he glimpsed a plan of Peter I to subjugate Europe in Russian archives and memorized major points.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Historian Sokolnicki also maintains that his ancestor did not invent The Will himself, but rather wrote down a long-existing Polish tradition.",
+                "bibliography": [
+                    "[11]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Michał Sokolnicki",
+            "start_char": 2973,
+            "end_char": 2990,
+            "label": "Michał Sokolnicki",
+            "description": "Polish general (1760-1816)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Michał Sokolnicki",
+            "wikidata_id": "Q4427460",
+            "also_known_as": [
+                "Michal Sokolnicki"
+            ],
+            "occupation": "military officer",
+            "country of citizenship": "France, Duchy of Warsaw, Polish–Lithuanian Commonwealth",
+            "date of birth": "+1760-09-29T00:00:00Z",
+            "date of death": "+1816-09-24T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Sokolnicki"
+        }
+    },
+    "Napoleon Bonaparte": {
+        "Napoleon Bonaparte": [
+            {
+                "claim": "This became known as the so-called 'Testament of Peter the Great', which Napoleon Bonaparte used for anti-Russian propaganda purposes in 1812, and has been widely publicised since, although scholars have since established that the document is a forgery.",
+                "bibliography": [
+                    "[5]",
+                    "[6]",
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "In 1812, Charles-Louis Lesur wrote, under Napoleon's command, a memoir Des Progrès de la puissance russe depuis son origine jusqu'au commencement du XIXe siècle ('Progress of the Russian Power, from Its Origin to the Beginning of the Nineteenth Century'), in which a summary of the alleged Will was inserted.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Napoleon Bonaparte",
+            "start_char": 769,
+            "end_char": 787,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Charles-Louis Lesur": {
+        "Charles-Louis Lesur": [
+            {
+                "claim": "In 1812, Charles-Louis Lesur [fr] wrote, under Napoleon's command, a memoir Des Progrès de la puissance russe depuis son origine jusqu'au commencement du XIXe siècle ('Progress of the Russian Power, from Its Origin to the Beginning of the Nineteenth Century'), in which a summary of the alleged Will was inserted.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "The memoir intended to justify Napoleon's war plans against Russia.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "These points bear a remarkable similarity to those presented by Lesur, so it is quite possible that Lesur borrowed from Sokolnicky.",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Charles-Louis Lesur",
+            "start_char": 1359,
+            "end_char": 1378,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Walter K. Kelly": {
+        "Walter K. Kelly": [
+            {
+                "claim": "Walter K. Kelly in his History of Russia (1854) quotes The Will from Frederic Gaillardet's Mémoires du Chevalier d'Éon (1836).",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "While questioning its authenticity, Kelly comments that the document fairly reflects the politics of Russia in the past 100 years.",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Walter K. Kelly",
+            "start_char": 1736,
+            "end_char": 1751,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Sergey Shubinsky": {
+        "Sergey Shubinsky": [
+            {
+                "claim": "The same was noted by Russian historian Sergey Shubinsky, who commented that the first 11 points of The Will is a fair recapitulation of Russian foreign policy since Peter's death (1725) until 1812.",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Sergey Shubinsky",
+            "start_char": 2108,
+            "end_char": 2124,
+            "label": "Sergey Shubinsky",
+            "description": "Russian general and historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Sergey Shubinsky",
+            "wikidata_id": "Q4527209",
+            "also_known_as": [
+                "Sergey Nikolayevich Shubinsky"
+            ],
+            "occupation": "writer, historian, journalist",
+            "country of citizenship": "Russian Empire",
+            "date of birth": "+1834-06-02T00:00:00Z",
+            "date of death": "+1913-05-28T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Karl Marx": {
+        "Karl Marx": [
+            {
+                "claim": "Karl Marx, writing in David Urquhart's The Free Press in 1857 was also in agreement.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "Marx wrote that 'Peter the Great is indeed the inventor of modern Russian policy, but he became so only by divesting the old Muscovite method... generalizing its purpose, and exalting its object from the overthrow of certain given limits of power to the aspiration of unlimited power.'",
+                "bibliography": [
+                    "[9]",
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "In a speech in 1867, Marx stated that 'the policy of Russia is changeless... the polar star of its policy – world domination – is a fixed star.'",
+                "bibliography": []
+            },
+            {
+                "claim": "Marx continued, 'Peter the Great touched this weak point when he wrote that in order to conquer the world, the Muscovites needed only souls.'",
+                "bibliography": [
+                    "[10]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Karl Marx",
+            "start_char": 2271,
+            "end_char": 2280,
+            "label": "Karl Marx",
+            "description": "German-born philosopher (1818–1883)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Karl Marx",
+            "wikidata_id": "Q9061",
+            "also_known_as": [
+                "Karl Heinrich Marx",
+                "Marx",
+                "Karl H. Marx"
+            ],
+            "occupation": "economist, journalist, historian, philosopher, sociologist, revolutionary, poet, politician, writer",
+            "country of citizenship": "Kingdom of Prussia, statelessness",
+            "date of birth": "+1818-05-05T00:00:00Z",
+            "date of death": "+1883-03-14T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Marx"
+        }
+    }
+}

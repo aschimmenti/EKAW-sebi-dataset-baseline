@@ -1,0 +1,339 @@
+{
+    "Daniele Farlati": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "historical context",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Daniele Farlati",
+            "start_char": 743,
+            "end_char": 758,
+            "label": "Daniele Farlati",
+            "description": "Italian Jesuit and historian (1690-1773)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Daniele Farlati",
+            "wikidata_id": "Q797181",
+            "occupation": "church historian, historian",
+            "country of citizenship": "Republic of Venice",
+            "date of birth": "+1690-02-22T00:00:00Z",
+            "date of death": "+1773-04-05T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Farlati"
+        }
+    },
+    "Ivan Kukuljević Sakcinski": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": false
+            },
+            {
+                "feature": "historical context",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "837"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Ivan Kukuljević Sakcinski",
+            "start_char": 763,
+            "end_char": 788,
+            "label": "Ivan Kukuljević Sakcinski",
+            "description": "Croatian historian and politician (1816-1889)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ivan Kukuljević Sakcinski",
+            "wikidata_id": "Q697783",
+            "occupation": "linguist, historian, writer, poet, politician, editor",
+            "country of citizenship": "Austrian Empire, Kingdom of Hungary",
+            "date of birth": "+1816-05-29T00:00:00Z",
+            "date of death": "+1889-08-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Ivan Lučić Lucius": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Ivan Lučić Lucius",
+            "start_char": 852,
+            "end_char": 869,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Franjo Rački": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": true
+            },
+            {
+                "feature": "historical context",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Franjo Rački",
+            "start_char": 971,
+            "end_char": 983,
+            "label": "Franjo Rački",
+            "description": "Croatian historian, politician and writer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Franjo Rački",
+            "wikidata_id": "Q516286",
+            "occupation": "historian, politician, priest",
+            "country of citizenship": "Austrian Empire, Austria-Hungary",
+            "date of birth": "+1828-11-25T00:00:00Z",
+            "date of death": "+1894-02-13T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Miho Barada": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Miho Barada",
+            "start_char": 1297,
+            "end_char": 1308,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Lovre": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Lovre",
+            "start_char": 1471,
+            "end_char": 1476,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Marko": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Marko",
+            "start_char": 1490,
+            "end_char": 1495,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Držislav Švob": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "14th century"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Držislav Švob",
+            "start_char": 1511,
+            "end_char": 1524,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Držislav Švob",
+            "wikidata_id": "Q125913732",
+            "date of birth": "+1907-05-05T00:00:00Z",
+            "date of death": "+1945-04-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Lujo Margetić": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "historical context",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "March 4, 840"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis",
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Lujo Margetić",
+            "start_char": 1708,
+            "end_char": 1721,
+            "label": "Lujo Margetić",
+            "description": "Croatian legal historian, member",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Lujo Margetić",
+            "wikidata_id": "Q1564163",
+            "occupation": "legal historian",
+            "date of birth": "+1920-10-18T00:00:00Z",
+            "date of death": "+2010-05-17T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Margetić"
+        }
+    },
+    "Olga Perić": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "completeness": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Olga Perić",
+            "start_char": 3091,
+            "end_char": 3101,
+            "label": "Olga Perić",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Olga Perić",
+            "wikidata_id": "Q113805923",
+            "date of birth": "+1917-01-01T00:00:00Z",
+            "date of death": "+1985-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Neven Budak": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "list of witnesses",
+                "presence": true
+            },
+            {
+                "feature": "historical context",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Neven Budak",
+            "start_char": 3318,
+            "end_char": 3329,
+            "label": "Neven Budak",
+            "description": "Croatian historian and professor",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Neven Budak",
+            "wikidata_id": "Q854539",
+            "occupation": "historian",
+            "date of birth": "+1957-05-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

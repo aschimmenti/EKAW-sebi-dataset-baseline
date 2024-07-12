@@ -1,0 +1,203 @@
+{
+    "Jose Marco": {
+        "Jose Marco": [
+            {
+                "claim": "According to some sources, 'appear to be deliberate fabrications with no historical validity' written in 1913 by a scholar named Jose Marco as a part of a historical fiction titled Las antiguas leyendas de la Isla de Negros (English: The Ancient Legends of the Island of Negros).",
+                "bibliography": []
+            },
+            {
+                "claim": "In 2005, the National Historical Commission of the Philippines officially recognized Kalantiaw and the Code of Kalantiaw to be a 20th-century fraudulent work by José Marco with no historical basis.",
+                "bibliography": []
+            },
+            {
+                "claim": "Jose Marco wrote about the Code of Kalantiaw in his 1917 book Historia Prehispana de Filipinas ('Prehispanic History of the Philippines') where he moved the location of the Code's origin from Negros to the Panay province of Aklan because he suspected that it may be related to the Ati-atihan festival.",
+                "bibliography": []
+            },
+            {
+                "claim": "Scott eventually demonstrated that the code was a forgery committed by Marco.",
+                "bibliography": []
+            },
+            {
+                "claim": "Scott presented these conclusions in his doctoral dissertation, defended on 16 June 1968 before a panel of eminent Filipino historians which included Teodoro Agoncillo, Horacio de la Costa, Marcelino Foronda, Mercedes Grau Santamaria, Nicolas Zafra and Gregorio Zaide, not a single question was raised about the chapter which he had called The Contributions of Jose E. Marco to Philippine historiography.",
+                "bibliography": []
+            },
+            {
+                "claim": "In 2004, National Historical Institute (NHI) Resolution No. 12 '[declaring that Code of Kalantiao/Kalantiaw has no valid historical basis' called for: (1) the official affirmation that the Kalantiaw Code is a twentieth-century fraudulent work by Jose Marco, (2) the President of the Philippines cease to honor retiring Supreme justices and other international dignitaries with the 'Order of Kalantiaw', and (3) the revoking of Executive Order 234, which recognized Datu Bondahara Kalantiaw as 'The First Philippine Lawgiver' and declared a Hall of Fame and Library to be constructed in his honor in Batan, Aklan as a national shrine.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Jose Marco",
+            "start_char": 437,
+            "end_char": 447,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Teodoro Agoncillo": {
+        "Teodoro Agoncillo": [
+            {
+                "claim": "In 1990, Philippine historian Teodoro Agoncillo described the code as 'a disputed document.'",
+                "bibliography": []
+            },
+            {
+                "claim": "When Scott presented these conclusions in his doctoral dissertation, defended on 16 June 1968 before a panel of eminent Filipino historians which included Teodoro Agoncillo, Horacio de la Costa, Marcelino Foronda, Mercedes Grau Santamaria, Nicolas Zafra and Gregorio Zaide, not a single question was raised about the chapter which he had called The Contributions of Jose E. Marco to Philippine historiography.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Teodoro Agoncillo",
+            "start_char": 621,
+            "end_char": 638,
+            "label": "Teodoro Agoncillo",
+            "description": "historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Teodoro Agoncillo",
+            "wikidata_id": "Q2735473",
+            "also_known_as": [
+                "Teodoro Andal Agoncillo"
+            ],
+            "occupation": "historian",
+            "country of citizenship": "Philippines",
+            "date of birth": "+1912-11-09T00:00:00Z",
+            "date of death": "+1985-01-14T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "National Historical Commission of the Philippines": {
+        "National Historical Commission of the Philippines": [
+            {
+                "claim": "In 2005, the National Historical Commission of the Philippines officially recognized Kalantiaw and the Code of Kalantiaw to be a 20th-century fraudulent work by José Marco with no historical basis.",
+                "bibliography": []
+            },
+            {
+                "claim": "In 2004, National Historical Institute (NHI) Resolution No. 12 '[declaring that Code of Kalantiao/Kalantiaw has no valid historical basis' called for: (1) the official affirmation that the Kalantiaw Code is a twentieth-century fraudulent work by Jose Marco, (2) the President of the Philippines cease to honor retiring Supreme justices and other international dignitaries with the ‘Order of Kalantiaw’, and (3) the revoking of Executive Order 234, which recognized Datu Bondahara Kalantiaw as 'The First Philippine Lawgiver' and declared a Hall of Fame and Library to be constructed in his honor in Batan, Aklan as a national shrine.",
+                "bibliography": [
+                    "[15]",
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "National Historical Commission of the Philippines",
+            "start_char": 3913,
+            "end_char": 3942,
+            "label": "National Historical Commission of the Philippines",
+            "description": "Philippine government agency",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "National Historical Commission of the Philippines",
+            "wikidata_id": "Q2652138",
+            "also_known_as": [
+                "NHCP",
+                "Philippine Historical Research and Markers Committee",
+                "Philippines Historical Committee",
+                "National Historical Institute",
+                "NHI"
+            ],
+            "instance_of": "government agency"
+        }
+    },
+    "James Alexander Robertson": {
+        "James Alexander Robertson": [
+            {
+                "claim": "It first gained scholarly acceptance when Marco donated five manuscripts of the fraudulent documents to the American historian James Alexander Robertson.",
+                "bibliography": []
+            },
+            {
+                "claim": "Robertson presented it in San Francisco in 1915 in a paper entitled Social structure of, and ideas of law among early Philippine peoples, in a recently discovered pre-Hispanic criminal code of the Philippine Islands.",
+                "bibliography": []
+            },
+            {
+                "claim": "Robertson was a notable proponent of Anti-Spanish 'black legend' propaganda and had also deliberately distorted translations of Spanish documents of the Philippines in the compilation The Philippine Islands, 1493–1898 (1903–1907) co-authored with Emma Helen Blair.",
+                "bibliography": [
+                    "[6]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "James Alexander Robertson",
+            "start_char": 1500,
+            "end_char": 1525,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "William Henry Scott": {
+        "William Henry Scott": [
+            {
+                "claim": "In 1965, then University of Santo Tomas doctoral candidate William Henry Scott began an examination of pre-hispanic sources for the study of Philippine history.",
+                "bibliography": []
+            },
+            {
+                "claim": "Scott eventually demonstrated that the code was a forgery committed by Marco.",
+                "bibliography": []
+            },
+            {
+                "claim": "When Scott presented these conclusions in his doctoral dissertation, defended on 16 June 1968 before a panel of eminent Filipino historians which included Teodoro Agoncillo, Horacio de la Costa, Marcelino Foronda, Mercedes Grau Santamaria, Nicolas Zafra and Gregorio Zaide, not a single question was raised about the chapter which he had called The Contributions of Jose E. Marco to Philippine historiography.",
+                "bibliography": []
+            },
+            {
+                "claim": "Scott later published his findings debunking the code in his book Prehispanic Source Materials for the Study of Philippine History.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "When Antonio M. Molina published a Spanish version of his The Philippines Through the Centuries as Historia de Filipinas (Madrid, 1984), he replaced the Code with one sentence: La tesis doctoral del historador Scott desbarata la existencia misma de dicho Código.",
+                "bibliography": [
+                    "[10]",
+                    "[11]"
+                ]
+            },
+            {
+                "claim": "However, despite this and despite Scott's findings, changes in textbooks and in academic curriculum were not forthcoming until almost thirty years following the release of Scott's publication in 1969.",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "William Henry Scott",
+            "start_char": 2072,
+            "end_char": 2091,
+            "label": "William Henry Scott",
+            "description": "British Army general",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Henry Scott",
+            "wikidata_id": "Q27825593",
+            "also_known_as": [
+                "Maj.-Gen. William Henry Scott",
+                "General Thomas William Scott"
+            ],
+            "occupation": "military personnel",
+            "date of birth": "+1789-01-01T00:00:00Z",
+            "date of death": "+1868-01-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Scott"
+        }
+    },
+    "Antonio M. Molina": {
+        "Antonio M. Molina": [
+            {
+                "claim": "When Antonio M. Molina published a Spanish version of his The Philippines Through the Centuries as Historia de Filipinas (Madrid, 1984), he replaced the Code with one sentence: La tesis doctoral del historador Scott desbarata la existencia misma de dicho Código. ('The doctoral dissertation of the historian Scott demolishes the very existence of the Code').",
+                "bibliography": [
+                    "[10]",
+                    "[11]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Antonio M. Molina",
+            "start_char": 3149,
+            "end_char": 3166,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

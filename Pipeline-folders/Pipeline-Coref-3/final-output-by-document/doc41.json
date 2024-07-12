@@ -1,0 +1,123 @@
+{
+    "Linda Davison Stafford": {
+        "Linda Davison Stafford": [
+            {
+                "claim": "Linda Davison Stafford, also known as Crying Wind, April Knight, and Gwendlelynn Lovequist is the author of several novels including Crying Wind and My Searching Heart which describe the experiences of a young Native American girl named 'Crying Wind', and tell a story of Christian conversion.",
+                "bibliography": []
+            },
+            {
+                "claim": "Under the pseudonym Gwendlelynn Lovequist, she has written many love stories and romances, for publications such as Writer's Digest.",
+                "bibliography": []
+            },
+            {
+                "claim": "Stafford was described as a Kickapoo author and a convert to Christianity when her book Crying Wind was published in 1977.",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Soon, she was touring, promoting her book and giving her conversion testimony in churches and at conferences across the United States, dressed in Indian garb.",
+                "bibliography": [
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Later editions of her books, which were published by Moody Press, included a disclaimer that said names, dates, and places had been changed.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "In 1979, Moody Press took the books out of print due to concerns that the books were not presented as fiction.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Stafford said the problem arose due to 'an unfortunate misunderstanding' between herself and Moody Press, connected to changes in staff and policies at Moody.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "She maintained that Crying Wind 'is still based on my life', and that her mother was indeed raised on a Kickapoo reservation.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Her next publisher, Harvest House, stated that it is honest to call Crying Wind a 'biographical novel.'",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Her book Crying Wind sold over 80,000 copies, and has been translated into over a dozen foreign languages.",
+                "bibliography": [
+                    "[2]",
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "Indian Life has published two of her other books, When the Stars Danced and Thunder in Our Hearts Lightning in Our Veins under their imprint, Sequoyah Editions.",
+                "bibliography": [
+                    "[4]",
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Linda Davison Stafford",
+            "start_char": 0,
+            "end_char": 22,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Moody Press": {
+        "Moody Press": [
+            {
+                "claim": "Later editions of her books, which were published by Moody Press, included a disclaimer that said names, dates, and places had been changed.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "In 1979, Moody Press took the books out of print due to concerns that the books were not presented as fiction.",
+                "bibliography": [
+                    "[2]"
+                ]
+            },
+            {
+                "claim": "Stafford said the problem arose due to 'an unfortunate misunderstanding' between herself and Moody Press, connected to changes in staff and policies at Moody.",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Moody Press",
+            "start_char": 771,
+            "end_char": 782,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Harvest House": {
+        "Harvest House": [
+            {
+                "claim": "Her next publisher, Harvest House, stated that it is honest to call Crying Wind a 'biographical novel.'",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Harvest House",
+            "start_char": 1287,
+            "end_char": 1300,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

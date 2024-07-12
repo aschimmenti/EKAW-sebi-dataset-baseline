@@ -1,0 +1,251 @@
+{
+    "Milan Šufflay": {
+        "Milan Šufflay": [
+            {
+                "claim": "In 1915 and then also in 1925, Milan Šufflay mentioned the document in some of his works, first declaring it an outright forgery, and later saying it was a 14th-century 'addendum' to the manuscript of Thomas the Archdeacon.",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Milan Šufflay",
+            "start_char": 1362,
+            "end_char": 1375,
+            "label": "Milan Šufflay",
+            "description": "Croatian historian, albanologist, and politician (1879-1931)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Milan Šufflay",
+            "wikidata_id": "Q1280614",
+            "also_known_as": [
+                "Milan Sufflay"
+            ],
+            "occupation": "historian, albanologist, politician, university teacher, translator, science fiction writer, writer",
+            "country of citizenship": "Austria-Hungary, Kingdom of Yugoslavia",
+            "date of birth": "+1879-11-09T00:00:00Z",
+            "date of death": "+1931-02-18T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "János Karácsonyi": {
+        "János Karácsonyi": [
+            {
+                "claim": "Hungarian historian János Karácsonyi thought it was a 14th-century forgery, Slovene historian Ljudmil Hauptmann dated the document to the 13th century, Croatian historians Miho Barada and Marko Kostrenčić thought it was made in 1102, while later Croatian historian Nada Klaić thought it was a forgery probably made in the 14th century.",
+                "bibliography": [
+                    "[14]"
+                ]
+            },
+            {
+                "claim": "The dispute and uncertainty over the Pacta conventa matches the overall uncertainty and dispute over the relationship between the Croatian and Hungarian kingdoms in the 10th and 11th century, with Croatian historian Ferdo Šišić and his followers assuming Tomislav of Croatia had ruled most of the area inhabited by Croats, including Slavonia, while the Hungarian historians Gyula Kristó, Bálint Hóman and János Karácsonyi thought the area between Drava and Sava belonged neither to Croatia nor to Hungary at the time, an opinion that Nada Klaić said she would not preclude, because the generic name 'Slavonia' (lit. the land of the Slavs) may have implied so.",
+                "bibliography": [
+                    "[16]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "János Karácsonyi",
+            "start_char": 2582,
+            "end_char": 2598,
+            "label": "János Karácsonyi",
+            "description": "Hungarian historian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "János Karácsonyi",
+            "wikidata_id": "Q1105077",
+            "also_known_as": [
+                "Janos Karacsonyi"
+            ],
+            "occupation": "historian, Catholic priest",
+            "country of citizenship": "Hungary",
+            "date of birth": "+1858-12-15T00:00:00Z",
+            "date of death": "+1929-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Ljudmil Hauptmann": {
+        "Ljudmil Hauptmann": [
+            {
+                "claim": "Slovene historian Ljudmil Hauptmann dated the document to the 13th century.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Ljudmil Hauptmann",
+            "start_char": 1653,
+            "end_char": 1670,
+            "label": "Ljudmil Hauptmann",
+            "description": "Slovene historian and academic (1884-1968)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Ljudmil Hauptmann",
+            "wikidata_id": "Q12795030",
+            "also_known_as": [
+                "Ludmil Hauptmann"
+            ],
+            "occupation": "historian",
+            "country of citizenship": "Socialist Federal Republic of Yugoslavia, Kingdom of Yugoslavia, Kingdom of Serbs, Croats and Slovenes, Cisleithania",
+            "date of birth": "+1884-02-05T00:00:00Z",
+            "date of death": "+1968-04-19T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Miho Barada": {
+        "Miho Barada": [
+            {
+                "claim": "Croatian historians Miho Barada and Marko Kostrenčić thought it was made in 1102, while later Croatian historian Nada Klaić thought it was a forgery probably made in the 14th century.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Miho Barada",
+            "start_char": 1731,
+            "end_char": 1742,
+            "label": "Miho Barada",
+            "description": "Croatian historian of the Catholic church",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Miho Barada",
+            "wikidata_id": "Q16114446",
+            "occupation": "historian",
+            "country of citizenship": "Yugoslavia",
+            "date of birth": "+1889-00-00T00:00:00Z",
+            "date of death": "+1957-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Marko Kostrenčić": {
+        "Marko Kostrenčić": [
+            {
+                "claim": "Croatian historians Miho Barada and Marko Kostrenčić thought it was made in 1102, while later Croatian historian Nada Klaić thought it was a forgery probably made in the 14th century.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Marko Kostrenčić",
+            "start_char": 1747,
+            "end_char": 1763,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Nada Klaić": {
+        "Nada Klaić": [
+            {
+                "claim": "later Croatian historian Nada Klaić thought it was a forgery probably made in the 14th century.",
+                "bibliography": []
+            },
+            {
+                "claim": "Nada Klaić elaborated her 'lack of opinion' over the matter of 1102 in a 1959 article disputing the Croatian writer Oleg Mandić's earlier work on the matter.",
+                "bibliography": [
+                    "[15]"
+                ]
+            },
+            {
+                "claim": "an opinion that Nada Klaić said she would not preclude, because the generic name 'Slavonia' (lit. the land of the Slavs) may have implied so.",
+                "bibliography": [
+                    "[16]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Nada Klaić",
+            "start_char": 1824,
+            "end_char": 1834,
+            "label": "Nada Klaić",
+            "description": "Croatian historian, linguist, translator",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Nada Klaić",
+            "wikidata_id": "Q1276244",
+            "occupation": "linguist, historian, translator, university teacher",
+            "country of citizenship": "Croatia",
+            "date of birth": "+1920-07-21T00:00:00Z",
+            "date of death": "+1988-08-02T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Stjepan Antoljak": {
+        "Stjepan Antoljak": [
+            {
+                "claim": "Croatian historian Stjepan Antoljak in turn said the Pacta was an incomplete historical source, but not a forgery.",
+                "bibliography": [
+                    "[14]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Stjepan Antoljak",
+            "start_char": 1914,
+            "end_char": 1930,
+            "label": "Stjepan Antoljak",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Stjepan Antoljak",
+            "wikidata_id": "Q12295365",
+            "occupation": "medievalist",
+            "country of citizenship": "Yugoslavia",
+            "date of birth": "+1909-08-29T00:00:00Z",
+            "date of death": "+1997-09-02T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Ferdo Šišić": {
+        "Ferdo Šišić": [
+            {
+                "claim": "The dispute and uncertainty over the Pacta conventa matches the overall uncertainty and dispute over the relationship between the Croatian and Hungarian kingdoms in the 10th and 11th century, with Croatian historian Ferdo Šišić and his followers assuming Tomislav of Croatia had ruled most of the area inhabited by Croats, including Slavonia, while the Hungarian historians Gyula Kristó, Bálint Hóman and János Karácsonyi thought the area between Drava and Sava belonged neither to Croatia nor to Hungary at the time, an opinion that Nada Klaić said she would not preclude, because the generic name 'Slavonia' (lit. the land of the Slavs) may have implied so.",
+                "bibliography": [
+                    "[16]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Ferdo Šišić",
+            "start_char": 2393,
+            "end_char": 2404,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gyula Kristó": {
+        "Gyula Kristó": [
+            {
+                "claim": "The dispute and uncertainty over the Pacta conventa matches the overall uncertainty and dispute over the relationship between the Croatian and Hungarian kingdoms in the 10th and 11th century, with Croatian historian Ferdo Šišić and his followers assuming Tomislav of Croatia had ruled most of the area inhabited by Croats, including Slavonia, while the Hungarian historians Gyula Kristó, Bálint Hóman and János Karácsonyi thought the area between Drava and Sava belonged neither to Croatia nor to Hungary at the time, an opinion that Nada Klaić said she would not preclude, because the generic name 'Slavonia' (lit. the land of the Slavs) may have implied so.",
+                "bibliography": [
+                    "[16]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Gyula Kristó",
+            "start_char": 2551,
+            "end_char": 2563,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Bálint Hóman": {
+        "Bálint Hóman": [
+            {
+                "claim": "Hungarian historians Gyula Kristó, Bálint Hóman and János Karácsonyi thought the area between Drava and Sava belonged neither to Croatia nor to Hungary at the time, an opinion that Nada Klaić said she would not preclude, because the generic name 'Slavonia' (lit. the land of the Slavs) may have implied so.",
+                "bibliography": [
+                    "[16]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Bálint Hóman",
+            "start_char": 2565,
+            "end_char": 2577,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

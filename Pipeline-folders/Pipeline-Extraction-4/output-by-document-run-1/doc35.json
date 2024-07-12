@@ -1,0 +1,152 @@
+{
+    "Leonard Lewin": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [],
+        "entity_info": {
+            "text": "Leonard Lewin",
+            "start_char": 843,
+            "end_char": 856,
+            "label": "Leonard C. Lewin",
+            "description": "American writer (1916-1999)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Leonard Lewin",
+            "wikidata_id": "Q1818947",
+            "also_known_as": [
+                "Leonard Lewin",
+                "Leonard Case Lewin",
+                "L.L. Case"
+            ],
+            "occupation": "writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1916-10-02T00:00:00Z",
+            "date of death": "+1999-01-28T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Lewin"
+        }
+    },
+    "Victor Navasky": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "presence": true
+            },
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": [
+            "hoax"
+        ],
+        "opinion_document_author": [
+            "Leonard Lewin",
+            "Victor Navasky",
+            "John Kenneth Galbraith",
+            "Marvin Kitman",
+            "Richard Lingeman"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Victor Navasky",
+            "start_char": 1532,
+            "end_char": 1546,
+            "label": "Victor Navasky",
+            "description": "American journalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Victor Navasky",
+            "wikidata_id": "Q2522488",
+            "also_known_as": [
+                "Victor S. Navasky",
+                "Victor Saul Navasky"
+            ],
+            "occupation": "journalist, writer, publisher, university teacher",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1932-07-05T00:00:00Z",
+            "date of death": "+2023-01-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Kenneth Galbraith": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Leonard Lewin"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "John Kenneth Galbraith",
+            "start_char": 1679,
+            "end_char": 1701,
+            "label": "John Kenneth Galbraith",
+            "description": "Canadian-American economist and diplomat (1908–2006)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Kenneth Galbraith",
+            "wikidata_id": "Q186042",
+            "also_known_as": [
+                "John K. Galbraith"
+            ],
+            "occupation": "economist, diplomat, politician, university teacher, non-fiction writer, writer, ambassador",
+            "country of citizenship": "Canada, United States of America",
+            "date of birth": "+1908-10-15T00:00:00Z",
+            "date of death": "+2006-04-29T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Galbraith"
+        }
+    },
+    "Herschel McLandress": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": true
+            },
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Herschel McLandress",
+            "start_char": 1976,
+            "end_char": 1995,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

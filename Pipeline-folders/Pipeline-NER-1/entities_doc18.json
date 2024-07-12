@@ -1,0 +1,146 @@
+{
+    "doc18": {
+        "entities": [
+            {
+                "text": "Cesare G. De Michelis",
+                "start_char": 1662,
+                "end_char": 1683,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Daniel Pipes",
+                "start_char": 3061,
+                "end_char": 3073,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Umberto Eco",
+                "start_char": 72,
+                "end_char": 83,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "The Times",
+                "start_char": 632,
+                "end_char": 641,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Lucien Wolf",
+                "start_char": 837,
+                "end_char": 848,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Philip Graves",
+                "start_char": 1023,
+                "end_char": 1036,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Peter Grose",
+                "start_char": 1124,
+                "end_char": 1135,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Allen Dulles",
+                "start_char": 1137,
+                "end_char": 1149,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Colin Holmes",
+                "start_char": 1490,
+                "end_char": 1502,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Herman Bernstein",
+                "start_char": 2178,
+                "end_char": 2194,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Vladimir Burtsev",
+                "start_char": 2499,
+                "end_char": 2515,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "The presiding judge",
+                "start_char": 485,
+                "end_char": 504,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Michael Hagemeister",
+                "start_char": 1376,
+                "end_char": 1395,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Charles Ruud and Sergei Stepanov",
+                "start_char": 1618,
+                "end_char": 1650,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Hitler",
+                "start_char": 1774,
+                "end_char": 1780,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Nora Levin",
+                "start_char": 2327,
+                "end_char": 2337,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Giovanni Preziosi",
+                "start_char": 2922,
+                "end_char": 2939,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Julius Evola",
+                "start_char": 3255,
+                "end_char": 3267,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Sheikh Ekrima Sa'id Sabri, and the education ministry of Saudi",
+                "start_char": 4426,
+                "end_char": 4488,
+                "label": "COMMENTATOR",
+                "description": null
+            },
+            {
+                "text": "Ali Gomaa",
+                "start_char": 4917,
+                "end_char": 4926,
+                "label": "COMMENTATOR",
+                "description": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,394 @@
+{
+    "Witten": {
+        "Witten": [
+            {
+                "claim": "Many academic reviewers of The Vinland Map and the Tartar Relation took the opportunity to point out evidence that called the map's authenticity into question.",
+                "bibliography": []
+            },
+            {
+                "claim": "So a year later, a Vinland Map Conference was held at the Smithsonian Institution, during which further significant questions were asked, particularly of Witten.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "Witten had pointed out that it bore strong resemblances to a map made in the 1430s by Italian mariner Andrea Bianco, but others found some of the similarities and differences very strange—the map cuts off Africa where Bianco's map has a page fold, but distorts shapes, and includes major revisions in the far east and west.",
+                "bibliography": []
+            },
+            {
+                "claim": "Handwriting experts at the 1966 Conference tended to disagree with Witten's assessment that the map captions had been written by the same person as the Speculum and Relation texts.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "The expanded 30th anniversary edition of the 1965 official book, The Vinland Map and the Tartar Relation, was notable for its exclusion of most of the evidence against the map's authenticity, concentrating instead on vindications by George Painter, and Thomas Cahill with colleague Bruce Kusko (in which they claimed specifically that they had not analyzed the loose particles they took from the map at the time of their PIXE research), but it did reprint an essay written in 1989 by the original book dealer Laurence Witten.",
+                "bibliography": [
+                    "[22]"
+                ]
+            },
+            {
+                "claim": "He stated that, when the McCrone investigation concluded the map to be a forgery in 1974, he was asked by Yale to reveal its provenance as a matter of urgency, and to discuss the possible return of Mr Mellon's money.",
+                "bibliography": [
+                    "[22]"
+                ]
+            },
+            {
+                "claim": "He replied that he had no idea where the map came from, beyond Ferrajoli (who was convicted of theft shortly after the sale, and died shortly after release from prison).",
+                "bibliography": [
+                    "[22]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Witten",
+            "start_char": 1412,
+            "end_char": 1418,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Skelton": {
+        "Skelton": [
+            {
+                "claim": "Skelton wondered also whether the revisions in the far east were meant to represent Japan—they seem to show not only Honshu, but also Hokkaido and Sakhalin, omitted even from Oriental maps in the 15th century.",
+                "bibliography": []
+            },
+            {
+                "claim": "Skelton's scientific colleagues at the British Museum made a short preliminary examination in 1967 and found that: despite its appearance to the naked eye, the ink was certainly not conventional iron-gall ink like its two companion manuscripts, and indeed was unlike any recipe they had ever seen (they spent several months after the initial testing trying to find similar inks as far afield as Iceland); the map outline appeared to consist of two superimposed lines, one black (but mostly vanished) which looked like graphite or soot, and one yellowish; the whole of the map parchment (again, unlike its companions) had been coated or soaked in an unknown substance—they were not allowed to take a large enough sample to analyze it; they could not be certain that the two halves of the map, held together by a binding strip glued on the back, had ever been a single sheet—unlike any other known medieval double-page map; looking at the map, it is clear that the artist knew exactly, to the nearest millimeter, where it was going to be folded, because several place-names start or finish right next to it while none are written straight across it, and the rivers of eastern Europe run parallel to it; the rebinding of the Speculum volume without the map and Relation had used plastic thread, only available since about 1950.",
+                "bibliography": [
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Skelton",
+            "start_char": 2463,
+            "end_char": 2470,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Luka Jelić": {
+        "Luka Jelić": [
+            {
+                "claim": "Another point calling the map's authenticity into question was raised at the 1966 Conference: that one caption referred to Bishop Eirik of Greenland 'and neighboring regions' (in Latin, 'regionumque finitimarum'), a title known previously from the work of religious scholar Luka Jelić (1864–1922).",
+                "bibliography": []
+            },
+            {
+                "claim": "It seemed that either Jelić had seen the Vinland Map and promised not to reveal its existence (keeping the promise so rigidly that he never mentioned any of the other new historical information on the map), or that he had invented the phrase as a scholarly description, and the Vinland Map creator copied him.",
+                "bibliography": []
+            },
+            {
+                "claim": "In practice, because Jelić's work had gone through three editions, Foote was able to demonstrate how the first edition (in French) had adopted the concept from the work of earlier researchers, listed by Jelić, then the later editions had adapted the anachronistic French scholarly phrase 'évèque régionnaire des contrées américaines' into Latin.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Luka Jelić",
+            "start_char": 3554,
+            "end_char": 3564,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Peter Foote": {
+        "Peter Foote": [
+            {
+                "claim": "An essay by British researcher Peter Foote for the Saga Book of the Viking Society (vol. 11, part 1), published shortly after the conference, noted that German researcher Richard Hennig [de] (1874-1951) had spent years, before the Vinland Map was revealed, fruitlessly trying to track Jelić's phrase down in medieval texts.",
+                "bibliography": []
+            },
+            {
+                "claim": "In practice, because Jelić's work had gone through three editions, Foote was able to demonstrate how the first edition (in French) had adopted the concept from the work of earlier researchers, listed by Jelić, then the later editions had adapted the anachronistic French scholarly phrase 'évèque régionnaire des contrées américaines' into Latin.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Peter Foote",
+            "start_char": 3614,
+            "end_char": 3625,
+            "label": "Peter Foote",
+            "description": "Scandinavian Studies professor (1924-2009)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Peter Foote",
+            "wikidata_id": "Q7174032",
+            "also_known_as": [
+                "Peter Godfrey Foote"
+            ],
+            "occupation": "Scandinavian studies scholar",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1924-05-26T00:00:00Z",
+            "date of death": "+2009-09-29T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Richard Hennig": {
+        "Richard Hennig": [
+            {
+                "claim": "An essay by British researcher Peter Foote for the Saga Book of the Viking Society (vol. 11, part 1), published shortly after the conference, noted that German researcher Richard Hennig (1874-1951) had spent years, before the Vinland Map was revealed, fruitlessly trying to track Jelić's phrase down in medieval texts.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Richard Hennig",
+            "start_char": 3754,
+            "end_char": 3768,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Jacqueline Olin": {
+        "Jacqueline Olin": [
+            {
+                "claim": "The first was chemist Jacqueline Olin, then a researcher with the Smithsonian Institution, who in the 1970s conducted experiments which produced anatase at an early stage of a medieval iron-gall ink production process.",
+                "bibliography": [
+                    "[8]",
+                    "[17]",
+                    "[18]"
+                ]
+            },
+            {
+                "claim": "Examination of her anatase by a colleague, mineralogist Kenneth Towe, showed that it was very different from the neat, rounded crystals found in the Vinland Map and modern pigments.",
+                "bibliography": [
+                    "[8]",
+                    "[17]",
+                    "[18]"
+                ]
+            },
+            {
+                "claim": "Radiocarbon dating, begun in 1995 by physicist Douglass Donahue and chemists Jacqueline Olin and Garman Harbottle, placed the origin of the parchment somewhere between 1423 and 1445.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Jacqueline Olin",
+            "start_char": 10395,
+            "end_char": 10410,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kenneth Towe": {
+        "Kenneth Towe": [
+            {
+                "claim": "Another point calling the map's authenticity into question was raised at the 1966 Conference: that one caption referred to Bishop Eirik of Greenland 'and neighboring regions' (in Latin, 'regionumque finitimarum'), a title known previously from the work of religious scholar Luka Jelić [hr] (1864–1922).",
+                "bibliography": []
+            },
+            {
+                "claim": "The first was chemist Jacqueline Olin, then a researcher with the Smithsonian Institution, who in the 1970s conducted experiments which produced anatase at an early stage of a medieval iron-gall ink production process. Examination of her anatase by a colleague, mineralogist Kenneth Towe, showed that it was very different from the neat, rounded crystals found in the Vinland Map and modern pigments.",
+                "bibliography": [
+                    "[8]",
+                    "[17]",
+                    "[18]"
+                ]
+            },
+            {
+                "claim": "Shortly before the Raman analysis was published, historian Douglas McNaughton based a mistaken theory about the ink around McCrone's emphasis on the chromium-rich black particle, having obtained unpublished data on the similar particles in Möller's report.",
+                "bibliography": []
+            },
+            {
+                "claim": "Towe himself, a clay specialist, briefly considered the possibility that the anatase could have come from clay, where it is present in trace amounts, but on checking McCrone's data found no significant traces of clay minerals.",
+                "bibliography": []
+            },
+            {
+                "claim": "In 2008, Harbottle's attempt to explain a possible medieval origin for the ink was published, but he was shown by Towe and others to have misunderstood the significance of the various analyses, rendering his theory meaningless.",
+                "bibliography": [
+                    "[13]",
+                    "[16]"
+                ]
+            },
+            {
+                "claim": "Similarly, he claimed that the anatase in the ink could have come from sand used to dry it (the hypothetical source of the sand being gneiss from the Binnenthal area of Switzerland) but his team had not examined the crystals microscopically, and Kenneth Towe responded that this was an essential test, given that crystal size and shape should clearly distinguish commercial anatase from anatase found in sand.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Kenneth Towe",
+            "start_char": 10648,
+            "end_char": 10660,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Kirsten A. Seaver": {
+        "Kirsten A. Seaver": [
+            {
+                "claim": "In 2004, Kirsten A. Seaver published Maps, Myths, and Men: The Story of the Vinland Map, a wide-ranging review of the arguments and evidence presented to that date.",
+                "bibliography": []
+            },
+            {
+                "claim": "Seaver was hailed as the Vinland map's 'most thorough and outspoken critic in recent years' for her 'exemplary interdisciplinary study'.",
+                "bibliography": [
+                    "[24]",
+                    "[25]",
+                    "[26]"
+                ]
+            },
+            {
+                "claim": "She also theorized that the forger could have been Father Josef Fischer (1858-1944), an Austrian cartographer and Jesuit scholar.",
+                "bibliography": []
+            },
+            {
+                "claim": "A few months earlier, Kirsten Seaver had suggested that a forger could have found two separate blank leaves in the original 'Speculum Historiale' volume, from which the first few dozen pages appeared to be missing, and joined them together with the binding strip.",
+                "bibliography": [
+                    "[1]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Kirsten A. Seaver",
+            "start_char": 13994,
+            "end_char": 14011,
+            "label": "Kirsten A. Seaver",
+            "description": "Norwegian historian and author",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kirsten A. Seaver",
+            "wikidata_id": "Q11980767",
+            "also_known_as": [
+                "Kirsten Seaver"
+            ],
+            "occupation": "translator, non-fiction writer, historian, writer",
+            "country of citizenship": "Norway",
+            "date of birth": "+1934-08-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Paul Floyd": {
+        "John Paul Floyd": [
+            {
+                "claim": "In June 2013, it was reported in the British press that a Scottish researcher, John Paul Floyd, claimed to have discovered two pre-1957 references to the Yale Speculum and Tartar Relation manuscripts which shed light on the provenance of the documents.",
+                "bibliography": [
+                    "[27]",
+                    "[34]"
+                ]
+            },
+            {
+                "claim": "Floyd noted that Spanish priest and scholar Cristóbal Pérez Pastor also reported having seen such a codex, in historical notes organised and published posthumously in 1926.",
+                "bibliography": []
+            },
+            {
+                "claim": "Separately, Floyd also observed that the creator of the Vinland Map had evidently made use of an 18th-century engraving of the 1436 Bianco map by Vincenzio Formaleoni (1752–97), since the Vinland Map reproduces several of Formaleoni's copying errors.",
+                "bibliography": [
+                    "[27]",
+                    "[38]"
+                ]
+            },
+            {
+                "claim": "He argued that this furnished a new and decisive proof that the map is inauthentic.",
+                "bibliography": []
+            },
+            {
+                "claim": "Floyd's book appeared in 2018 under the title, A Sorry Saga: Theft, Forgery, Scholarship... and the Vinland Map.",
+                "bibliography": [
+                    "[39]"
+                ]
+            },
+            {
+                "claim": "\"In the case of the Vinland map we were able to prove... [the map] was clearly a 20th century fake.\"",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "John Paul Floyd",
+            "start_char": 17242,
+            "end_char": 17257,
+            "label": "John Paul Floyd",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "John Paul Floyd",
+            "wikidata_id": "Q125914978",
+            "occupation": "essayist",
+            "country of citizenship": "United Kingdom",
+            "instance_of": "human",
+            "text_2": "Floyd"
+        }
+    },
+    "Paul Freedman": {
+        "Paul Freedman": [
+            {
+                "claim": "In 2011, Yale's Chester D. Tripp Professor of History, Paul Freedman, did express his view that the map was 'unfortunately a fake'.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Paul Freedman",
+            "start_char": 19191,
+            "end_char": 19204,
+            "label": "Paul Freedman",
+            "description": "American academic.",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Paul Freedman",
+            "wikidata_id": "Q16241764",
+            "also_known_as": [
+                "Paul H. Freedman",
+                "Paul Harris Freedman"
+            ],
+            "occupation": "university teacher, historian, medievalist",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1949-09-15T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Richard Hark": {
+        "Richard Hark": [
+            {
+                "claim": "At the 2018 Vinland Map Symposium, Yale conservation scientist Richard Hark revealed the results of new global chemical analyses of the Map and the Tartar Relation, which established, among many other things, that the ink lines of the Map contain varying amounts of anatase 'consistent with modern manufacture'.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Richard Hark",
+            "start_char": 19336,
+            "end_char": 19348,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Richard Hark"
+        }
+    },
+    "Raymond Clemens": {
+        "Raymond Clemens": [
+            {
+                "claim": "Raymond Clemens, Curator of Early Books and Manuscripts at Yale's Beinecke Rare Book & Manuscript Library, considers that the latest historical and scientific research proves 'beyond a doubt' that the Vinland map 'was a forgery, not a medieval product as it claimed to be.'",
+                "bibliography": []
+            },
+            {
+                "claim": "In a March 2019 article, Clemens highlights the fact that 'historical investigations by John Paul Floyd have revealed that the Vinland Map is actually based not on Bianco’s 1436 map, but on a printed facsimile map made in 1782. Floyd discovered this by noting mistakes in the 1782 map that were replicated on the Vinland map, but could be found nowhere else.'",
+                "bibliography": []
+            },
+            {
+                "claim": "Furthermore, the map has been studied at the Beinecke Library using new technology. 'In the case of the Vinland map we were able to prove... [the map] was clearly a 20th century fake.'",
+                "bibliography": []
+            },
+            {
+                "claim": "Despite the reveal of the map's forged origins, Clemens stated that the map would remain at the Beinecke Library, as it had 'become an historical object in and of itself.'",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Raymond Clemens",
+            "start_char": 19735,
+            "end_char": 19750,
+            "label": "Raymond Clemens",
+            "description": "professor",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Raymond Clemens",
+            "wikidata_id": "Q112425727",
+            "occupation": "professor",
+            "date of birth": "+1966-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "William Dudley Pelley": {
+        "William Dudley Pelley": [
+            {
+                "claim": "The speech was purportedly transcribed by Charles Cotesworth Pinckney during the Constitutional Convention of 1787, but was unknown before its appearance in 1934 in the pages of William Dudley Pelley's Silver Legion pro-Nazi magazine Liberation.",
+                "bibliography": []
+            },
+            {
+                "claim": "No evidence exists for the document's authenticity, and some of Pelley's claims have actively been disproven.",
+                "bibliography": []
+            },
+            {
+                "claim": "According to Pelley, Pinckney wrote that he had kept a journal of the convention. This journal has never been found, and no evidence exists for Pelley's claim that it was printed privately.",
+                "bibliography": []
+            },
+            {
+                "claim": "The Franklin Institute has rejected Pelley's claims that it owns a manuscript copy of the speech.",
+                "bibliography": [
+                    "[3]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "William Dudley Pelley",
+            "start_char": 386,
+            "end_char": 407,
+            "label": "William Dudley Pelley",
+            "description": "American political activist, screenwriter, and convicted fraudster (1890-1965)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Dudley Pelley",
+            "wikidata_id": "Q1501730",
+            "occupation": "screenwriter, politician, journalist, peace activist, writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1890-03-12T00:00:00Z",
+            "date of death": "+1965-06-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "U.S. Congress": {
+        "U.S. Congress": [
+            {
+                "claim": "The U.S. Congress report Anti-Semitism in Europe: Hearing Before the Subcommittee on European Affairs of the Committee on Foreign Relations (2004) states: The Franklin 'Prophecy' is a classic anti-Semitic canard that falsely claims that American statesman Benjamin Franklin made anti-Jewish statements during the Constitutional Convention of 1787.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "It has found widening acceptance in Muslim and Arab media, where it has been used to criticize Israel and Jews...",
+                "bibliography": [
+                    "[4]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "U.S. Congress",
+            "start_char": 873,
+            "end_char": 886,
+            "label": "United States Congress",
+            "description": "bicameral legislature of the United States",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "U.S. Congress",
+            "wikidata_id": "Q11268",
+            "also_known_as": [
+                "US Congress",
+                "U.S. Congress",
+                "American Congress",
+                "Congress of the United States",
+                "Legislature of the United States",
+                "American legislature",
+                "United states legislative branch",
+                "Congress"
+            ],
+            "instance_of": "bicameral legislature"
+        }
+    },
+    "Anti-Defamation League": {
+        "Anti-Defamation League": [
+            {
+                "claim": "The Anti-Defamation League noted that the reference to the civilized world giving Palestine back to the Jews was an anachronism, since the modern Zionist movement did not arise until nearly a century after Franklin's death.",
+                "bibliography": [
+                    "[2]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Anti-Defamation League",
+            "start_char": 1486,
+            "end_char": 1508,
+            "label": "Anti-Defamation League",
+            "description": "international Jewish non-governmental organization",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "Anti-Defamation League",
+            "wikidata_id": "Q158818",
+            "also_known_as": [
+                "ADL",
+                "Anti-Defamation League of B'nai B'rith"
+            ],
+            "instance_of": "non-governmental organization, nonprofit organization"
+        }
+    },
+    "Fatah Central Committee": {
+        "Fatah Central Committee": [
+            {
+                "claim": "On February 18, 1998, a member of the Fatah Central Committee revived this myth, while mistakenly referring to Franklin as a former President of the United States.",
+                "bibliography": [
+                    "[8]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Fatah Central Committee",
+            "start_char": 2513,
+            "end_char": 2536,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Osama bin Laden": {
+        "Osama bin Laden": [
+            {
+                "claim": "Osama bin Laden used this canard briefly in his October 2002 'Letter to the American People.'",
+                "bibliography": [
+                    "[9]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Osama bin Laden",
+            "start_char": 2642,
+            "end_char": 2657,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

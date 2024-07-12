@@ -1,0 +1,242 @@
+{
+    "Georg Zappert": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Georg Zappert",
+            "start_char": 102,
+            "end_char": 115,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Johann Kelle": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Johann Kelle",
+            "start_char": 555,
+            "end_char": 567,
+            "label": "Johann von Kellerer",
+            "description": "German philologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Johann Kelle",
+            "wikidata_id": "Q6216334",
+            "also_known_as": [
+                "Johann Nepomuk Kelle"
+            ],
+            "occupation": "botanist",
+            "country of citizenship": "Germany",
+            "date of birth": "+1828-03-15T00:00:00Z",
+            "date of death": "+1909-01-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Jacob Grimm": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Jacob Grimm",
+            "start_char": 760,
+            "end_char": 771,
+            "label": "Jacob Grimm",
+            "description": "German philologist, linguist, jurist and mythologist (1785-1863)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Jacob Grimm",
+            "wikidata_id": "Q6701",
+            "also_known_as": [
+                "Jacob Ludwig Karl Grimm",
+                "Giacomo Grimm",
+                "Jakob Ludwig Karl Grimm",
+                "Jacob, Freiherr von Grimm",
+                "Jacob Ludwig Carl Grimm",
+                "Jacob Ludwig Grimm"
+            ],
+            "occupation": "jurist, lexicographer, anthropologist, linguist, philologist, mythologist, librarian, translator, law librarian, children's writer, university teacher, literary scholar, legal historian, secretary of legation, poet lawyer, mythographer, writer, politician, collector of fairy tales, historian",
+            "country of citizenship": "Electorate of Hesse, Kingdom of Prussia",
+            "date of birth": "+1785-01-04T00:00:00Z",
+            "date of death": "+1863-09-20T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "J. Grimm"
+        }
+    },
+    "Grohmann": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Grohmann",
+            "start_char": 1141,
+            "end_char": 1149,
+            "label": "Josef Virgil Grohmann",
+            "description": "Czech member of Czech council, educator and writer (1831-1919)",
+            "wikidata_id": "Q14923863",
+            "occupation": "pedagogue, writer, politician",
+            "date of birth": "+1831-12-12T00:00:00Z",
+            "date of death": "+1919-10-12T00:00:00Z",
+            "instance_of": "human",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Grohmann"
+        }
+    },
+    "Kletke": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Kletke",
+            "start_char": 1326,
+            "end_char": 1332,
+            "label": "Cäsar Albano Kletke",
+            "description": "German educationist",
+            "wikidata_id": "Q1149994",
+            "occupation": "pedagogue, high school teacher",
+            "date of birth": "+1805-11-28T00:00:00Z",
+            "date of death": "+1893-04-05T00:00:00Z",
+            "instance_of": "human",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kletke"
+        }
+    },
+    "Fichtenau": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Georg Zappert"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Fichtenau",
+            "start_char": 1601,
+            "end_char": 1610,
+            "label": "Heinrich Fichtenau",
+            "description": "German educationist",
+            "wikidata_id": "Q86883",
+            "also_known_as": [
+                "Heinrich Ritter von Fichtenau",
+                "Heinrich von Fichtenau"
+            ],
+            "occupation": "medievalist, historian, university teacher",
+            "date of birth": "+1912-12-10T00:00:00Z",
+            "date of death": "+2000-06-12T00:00:00Z",
+            "instance_of": "human",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Fichtenau"
+        }
+    },
+    "Howard": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "orthography",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Howard",
+            "start_char": 2108,
+            "end_char": 2114,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "F. Mairinger": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "ink",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Scientific analysis"
+        ],
+        "entity_info": {
+            "text": "F. Mairinger",
+            "start_char": 2872,
+            "end_char": 2884,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "F. Mairinger"
+        }
+    }
+}

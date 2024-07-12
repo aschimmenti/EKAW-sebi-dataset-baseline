@@ -1,0 +1,301 @@
+{
+    "Bertram": {
+        "Bertram": [
+            {
+                "claim": "It purported to be a 15th-century manuscript by the English monk Richard of Westminster, including information from a lost contemporary account of Britain by a Roman general (dux), new details of the Roman roads in Britain in the style of the Antonine Itinerary, and 'an antient map' as detailed as (but improved upon) the works of Ptolemy.",
+                "bibliography": []
+            },
+            {
+                "claim": "Bertram disclosed the existence of the work through his correspondence with the antiquarian William Stukeley by 1748, provided him 'a copy' which was made available in London by 1749, and published it in Latin in 1757.",
+                "bibliography": []
+            },
+            {
+                "claim": "Bertram described his text's author as 'Richard, monk of Westminster' (Latin: Ricardus monachus Westmonasteriensis).",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "Stukeley preferred instead to identify Bertram's 'Richard of Westminster' with Richard of Cirencester (Ricardus de Cirencestria), who had lived at Westminster in the late 14th century and was known to have journeyed to Rome and to have compiled another history known as the Historial Mirror.",
+                "bibliography": [
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "Bertram fully adopted the suggestion and published his account under the name Ricardus Corinensis, from the archaic Latin form of Cirencester's name.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "Bertram claimed to have borrowed the text from a friend who admitted he had come by it as an act of theft from an English library.",
+                "bibliography": []
+            },
+            {
+                "claim": "Its complete absence from other manuscript lists and the lack of any trace of it among Bertram's surviving papers in Copenhagen has generally led to the conclusion that Bertram himself was Pseudo-Richard.",
+                "bibliography": []
+            },
+            {
+                "claim": "Bertram had on several occasions adopted variant readings and hypotheses unknown before Camden.",
+                "bibliography": [
+                    "[24]"
+                ]
+            },
+            {
+                "claim": "In his 1869 preface to the second volume of the work, he included a thorough 90-page condemnation of Bertram's manuscript.",
+                "bibliography": [
+                    "[26]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Bertram",
+            "start_char": 147,
+            "end_char": 162,
+            "label": "Charles Bertram",
+            "description": null,
+            "wikidata_id": "Q5075584",
+            "occupation": "writer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Bertram",
+            "also_known_as": [
+                "Charles Julius Bertram"
+            ]
+        }
+    },
+    "William Stukeley": {
+        "William Stukeley": [
+            {
+                "claim": "Bertram disclosed the existence of the work through his correspondence with the antiquarian William Stukeley by 1748, provided him 'a copy' which was made available in London by 1749, and published it in Latin in 1757.",
+                "bibliography": []
+            },
+            {
+                "claim": "There had been a monk named Richard at Westminster Abbey in the mid-15th century and this was the approximate date offered by Bertram to Stukeley.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "Stukeley preferred instead to identify Bertram's 'Richard of Westminster' with Richard of Cirencester (Ricardus de Cirencestria), who had lived at Westminster in the late 14th century and was known to have journeyed to Rome and to have compiled another history known as the Historial Mirror.",
+                "bibliography": [
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "Blame fell hardest on the reputation of William Stukeley, although it also impugned Gibbon, Roy, and other scholars who had accepted it.",
+                "bibliography": [
+                    "[25]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "William Stukeley",
+            "start_char": 626,
+            "end_char": 642,
+            "label": "William Stukeley",
+            "description": "English antiquarian",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Stukeley",
+            "wikidata_id": "Q1381018",
+            "also_known_as": [
+                "Rev. William Stukeley"
+            ],
+            "occupation": "anthropologist, archaeologist, prehistorian, physician",
+            "country of citizenship": "Kingdom of Great Britain, Kingdom of England",
+            "date of birth": "+1687-11-07T00:00:00Z",
+            "date of death": "+1765-03-03T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "John Hodgson": {
+        "John Hodgson": [
+            {
+                "claim": "The text was treated as a legitimate and major source of information on Roman Britain from the 1750s through the 19th century, when it was progressively debunked by John Hodgson, Karl Wex, B. B. Woodward, and John E. B. Mayor.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "John Hodgson",
+            "start_char": 1010,
+            "end_char": 1022,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Karl Wex": {
+        "Karl Wex": [
+            {
+                "claim": "The text was treated as a legitimate and major source of information on Roman Britain from the 1750s through the 19th century, when it was progressively debunked by John Hodgson, Karl Wex, B. B. Woodward, and John E. B. Mayor.",
+                "bibliography": []
+            },
+            {
+                "claim": "In that year the German writer Friedrich Carl Wex effectively challenged the authority of the Description in the Rheinisches Museum.",
+                "bibliography": []
+            },
+            {
+                "claim": "The final confirmation that the Description was spurious came in 1869, a quarter century after Wex's publication.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Karl Wex",
+            "start_char": 1024,
+            "end_char": 1032,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "B. B. Woodward": {
+        "B. B. Woodward": [
+            {
+                "claim": "The text was treated as a legitimate and major source of information on Roman Britain from the 1750s through the 19th century, when it was progressively debunked by John Hodgson, Karl Wex, B. B. Woodward, and John E. B. Mayor.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "B. B. Woodward",
+            "start_char": 1034,
+            "end_char": 1048,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "J.E.B. Mayor": {
+        "J.E.B. Mayor": [
+            {
+                "claim": "It was progressively debunked by John Hodgson, Karl Wex, B. B. Woodward, and John E. B. Mayor.",
+                "bibliography": []
+            },
+            {
+                "claim": "As part of the Rolls Series, the Historial Mirror written by the real Richard of Cirencester (his only surviving work) was closely examined over the 1860s by J.E.B. Mayor, the librarian of the University of Cambridge.",
+                "bibliography": []
+            },
+            {
+                "claim": "In his 1869 preface to the second volume of the work, he included a thorough 90-page condemnation of Bertram's manuscript.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "J.E.B. Mayor",
+            "start_char": 5848,
+            "end_char": 5860,
+            "label": "John E. B. Mayor",
+            "description": "British classical scholar (1825-1910)",
+            "wikidata_id": "Q55982",
+            "occupation": "classical scholar",
+            "instance_of": "human",
+            "date of birth": "+1825-01-28T00:00:00Z",
+            "date of death": "+1910-12-01T00:00:00Z",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "J.E.B. Mayor"
+        }
+    },
+    "Major-General William Roy": {
+        "Major-General William Roy": [
+            {
+                "claim": "Major-General William Roy's technical ability at surveying was the inspiration for the creation of the Ordnance Survey.",
+                "bibliography": []
+            },
+            {
+                "claim": "He spent much of his research on ancient Scottish history trying to follow the fictional itineraries described in De Situ Britanniae.",
+                "bibliography": [
+                    "[16]"
+                ]
+            },
+            {
+                "claim": "His historical work, Military Antiquities of the Romans in Britain, relies on the forgery and is consequently deficient as a contribution to history, though his maps are still held in the highest regard.",
+                "bibliography": []
+            },
+            {
+                "claim": "This misplacement relied on William Roy's attempt to make the map of the peoples of ancient Scotland fit De Situ Britanniae.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Major-General William Roy",
+            "start_char": 2899,
+            "end_char": 2924,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "William Forbes Skene": {
+        "William Forbes Skene": [
+            {
+                "claim": "William Forbes Skene, in his introduction to Celtic Scotland, written after De Situ Britanniae was debunked, disparaged several once-influential histories that relied on it, including Pinkerton's Enquiry, Chalmers's Caledonia, Roy's Military Antiquities, and Robert Stuart's Caledonia Romana.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "William Forbes Skene",
+            "start_char": 3361,
+            "end_char": 3381,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Barry Cunliffe": {
+        "Barry Cunliffe": [
+            {
+                "claim": "For example, the influential and respected Barry Cunliffe's Iron Age Communities in Britain places the ancient Selgovae people far to the east of their only known location, contradicting their placement by the sole legitimate source, Ptolemy.",
+                "bibliography": [
+                    "[17]",
+                    "[18]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Barry Cunliffe",
+            "start_char": 3846,
+            "end_char": 3860,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Friedrich Carl Wex": {
+        "Friedrich Carl Wex": [
+            {
+                "claim": "In that year the German writer Friedrich Carl Wex effectively challenged the authority of the Description in the Rheinisches Museum.",
+                "bibliography": [
+                    "[20]"
+                ]
+            },
+            {
+                "claim": "He had been working on a new edition of Tacitus's Agricola.",
+                "bibliography": [
+                    "[21]"
+                ]
+            },
+            {
+                "claim": "Consulting the Description, he found that it included impossible transcription errors that had been introduced to editions of Tacitus by Venetian printers in the 15th century.",
+                "bibliography": [
+                    "[20]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Friedrich Carl Wex",
+            "start_char": 4421,
+            "end_char": 4439,
+            "label": "Friedrich Karl Wex",
+            "description": "German classical philologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Friedrich Carl Wex",
+            "wikidata_id": "Q1347567",
+            "occupation": "classical philologist",
+            "country of citizenship": "Germany",
+            "date of birth": "+1801-08-27T00:00:00Z",
+            "date of death": "+1865-08-08T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Wex"
+        }
+    }
+}

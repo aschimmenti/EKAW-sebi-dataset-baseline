@@ -1,0 +1,136 @@
+{
+    "Hans K. Schulze": {
+        "Hans K. Schulze": [
+            {
+                "claim": "Hans K. Schulze and Hans Goetting believe that the document was presented by Otto II at their wedding feast, and then given to Theophanu.",
+                "bibliography": [
+                    "[28]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Hans K. Schulze",
+            "start_char": 2735,
+            "end_char": 2750,
+            "label": "Hans K. Schulze",
+            "description": "German medievalist (1932-2013)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Hans K. Schulze",
+            "wikidata_id": "Q1506950",
+            "occupation": "medievalist, university teacher",
+            "country of citizenship": "Germany",
+            "date of birth": "+1932-10-08T00:00:00Z",
+            "date of death": "+2013-06-10T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Hans Goetting": {
+        "Hans Goetting": [
+            {
+                "claim": "Hans K. Schulze and Hans Goetting believe that the document was presented by Otto II at their wedding feast, and then given to Theophanu.",
+                "bibliography": [
+                    "[28]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Hans Goetting",
+            "start_char": 2755,
+            "end_char": 2768,
+            "label": "Hans Goetting",
+            "description": "German medievalist and archivist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Hans Goetting",
+            "wikidata_id": "Q1123765",
+            "occupation": "medievalist, archivist, university teacher",
+            "country of citizenship": "Germany",
+            "date of birth": "+1911-01-21T00:00:00Z",
+            "date of death": "+1994-12-27T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Walter Deeters": {
+        "Walter Deeters": [
+            {
+                "claim": "Walter Deeters (1972) says that the separations in the text act as reading aids, showing that the document was intended to be read.",
+                "bibliography": [
+                    "[29]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Walter Deeters",
+            "start_char": 2877,
+            "end_char": 2891,
+            "label": "Walter Deeters",
+            "description": "German regional historian, medievalist and archivist (1930-2004)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Walter Deeters",
+            "wikidata_id": "Q15450221",
+            "occupation": "regional historian, medievalist, archivist",
+            "country of citizenship": "Germany",
+            "date of birth": "+1930-06-24T00:00:00Z",
+            "date of death": "+2004-10-14T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Theodor von Sickel": {
+        "Theodor von Sickel": [
+            {
+                "claim": "Diplomats Theodor von Sickel and Carlrichard Brühl believe that the document is not the original as it lacks a seal and the lines are unusually shaped.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Theodor von Sickel",
+            "start_char": 3023,
+            "end_char": 3041,
+            "label": "Theodor von Sickel",
+            "description": "Austrian historian (1826-1908)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Theodor von Sickel",
+            "wikidata_id": "Q66729",
+            "also_known_as": [
+                "Theodor Sickel"
+            ],
+            "occupation": "essayist, medievalist, writer, university teacher, archivist, politician, historian",
+            "country of citizenship": "Kingdom of Prussia",
+            "date of birth": "+1826-12-18T00:00:00Z",
+            "date of death": "+1908-04-21T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Carlrichard Brühl": {
+        "Carlrichard Brühl": [
+            {
+                "claim": "Diplomats Theodor von Sickel and Carlrichard Brühl believe that the document is not the original as it lacks a seal and the lines are unusually shaped.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Carlrichard Brühl",
+            "start_char": 3046,
+            "end_char": 3063,
+            "label": "Carlrichard Brühl",
+            "description": "German philatelist and medievalist (1925-1997)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Carlrichard Brühl",
+            "wikidata_id": "Q1043335",
+            "occupation": "medievalist, university teacher",
+            "country of citizenship": "Germany",
+            "date of birth": "+1925-02-23T00:00:00Z",
+            "date of death": "+1997-01-25T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "Robert S. Nelson": {
+        "Robert S. Nelson": [
+            {
+                "claim": "Robert S. Nelson suggested that they were copied from 777.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Robert S. Nelson",
+            "start_char": 1131,
+            "end_char": 1147,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Robert P. Casey": {
+        "Robert P. Casey": [
+            {
+                "claim": "Robert P. Casey 'voiced his suspicion in 1947'.",
+                "bibliography": [
+                    "[8]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Robert P. Casey",
+            "start_char": 1256,
+            "end_char": 1271,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Mary V. Orna": {
+        "Mary V. Orna": [
+            {
+                "claim": "In 1988 Mary V. Orna found that one of the illustrations contained Prussian blue (KFe[Fe(CN)6]), produced since 1704 only.",
+                "bibliography": [
+                    "[9]"
+                ]
+            },
+            {
+                "claim": "This did not resolve the question of authenticity, however, as it was 'conceivable that the illuminations could have been retouched in a naïve attempt at restoration.'",
+                "bibliography": [
+                    "[10]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Mary V. Orna",
+            "start_char": 1315,
+            "end_char": 1327,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Mary V. Orna"
+        }
+    },
+    "Stephen Carlson": {
+        "Stephen Carlson": [
+            {
+                "claim": "By February Stephen Carlson had announced his findings that the codex was a forgery, and proved his case beyond a doubt at the 2006 Annual Meeting of the Society of Biblical Literature.",
+                "bibliography": [
+                    "[10]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Stephen Carlson",
+            "start_char": 1777,
+            "end_char": 1792,
+            "label": "Stephen Carlson",
+            "description": "associate professor at Australian Catholic University",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Stephen Carlson",
+            "wikidata_id": "Q125913421",
+            "occupation": "teacher",
+            "country of citizenship": "",
+            "date of birth": "",
+            "instance_of": "human"
+        }
+    }
+}

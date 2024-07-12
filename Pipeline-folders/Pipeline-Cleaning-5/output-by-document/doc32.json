@@ -1,0 +1,74 @@
+{
+    "Walter Kaufmann": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            },
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "historical context",
+                "veridicality": false
+            },
+            {
+                "feature": "language",
+                "consistency": false
+            },
+            {
+                "feature": "metre and style",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Walter Kaufmann",
+            "start_char": 128,
+            "end_char": 143,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Walter K. Stewart": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Walter K. Stewart",
+            "start_char": 2145,
+            "end_char": 2162,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Walter K. Stewart",
+            "also_known_as": [
+                "Walter K. Stewart"
+            ],
+            "text_2": "Stewart"
+        }
+    }
+}

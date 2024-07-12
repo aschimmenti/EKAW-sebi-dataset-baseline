@@ -1,0 +1,33 @@
+{
+    "Friedrich Münter": {
+        "Friedrich Münter": [
+            {
+                "claim": "The 19th-century scholar Friedrich Münter believed he could trace the letter down to the time of Diocletian, but this is generally not accepted by present-day scholars.",
+                "bibliography": [
+                    "[7]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Friedrich Münter",
+            "start_char": 372,
+            "end_char": 388,
+            "label": "Friedrich Münter",
+            "description": "Danish bishop (1761-1830)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Friedrich Münter",
+            "wikidata_id": "Q213871",
+            "also_known_as": [
+                "Friedrich Christian Carl Heinrich Münter",
+                "Friedrich Christian Karl Heinrich Münter"
+            ],
+            "occupation": "archaeologist, priest, theologian, university teacher",
+            "country of citizenship": "Kingdom of Denmark",
+            "date of birth": "+1761-10-14T00:00:00Z",
+            "date of death": "+1830-04-09T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,311 @@
+{
+    "Kenneth W. Rendell": {
+        "Kenneth W. Rendell": [
+            {
+                "claim": "Kenneth W. Rendell, a prominent dealer of historical papers, lent credence to the salamander letter by stating that the ink, paper, and postmark were all consistent with the period; he concluded that 'there is no indication that the document is a forgery.'",
+                "bibliography": []
+            },
+            {
+                "claim": "Rendell then recast his conclusion, stating that while there was 'the absence of any indication of forgery in the letter itself, there was also no evidence that it was genuine.'",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Kenneth W. Rendell",
+            "start_char": 694,
+            "end_char": 712,
+            "label": "Kenneth W. Rendell",
+            "description": "American businessman",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Kenneth W. Rendell",
+            "wikidata_id": "Q6390785",
+            "occupation": "businessperson",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1943-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Jerald Tanner": {
+        "Jerald Tanner": [
+            {
+                "claim": "By early 1984, Jerald Tanner concluded there was significant doubt as to the salamander letter's authenticity.",
+                "bibliography": []
+            },
+            {
+                "claim": "He even went so far as to publish an attack on the document, which surprised many scholars and students since this and other 'discoveries' of important Mormon documents by Hofmann often appeared to bolster the Tanners' own arguments.",
+                "bibliography": []
+            },
+            {
+                "claim": "By late 1984, Jerald Tanner questioned the authenticity of most if not all of Hofmann's 'discoveries', based in large part on their unproven provenance.",
+                "bibliography": []
+            },
+            {
+                "claim": "Jerald and Sandra Tanner refuted this suggestion and determined that the only known source of such a requirement would have been the salamander letter.",
+                "bibliography": [
+                    "[18]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Jerald Tanner",
+            "start_char": 1917,
+            "end_char": 1930,
+            "label": "Jerald Tanner",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Jerald Tanner",
+            "wikidata_id": "Q40739905",
+            "also_known_as": [
+                "Jerald Dee Tanner"
+            ],
+            "country of citizenship": "United States of America",
+            "date of birth": "+1938-06-01T00:00:00Z",
+            "date of death": "+2006-10-01T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Jerald"
+        }
+    },
+    "John Tvedtnes": {
+        "John Tvedtnes": [
+            {
+                "claim": "John Tvedtnes, a Mormon scholar, responded with Joseph Smith's statement that 'a prophet was a prophet only when he was acting as such,' and that purchasing historical materials is a business activity rather than a prophetic undertaking.",
+                "bibliography": [
+                    "[11]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "John Tvedtnes",
+            "start_char": 2591,
+            "end_char": 2604,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "George Throckmorton": {
+        "George Throckmorton": [
+            {
+                "claim": "The Salt Lake City Police Department used Utah State special agent and forensic examiner George Throckmorton and Arizona document examiner William Flynn to examine a poem supposedly written by Harris and placed in his old Book of Common Prayer and determined it had actually been created by Hofmann.",
+                "bibliography": []
+            },
+            {
+                "claim": "Although this was enough proof by itself that the letter was a forgery, Throckmorton and Flynn bolstered their case by getting in touch with Frances Magee, the widow of a descendant of Robert Harris.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "George Throckmorton",
+            "start_char": 4313,
+            "end_char": 4332,
+            "label": "George Throckmorton",
+            "description": "English politician; (1489-1552)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Throckmorton",
+            "wikidata_id": "Q5545218",
+            "occupation": "politician",
+            "country of citizenship": "Kingdom of England",
+            "date of birth": "+1489-00-00T00:00:00Z",
+            "date of death": "+1552-08-06T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "William Flynn": {
+        "William Flynn": [
+            {
+                "claim": "The Salt Lake City Police Department used Utah State special agent and forensic examiner George Throckmorton and Arizona document examiner William Flynn to examine a poem supposedly written by Harris and placed in his old Book of Common Prayer and determined it had actually been created by Hofmann.",
+                "bibliography": []
+            },
+            {
+                "claim": "Although this was enough proof by itself that the letter was a forgery, Throckmorton and Flynn bolstered their case by getting in touch with Frances Magee, the widow of a descendant of Robert Harris.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "William Flynn",
+            "start_char": 4363,
+            "end_char": 4376,
+            "label": "William F Flynn",
+            "description": "researcher",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Flynn",
+            "wikidata_id": "Q85544831",
+            "also_known_as": [
+                "William Flynn"
+            ],
+            "occupation": "researcher",
+            "instance_of": "human"
+        }
+    },
+    "Frances Magee": {
+        "Frances Magee": [
+            {
+                "claim": "Throckmorton and Flynn bolstered their case by getting in touch with Frances Magee, the widow of a descendant of Robert Harris.",
+                "bibliography": []
+            },
+            {
+                "claim": "Magee's family had owned the book for many years, and Magee told investigators that she'd never seen the poem before.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Frances Magee",
+            "start_char": 4741,
+            "end_char": 4754,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Gordon B. Hinckley": {
+        "Gordon B. Hinckley": [
+            {
+                "claim": "Church leaders, especially First Presidency member Gordon B. Hinckley, continued to field criticism for some time for 'being duped' and being 'unable to discern the evil intentions of a man like Hofmann'.",
+                "bibliography": []
+            },
+            {
+                "claim": "Hinckley later noted: 'I accepted him to come into my office on a basis of trust … I frankly admit that Hofmann tricked us. He also tricked experts from New York to Utah, however .... I am not ashamed to admit that we were victimized. It is not the first time the Church has found itself in such a position. Joseph Smith was victimized again and again. The Savior was victimized. I am sorry to say that sometimes it happens.'",
+                "bibliography": [
+                    "[15]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Gordon B. Hinckley",
+            "start_char": 5142,
+            "end_char": 5160,
+            "label": "Gordon B. Hinckley",
+            "description": "President of The Church of Jesus Christ of Latter-day Saints (1910–2008)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Gordon B. Hinckley",
+            "wikidata_id": "Q553147",
+            "also_known_as": [
+                "Gordon Bitner Hinckley",
+                "Gordon Hinckley"
+            ],
+            "occupation": "hymnwriter, prophet",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1910-06-23T00:00:00Z",
+            "date of death": "+2008-01-27T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Dallin H. Oaks": {
+        "Dallin H. Oaks": [
+            {
+                "claim": "Following the Hofmann trial, in a speech at Brigham Young University titled 'Recent Events Involving Church History and Forged Documents', Dallin H. Oaks addressed media critiques of the church, saying: I was saddened but not surprised that the news coverage of the truth about the forgeries and lies of Mark Hofmann was small by comparison with the earlier trumpeting of the claims that his newly discovered documents destroyed faith...",
+                "bibliography": []
+            },
+            {
+                "claim": "In a circumstance where The Church of Jesus Christ of Latter-day Saints could not say much without interfering with the pending criminal investigation and prosecution, the Church and its leaders have been easy marks for assertions and innuendo ranging from charges of complicity in murder to repeated recitals that the Church routinely acquires and suppresses Church history documents in order to deceive its members and the public. In the hands of clever writers and cartoonists, the mythical salamander proved a most effective instrument to pique public interest...",
+                "bibliography": []
+            },
+            {
+                "claim": "In addition to addressing the media's treatment of the church during this period, Oaks also spoke about other concerns including alleged suppression of documents, Hofmann's access to church officials, actual amounts paid for documents, and reminders of the many cautions Church leaders gave as to the documents' authenticity prior to Hofmann's arrest.",
+                "bibliography": []
+            },
+            {
+                "claim": "In addressing why Hofmann's lies were not detected by church leaders, Oaks said: In order to perform their personal ministries, Church leaders cannot be suspicious and questioning of each of the hundreds of people they meet each year. Ministers of the gospel function best in an atmosphere of trust and love.",
+                "bibliography": []
+            },
+            {
+                "claim": "In that kind of atmosphere, they fail to detect a few deceivers, but that is the price they pay to increase their effectiveness in counseling, comforting, and blessing the hundreds of honest and sincere people they see.",
+                "bibliography": []
+            },
+            {
+                "claim": "It is better for a Church leader to be occasionally disappointed than to be constantly suspicious.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Dallin H. Oaks",
+            "start_char": 5868,
+            "end_char": 5882,
+            "label": "Dallin H. Oaks",
+            "description": "Apostle of The Church of Jesus Christ of Latter-day Saints",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Dallin H. Oaks",
+            "wikidata_id": "Q3012489",
+            "also_known_as": [
+                "Dallin Harris Oaks"
+            ],
+            "occupation": "lawyer, university teacher, writer, judge, religious leader",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1932-08-12T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Grant H. Palmer": {
+        "Grant H. Palmer": [
+            {
+                "claim": "Grant H. Palmer, author of the book An Insider's View of Mormon Origins, stated that his work was influenced in part by his original acceptance of the salamander letter as being valid and supportive of his view.",
+                "bibliography": [
+                    "[16]"
+                ]
+            },
+            {
+                "claim": "Palmer stated that the 'salamander letter' caused him to explore Joseph Smith's 'mystical mindset'.",
+                "bibliography": [
+                    "[17]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Grant H. Palmer",
+            "start_char": 8315,
+            "end_char": 8330,
+            "label": "Grant H. Palmer",
+            "description": "American mormon leader",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Grant H. Palmer",
+            "wikidata_id": "Q5596239",
+            "also_known_as": [
+                "Grant Hart Palmer"
+            ],
+            "date of birth": "+1940-08-17T00:00:00Z",
+            "date of death": "+2017-09-25T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "Palmer"
+        }
+    },
+    "Sandra Tanner": {
+        "Sandra Tanner": [
+            {
+                "claim": "Jerald and Sandra Tanner refuted this suggestion and determined that the only known source of such a requirement would have been the salamander letter.",
+                "bibliography": [
+                    "[18]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Sandra Tanner",
+            "start_char": 8990,
+            "end_char": 9003,
+            "label": "Sandra Tanner",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Sandra Tanner",
+            "wikidata_id": "Q40739939",
+            "also_known_as": [
+                "Sandra McGee Tanner"
+            ],
+            "country of citizenship": "United States of America",
+            "date of birth": "+1941-01-14T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

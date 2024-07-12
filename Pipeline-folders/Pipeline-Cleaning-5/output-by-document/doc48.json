@@ -1,0 +1,147 @@
+{
+    "William Dudley Pelley": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "presence": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Charles Cotesworth Pinckney"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "William Dudley Pelley",
+            "start_char": 386,
+            "end_char": 407,
+            "label": "William Dudley Pelley",
+            "description": "American political activist, screenwriter, and convicted fraudster (1890-1965)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Dudley Pelley",
+            "wikidata_id": "Q1501730",
+            "occupation": "screenwriter, politician, journalist, peace activist, writer",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1890-03-12T00:00:00Z",
+            "date of death": "+1965-06-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "U.S. Congress": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "U.S. Congress",
+            "start_char": 873,
+            "end_char": 886,
+            "label": "United States Congress",
+            "description": "bicameral legislature of the United States",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "U.S. Congress",
+            "wikidata_id": "Q11268",
+            "also_known_as": [
+                "US Congress",
+                "U.S. Congress",
+                "American Congress",
+                "Congress of the United States",
+                "Legislature of the United States",
+                "American legislature",
+                "United states legislative branch",
+                "Congress"
+            ],
+            "instance_of": "bicameral legislature"
+        }
+    },
+    "Anti-Defamation League": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "consistency": false,
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Anti-Defamation League",
+            "start_char": 1486,
+            "end_char": 1508,
+            "label": "Anti-Defamation League",
+            "description": "international Jewish non-governmental organization",
+            "labels": [
+                "Organisation"
+            ],
+            "resolved_label": "Anti-Defamation League",
+            "wikidata_id": "Q158818",
+            "also_known_as": [
+                "ADL",
+                "Anti-Defamation League of B'nai B'rith"
+            ],
+            "instance_of": "non-governmental organization, nonprofit organization"
+        }
+    },
+    "Fatah Central Committee": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Fatah Central Committee",
+            "start_char": 2513,
+            "end_char": 2536,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Osama bin Laden": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Osama bin Laden",
+            "start_char": 2642,
+            "end_char": 2657,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

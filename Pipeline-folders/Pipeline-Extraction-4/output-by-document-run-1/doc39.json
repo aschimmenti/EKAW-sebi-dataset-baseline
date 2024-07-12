@@ -1,0 +1,41 @@
+{
+    "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Renée-Caroline-Victoire de Froulay de Tessé, marquise de Créquy de Heymont de Canaples d'Ambrières",
+            "start_char": 0,
+            "end_char": 98,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Cousin de Courchamps": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "document provenance",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Cousin de Courchamps",
+            "start_char": 320,
+            "end_char": 340,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

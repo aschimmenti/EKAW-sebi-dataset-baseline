@@ -1,0 +1,371 @@
+{
+    "Josef Dobrovský": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Josef Dobrovský",
+            "start_char": 451,
+            "end_char": 466,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Jernej Kopitar": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Hanka"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Jernej Kopitar",
+            "start_char": 468,
+            "end_char": 482,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Josef Jungmann": {
+        "type": "object",
+        "properties": {
+            "is_expressing_opinion": {
+                "type": "boolean"
+            },
+            "opinion_evaluation": {
+                "type": "string",
+                "enum": [
+                    "authentic",
+                    "forgery",
+                    "suspicious",
+                    "null"
+                ]
+            },
+            "opinion_evidence_provided": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "feature": {
+                            "type": "string",
+                            "enum": [
+                                "authentication marks",
+                                "chronology and dating",
+                                "content",
+                                "document provenance",
+                                "format (spacing, signs)",
+                                "handwriting",
+                                "historical context",
+                                "illustration or other graphical device",
+                                "indentation",
+                                "ink",
+                                "inter-punctuation",
+                                "interpolations",
+                                "legal formulas",
+                                "list of witnesses",
+                                "material support",
+                                "metre and style",
+                                "original document",
+                                "orthography",
+                                "sigillum or seal",
+                                "language"
+                            ]
+                        },
+                        "reliability": {
+                            "type": "boolean",
+                            "nullable": true
+                        },
+                        "completeness": {
+                            "type": "boolean",
+                            "nullable": true
+                        },
+                        "consistency": {
+                            "type": "boolean",
+                            "nullable": true
+                        },
+                        "presence": {
+                            "type": "boolean",
+                            "nullable": true
+                        },
+                        "veridicality": {
+                            "type": "boolean",
+                            "nullable": true
+                        }
+                    },
+                    "required": [
+                        "feature"
+                    ]
+                },
+                "nullable": true
+            },
+            "opinion_reason": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "nullable": true
+            },
+            "opinion_document_author": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "nullable": true
+            },
+            "opinion_document_date": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "nullable": true
+            },
+            "opinion_document_location": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "nullable": true
+            },
+            "opinion_specific_perspective": {
+                "type": "array",
+                "items": {
+                    "type": "string",
+                    "enum": [
+                        "Scientific analysis",
+                        "Historical analysis",
+                        "Philologic analysis",
+                        "Diplomatic analysis",
+                        "Paleographic analysis",
+                        "Literary analysis"
+                    ]
+                },
+                "nullable": true
+            }
+        },
+        "required": [
+            "is_expressing_opinion"
+        ],
+        "entity_info": {
+            "text": "Josef Jungmann",
+            "start_char": 724,
+            "end_char": 738,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "František Čelakovský": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "František Čelakovský",
+            "start_char": 747,
+            "end_char": 767,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "František Palacký": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "historical context",
+                "veridicality": true
+            },
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "František Palacký",
+            "start_char": 779,
+            "end_char": 796,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Karel Jaromír Erben": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Karel Jaromír Erben",
+            "start_char": 818,
+            "end_char": 837,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "John Bowring": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "John Bowring",
+            "start_char": 854,
+            "end_char": 866,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Wratislaw": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Wratislaw",
+            "start_char": 1548,
+            "end_char": 1557,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Alois Vojtěch Šembera": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "Josef Linda"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Alois Vojtěch Šembera",
+            "start_char": 1725,
+            "end_char": 1746,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Tomáš Masaryk": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "metre and style",
+                "consistency": false
+            },
+            {
+                "feature": "language",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis",
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Tomáš Masaryk",
+            "start_char": 2124,
+            "end_char": 2137,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Jan Gebauer": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Jan Gebauer",
+            "start_char": 2237,
+            "end_char": 2248,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Palacký": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Palacký",
+            "start_char": 2911,
+            "end_char": 2918,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

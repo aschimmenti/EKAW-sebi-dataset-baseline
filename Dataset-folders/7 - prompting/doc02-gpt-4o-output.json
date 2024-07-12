@@ -1,0 +1,120 @@
+{
+    "Theophanu": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Otto II": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Hans K. Schulze": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Hans Goetting": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Walter Deeters": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "separations in the text",
+                "attendibility": 0.8,
+                "completeness": 0.7,
+                "consistency": 0.9,
+                "presence": 0.7,
+                "reliability": 0.8,
+                "veridicality": 0.9
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Theodor von Sickel": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "lack of a seal",
+                "attendibility": 0.8,
+                "completeness": 0.8,
+                "consistency": 0.7,
+                "presence": 0.9,
+                "reliability": 0.8,
+                "veridicality": 0.8
+            },
+            {
+                "feature": "unusually shaped lines",
+                "attendibility": 0.7,
+                "completeness": 0.7,
+                "consistency": 0.7,
+                "presence": 0.8,
+                "reliability": 0.7,
+                "veridicality": 0.7
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Carlrichard Brühl": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "absence of a seal",
+                "attendibility": 0.8,
+                "completeness": 0.8,
+                "consistency": 0.9,
+                "presence": 1.0,
+                "reliability": 0.8,
+                "veridicality": 0.9
+            },
+            {
+                "feature": "unusually shaped lines",
+                "attendibility": 0.7,
+                "completeness": 0.7,
+                "consistency": 0.9,
+                "presence": 1.0,
+                "reliability": 0.7,
+                "veridicality": 0.8
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    }
+}

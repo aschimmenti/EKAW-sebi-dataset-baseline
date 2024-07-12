@@ -1,0 +1,71 @@
+{
+    "Petrarch": {
+        "Petrarch": [
+            {
+                "claim": "The Privilegium maius consists of five forged deeds, some of which purported to have been issued by Julius Caesar and Nero to the historic Roman province of Noricum, which was roughly coterminous with the modern Austrian borders.",
+                "bibliography": []
+            },
+            {
+                "claim": "Though purposefully modeled on the Privilegium minus, the original of which 'got lost' at the same time, the bundle was already identified as a fake by contemporaries such as the Italian scholar Petrarch.",
+                "bibliography": []
+            },
+            {
+                "claim": "The discoverer of the forgery was his advisor, the poet and scholar Petrarch.",
+                "bibliography": [
+                    "[4]",
+                    "[5]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Petrarch",
+            "start_char": 2200,
+            "end_char": 2208,
+            "label": "Petrarch",
+            "description": "Italian scholar and poet (1304-1374)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Petrarch",
+            "wikidata_id": "Q1401",
+            "also_known_as": [
+                "Francesco Petrarca",
+                "Peetrarque",
+                "Petrarque",
+                "Francesco Peetrarque",
+                "Francesco Petrarch",
+                "Francis Petrarch"
+            ],
+            "occupation": "philosopher, poet, translator, lyricist, writer, mountaineer, autobiographer, philologist, humanist, Catholic cleric",
+            "country of citizenship": "Republic of Florence",
+            "date of birth": "+1304-07-19T00:00:00Z",
+            "date of death": "+1374-07-18T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Wilhelm Wattenbach": {
+        "Wilhelm Wattenbach": [
+            {
+                "claim": "In 1852, it was proven a forgery by historian Wilhelm Wattenbach.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Wilhelm Wattenbach",
+            "start_char": 4487,
+            "end_char": 4505,
+            "label": "Wilhelm Wattenbach",
+            "description": "German paleographer",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Wilhelm Wattenbach",
+            "wikidata_id": "Q72864",
+            "occupation": "historian, archivist, university teacher, writer, palaeographer",
+            "country of citizenship": "Kingdom of Prussia",
+            "date of birth": "+1819-09-22T00:00:00Z",
+            "date of death": "+1897-09-20T00:00:00Z",
+            "instance_of": "human"
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "Waniko Yasutoshi": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Waniko Yasutoshi",
+            "start_char": 385,
+            "end_char": 401,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Hirata Atsutane": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Hirata Atsutane",
+            "start_char": 544,
+            "end_char": 559,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Yoshinosuke": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": null,
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Yoshinosuke",
+            "start_char": 994,
+            "end_char": 1005,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "some scholars": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "language",
+                "consistency": false
+            },
+            {
+                "feature": "chronology and dating",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "Edo period"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "some scholars",
+            "start_char": 2036,
+            "end_char": 2049,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

@@ -1,0 +1,392 @@
+{
+    "Samuel Ireland": {
+        "Samuel Ireland": [
+            {
+                "claim": "The Ireland Shakespeare forgeries were a cause célèbre in 1790s London, when author and engraver Samuel Ireland announced the discovery of a treasure-trove of Shakespearean manuscripts by his son William Henry Ireland.",
+                "bibliography": []
+            },
+            {
+                "claim": "Samuel Ireland accepted it as authentic, and the next day took it to the Heralds' Office, which approved it as genuine.",
+                "bibliography": [
+                    "[8]"
+                ]
+            },
+            {
+                "claim": "Samuel Ireland and his friends admired the style of the letters but not the earl’s penmanship; William Henry, not knowing that handwriting of the earl was extant, had written Southampton’s reply with his left hand.",
+                "bibliography": [
+                    "[14]"
+                ]
+            },
+            {
+                "claim": "For the Irelands, father and son, the failure of the play, coupled with Malone's exposure of the hoax, was an unmitigated disaster.",
+                "bibliography": []
+            },
+            {
+                "claim": "Samuel Ireland still believed the papers to be Shakespeare's, and refused to listen to anything his son had to say.",
+                "bibliography": []
+            },
+            {
+                "claim": "Blaming Malone for his misfortunes, Samuel Ireland set out to write a book that would destroy the scholar's reputation.",
+                "bibliography": [
+                    "[38]"
+                ]
+            },
+            {
+                "claim": "With the aid of Thomas Caldecott he attacked Malone for using forensic techniques like handwriting comparison to settle a literary question, rather than relying on taste and aesthetic sensibilities.",
+                "bibliography": []
+            },
+            {
+                "claim": "The charge would stick. George Chalmers' Apology for the Believers and Samuel Ireland's Investigation concentrated on attacking Malone rather than exonerating Samuel, and the public verdict was probably summed up in a print by John Nixon depicting the entire Ireland family engaged in forging the papers.",
+                "bibliography": [
+                    "[41]"
+                ]
+            },
+            {
+                "claim": "Although his son's Confessions (1805) did a great deal to establish his innocence, not everybody was convinced. Accounts by Clement Mansfield Ingleby in 1859 and George Dawson in 1888 took the position that the father was responsible for the forgeries and the son's Confession was a tissue of lies.",
+                "bibliography": []
+            },
+            {
+                "claim": "The acquisition of Samuel Ireland's papers by the British Museum in 1876, however, provided a wealth of evidence that Samuel was the victim rather than the perpetrator of the fraud, and Ingleby changed his position in his 1881 paper on the Ireland Affair.",
+                "bibliography": [
+                    "[42]"
+                ]
+            },
+            {
+                "claim": "After Samuel Ireland's death in 1800, the original forgeries, bound in three folio volumes, were sold to John 'Dog' Dent, MP and bibliophile.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Samuel Ireland",
+            "start_char": 97,
+            "end_char": 111,
+            "label": "Samuel Ireland",
+            "description": "British author and engraver",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Samuel Ireland",
+            "wikidata_id": "Q7411777",
+            "also_known_as": [
+                "Samuel, I Ireland",
+                "Samuel I Ireland",
+                "Ireld",
+                "Irld",
+                "Ireland"
+            ],
+            "occupation": "printmaker, writer, drawer, publisher",
+            "country of citizenship": "Kingdom of Great Britain",
+            "date of birth": "+1744-05-21T00:00:00Z",
+            "date of death": "+1800-07-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "James Boswell": {
+        "James Boswell": [
+            {
+                "claim": "Upon the release of the manuscripts, such respected literary figures as James Boswell (biographer of Samuel Johnson) and poet laureate Henry James Pye pronounced them genuine, as did various antiquarian experts.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "James Boswell",
+            "start_char": 370,
+            "end_char": 383,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Henry James Pye": {
+        "Henry James Pye": [
+            {
+                "claim": "Upon the release of the manuscripts, such respected literary figures as James Boswell (biographer of Samuel Johnson) and poet laureate Henry James Pye pronounced them genuine, as did various antiquarian experts.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Henry James Pye",
+            "start_char": 433,
+            "end_char": 448,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Richard Brinsley Sheridan": {
+        "Richard Brinsley Sheridan": [
+            {
+                "claim": "Richard Brinsley Sheridan, the leading theatre manager of his day, agreed to present one of the newly discovered plays with John Philip Kemble in the starring role.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Richard Brinsley Sheridan",
+            "start_char": 510,
+            "end_char": 535,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Edmond Malone": {
+        "Edmond Malone": [
+            {
+                "claim": "Edmond Malone, widely regarded as the greatest Shakespeare scholar of his time, conclusively showed that the language, orthography, and handwriting were not those of the times and persons to which they were credited.",
+                "bibliography": []
+            },
+            {
+                "claim": "The text and signature he copied from the facsimile of the genuine 1612 mortgage deed printed in Malone's edition of Shakespeare.",
+                "bibliography": [
+                    "[7]"
+                ]
+            },
+            {
+                "claim": "A sketch of himself that accompanied his letter to Cowley showed that he was a wretched draftsman with an impenetrable sense of humour. Described in the letter as a 'whysycalle conceyte', it was (as Malone put it) 'most truly whimsical, being a miserable drawing of our poet done by himself with a pen, from Martin Droeshout's print of him engraved seven years after his death….",
+                "bibliography": [
+                    "[16]"
+                ]
+            },
+            {
+                "claim": "The first was the publication of Malone's volume of over four hundred pages on 31 March 1796. Exposing the forgeries in detail, he showed one by one that each document was flawed in its handwriting, its language, its orthography, and its history.",
+                "bibliography": [
+                    "[33]"
+                ]
+            },
+            {
+                "claim": "Blaming Malone for his misfortunes, Samuel Ireland set out to write a book that would destroy the scholar's reputation. With the aid of Thomas Caldecott he attacked Malone for using forensic techniques like handwriting comparison to settle a literary question, rather than relying on taste and aesthetic sensibilities.",
+                "bibliography": [
+                    "[38]"
+                ]
+            },
+            {
+                "claim": "The charge would stick. George Chalmers' Apology for the Believers and Samuel Ireland's Investigation concentrated on attacking Malone rather than exonerating Samuel, and the public verdict was probably summed up in a print by John Nixon depicting the entire Ireland family engaged in forging the papers.",
+                "bibliography": [
+                    "[41]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Edmond Malone",
+            "start_char": 830,
+            "end_char": 843,
+            "label": "COMMENTATOR",
+            "description": null,
+            "wikidata_id": "Q1229512",
+            "country of citizenship": "Republic of Ireland",
+            "occupation": "literary historian, writer, literary critic, literary scholar, editor, jurist, man of letters",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Malone",
+            "also_known_as": [
+                "Edmund Malone"
+            ]
+        }
+    },
+    "William Henry Ireland": {
+        "William Henry Ireland": [
+            {
+                "claim": "William Henry Ireland, the supposed discoverer, then confessed to the fraud.",
+                "bibliography": []
+            },
+            {
+                "claim": "Asked where he had turned up this deed, William Henry replied that he had found it in an old trunk belonging to a chance acquaintance who did not wish to have his name revealed.",
+                "bibliography": []
+            },
+            {
+                "claim": "The young discoverer suggested that there might well be more documents where this had come from, and quickly followed this up with a promissory note from Shakespeare to Heminges—the only such note (had it been genuine) ever discovered from the period.",
+                "bibliography": []
+            },
+            {
+                "claim": "With his next discovery William Henry moved from mere forgery to original art.",
+                "bibliography": []
+            },
+            {
+                "claim": "William Henry Ireland blamed the actors, particularly Kemble, along with a 'Malone faction,' for the failure of his play.",
+                "bibliography": []
+            },
+            {
+                "claim": "William Henry confessed the forgery to his sisters, to his mother, and to Albany Wallis, but his father did not believe his story.",
+                "bibliography": []
+            },
+            {
+                "claim": "Concerned for his father's reputation William Henry rushed into print with a pamphlet confessing to the forgeries, and his father replied immediately with a vindication of his conduct in the whole affair.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "William Henry Ireland",
+            "start_char": 1047,
+            "end_char": 1068,
+            "label": "William Henry Ireland",
+            "description": "English forger of Shakespearean documents and plays",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "William Henry Ireland",
+            "wikidata_id": "Q4058973",
+            "also_known_as": [
+                "Samuel William Henry Ireland"
+            ],
+            "occupation": "novelist, poet, playwright",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland, United Kingdom",
+            "date of birth": "+1775-08-02T00:00:00Z",
+            "date of death": "+1835-04-17T00:00:00Z",
+            "instance_of": "human",
+            "text_2": "William Henry"
+        }
+    },
+    "Thomas Caldecott": {
+        "Thomas Caldecott": [
+            {
+                "claim": "With the aid of Thomas Caldecott he attacked Malone for using forensic techniques like handwriting comparison to settle a literary question, rather than relying on taste and aesthetic sensibilities.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Thomas Caldecott",
+            "start_char": 7445,
+            "end_char": 7461,
+            "label": "Thomas Caldecott",
+            "description": "English barrister and literary editor",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Thomas Caldecott",
+            "wikidata_id": "Q18528919",
+            "occupation": "barrister, literary editor, librarian",
+            "country of citizenship": "Kingdom of Great Britain, United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1744-01-01T00:00:00Z",
+            "date of death": "+1833-00-00T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "George Steevens": {
+        "George Steevens": [
+            {
+                "claim": "George Steevens accused the two of collusion: 'The hopeful youth takes on himself the guilt of the entire forgery, and strains hard to exculpate his worthy father from the slightest participation in it. The father, on the contrary, declares that his son had not sufficient abilities for the execution of so difficult a task. Between them, in short, there is a pretended quarrel, that they may not look as if they were acting in concert on the present occasion.'",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "George Steevens",
+            "start_char": 7877,
+            "end_char": 7892,
+            "label": "George Steevens",
+            "description": "English editor of the works of William Shakespeare",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Steevens",
+            "wikidata_id": "Q1450536",
+            "occupation": "literary critic",
+            "country of citizenship": "Kingdom of Great Britain",
+            "date of birth": "+1736-05-10T00:00:00Z",
+            "date of death": "+1800-01-22T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "George Chalmers": {
+        "George Chalmers": [
+            {
+                "claim": "George Chalmers' Apology for the Believers and Samuel Ireland's Investigation concentrated on attacking Malone rather than exonerating Samuel, and the public verdict was probably summed up in a print by John Nixon depicting the entire Ireland family engaged in forging the papers.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "George Chalmers",
+            "start_char": 8367,
+            "end_char": 8382,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Clement Mansfield Ingleby": {
+        "Clement Mansfield Ingleby": [
+            {
+                "claim": "Accounts by Clement Mansfield Ingleby in 1859 and George Dawson in 1888 took the position that the father was responsible for the forgeries and the son's Confession was a tissue of lies.",
+                "bibliography": []
+            },
+            {
+                "claim": "The acquisition of Samuel Ireland's papers by the British Museum in 1876, however, provided a wealth of evidence that Samuel was the victim rather than the perpetrator of the fraud, and Ingleby changed his position in his 1881 paper on the Ireland Affair.",
+                "bibliography": [
+                    "[42]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Clement Mansfield Ingleby",
+            "start_char": 8861,
+            "end_char": 8886,
+            "label": "Clement Mansfield Ingleby",
+            "description": "British lawyer and Shakespearian scholar",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Clement Mansfield Ingleby",
+            "wikidata_id": "Q1100266",
+            "occupation": "literary historian, literary critic, university teacher, chess player",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1823-10-29T00:00:00Z",
+            "date of death": "+1886-09-26T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "George Dawson": {
+        "George Dawson": [
+            {
+                "claim": "Accounts by Clement Mansfield Ingleby in 1859 and George Dawson in 1888 took the position that the father was responsible for the forgeries and the son's Confession was a tissue of lies.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "George Dawson",
+            "start_char": 8899,
+            "end_char": 8912,
+            "label": "George Dawson",
+            "description": "English nonconformist preacher, lecturer and activist; (1821-1876)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "George Dawson",
+            "wikidata_id": "Q5538437",
+            "occupation": "cleric",
+            "country of citizenship": "United Kingdom of Great Britain and Ireland",
+            "date of birth": "+1821-02-24T00:00:00Z",
+            "date of death": "+1876-11-30T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Peter Ackroyd": {
+        "Peter Ackroyd": [
+            {
+                "claim": "British writer Peter Ackroyd provides an imaginative account of the Irelands' forgeries in his novel The Lambs of London published by Chatto & Windus in 2004.",
+                "bibliography": [
+                    "[44]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Peter Ackroyd",
+            "start_char": 9687,
+            "end_char": 9700,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Martyn Wade": {
+        "Martyn Wade": [
+            {
+                "claim": "In the same year, BBC Radio 4 broadcast Martyn Wade's play about the forgeries, Another Shakespeare.",
+                "bibliography": [
+                    "[45]"
+                ]
+            }
+        ],
+        "entity_info": {
+            "text": "Martyn Wade",
+            "start_char": 9875,
+            "end_char": 9886,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

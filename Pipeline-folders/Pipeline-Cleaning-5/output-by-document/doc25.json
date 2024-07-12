@@ -1,0 +1,165 @@
+{
+    "L. Ron Hubbard": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": [
+            "mankind was so desperate that he will buy almost any ideology"
+        ],
+        "opinion_document_author": [
+            "L. Ron Hubbard"
+        ],
+        "opinion_document_date": [
+            "1955"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "L. Ron Hubbard",
+            "start_char": 175,
+            "end_char": 189,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Edward Hunter": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Edward Hunter",
+            "start_char": 793,
+            "end_char": 806,
+            "label": "Edward Hunter",
+            "description": "Presiding Bishop of the LDS Church (1793-1883)",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Edward Hunter",
+            "wikidata_id": "Q5343562",
+            "also_known_as": [
+                "Edward Hunter Jr."
+            ],
+            "occupation": "priest, politician",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1793-06-22T00:00:00Z",
+            "date of death": "+1883-10-16T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Tony Ortega": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Tony Ortega",
+            "start_char": 1860,
+            "end_char": 1871,
+            "label": "Tony Ortega",
+            "description": "American journalist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Tony Ortega",
+            "wikidata_id": "Q16195244",
+            "occupation": "journalist, editor",
+            "country of citizenship": "United States of America",
+            "date of birth": "+1963-05-23T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Nick Redfern": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "veridicality": false
+            },
+            {
+                "feature": "metre and style",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": [
+            "L. Ron Hubbard"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Nick Redfern",
+            "start_char": 2624,
+            "end_char": 2636,
+            "label": "Nick Redfern",
+            "description": "British journalist and ufologist",
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Nick Redfern",
+            "wikidata_id": "Q7027791",
+            "also_known_as": [
+                "Nicholas Redfern"
+            ],
+            "occupation": "ufologist, writer, ghost hunter",
+            "country of citizenship": "United Kingdom",
+            "date of birth": "+1964-01-01T00:00:00Z",
+            "instance_of": "human"
+        }
+    },
+    "Anderson Report": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "consistency": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ],
+        "entity_info": {
+            "text": "Anderson Report",
+            "start_char": 3689,
+            "end_char": 3704,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

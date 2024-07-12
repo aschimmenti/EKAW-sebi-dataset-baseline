@@ -1,0 +1,178 @@
+{
+    "Muhammad": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Ali": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Franciscus Quaresmius": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Balthasar de Monconys": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "general acceptance by scholars",
+                "attendibility": 0.8,
+                "completeness": 0.7,
+                "consistency": 0.9,
+                "presence": 0.6,
+                "reliability": 0.8,
+                "veridicality": 0.8
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Kara Mustafa Pasha": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "John Andrew Morrow": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "replicated verbatim across numerous Islamic sources",
+                "attendibility": 0.9,
+                "completeness": 0.8,
+                "consistency": 0.9,
+                "presence": 1.0,
+                "reliability": 0.9,
+                "veridicality": 0.9
+            },
+            {
+                "feature": "supported by more than a thousand years of Caliphs and Sultans",
+                "attendibility": 0.8,
+                "completeness": 0.8,
+                "consistency": 0.8,
+                "presence": 0.8,
+                "reliability": 0.8,
+                "veridicality": 0.8
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Bernhard Moritz": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "date",
+                "attendibility": 0,
+                "completeness": 0,
+                "consistency": 0,
+                "presence": 1,
+                "reliability": 0,
+                "veridicality": 0
+            },
+            {
+                "feature": "style",
+                "attendibility": 0,
+                "completeness": 0,
+                "consistency": 0,
+                "presence": 1,
+                "reliability": 0,
+                "veridicality": 0
+            },
+            {
+                "feature": "content",
+                "attendibility": 0,
+                "completeness": 0,
+                "consistency": 0,
+                "presence": 1,
+                "reliability": 0,
+                "veridicality": 0
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Amidu Sanni": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "existent codices predating the 16th century",
+                "attendibility": 0.5,
+                "completeness": 0.5,
+                "consistency": 0.5,
+                "presence": 0.5,
+                "reliability": 0.5,
+                "veridicality": 0.5
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Mubasher Hussain": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "impression of a hand",
+                "attendibility": 0.2,
+                "completeness": 0.2,
+                "consistency": 0.2,
+                "presence": 0.2,
+                "reliability": 0.2,
+                "veridicality": 0.2
+            },
+            {
+                "feature": "language expressions",
+                "attendibility": 0.3,
+                "completeness": 0.3,
+                "consistency": 0.4,
+                "presence": 0.3,
+                "reliability": 0.3,
+                "veridicality": 0.3
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    }
+}

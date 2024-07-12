@@ -1,0 +1,63 @@
+{
+    "Walter Kaufmann": {
+        "Walter Kaufmann": [
+            {
+                "claim": "Following the Nietzsche scholar Walter Kaufmann, most consider the work to be a literary forgery, although a small minority argues for the book's authenticity.",
+                "bibliography": []
+            },
+            {
+                "claim": "Nietzsche scholars in general adopted the opinion of Kaufmann, who immediately identified the book as a forgery in a 1952 article.",
+                "bibliography": [
+                    "[1]"
+                ]
+            },
+            {
+                "claim": "Evidence against the book cited both by Kaufmann and later commentators includes anachronisms, such as a reference to an 1898 incident, incongruous references to Marxism, and the city of Detroit (globally unknown in the late 19th century), along with a seemingly poor grasp of philosophy, and sexualized pulpy content.",
+                "bibliography": [
+                    "[1]",
+                    "[3]"
+                ]
+            },
+            {
+                "claim": "Kaufmann also notes instances of clever wordplay in the English text that are impossible to express as such in the German language.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Walter Kaufmann",
+            "start_char": 128,
+            "end_char": 143,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Walter K. Stewart": {
+        "Walter K. Stewart": [
+            {
+                "claim": "Nietzsche scholar Walter K. Stewart, in his 185-page monograph Nietzsche: My Sister and I — A Critical Study published in 2007, argues for the original's potential legitimacy by conducting a point-by-point analysis of Kaufmann's book review.",
+                "bibliography": [
+                    "[4]"
+                ]
+            },
+            {
+                "claim": "In his 2011 followup, Friedrich Nietzsche My Sister and I: Investigation, Analysis, Interpretation, Stewart uses direct textual analysis to argue that whoever wrote My Sister and I was intimate with every aspect of Nietzsche’s life and perspective.",
+                "bibliography": []
+            }
+        ],
+        "entity_info": {
+            "text": "Walter K. Stewart",
+            "start_char": 2145,
+            "end_char": 2162,
+            "label": "COMMENTATOR",
+            "description": null,
+            "labels": [
+                "Person"
+            ],
+            "resolved_label": "Walter K. Stewart",
+            "also_known_as": [
+                "Walter K. Stewart"
+            ],
+            "text_2": "Stewart"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Tokugawa Mitsukuni": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            },
+            {
+                "feature": "chronology and dating",
+                "reliability": true,
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis",
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "Tokugawa Mitsukuni",
+            "start_char": 212,
+            "end_char": 230,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Tada Yoshitoshi": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "reliability": false
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Philologic analysis"
+        ],
+        "entity_info": {
+            "text": "Tada Yoshitoshi",
+            "start_char": 235,
+            "end_char": 250,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "John R. Bentley": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "authentic",
+        "opinion_evidence_provided": [
+            {
+                "feature": "chronology and dating",
+                "reliability": true
+            },
+            {
+                "feature": "interpolations",
+                "presence": true
+            },
+            {
+                "feature": "historical context",
+                "consistency": true
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": [
+            "early eighth century CE"
+        ],
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ],
+        "entity_info": {
+            "text": "John R. Bentley",
+            "start_char": 1472,
+            "end_char": 1487,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    },
+    "Mark Teeuwen": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null,
+        "entity_info": {
+            "text": "Mark Teeuwen",
+            "start_char": 1903,
+            "end_char": 1915,
+            "label": "COMMENTATOR",
+            "description": null
+        }
+    }
+}

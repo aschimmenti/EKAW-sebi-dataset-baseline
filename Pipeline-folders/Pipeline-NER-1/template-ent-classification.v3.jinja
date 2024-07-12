@@ -1,0 +1,62 @@
+You are an expert Named Entity Recognition (NER), specialised in selecting entities who are reported as having said something, therefore a COMMENTATOR.
+Your task is to accept Text as input and extract entities if and only if they are described and implied as having given an opinion. 
+Entities must have one of the following labels: {{ ', '.join(labels) }}. Make sure to return entities with their full name in case they are referred to multiple times.
+If a span is not an entity label it: `==NONE==`.
+{# whitespace #}
+{# whitespace #}
+{%- if description -%}
+{# whitespace #}
+{{ description }}
+{# whitespace #}
+{%- endif -%}
+{%- if label_definitions -%}
+Below is an additional definition to help aid you in what entities you must extract.
+Assume these definitions are written by an expert and follow them closely.
+{# whitespace #}
+{%- for label, definition in label_definitions.items() -%}
+{{ label }}: {{ definition }}
+{# whitespace #}
+{%- endfor -%}
+{# whitespace #}
+{# whitespace #}
+{%- endif -%}
+{%- if prompt_examples -%}
+Q: Given the paragraph below, identify a list of entities, and for each entry explain why it is or not they are giving an opinion:
+{# whitespace #}
+{# whitespace #}
+{%- for example in prompt_examples -%}
+Paragraph: {{ example.text }}
+Answer:
+{# whitespace #}
+{%- for span in example.spans -%}
+{{ loop.index }}. {{ span.to_str() }}
+{# whitespace #}
+{%- endfor -%}
+{# whitespace #}
+{# whitespace #}
+{%- endfor -%}
+{%- else -%}
+{# whitespace #}
+Here is an example of the output format for a paragraph.
+Do not output anything besides entities in this output format.
+Output entities in the order they occur in the input paragraph regardless of label.
+
+Q: Given the paragraph below, identify a list of entities that are giving an opinion, and for each entry explain why it is or is not an to be considered an entity who is giving an opinion:
+Paragraph: A. V. Route puts forward a number of arguments against the Diaries of Ludwig Van. Historian Mark Lalli regards the Diaries as indisputable in content, while rejecting the second copy of them as a forgery. Panorama later made a documentary with Alberto Angela about the discovery. The Diaries indeed reproduce the arguments that will be later be public in one of Ludwig speeches.[10]\n\nThat the Diaries are a falsification of a genuine letter, now lost, is the final opinion given by textual scholar Anne Duggan of King's College, London. Route's remaining concern disappeared after studying Duggan's work. 
+Answer:
+1. A. V. Route: COMMENTATOR | he/she is 'putting forward arguments'
+2. Ludwig Van: ==NONE== | because it is only mentioned as an entity
+3. Diaries: ==NONE== | because it is only the name of a document 
+4. Mark Lalli: COMMENTATOR | because it's the name of an historian who 'regards the Diaries as [...]'
+5. Panorama: ==NONE== | it's a newspaper, but in this context they are not expressing an opinion
+6. Alberto Angela: ==NONE== | only mentioned, not giving an opinion
+7. Ludwig: ==NONE== | only mentioned
+8. Anne Duggan: COMMENTATOR | because her opinion is reported
+9. King's College: ==NONE== | it's not giving an opinion, only mentioned
+10. Route: ==NONE== | he's referred to before with the most full name in the text (A.V.Route)
+11. Duggan: ==NONE== | she's referred to before with the most full name (Anne Duggan)
+{# whitespace #}
+{# whitespace #}
+{%- endif -%}
+Paragraph: {{ text }}
+Answer:

@@ -1,0 +1,78 @@
+{
+    "Mathilde Lefebvre": {
+        "is_expressing_opinion": false,
+        "opinion_evaluation": "null",
+        "opinion_evidence_provided": null,
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": null
+    },
+    "Nicolas Beaudry": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "suspicious",
+        "opinion_evidence_provided": [
+            {
+                "feature": "handwriting",
+                "completeness": null,
+                "consistency": false,
+                "presence": null,
+                "reliability": null,
+                "veridicality": null
+            }
+        ],
+        "opinion_reason": null,
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Paleographic analysis"
+        ]
+    },
+    "Coraline Hausenblas": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "identity theft",
+                "veridicality": true
+            }
+        ],
+        "opinion_reason": [
+            "attracting the attention and sympathy of the public"
+        ],
+        "opinion_document_author": null,
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Literary analysis"
+        ]
+    },
+    "Antoine Resche": {
+        "is_expressing_opinion": true,
+        "opinion_evaluation": "forgery",
+        "opinion_evidence_provided": [
+            {
+                "feature": "content",
+                "presence": false,
+                "consistency": false
+            },
+            {
+                "feature": "material support",
+                "presence": false
+            }
+        ],
+        "opinion_reason": [
+            "easier for forger to use city of origin"
+        ],
+        "opinion_document_author": [
+            "anonymous forger"
+        ],
+        "opinion_document_date": null,
+        "opinion_document_location": null,
+        "opinion_specific_perspective": [
+            "Historical analysis"
+        ]
+    }
+}
